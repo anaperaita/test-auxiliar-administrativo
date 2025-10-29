@@ -11,11 +11,11 @@ export default defineConfig(({ command }) => ({
       registerType: 'autoUpdate',
       includeAssets: ['logo.svg'],
       manifest: {
-        name: 'Visual Quiz - Módulos de Inversión',
-        short_name: 'Visual Quiz',
-        description: 'App de quiz inteligente para estudiar módulos de inversión',
-        theme_color: '#667eea',
-        background_color: '#f5f6fa',
+        name: 'Test Auxiliar Administrativo',
+        short_name: 'Test Admin',
+        description: 'App de test inteligente para estudiar el examen de Auxiliar Administrativo',
+        theme_color: '#2563eb',
+        background_color: '#ffffff',
         display: 'standalone',
         icons: [
           {

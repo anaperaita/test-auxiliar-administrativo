@@ -1,0 +1,1267 @@
+{
+  "module": "Tema 19",
+  "title": "Tema 19",
+  "totalQuestions": 90,
+  "questions": [
+    {
+      "id": "t19-1",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "La atención al ciudadano que regula los servicios de información administrativa de la administración de la comunidad de Castilla y León se encuentra contenida en:",
+      "options": [
+        "decreto 2/2003",
+        "ley 39/2015",
+        "estatuto de autonomía de cl",
+        "ley de atención al discapacitado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-2",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "La atención al ciudadano comprenderá las funciones de…",
+      "options": [
+        "recibimiento y orientación",
+        "información administrativa",
+        "recepción y registro de documentos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-3",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Según la normativa, las autoridades y funcionarios tienen el deber general",
+      "options": [
+        "tratar con respeto y deferencia a los ciudadanos",
+        "facilitar a los ciudadanos la atención precisa",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-4",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Es un derecho de los ciudadanos ante la administración: señale la respuesta incorrecta:",
+      "options": [
+        "a identificar a las autoridades y al personal al servicio de las administraciones públicas bajo cuya responsabilidad se tramiten los procedimientos",
+        "a utilizar las lenguas oficiales en el territorio de su comunidad autónoma, de acuerdo con lo previsto en el ordenamiento jurídico",
+        "al acceso a la información pública, archivos y registros",
+        "a tramitar las responsabilidades de las administraciones públicas y del personal a su servicio, cuando así corresponda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-5",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "El procedimiento para el ejercicio del derecho de acceso a la información pública se regula en el ámbito de la administración de Castilla y León mediante:",
+      "options": [
+        "ley 2/2003",
+        "decreto 7/2016",
+        "ley 3/2015",
+        "ley 39/20156.-"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-6",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "En el derecho de acceso a la información pública, contra las resoluciones expresas o presuntas en materia de acceso podrá interponerse…",
+      "options": [
+        "con carácter preceptivo, una reclamación ante la comisión de transparencia",
+        "con carácter facultativo, una reclamación ante la consejería competente en materia de presidencia",
+        "con carácter potestativo y posterior a la vía contencioso-adva, una reclamación ante la comisión de transparencia",
+        "con carácter potestativo y previo a la impugnación vía contencioso-adva, una reclamación ante comisión transparencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-7",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "En caso de reutilización de información pública, la resolución deberá de notificarse al solicitante en el plazo máximo, desde la recepción de la solicitud por el órgano competente para su tramitación:",
+      "options": [
+        "20 días",
+        "un mes",
+        "dos meses",
+        "tres meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-8",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "En la administración de Castilla y León, el procedimiento para el ejercicio del derecho de acceso a la información se iniciará…",
+      "options": [
+        "de oficio",
+        "a instancia de parte interesada con la correspondiente solicitud",
+        "a y b son correctas",
+        "de oficio, mediante denuncia, o por orden del órgano encargado de registro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-9",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "En las solicitudes de acceso a la información pública, Si la información objeto de la solicitud no estuviera en poder del órgano al que va dirigida, éste la remitirá, al competente, si lo conociera, para que resuelva lo que corresponda, informando al solicitante de esta circunstancia en el plazo de:",
+      "options": [
+        "15 días",
+        "20 días",
+        "30 días",
+        "10 días"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-10",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Cuando la solicitud de acceso a la información no cumpla los requisitos establecidos, se pedirá al solicitante que subsane las deficiencias detectadas en un plazo de diez días, con indicación de que, en caso de no hacerlo, se le tendrá por…",
+      "options": [
+        "inadmitido",
+        "incumplido",
+        "desistido",
+        "resuelto desestimatoriamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-11",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Si la información solicitada pudiera afectar a derechos o intereses de terceros que estén debidamente identificados, se les comunicará para que puedan realizar las alegaciones que estimen oportunas concediéndoles un plazo de:",
+      "options": [
+        "15 días",
+        "10 días",
+        "20 días",
+        "un mes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-12",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "La resolución de información habrá de ser notificada en el plazo máximo de",
+      "options": [
+        "un mes",
+        "quince días",
+        "20 días",
+        "10 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-13",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "En el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante el plazo de resolución podrá ser ampliado:",
+      "options": [
+        "un mes más",
+        "quince días más",
+        "10 días más",
+        "tres meses más"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-14",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Sobre la formalización del acceso a la información pública -señale la respuesta incorrecta-",
+      "options": [
+        "la puesta a disposición de la información solicitada se realizará simultáneamente a la notificación de la resolución",
+        "el acceso a la información se realizará obligatoriamente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio",
+        "el acceso a la información será gratuito",
+        "si la información que se solicita ya ha sido objeto de publicación, se resolverá informando al solicitante el lugar en el que se encuentra disponible e indicando cómo puede acceder a ella."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-15",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Los ciudadanos tienen derecho a formular quejas. La Administración autonómica dará respuesta por escrito a las quejas en un plazo máximo de",
+      "options": [
+        "15 días",
+        "un mes",
+        "dos meses",
+        "tres meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-16",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "El Decreto 13/2021 de 20 de mayo de la Administración de Castilla y León establece que las oficinas de asistencia autonómicas efectuarán la inscripción de apoderamientos realizados en comparecencia personal ….",
+      "options": [
+        "de carácter general y para todas las administraciones públicas",
+        "otorgados para todos o alguno de los procedimientos, trámites y actuaciones de competencia de la admón cl",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-17",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "La aplicación que da soporte a este servicio en la Administración de la Comunidad de Castilla y León, y que se encuentra disponible para los ciudadanos tanto “on line” desde la Sede Electrónica, como así también en las oficinas de asistencia en materia de registros se conoce como:",
+      "options": [
+        "@podera",
+        "@bastanteo",
+        "represent@",
+        "podercyl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-18",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Cuando la naturaleza de los procedimientos lo permita, la actuación de oficio sustituirá a la actuación a instancia de parte, a fin de no mantener cargas administrativas para el ciudadano que puedan ser asumidas por la propia Administración. Todo ello responde al derecho procedimental que denominamos:",
+      "options": [
+        "tratamiento objetivo",
+        "proactividad de la administración",
+        "legalidad",
+        "publicidad activa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-19",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "El derecho a formular sugerencias en la administración de Castilla y León lo tienen:",
+      "options": [
+        "los ciudadanos",
+        "el personal funcionario en exclusiva",
+        "el personal directivo en exclusiva",
+        "todas falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-20",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 1",
+      "question": "Ante peticiones colectivas de especial trascendencia para el interés público, el órgano competente de la Administración de Castilla y León convocará:",
+      "options": [
+        "a los firmantes o parte de los mismos a una comparecencia personal previa a la decisión que se adopte sobre la petición",
+        "a los órganos administrativos con competencia en la materia objeto de las peticiones que formulen los ciudadanos",
+        "a los consejos de dirección de los órganos administrativos capaces de resolver dichas peticiones ciudadanas",
+        "todas las respuestas son falsas TEMA 19. Test 1 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-21",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Son derechos de las personas en sus relaciones con las Administraciones Públicas (señale la respuesta falsa)",
+      "options": [
+        "a ser asistido en el uso de medios en sus relaciones con las administraciones públicas",
+        "a exigir responsabilidades de las administraciones públicas, y autoridades, cuando así corresponda legalmente",
+        "a la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuran en los ficheros, sistemas y aplicaciones de las Administraciones Públicas",
+        "a la obtención y utilización de los medios de identificación y firma electrónica contemplados en esta ley"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-22",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "La Ley 39/2015 establece los derechos de los interesados en un procedimiento administrativo en su artículo:",
+      "options": [
+        "53",
+        "43",
+        "64",
+        "63"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-23",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Las personas físicas no obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas podrán ejercitar su derecho a relacionarse electrónicamente con la Admón Pública de que se trate….",
+      "options": [
+        "siempre antes de la resolución de dicho procedimiento",
+        "en la fase de instrucción del procedimiento",
+        "siempre con anterioridad al trámite de audiencia",
+        "durante todas las fases del procedimiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-24",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Cuando el interesado comunique a la Administración su voluntad de tramitar electrónicamente su procedimiento, o bien de dejar de hacerlo, dicha comunicación tendrá efectos a partir de…",
+      "options": [
+        "3er día hábil siguiente a aquel en que el órgano que tramita el procedimiento haya tenido constancia de la misma",
+        "4º día hábil siguiente a aquel en que el órgano que tramita el procedimiento haya tenido constancia de la misma",
+        "5º día hábil siguiente a aquel en que el órgano que tramita el procedimiento haya tenido constancia de la misma",
+        "10ºdía hábil siguiente a aquel en que el órgano que tramita el procedimiento haya tenido constancia de la misma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-25",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "De acuerdo con lo establecido en la Ley 39/2015, la obligatoriedad de relacionarse electrónicamente podrá establecerse por las Administraciones Públicas para determinados procedimientos de modo:",
+      "options": [
+        "reglamentario",
+        "por vía de ley",
+        "por resolución del órgano administrativo que resuelve el determinado procedimiento",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-26",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Tiene por objeto fundamental regular y desarrollar el derecho a una buena Administración reconocido en el artículo 12 del Estatuto de Autonomía de Castilla y León:",
+      "options": [
+        "la ley 39/2015 del procedimiento administrativo común",
+        "la ley 40/2015 del régimen jurídico del sector público",
+        "la ley 2/2010, de 11 de marzo, de derechos de los ciudadanos en sus relaciones con la administración de la comunidad de castilla y león y de Gestión Pública",
+        "la ley 13/2009 de 15 de abril de funcionamiento de las administraciones y sus registros administrativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-27",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En el derecho a recibir información, el sistema de información contendrá toda la información de interés para los ciudadanos en sus relaciones con la Administración autonómica, presentándola de forma:",
+      "options": [
+        "integrada y sistematizada",
+        "actualizada",
+        "inteligible y accesible",
+        "todas correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-28",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En los derechos procedimentales de los ciudadanos recogidos en la ley de derechos de los ciudadanos en sus relaciones con la Administración de la Comunidad de CL se reconoce la proactividad de la Administración, pues:",
+      "options": [
+        "la administración de la comunidad, anticipándose a las necesidades de los ciudadanos, cuando sea posible, les facilitará la iniciación de procedimientos tendentes al reconocimiento de derechos y prestaciones reconocidos legalmente.",
+        "cuando la naturaleza de los procedimientos lo permita, la actuación de oficio sustituirá a la actuación a instancia de parte, a fin de no mantener cargas administrativas para el ciudadano que puedan ser asumidas por la propia Administración.",
+        "a y b son correctas",
+        "todas las respuestas son falsas. la proactividad se refiere a publicidad activa de la propia administración con los interesados siempre que éstos no tengan capacidad para tramitación electrónica de sus procedimientos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-29",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Son derechos procedimentales que recoge la Ley 2/2010 de derechos de los ciudadanos en sus relaciones con la Administración de la Comunidad de CL",
+      "options": [
+        "derecho a identificar a los responsables de la resolución del procedimiento",
+        "derecho a una resolución, que habrá de redactarse de forma clara y sencilla, salvo en el caso de que lo fuera presunta",
+        "derecho a notificación de cualquier resolución, ya sea expresa o presunta, y en el plazo máximo que ninguna ley, salvo acuerdo o reglamento de la Unión Europea, podrá superar los seis meses",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-30",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Los interesados aportarán al procedimiento administrativo",
+      "options": [
+        "los datos y documentos previstos en la normativa aplicable",
+        "los datos y documentos que estimen convenientes",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-31",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Los ciudadanos tienen derecho a formular quejas y en relación a dicha presentación:",
+      "options": [
+        "ésta no paralizará los plazos establecidos en la legislación básica estatal para la interposición de recursos administrativos",
+        "no condicionará en modo alguno el ejercicio de las restantes acciones o derechos que, de conformidad con la normativa reguladora de cada procedimiento, puedan ejercitar los interesados.",
+        "la administración autonómica dará respuesta por escrito a las quejas en un plazo máximo de tres meses.",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-32",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Cuando un ciudadano fuera indemnizado a consecuencia de responsabilidad patrimonial de la Administración autonómica, podrá solicitar:",
+      "options": [
+        "que se exija a las autoridades o empleados públicos la responsabilidad en que hubieran incurrido por dolo",
+        "que se exija a las autoridades o empleados públicos la responsabilidad en que hubieran incurrido por culpa",
+        "que se exija a las autoridades o empleados públicos la responsabilidad en que hubieran incurrido por negligencia grave",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-33",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Entre los derechos de participación de los ciudadanos, en relación a su administración autonómica se encuentra:",
+      "options": [
+        "derecho a ser consultados regularmente sobre su grado de satisfacción con los servicios públicos",
+        "derecho a participar en la elaboración, aplicación y evaluación de las políticas públicas de la administración autonómica",
+        "derecho a formular sugerencias en relación con el funcionamiento de los servicios públicos",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-34",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Los ciudadanos podrán hacer llegar a la Administración autonómica, al amparo y con sujeción al régimen del derecho de petición informaciones y estudios que puedan ser tenidos en cuenta en la gestión ordinaria de un sector de competencia administrativa.",
+      "options": [
+        "individualmente",
+        "colectivamente",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-35",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "El Derecho de acceso a documentos administrativos y reutilización de la información se regula en la Ley",
+      "options": [
+        "2/2010 de 11 de marzo, de derechos de los ciudadanos en sus relaciones con la comunidad de cl",
+        "3/2015 de 4 de marzo de transparencia y participación ciudadana de cl",
+        "c, 39/2016 de 11 de abril, de buen gobierno de la administración autonómica",
+        "40/2016 de 11 de junio, de relevancia jurídica en la tramitación y ordenación administrativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-36",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En el ámbito de la Administración de Castilla y León, contra las resoluciones expresas o presuntas en materia de acceso podrá interponerse, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa",
+      "options": [
+        "reclamación económico-administrativa",
+        "reclamación administrativa ante el juzgado de lo social",
+        "reclamación ante la comisión de transparencia",
+        "recurso precio contencioso administrativo ante el titular advo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-37",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Los documentos de la Administración General de la Comunidad publicados en el Portal de Gobierno Abierto serán reutilizables con sujeción a las condiciones relacionadas en la norma, salvo licencia establecida por el órgano que haya generado la documentación. De estas condiciones es correcto señalar:",
+      "options": [
+        "que el contenido de la información no sea alterado",
+        "que se desnaturalice el contenido de la información",
+        "que no se cite la fuente",
+        "que no se mencione la fecha de la última actualización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-38",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Las solicitudes de reutilización de la información pública en la Administración de CL habrán de ser resueltas y notificadas al solicitante en el plazo máximo de:",
+      "options": [
+        "un mes desde la recepción de la solicitud por el órgano competente para su tramitación.",
+        "un mes desde la presentación de la solicitud por el órgano competente para su iniciación",
+        "un mes desde la publicación de la solicitud en el boletín oficial de castilla y león",
+        "tres meses desde la recepción de la solicitud por el órgano competente para su tramitación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-39",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En las solicitudes de acceso a la información, la inadmisión de las mismas …",
+      "options": [
+        "pone fin al procedimiento",
+        "habrá de ser motivada",
+        "podrá dictarse si concurre causa prevista en la normativa en materia de transparencia",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-40",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En las solicitudes de acceso a la información las alegaciones a terceros que estén debidamente identificados habrán de serles comunciadas a los mismos, y se les concederá para que puedan realizar alegaciones un plazo de:",
+      "options": [
+        "10 días",
+        "15 días",
+        "20 días",
+        "25 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-41",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "La resolución de las solicitudes de acceso a la información pública habrán de resolverse en plazo de:",
+      "options": [
+        "un mes",
+        "dos meses",
+        "tres meses",
+        "seis meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-42",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Es uno de los objetivos fundamentales perseguidos por el Real Decreto 203/2021 que aprueba el reglamento de actuación y funcionamiento del sector público por medios electrónicos:",
+      "options": [
+        "mejorar la eficiencia administrativa para conseguir un administración totalmente electrónica e interconectada,",
+        "incrementar la transparencia y la participación de las personas en la administración electrónica",
+        "garantizar servicios digitales fácilmente utilizables, intuitivos y efectivos y mejorar la seguridad jurídica",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-43",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León se regulan en la actualidad:",
+      "options": [
+        "mediante decreto de la junta; decreto 13/2021 de 20 de mayo",
+        "mediante ley 3/2015 de las cortes de castilla y león",
+        "mediante la ley 2/2010 de derechos del ciudadano en cl",
+        "mediante orden de la consejería de presidencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-44",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En las distintas administraciones el registro de cada una de ellas donde aparecen los funcionarios habilitados para la identificación o firma del ciudadano habrá de, al menos, contar entre ellos con:",
+      "options": [
+        "secretarías particulares de altos cargos",
+        "secretarías particulares o generales de órganos superiores",
+        "funcionarios que presten servicios en las oficinas de asistencia en materia de registros",
+        "alcaldes y presidentes de corporaciones locales, y cargos directivos del resto de administraciones territoriales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-45",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Uno de los presentados a continuación no constituye canal de asistencia para el acceso a los servicios electrónicos de las administraciones públicas, según el R.D.203/2021 de 30 de marzo:",
+      "options": [
+        "redes sociales",
+        "telefónico",
+        "correo postal",
+        "portales de internet y sedes electrónicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-46",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "La solicitud electrónica pueda llegar a ser válidamente realizada por un funcionario público que se identifique y firme en sustitución del interesado…",
+      "options": [
+        "previa identificación del mismo dejando debida constancia",
+        "previo consentimiento expreso del ciudadano del que se dejará la oportuna constancia",
+        "a y b son correctas",
+        "en ningún caso puede realizar un funcionario una solicitud en nombre de un ciudadano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-47",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "La aplicación que da soporte en asistencia electrónica en materia de registros y está al servicio en la Admón de Castilla y León, y que se desplegó en producción el pasado día 29 de marzo de 2021 aparece con las siglas:",
+      "options": [
+        "are",
+        "ide",
+        "ens",
+        "regcyl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-48",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "El reglamento que aprueba el R.D,203/2021 de 30 de marzo establece que cuando una administración haya de registrar un documento cuya capacidad exceda a la que se determine en el S.I.R. su remisión a la Administración u órgano al que van dirigidos podrá sustituirse por:",
+      "options": [
+        "puesta a disposición de los documentos en papel al ciudadano en un lugar determinado de dicha administración",
+        "puesta a disposición de los documentos en papel a la administración que los solicitare, en documentos debidamente foliados",
+        "puesta a disposición de los documentos previamente depositados en un repositorio de intercambio de ficheros",
+        "puesta a disposición de los documentos, debidamente digitalizados, en un notario o funcionario público designado al efecto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-49",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "Cuando un interesado presentare una solicitud presencialmente en vez de hacerlo electrónicamente, estando obligado a hacerlo de ésta última forma…",
+      "options": [
+        "las administraciones requerirán al interesado para que subsane a través de su presentación electrónica",
+        "se le advertirá que, de volver a tramitar presencialmente debiendo hacerlo de otro modo, será inadmitida la solicitud",
+        "se le advertirá de la pérdida y decaimiento de sus derechos, dado que la presentación no surte efecto",
+        "se requiere al interesado, éste la presenta electrónicamente, y la fecha de solicitud primaria es la considerada con efecto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-50",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 2",
+      "question": "En el caso de que las Administraciones Públicas hayan determinado los formatos y estándares a los que deberán ajustarse los documentos presentados por el interesado, si éste incumple dicho requisito…",
+      "options": [
+        "en cualquier trámite se le requerirá para que subsane el defecto en plazo de 5 días, advirtiéndole que de no hacerlo se le podrá declarar decaído en el derecho al trámite correspondiente",
+        "en cualquier trámite se le requerirá para que subsane el defecto en plazo de 5 días, advirtiéndole que de no hacerlo se le declarará automáticamente decaído en el derecho al expediente correspondiente",
+        "en cualquier trámite o actuación se le requerirá para que subsane el defecto en plazo de 10 días, advirtiéndole que de no hacerlo se le podrá declarar admitido en el derecho al procedimiento correspondiente",
+        "en cualquier trámite o actuación que no sea una solicitud de iniciación del interesado se le requerirá para que subsane el defecto en plazo de 10 días, advirtiéndole que de no hacerlo se le podrá declarar decaído en el derecho al trámite correspondiente TEMA 19. Test 2 SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-51",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Los derechos de las personas en sus relaciones con las administraciones públicas se recogen en la Ley 39/2015 del PAC en su artículo:",
+      "options": [
+        "3",
+        "13",
+        "33",
+        "53"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-52",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La Ley que regula en Castilla y León entre otros el derecho de los ciudadanos a una buena administración es:",
+      "options": [
+        "ley 2/2010",
+        "ley 3/2013",
+        "ley 39/2009",
+        "l.o. 14/2007"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-53",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Los ciudadanos podrán dirigirse a ventanillas únicas para acceder a informaciones, trámites y servicios públicos determinados…",
+      "options": [
+        "por acuerdos de la administración autonómica con otras instituciones",
+        "por acuerdos de la administración autonómica con otras administraciones públicas",
+        "por acuerdos de la administración autonómica con otras entidades sociales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-54",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Uno de los derechos relacionados a continuación está bien expresado a tenor de lo que establece la normativa:",
+      "options": [
+        "los ciudadanos tienen derecho a que la administración autonómica, ante sus peticiones, solicitudes o reclamaciones, dicte resolución expresa y motivada",
+        "los ciudadanos tienen derecho a que la administración autonómica les notifique resolución expresa de los procedimientos en los que tengan condición de interesados en el plazo máximo previsto en sus normas reguladoras o, en su defecto, en el plazo máximo de seis meses",
+        "cuando la naturaleza de los procedimientos lo permita, la actuación a instancia de parte sustituirá a la actuación de oficio para poder facilitar al ciudadano su derecho a recurso",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-55",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "En el derecho de acceso a la información en el ámbito de la Administración de Catilla y León:",
+      "options": [
+        "su regulación se hace mediante decreto de la junta de cl, y su desarrollo mediante orden de la consejería competente en materia de función pública",
+        "su regulación se efectúa por ley, y más concretamente en la ley 3/2015 de transparencia y participación ciudadana de castilla y león",
+        "contra las resoluciones expresas o presuntas en materia de acceso habrá de interponerse de modo preceptivo reclamación ante la comisión de transparencia",
+        "las autoridades administrativas encargadas de otorgar acceso a la información serán el titular respectivo de cada consejería cuando se traten de documentos con una antigüedad inferior a cinco años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-56",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La competencia para resolver las solicitudes de reutilización de la información pública corresponde",
+      "options": [
+        "los órganos competentes para resolver las solicitudes de acceso a la información",
+        "los órganos competentes para instruir las solicitudes de acceso a la información",
+        "los órganos competentes para resolver los recursos interpuestos a las solicitudes de acceso a la información",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-57",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La solicitud de acceso a la información será inadmitida",
+      "options": [
+        "de forma motivada",
+        "de forma presunta",
+        "pero no pondrá fin al procedimiento",
+        "sólo de forma oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-58",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La resolución de acceso a la información habrá de notificarse en el plazo concreto que establece la normativa. Dicho plazo podrá ampliarse en el caso de que el volumen o la complejidad de la información que se solicite así lo hagan necesario y previa notificación al solicitante. Dicha ampliación será de:",
+      "options": [
+        "10 días",
+        "20 días",
+        "un mes",
+        "tres meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-59",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "El plazo en que la administración de CL habrá de dar respuesta a las quejas será de un máximo de:",
+      "options": [
+        "4 meses",
+        "3 meses",
+        "2 meses",
+        "1 mes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-60",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Están obligados a relacionarse a través de medios electrónicos con las administraciones públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos alguno de estos sujetos:",
+      "options": [
+        "personas jurídicas",
+        "entidades con personalidad jurídica",
+        "entidades sin personalidad jurídica",
+        "todos los anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-61",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La atención al ciudadano que regula los servicios de información administrativa de la administración de la comunidad de Castilla y León se encuentra contenida en:",
+      "options": [
+        "decreto 2/2003",
+        "ley 39/2015",
+        "estatuto de autonomía de cl",
+        "ley de atención al discapacitado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-62",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "La atención al ciudadano comprenderá las funciones de…",
+      "options": [
+        "recibimiento y orientación",
+        "información administrativa",
+        "recepción y registro de documentos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-63",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Según la normativa, las autoridades y funcionarios tienen el deber general",
+      "options": [
+        "tratar con respeto y deferencia a los ciudadanos",
+        "facilitar a los ciudadanos la atención precisa",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-64",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Es un derecho de los ciudadanos ante la administración: señale la respuesta incorrecta:",
+      "options": [
+        "a identificar a las autoridades y al personal al servicio de las administraciones públicas bajo cuya responsabilidad se tramiten los procedimientos",
+        "a utilizar las lenguas oficiales en el territorio de su comunidad autónoma, de acuerdo con lo previsto en el ordenamiento jurídico",
+        "al acceso a la información pública, archivos y registros",
+        "a tramitar las responsabilidades de las administraciones públicas y del personal a su servicio, cuando así corresponda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-65",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "El derecho de acceso a documentos administrativos y reutilización de la información se regula en el ámbito de la administración de Castilla y León mediante:",
+      "options": [
+        "ley 2/2003",
+        "decreto 47/2008",
+        "ley 3/2015",
+        "ley 39/2015"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-66",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "En el derecho de acceso a la información pública, contra las resoluciones expresas o presuntas en materia de acceso podrá interponerse…",
+      "options": [
+        "con carácter preceptivo, una reclamación ante la comisión de transparencia",
+        "con carácter facultativo, una reclamación ante la consejería competente en materia de presidencia",
+        "con carácter potestativo y posterior a la vía contencioso-adva, una reclamación ante la comisión de transparencia",
+        "con carácter potestativo y previo a la impugnación vía contencioso-adva, una reclamación ante comisión transparencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-67",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "En caso de reutilización de información pública, la resolución deberá de notificarse al solicitante en el plazo máximo, desde la recepción de la solicitud por el órgano competente para su tramitación:",
+      "options": [
+        "20 días",
+        "un mes",
+        "dos meses",
+        "tres meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-68",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "En la administración de Castilla y León, el procedimiento para el ejercicio del derecho de acceso a la información se iniciará…",
+      "options": [
+        "de oficio",
+        "a instancia de parte interesada con la correspondiente solicitud",
+        "a y b son correctas",
+        "de oficio, mediante denuncia, o por orden del órgano encargado de registro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-69",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "En las solicitudes de acceso a la información pública, Si la información objeto de la solicitud no estuviera en poder del órgano al que va dirigida, éste la remitirá, al competente, si lo conociera, para que resuelva lo que corresponda, informando al solicitante de esta circunstancia en el plazo de:",
+      "options": [
+        "15 días",
+        "20 días",
+        "30 días",
+        "10 días"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-70",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 3",
+      "question": "Cuando la solicitud de acceso a la información no cumpla los requisitos establecidos, se pedirá al solicitante que subsane las deficiencias detectadas en un plazo de diez días, con indicación de que, en caso de no hacerlo, se le tendrá por…",
+      "options": [
+        "inadmitido",
+        "incumplido",
+        "desistido",
+        "resuelto desestimatoriamente TEMA 19. Test 3 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-71",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Si la información solicitada pudiera afectar a derechos o intereses de terceros que estén debidamente identificados, se les comunicará para que puedan realizar las alegaciones que estimen oportunas concediéndoles un plazo de:",
+      "options": [
+        "15 días",
+        "10 días",
+        "20 días",
+        "un mes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-72",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "La resolución de información habrá de ser notificada en el plazo máximo de",
+      "options": [
+        "un mes",
+        "quince días",
+        "20 días",
+        "10 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-73",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "En el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante el plazo de resolución podrá ser ampliado:",
+      "options": [
+        "un mes más",
+        "quince días más",
+        "10 días más",
+        "tres meses más"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-74",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Sobre la formalización del acceso a la información pública -señale la respuesta incorrecta-",
+      "options": [
+        "la puesta a disposición de la información solicitada se realizará simultáneamente a la notificación de la resolución",
+        "el acceso a la información se realizará obligatoriamente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio",
+        "el acceso a la información será gratuito",
+        "si la información que se solicita ya ha sido objeto de publicación, se resolverá informando al solicitante el lugar en el que se encuentra disponible e indicando cómo puede acceder a ella."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-75",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Los ciudadanos tienen derecho a formular quejas. La Administración autonómica dará respuesta por escrito a las quejas en un plazo máximo de",
+      "options": [
+        "15 días",
+        "un mes",
+        "dos meses",
+        "tres meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-76",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "En él han de constar todos aquellos empleados públicos de cada Administración, con la condición de funcionarios, a los que se les encomiende la asistencia electrónica, así como de aquéllos autorizados para la expedición de copias auténticas",
+      "options": [
+        "registro de funcionarios habilitados",
+        "registro de apoderamientos",
+        "registro de actividades sometidas a control",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-77",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Los poderes inscritos en el registro de apoderamientos tendrán una validez determinada máxima de:",
+      "options": [
+        "5 años",
+        "4 años",
+        "3 años",
+        "3 años renovables 2 años más"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-78",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Las notificaciones habrán de efectuarse preferentemente por medios electrónicos. No obstante, podrán practicarse las notificaciones por medios no electrónicos en los siguientes supuestos: -señale la correcta-",
+      "options": [
+        "en él han de constar todos aquellos empleados públicos de cada administración, con la condición de funcionarios, a los que se les encomiende la asistencia electrónica, así como de aquéllos autorizados para la expedición de copias auténticas",
+        "cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante",
+        "a y b son correctas",
+        "todas son falsas. no existe excepción a la obligación de realizar las notificaciones con carácter electrónico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-79",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Cuando el interesado o su representante rechace la notificación de una actuación administrativa",
+      "options": [
+        "se hará constar en el expediente y se tendrá por desistido al interesado en dicho procedimiento",
+        "se hará constar en el expediente y se entenderá que el interesado renuncia a la resolución del expediente",
+        "se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-80",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "En el ámbito autonómico, la Ley 3/1998, de 24 de junio, de accesibilidad y supresión de barreras, ya recogió una serie de disposiciones relativas a la accesibilidad y supresión de barreras en los edificios de uso público. Así, se establece que -señale la respuesta NO correcta-:",
+      "options": [
+        "los espacios y dependencias de uso público, tanto exteriores como interiores, de los edificios habrán de ser accesibles y utilizables en condiciones de seguridad cómodamente por personas con discapacidad y especialmente por aquellas con movilidad reducida y dificultades sensoriales",
+        "la administración de la comunidad autónoma de castilla y león elaborará un plan de actuación para la gradual adaptación de estos edificios, establecimientos e instalaciones ya existentes y no accesibles, que habrá de estar concluso en abril de 2021",
+        "existirá, al menos, un acceso al interior de la edificación debidamente señalizado, que deberá estar desprovisto de barreras y obstáculos que impidan o dificulten la accesibilidad",
+        "los edificios, establecimientos e instalaciones que estén obligados por las disposiciones vigentes a contar con aseos, vestuarios o duchas de uso público, deberán disponer cuando menos de uno accesible."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-81",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Elaborada la carta de servicios de la administración de CL las oficinas de asistencia involucradas en la cara elaborarán un informe en el que evaluarán, con carácter general el tratamiento dado a las sugerencias y quejas recibidas, y en particular las medidas correctoras adoptadas en relación con ellos. Dicho informe será con carácter:",
+      "options": [
+        "semestral",
+        "anual",
+        "trimestral",
+        "mensual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-82",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León podrán realizar una notificación o comunicación a solicitud de la persona interesada, o de su representante en comparecencia espontánea en sus dependencias….",
+      "options": [
+        "siempre que no esté obligado a relacionarse electrónicamente con las administraciones públicas",
+        "siempre que así lo solicite el interesado, independientemente de su obligación de relación por medios electrónicos",
+        "siempre, pero sólo cuando se acredite la condición de interesado y titular de la empresa, no pudiendo hacerlo con los representantes de la misma",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-83",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "La persona responsable del contenido, autenticidad, validez o suficiencia de la documentación presentada por la persona interesada en el trámite o actuación para el que haya sido requerida su intervención será:",
+      "options": [
+        "la persona funcionaria habilitada para coger la documentación que se le ha solicitado al interesado",
+        "el órgano administrativo instructor del procedimiento correspondiente",
+        "el superior jerárquico del órgano instructor del procedimiento de que se trate",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-84",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Las oficinas autonómicas de asistencia en materia de registros proporcionarán información en materia de identificación y firma electrónica a las personas…",
+      "options": [
+        "obligadas a relación electrónica que así lo soliciten para presentar solicitudes, escritos y comunicaciones a través de medios electrónicos",
+        "no obligadas a relación electrónica que así lo soliciten para presentar solicitudes, escritos y comunicaciones a través de medios electrónicos",
+        "no obligadas a relación electrónica, soliciten o no la presentación de solicitudes, escritos y comunicaciones a través de medios presenciales",
+        "obligadas a relación electrónica que así lo soliciten para presentar solicitudes, escritos y comunicaciones a través de medios presenciales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-85",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "En relación a los apoderamientos presentados en la administración de Castilla y León, la persona apoderada podrá aceptar el apoderamiento otorgado en su favor, si es preciso, así como renunciar al mismo…",
+      "options": [
+        "en comparecencia personal",
+        "en comparecencia obligatoriamente electrónica",
+        "en comparecencia a través de representante jurídico exclusivamente",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-86",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Las copias auténticas serán expedidas….",
+      "options": [
+        "por las oficinas de asistencia en materia de registros, obligatoriamente",
+        "por las oficinas donde se instruyen los expedientes de que se trate, obligatoriamente",
+        "por los órganos administrativos resolutorios de los expedientes en que se encuentren, obligatoriamente",
+        "por los órganos administrativos titulares de la competencia para emitir el documento del que se trata de hacer la copia auténtica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-87",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "No serán objeto de registro, según el decreto en uso de la Administración de Castilla y León:",
+      "options": [
+        "los documentos redactados en otra lengua cuando su falta de comprensión imposibilite la realización de la inscripción registral, salvo que acompañen traducción al castellano",
+        "los documentos de naturaleza publicitaria con carácter general",
+        "las comunicaciones que se realicen entre unidades administrativas de la admón cl, una vez dispongan de la plataforma de comunicaciones electrónicas corporativas",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-88",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "Deben registrarse de salida, por parte de la oficina que preste asistencia en el respectivo ámbito, los documentos oficiales dirigidos",
+      "options": [
+        "particulares",
+        "otros órganos públicos",
+        "otros organismos públicos",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-89",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "En ningún caso tendrán la condición de registro",
+      "options": [
+        "los buzones de correo electrónico corporativo asignado al personal empleado público",
+        "los buzones de correo electrónico corporativo asignado a los órganos administrativos",
+        "los dispositivos de recepción de fax no integrados con el registro con carácter habitual",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t19-90",
+      "superblock": "Tema 19",
+      "subblock": "TEMA 19. Test 4",
+      "question": "El presente decreto tiene por objeto regular la organización y funcionamiento homogéneos de la asistencia presencial a la ciudadanía en la Administración de la Comunidad de Castilla y León, a través de",
+      "options": [
+        "oficinas de asistencia en materia de registros",
+        "oficinas de información administrativa",
+        "oficinas de información y asesoramiento culturales",
+        "todas las respuestas anteriores son falsas TEMA 19. Test 4 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

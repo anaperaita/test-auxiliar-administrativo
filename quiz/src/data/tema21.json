@@ -1,0 +1,959 @@
+{
+  "module": "Tema 21",
+  "title": "Tema 21",
+  "totalQuestions": 68,
+  "questions": [
+    {
+      "id": "t21-1",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El flujo incremental de información oportuna y confiable de carácter económico, social y político, accesible a todos los actores relevante, información que en el ámbito de lo público, debe permitir evaluar a las instituciones que la aportan y formar opiniones racionales y bien sustentadas a quienes deciden o participan en la decisión, es la definición de:",
+      "options": [
+        "buen gobierno",
+        "transparencia",
+        "efectividad administrativa",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-2",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La publicidad activa en el ámbito de la administración de CL, así como la participación ciudadana en los asuntos públicos se efectuará mediante:",
+      "options": [
+        "a portal de seguridad administrativa",
+        "portal de seguridad abierto a los ciudadanos de cl",
+        "portal de gobierno abierto",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-3",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "En España el ente público que goza de total independencia y que se encarga de velar por el cumplimiento de la Ley Orgánica de Protección de Datos:",
+      "options": [
+        "agencia española de informática",
+        "agencia española de protección informática",
+        "agencia española de protección de datos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-4",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La Ley de transparencia y buen gobierno de 9 de diciembre (Ley 19/2013) es de carácter…",
+      "options": [
+        "voluntario para la administración del estado, pero obligatorio cumplimiento en las comunidades autónomas",
+        "básico en casi todo su articulado, en el ejercicio de las competencias exclusivas del estado, sin perjuicio de que las ccaa en ejercicio de sus competencias, puedan desarrollar esta materia con respeto a la normativa básica",
+        "exclusivo del estado, que sólo le corresponde a él dictarla, desarrollarla y ejecutarla, así como inspeccionarla, dada la exclusividad de esta competencia",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-5",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La publicación de información por parte de los sujetos obligados a ello, para garantizar la transparencia relacionada con el buen funcionamiento y la actividad pública es….",
+      "options": [
+        "publicidad activa",
+        "buen gobierno",
+        "gobierno activo",
+        "publicidad gubernativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-6",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El plazo máximo para dictar la resolución y notificarla en la solicitud de acceso a la información pública es:",
+      "options": [
+        "10 días",
+        "20 días",
+        "un mes",
+        "3 meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-7",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "En la Administración General del Estado, la transparencia y participación ciudadana, respecto de la citada se regula:",
+      "options": [
+        "por decreto de la junta",
+        "por decreto del presidente de la junta",
+        "por ley, que desarrolla la normativa básica del estado español",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-8",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El derecho a la protección de datos de carácter personal ….",
+      "options": [
+        "es un derecho fundamental recogido en la constitución",
+        "es un derecho fundamental recogido en el estatuto de cl",
+        "es un derecho establecido en la ley de buen gobierno",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-9",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El conjunto organizado de datos de carácter personal, cualquiera que fuere la modalidad o forma de su creación, almacenamiento, organización y acceso se denomina:",
+      "options": [
+        "dato",
+        "dato de carácter personal",
+        "registro",
+        "fichero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-10",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La persona física o jurídica que trate datos personales por cuenta del responsable del tratamiento se conoce como.",
+      "options": [
+        "fuente de público",
+        "responsable de seguridad",
+        "encargado del tratamiento",
+        "encargado de registro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-11",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El nombramiento del presidente del Consejo de Transparencia será a propuesta de:",
+      "options": [
+        "ministro de relaciones con las cortes",
+        "presidente del gobierno",
+        "congreso de diputados",
+        "ministro de hacienda y administraciones públicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-12",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El Consejo de Transparencia y Buen Gobierno elevará anualmente una memoria sobre el desarrollo de sus actividades a:",
+      "options": [
+        "cortes generales",
+        "senado",
+        "gobierno",
+        "congreso de los diputados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-13",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El plazo para resolver una solicitud de acceso a la información administrativa podrá ser ampliado por un tiempo de:",
+      "options": [
+        "un mes",
+        "15 días",
+        "10 días",
+        "3 meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-14",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La Ley de transparencia y buen gobierno será aplicable también, en lo que se refiere a las disposiciones del capítulo segundo de la misma (publicidad activa) según la misma, a:",
+      "options": [
+        "partidos políticos",
+        "organizaciones sindicales",
+        "organizaciones empresariales",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-15",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La reclamación ante el consejo de transparencia y buen gobierno:",
+      "options": [
+        "tiene la consideración sustitutiva de recurso",
+        "tiene carácter potestativo",
+        "es previa a su impugnación ante el contencioso-advo",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-16",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El listado de tratamientos de datos de carácter personal que se efectúan por la Administración Autonómica se denomina normativamente:",
+      "options": [
+        "inventario de bienes de datos",
+        "inventario de actividades de tratamiento",
+        "relación de protección de datos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-17",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "En una solicitud de información, la resolución que decida sobre el derecho de acceso deberá determinar:",
+      "options": [
+        "si se inadmita la solicitud",
+        "si se concede la solicitud",
+        "si se deniega el acceso",
+        "todas las respuestas son correctas y se complementan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-18",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "El acceso a parte de la información, sólo a la información que no se vea afectada por la aplicación de alguno de los límites se denomina:",
+      "options": [
+        "acceso parcial",
+        "acceso global",
+        "acceso inadmitido",
+        "acceso incompleto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-19",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "Cuando una solicitud de información se concede en cuanto a su acceso se opta por la modalidad, de modo preferentemente…",
+      "options": [
+        "escrita",
+        "oral",
+        "electrónica",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-20",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 1",
+      "question": "La Comunidad Autónoma de Castilla y León, en el ejercicio de sus competencias, desarrolla la norma básica estatal de transparencia y buen gobierno a través de la Ley",
+      "options": [
+        "ley 2/2010",
+        "ley 17/2007",
+        "ley 3/2015",
+        "ley 7/2005 TEMA 21. Test 1 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-21",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "En el ámbito de la publicidad activa, la normativa autonómica de CL amplia el objeto de la ley 19/2013 estatal; uno de dichos ámbitos es:",
+      "options": [
+        "relaciones depuestos de trabajo, plantillas de personal o instrumentos análogos",
+        "puestos de personal funcionario, con indicación del importe de sus complementos",
+        "pactos individuales con el personal laboral que lleven consigo contratos de tipo individualizado con características del mismo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-22",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "La participación ciudadana, según la normativa de Castilla y León, podrá referirse a través del portal de gobierno abierto a.",
+      "options": [
+        "proyectos de decreto",
+        "anteproyectos de ley",
+        "estrategias",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-23",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Las resoluciones dictadas en materia de acceso a la información pública son recurribles …",
+      "options": [
+        "en revisión, ante la propia administración",
+        "en alzada, ante la propia administración",
+        "directamente, ante la jurisdicción contencioso-adva",
+        "son irrecurribles, y por tanto firmes en todas las vías"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-24",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "El acceso a la información se realizará preferentemente por vía…",
+      "options": [
+        "electrónica",
+        "telemática",
+        "presencial",
+        "on-line"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-25",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "El acceso a la información pública, a efectos de tasas, pagos o exacciones, será…",
+      "options": [
+        "gratuito",
+        "abonado por vía online",
+        "ingresado en hacienda",
+        "abonado sólo en caso excepcional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-26",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Uno de los siguientes no puede considerarse un límite de acceso a la información pública:",
+      "options": [
+        "la política económica y monetaria",
+        "la seguridad nacional y la defensa",
+        "la protección del medio ambiente",
+        "la prevención, investigación, y sanción de los lícitos penales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-27",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Son principios generales de buen gobierno",
+      "options": [
+        "transparencia en la gestión de los asuntos públicos",
+        "respetarán el principio de imparcialidad",
+        "mantendrán una conducta digna y tratarán a los ciudadanos con esmerada corrección",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-28",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "La prescripción de las faltas en materia de transparencia y buen gobierno, para el caso de las faltas graves, será de:",
+      "options": [
+        "5 años",
+        "4 años",
+        "3 años",
+        "2 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-29",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "En la comisión de transparencia y buen gobierno hay, entre otros…",
+      "options": [
+        "un senador y dos diputados",
+        "un representante del ministerio fiscal",
+        "un representante del defensor del pueblo",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-30",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado para un período de:",
+      "options": [
+        "5 años, no renovable",
+        "5 años renovables",
+        "9 años, renovables un solo mandato más",
+        "3 años, renovables 3 años más"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-31",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "El Consejo de Transparencia y Buen gobierno se regula en la ley en su título:",
+      "options": [
+        "preliminar",
+        "primero",
+        "segundo",
+        "tercero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-32",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Tienen derecho al acceso a información pública, según lo previsto en el artículo 105 de la Constitución Española:",
+      "options": [
+        "todas las personas",
+        "los interesados y terceros que pudieran personarse en el procedimiento",
+        "todos los administrados",
+        "los interesados en el correspondiente procedimiento administrativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-33",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Es objeto de la Ley 19/2013:",
+      "options": [
+        "ampliar y reforzar la transparencia de la actividad pública",
+        "regular y garantizar el derecho de acceso a la información relativa a la actividad pública",
+        "establecer las obligaciones de buen gobierno de los responsables públicos, y las consecuencias en caso de incumplimiento de ello",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-34",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "En el ámbito subjetivo de aplicación de esta norma se encuentra:",
+      "options": [
+        "administración general del estado",
+        "administración de las comunidades autónomas",
+        "entidades que integran la administración local",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-35",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Las futuras normas publicadas en su momento para participación ciudadana habrán de 4star publicadas durante al menos:",
+      "options": [
+        "10 días hábiles",
+        "15 días hábiles",
+        "10 días naturales",
+        "15 días naturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-36",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "En la información económica, presupuestaria y estadística los sujetos están obligados a hacer públicas, como mínimo….",
+      "options": [
+        "las subvenciones y ayudas públicas concedidas, con indicación de su importe, objetivo o finalidad y beneficiarios",
+        "los presupuestos, con descripción de principales partidas presupuestarias",
+        "a y b son respuestas correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-37",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de algunos de los sujetos incluidos en el ámbito de aplicación de la norma, y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones se entienden como:",
+      "options": [
+        "expediente administrativo",
+        "procedimiento",
+        "información pública",
+        "protección de datos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-38",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "La solicitud de acceso a la información pública podrá presentarse por….",
+      "options": [
+        "cualquier medio que permita tener constancia, entre otros, de la identidad del solicitante",
+        "cualquier medio que permita tener constancia, entre otros, de la dirección de contacto a efectos de comunicaciones",
+        "cualquier medio que permita tener constancia, entre otros, de a información que se solicita",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-39",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "Cuando una solicitud de información no identifique de forma suficiente la información que se solicita, se pide al solicitante que la concrete, dándole para ello un plazo de…",
+      "options": [
+        "10 días",
+        "15 días",
+        "30 días",
+        "un mes, a contar desde la formulación de la solicitud"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-40",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 2",
+      "question": "La resolución de una solicitud de información en que se conceda o deniegue el acceso deberá notificarse a los interesados y terceros afectados que sí lo hayan solicitado en el plazo máximo, desde la recepción de la solicitud por el órgano competente para resolver:",
+      "options": [
+        "10 días",
+        "15 días",
+        "un mes",
+        "20 días TEMA 21. Test 2 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-41",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El Personal de la Administración de la Comunidad de CL deberá colaborar en la implementación de la PSIPD y cumplir lo previsto. Dicho personal tiene, entre otras obligaciones en relación a la protección de datos personales:",
+      "options": [
+        "utilizar los datos únicamente para los fines para los cuales han sido recabados",
+        "divulgar las contraseñas de acceso a los sistemas y aplicaciones informáticas que contengan datos de carácter personal",
+        "acceder a los datos personales y utilizar los datos en relación a las peticiones privadas o públicas que les sean recabadas",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-42",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El órgano colegiado de impulso, seguimiento y coordinación interna en materia de seguridad de la información en el ámbito regional de Castilla y León es:",
+      "options": [
+        "consejería de transformación digital",
+        "consejería de movilidad y transformación digital",
+        "junta de castilla y león",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-43",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El Esquema Nacional de Seguridad fue aprobado en nuestro país mediante:",
+      "options": [
+        "ley orgánica",
+        "ley de bases",
+        "ley ordinaria",
+        "real decreto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-44",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El deber de secreto de los empleados públicos respecto de los datos y materias clasificadas u otras cuya difusión esté prohibida legalmente se recoge en la normativa específicamente:",
+      "options": [
+        "en el ebep, y se recoge como un principio ético",
+        "en la ley orgánica de protección de datos",
+        "en la ley de función pública de cl, como un deber inexcusable",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-45",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Los empleados públicos, en relación al uso de dispositivos digitales puestos a su disposición, y frente al uso de dispositivos de videovigilancia y geolocalización, tienen:",
+      "options": [
+        "derecho a la intimidad",
+        "derecho al no uso de los mismos",
+        "deber de identificación pública en su uso",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-46",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "La autoridad de control independiente que vela por el cumplimiento de la legislación en materia de protección de datos en el Estado español:",
+      "options": [
+        "comité de seguridad de la información",
+        "agenda española de protección de la intimidad personal",
+        "agencia española de protección de datos",
+        "ministerio de ciencia y tecnología e intercambio digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-47",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Los interesados pueden solicitar la recuperación de los datos personales que estén siendo tratados de forma automatizada por un determinado responsable a fin de trasladarlos a otro responsable elegido por el interesado en relación al derecho:",
+      "options": [
+        "derecho de oposición",
+        "derecho de oposición y decisiones individualizadas",
+        "derecho de portabilidad de los datos",
+        "derecho a la limitación del tratamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-48",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "A la base jurídica mediante la que se pondera la prevalencia entre los derechos a la protección de datos del titular de los mismos y otros derechos e intereses legítimos de terceros se le denomina en materia de protección de datos:",
+      "options": [
+        "interés legítimo",
+        "intereses vitales",
+        "obligación legal",
+        "consentimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-49",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "La utilización de medios electrónicos en la Administración de la Comunidad de Castilla y León habrá de desarrollarse aplicando:",
+      "options": [
+        "esquema nacional de seguridad",
+        "comité de seguridad de la información",
+        "la normativa aprobada por la consejería competente en la materia",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-50",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Actualmente, en la Administración de CL, corresponde a la consejería competente en materia de seguridad de la información, a través del centro directivo que tenga atribuida dicha materia, el ejercicio de las facultades relativas a la seguridad de la información y de los datos personales que le atribuye la normativa reguladora de su estructura orgánica. Actualmente la Consejería es:",
+      "options": [
+        "consejería de movilidad y diálogo social",
+        "consejería de presidencia",
+        "consejería de fomento y movilidad digital",
+        "consejería de movilidad y transformación digital"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-51",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "La Administración de la Comunidad de Castilla y León ha puesto a disposición de ciudadanos y empresas la posibilidad de registrar apoderamientos, de forma que un ciudadano o empresa autorice a un tercero para que pueda actuar en su nombre ante las Administraciones Públicas. El registro puede realizarse:",
+      "options": [
+        "electrónicamente, a través de internet",
+        "presencialmente en caso de los no obligados a relacionarse electrónicamente",
+        "a y b son correctas",
+        "el apoderamiento sólo puede ser presencial, con cita previa y en modo “apud acta”"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-52",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El ciudadano puede otorgar poderes para ser representado:",
+      "options": [
+        "poderes de dos tipos: general y particular",
+        "poderes de cuatro tipos: general, particular, por escrito y oral",
+        "poderes de tres tipos: poder general ante cualquier administración pública, poder para cualquier actuación ante la administración de cl, y poder para realizar determinado trámite o procedimiento administrativo especificado en el poder ante la Administración de la comunidad de CL",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-53",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Es la dirección electrónica de Internet disponible para los ciudadanos, a modo de oficina electrónica, que para la Administración de la Comunidad de Castilla y León es https://www.tramitacastillayleon.jcyl.es/",
+      "options": [
+        "sede electrónica",
+        "administración telemática",
+        "ventanilla única",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-54",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Son servicios de la administración electrónica que ofrece la Administración de Castilla y León:",
+      "options": [
+        "consulta del estado de los trámites pendientes con la administración",
+        "notificaciones electrónicas",
+        "ventanilla electrónica",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-55",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El registro electrónico que ofrece la Administración de Castilla y León a través de su web (señale la respuesta correcta)",
+      "options": [
+        "tiene la misma validez legal que un registro presencial",
+        "no garantiza que los documentos presentados sean custodiados por la administración",
+        "no tiene limitación en cuanto a los tipos de documentos a presentar ni al tamaño de los mismos",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-56",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "En el ámbito de Castilla y León la transparencia de la actividad pública, el derecho de acceso a la información pública y su reutilización y la participación en los asuntos públicos de la Comunidad de Castilla y León a través del Portal de Gobierno Abierto se regulan:",
+      "options": [
+        "por decreto de la junta",
+        "por orden de la consejería de presidencia",
+        "por ley de las cortes de cl",
+        "mediante ley orgánica del estado español"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-57",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Consiste en la publicación de información por parte de los sujetos obligados a ello, para garantizar la transparencia relacionada con el buen funcionamiento y la actividad pública; se trata de:",
+      "options": [
+        "publicidad activa",
+        "buen gobierno",
+        "transparencia",
+        "fundaciones públicas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-58",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "En la solicitud que puede formular el ciudadano respecto a su derecho de acceso a la información pública el plazo para la resolución y su notificación será de:",
+      "options": [
+        "diez días",
+        "veinte días",
+        "un mes",
+        "tres meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-59",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "La resolución a la solicitud formulada respecto del derecho de acceso a la información pública y que decida sobre el mismo deberá determinar:",
+      "options": [
+        "si se inadmite la solicitud",
+        "si se concede el acceso",
+        "si se deniega el acceso",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-60",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Según la Ley 3/2015 de transparencia en la Administración de CL, hay información que habrá de ser objeto de publicidad por parte de los organismos y entidades que conforman el sector público autonómico; entre ellos:",
+      "options": [
+        "gasto público realizado en campañas de publicidad institucional",
+        "número de vehículos oficiales de los que son titulares o arrendatarios y el uso al que se destinan",
+        "las relaciones de puestos de trabajo, las plantillas de personal o instrumentos análogos",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-61",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Como alternativa al expediente en papel, la administración autonómica promoverá, en los términos establecidos en la legislación básica estatal y sus normas de desarrollo:",
+      "options": [
+        "carpeta telemática",
+        "expediente administrativo",
+        "expediente electrónico",
+        "comunicaciones postales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-62",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "Las comunicaciones electrónicas serán válidas siempre que exista constancia de",
+      "options": [
+        "la transmisión y de la recepción",
+        "fechas, contenido íntegro",
+        "identificación fidedigna del remitente y del destinatario",
+        "todas las respuestas son correctas y se complementan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-63",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "En el buzón electrónico, si a pesar de existir constancia de la puesta a disposición de la notificación electrónica transcurre el plazo sin que se acceda a su contenido, se entenderá con carácter general que la notificación ha sido rechazada. El plazo a que hacemos referencia son:",
+      "options": [
+        "10 días hábiles",
+        "10 días naturales",
+        "20 días naturales",
+        "20 días hábiles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-64",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El registro electrónico de la Administración autonómica para presentar sus escritos, solicitudes y comunicaciones podrá ser utilizado por los ciudadanos:",
+      "options": [
+        "todos los días del año",
+        "durante las 24 horas del día",
+        "a y b son correctas",
+        "el calendario hábil que establezca anualmente la administración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-65",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El servicio de atención 012 de la administración de Castilla y León:",
+      "options": [
+        "ofrece información de carácter general difundida por la administración de cl",
+        "puede ofrecer información administrativa particular cuando así proceda",
+        "tiene como finalidad facilitar a los ciudadanos un acceso ágil y completo a la información administrativa de la administración de cl",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-66",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El programa o conjunto de programas cuyo objeto es la resolución de un problema mediante el uso de informática se conoce como",
+      "options": [
+        "aplicación",
+        "autenticación",
+        "canal",
+        "dirección electrónica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-67",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "El conjunto de datos en forma electrónica, consignados junto a otros o asociados con ellos, que pueden ser utilizados como medio de identificación del firmante se denomina:",
+      "options": [
+        "firma electrónica",
+        "medio electrónico",
+        "base de datos",
+        "punto de acceso electrónico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t21-68",
+      "superblock": "Tema 21",
+      "subblock": "TEMA 21. Test 3",
+      "question": "En Castilla y León, contra la resolución dictada en las solicitudes de acceso a la información cabrá recurso",
+      "options": [
+        "preceptivo de alzada ante el consejo de transparencia y buen gobierno",
+        "potestativo de reposición ante el consejo de transparencia y buen gobierno",
+        "recurso directo ante la jurisdicción contencioso administrativa",
+        "b y c son correctas TEMA 21. Test 3 SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

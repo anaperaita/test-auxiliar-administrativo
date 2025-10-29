@@ -1,0 +1,2457 @@
+{
+  "module": "Tema 11",
+  "title": "Tema 11",
+  "totalQuestions": 175,
+  "questions": [
+    {
+      "id": "t11-1",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución, el órgano competente para resolver, a propuesta, en su caso, del órgano instructor o el superior jerárquico del órgano competente para resolver:",
+      "options": [
+        "podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento.",
+        "podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.",
+        "podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior a la mitad del establecido para la tramitación del procedimiento.",
+        "podrá habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo o acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, no pudiendo ser éste superior al establecido para la tramitación del procedimiento."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-2",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa, produce:",
+      "options": [
+        "la desestimación, por silencio administrativo, de las pretensiones de los interesados, en el caso de procedimientos de los que pudiera derivarse el reconocimiento de derechos.",
+        "la caducidad en los procedimientos en que la administración ejercite potestades sancionadoras.",
+        "la desestimación, por silencio administrativo, de las pretensiones de los interesados, en el caso de procedimientos de los que pudiera derivarse situaciones jurídicas favorables.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-3",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Los conflictos de atribuciones solo pueden suscitarse entre:",
+      "options": [
+        "órganos de igual o distinta administración.",
+        "órganos de una misma administración relacionados jerárquicamente y sobre asuntos sobre los que no haya finalizado el procedimiento.",
+        "órganos de una misma o diferente administración y sobre asuntos sobre los que no haya finalizado el procedimiento.",
+        "órganos de una misma administración no relacionados jerárquicamente y sobre asuntos sobre los que no haya finalizado el procedimiento."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-4",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la afirmación correcta con relación a los actos administrativos:",
+      "options": [
+        "la realización de actos administrativos fuera del tiempo establecido para ello, los convierte en ineficaces en todo caso.",
+        "los actos que incurran en desviación de poder son nulos de pleno derecho en todo caso.",
+        "los actos que incurran en desviación de poder no son recurribles dado que responden al principio de discrecionalidad técnica de la administración.",
+        "la realización de actos administrativos fuera del tiempo establecido para ello solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-5",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con el artículo 35 de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta incorrecta. Serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+      "options": [
+        "los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta.",
+        "los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+        "los actos que limiten derechos subjetivos o intereses legítimos.",
+        "los actos que acuerden la terminación del procedimiento por cualquier causa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-6",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación:",
+      "options": [
+        "la de aquélla que se hubiera producido en último lugar.",
+        "la de aquélla que se hubiera producido por medios no electrónicos.",
+        "la de aquélla que se hubiera producido en primer lugar.",
+        "la de aquélla que se hubiera producido por medios electrónicos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-7",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si el órgano competente apreciase que la publicación de un acto lesiona derechos o intereses legítimos:",
+      "options": [
+        "se limitará a publicar en el diario oficial que corresponda el lugar donde los interesados podrán comparecer, en el plazo que se establezca, para conocimiento del contenido del mencionado acto y constancia de tal conocimiento, sin que se pueda hacer mención al contenido del mismo con la publicación en el Diario Oficial que corresponda.",
+        "se limitará a publicar en el diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer, en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento.",
+        "se acordará la no publicación del acto.",
+        "se publicará en el diario oficial que corresponda el contenido del mencionado acto, restringiendo cualquier dato que pueda suponer la pública identificación de los interesados."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-8",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta correcta en relación con las notificaciones:",
+      "options": [
+        "las notificaciones se practicarán, con carácter general, mediante la comparecencia espontánea del interesado en las oficinas de asistencia en materia de registro.",
+        "las notificaciones se practicarán preferentemente por medios no electrónicos, salvo cuando el interesado resulte obligado a recibirlas por esta vía.",
+        "las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+        "las notificaciones se practicarán siempre por medios electrónicos, salvo que el interesado comunique a la Administración su deseo de recibirlas por otros medios."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-9",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015, el plazo máximo en el que debe notificarse la resolución expresa NO podrá exceder de:",
+      "options": [
+        "6 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el derecho de la Unión Europea.",
+        "2 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el derecho de la Unión Europea.",
+        "5 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el derecho de la Unión Europea.",
+        "3 meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el derecho de la Unión Europea."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-10",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Una de las siguientes afirmaciones relativas a la validez y eficacia de los actos administrativos no es correcta:",
+      "options": [
+        "los actos de las administraciones públicas sujetos al derecho administrativo se presumirán válidos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+        "en ningún caso podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados.",
+        "la eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+        "los actos de las administraciones públicas sujetos al derecho administrativo producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-11",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Para que un acto administrativo adquiera eficacia deberá ser notificado al interesado, ¿cuál es el plazo máximo para llevar a cabo esta notificación?",
+      "options": [
+        "diez días a partir de que el acto se publicó.",
+        "treinta días a partir de que fue dictado.",
+        "diez días a partir de que el acto haya sido dictado.",
+        "cinco días a partir de su publicación."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-12",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Los conflictos de atribuciones solo pueden suscitarse entre:",
+      "options": [
+        "órganos de una misma administración relacionados jerárquicamente y sobre asuntos sobre los que no haya finalizado el procedimiento.",
+        "órganos de una misma administración no relacionados jerárquicamente y sobre asuntos sobre los que no haya finalizado el procedimiento.",
+        "órganos de igual o distinta administración.",
+        "órganos de una misma o diferente administración y sobre asuntos sobre los que no haya finalizado el procedimiento."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-13",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente. Esta publicación de los actos se realizará:",
+      "options": [
+        "en el diario oficial que corresponda.",
+        "siempre en el boe, independientemente del órgano del que procedan.",
+        "sólo en el tablón de anuncios del ministerio que corresponda.",
+        "siempre en el boletín oficial de la comunidad autónoma y en el boe, conjunta e independientemente del órgano del que procedan."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-14",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Según el artículo 35 Ley 39/2015, los actos administrativos...:",
+      "options": [
+        "no es preceptivo que sean motivados los que se dictan en el ejercicio de potestades discrecionales.",
+        "deben motivarse si se trata de acuerdos de aplicación de la tramitación de urgencia.",
+        "en todos los casos deben ser motivados, con sucinta referencia de hechos y fundamentos de derecho.",
+        "sólo serán motivados cuando así lo establezca expresamente una disposición legal o reglamento."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-15",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Indique en cuál de los siguientes supuestos la Administración no está obligada a dictar resolución expresa y a notificarla:",
+      "options": [
+        "prescripción.",
+        "desaparición sobrevenida del objeto del procedimiento.",
+        "terminación del procedimiento por pacto o convenio.",
+        "caducidad del procedimiento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-16",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Cuando una entidad administrativa ha cometido un error aritmético en un acto administrativo. Señale la respuesta correcta conforme a la Ley 39/2015:",
+      "options": [
+        "para realizar la rectificación es necesario recabar el consentimiento del interesado afectad por el acto.",
+        "el plazo máximo para rectificar es de 3 meses desde que se dictó el acto.",
+        "para realizar la rectificación es necesario recabar el dictamen favorable del consejo de estado.",
+        "la rectificación puede ser a instancia de los interesados o del propio ayuntamiento."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-17",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015, los actos administrativos en que participan varios órganos administrativos para dictarlos se conocen como:",
+      "options": [
+        "singulares",
+        "plurales",
+        "complejos",
+        "simples"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-18",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En lo que atañe a la ejecución subsidiaria, recogida en la Ley 39/2015, señale la opción incorrecta:",
+      "options": [
+        "el importe de gastos se exigirá al obligado.",
+        "las administraciones públicas realizarán el acto, por sí o a través de las personas que determinen, a costa del obligado.",
+        "habrá lugar a la ejecución subsidiaria cuando se trate de actos que no son personalísimos.",
+        "el importe de los gastos no podrá liquidarse de forma provisional."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-19",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Con carácter general, los actos administrativos se presumen válidos y producen efectos desde la fecha en que se dicten. En este sentido, ¿podrá demorarse la eficacia de los actos administrativos?",
+      "options": [
+        "sí, cuando la misma esté supeditada a su aprobación superior.",
+        "sí, cuando lo exija la forma del acto.",
+        "sí, cuando los actos se dicten en sustitución de actos anulados.",
+        "a y b son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-20",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la respuesta incorrecta, en relación con la convalidación de actos administrativos:",
+      "options": [
+        "si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado.",
+        "la administración podrá convalidar los actos nulos de pleno derecho y los actos anulables, subsanando los vicios de que adolezcan.",
+        "la administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan.",
+        "si el vicio consistiese en la falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano competente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-21",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, la eficacia de los actos de la Administración pública quedará demorada:",
+      "options": [
+        "cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+        "cuando así lo exija la tipología del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+        "cuando así lo exija el contenido del acto o puedan producir daños graves o de dificil reparación a los interesados.",
+        "cuando así se determine por razones de urgencia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-22",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Podrá otorgarse eficacia retroactiva a los actos administrativos, de acuerdo con el artículo 39 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas:",
+      "options": [
+        "excepcionalmente cuando se dicten en sustitución de actos anulados, y, asimismo, cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.",
+        "en ningún caso, de acuerdo con el principio de irretroactividad.",
+        "siempre, cuando produzcan efectos desfavorables al interesado.",
+        "cuando se dicten en sustitución de actos anulados y, en todo caso, cuando produzcan efectos favorables al interesado, aunque los supuestos de hecho necesarios no existieran a la fecha a la que se retrotraiga la eficacia del acto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-23",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Indique qué acto administrativo debe ser objeto de motivación según el artículo 35 de la Ley 39/2015:",
+      "options": [
+        "un acto de trámite que no se separe del criterio seguido en actuaciones precedentes.",
+        "la propuesta de resolución en un procedimiento sancionador.",
+        "el requerimiento de subsanación de una solicitud presentada por el interesado.",
+        "el acto por el que se acuerda la admisión de pruebas propuestas por el interesado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-24",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la afirmación correcta con relación a los actos administrativos:",
+      "options": [
+        "la realización de actos administrativos fuera del tiempo establecido para ello, los convierte en ineficaces en todo caso.",
+        "los actos que incurran en desviación de poder son nulos de pleno derecho en todo caso.",
+        "los actos que incurran en desviación de poder no son recurribles dado que responden al principio de discrecionalidad técnica de la administración.",
+        "la realización de actos administrativos fuera del tiempo establecido para ello solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-25",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Indique la afirmación correcta en relación con la motivación de los actos que ponen fin a los procedimientos selectivos y de concurrencia competitiva de conformidad con lo previsto en la Ley del Procedimiento Administrativo Común de las Administraciones Públicas:",
+      "options": [
+        "no precisan nunca motivación expresa.",
+        "serán motivados de conformidad con lo que dispongan las normas que regulen las convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.",
+        "serán motivados cuando el procedimiento se haya resuelto aplicando un acuerdo de tramitación de urgencia o de ampliación de plazos.",
+        "serán motivados de conformidad con lo que dispongan los respectivos tribunales o comisiones de valoración."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-26",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la opción incorrecta en lo relacionado con la ampliación del plazo máximo en el procedimiento administrativo, para resolver y notificar:",
+      "options": [
+        "se podrá ampliar el plazo cuando se hayan agotado todos los medios personales y materiales disponibles a los que se refiere el apartado 5 del artículo 21.",
+        "el órgano competente para resolver, a propuesta, del órgano instructor o el superior jerárquico del órgano competente para resolver, podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación.",
+        "la ampliación del plazo máximo de resolución y notificación no puede ser superior al establecido para la tramitación del procedimiento.",
+        "contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados, cabrá recurso de revisión."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-27",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Las Administraciones Públicas podrán rectificar los errores materiales, de hecho o aritméticos existentes en sus actos ...",
+      "options": [
+        "en cualquier momento, de oficio o a instancia del interesado.",
+        "el cualquier momento únicamente a instancia del interesado.",
+        "en cualquier momento únicamente de oficio.",
+        "en el plazo de 3 meses desde que el acto fue dictado, de oficio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-28",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "El plazo para resolver de modo expreso un recurso de reposición será de:",
+      "options": [
+        "un mes a partir de la fecha de presentación del recurso",
+        "un mes a partir de la fecha de ser dictado el acto objeto del recurso",
+        "un mes a partir de la fecha de notificación del acto objeto del recurso",
+        "un mes a partir de la fecha de emisión del informe que sirve de base a la resolución del recurso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-29",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la respuesta correcta:",
+      "options": [
+        "el defecto de forma determinará la nulidad de pleno derecho cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+        "el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+        "el defecto de forma, en todo caso, determinará la anulabilidad del acto.",
+        "el defecto de forma, en ningún caso, determinará la anulabilidad del acto."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-30",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Señale la afirmación correcta en relación con la nulidad y anulabilidad de los actos administrativos:",
+      "options": [
+        "el acto de convalidación producirá efecto desde su fecha, salvo lo dispuesto para la retroactividad de los actos administrativos.",
+        "el órgano que declare la nulidad de actuaciones dispondrá dejar sin efecto todos los actos y trámites.",
+        "la administración podrá convalidar los actos nulos de pleno derecho y los actos anulables, subsanando los vicios de que adolezcan.",
+        "con carácter general el acto de convalidación producirá efectos en el plazo de diez días a contar desde el día siguiente a su notificación, salvo que se fije otro distinto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-31",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Indique, de conformidad con el artículo 52 de la Ley 39/2015, del Procedimiento Administrativo común de las Administraciones Públicas, la respuesta correcta sobre la convalidación de actos:",
+      "options": [
+        "cuando el vicio consista en incompetencia determinante de nulidad, podrá convalidarse por el órgano superior jerárquico del que dictó el acto viciado.",
+        "como regla general, la convalidación producirá efecto desde la fecha en que fue dictado el acto convalidado.",
+        "si el vicio consistiese en la falta de alguna autorización, se podrá convalidar el acto mediante el otorgamiento de la misma por el órgano competente.",
+        "la administración podrá convalidar los actos nulos de pleno derecho, subsanando los vicios de que adolezcan."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-32",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Las notificaciones por medios electrónicos se entenderán practicadas:",
+      "options": [
+        "desde la fecha y hora en que se ponga a disposición del interesado.",
+        "en el momento en que se produzca el acceso a su contenido.",
+        "a los diez días hábiles de la puesta a disposición del interesado.",
+        "a los quince días de la firma de la notificación por medio de un código de verificación seguro."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-33",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En relación a las alegaciones en el procedimiento administrativo recogidas en la Ley 39/2015, señale la opción incorrecta:",
+      "options": [
+        "los interesados podrán en todo momento alegar defectos de tramitación que supongan paralización.",
+        "los interesados podrán aportar documentos u otros elementos de juicio, en cualquier momento del procedimiento anterior al trámite de audiencia.",
+        "dichas alegaciones podrán dar lugar a la exigencia de la correspondiente responsabilidad penal.",
+        "los interesados podrán en todo momento alegar defectos de tramitación por la omisión de trámites que puede ser subsanados antes de la resolución definitiva del asunto."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-34",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con el artículo 24 Ley 40/2015 de Régimen Jurídico del Sector Público, si el recusado niega la causa de recusación:",
+      "options": [
+        "el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos.",
+        "el superior resolverá en el plazo de diez días, previos los informes y comprobaciones que considere oportunos.",
+        "el superior resolverá en el plazo de veinte días, previos los informes y comprobaciones que considere oportunos.",
+        "el superior resolverá en el plazo de cinco días, previos los informes y comprobaciones que considere oportunos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-35",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Indique la afirmación correcta a tenor de lo previsto en la Ley del Procedimiento Administrativo Común de las Administraciones Públicas:",
+      "options": [
+        "la realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará en todo caso la anulabilidad del acto.",
+        "la realización de actuaciones administrativas fuera del tiempo establecido para ellas implicará la nulidad de pleno derecho del acto.",
+        "la realización de actuaciones administrativas fuera del tiempo establecido puede implicar la nulidad de pleno derecho del acto, a criterio del órgano tramitador.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-36",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Podrá otorgarse eficacia retroactiva a los actos administrativos cuando loa mismos se dicten:",
+      "options": [
+        "en sustitución de actos anulados, así como cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.",
+        "en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras persona.",
+        "en sustitución de resoluciones mal dictadas o con defectos del órgano administrativo superior.",
+        "en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta lesione derechos o intereses legítimos de otras personas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-37",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con lo previsto en el artículo 35 de la Ley 39/2015, serán motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos administrativos que:",
+      "options": [
+        "se dicten en el ejercicio de potestades de arbitrariedad.",
+        "acepten pruebas propuestas por los interesados.",
+        "se separen del criterio seguido en actuaciones precedentes.",
+        "limiten deberes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-38",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Tal y como dispone el art. 100 de la Ley 39/2015, la ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de:",
+      "options": [
+        "celeridad.",
+        "proporcionalidad.",
+        "menor onerosidad.",
+        "efectividad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-39",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En cuanto a la delegación de competencias, en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público se dispone que:",
+      "options": [
+        "solo es posible la delegación de la resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso.",
+        "salvo autorización expresa de una disposición administrativa de carácter general, no podrán delegarse las competencias que se ejerzan por delegación.",
+        "la adopción de disposiciones de carácter general en ningún caso es delegable.",
+        "la delegación no será revocable una vez que se haya iniciado el procedimiento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-40",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "De acuerdo con la Ley 39/2015, cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, se practicará en cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como:",
+      "options": [
+        "el lugar en que se debe notificar, la fecha, la identidad y el contenido del acto notificado.",
+        "el lugar en donde se debe realizar la notificación y el contenido del acto notificado.",
+        "la fecha, la identidad y el contenido del acto notificado.",
+        "la identidad, el lugar y el contenido del acto notificado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-41",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Los recursos de alzada se interponen:",
+      "options": [
+        "contra actos que no agotan la vía administrativa",
+        "contra actos de trámite en casos generales",
+        "únicamente ante el órgano que ha dictado el acto recurrido",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-42",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En caso de que aparezca un documento de valor tras dictar un acto administrativo ¿cuál es el plazo de interposición del recurso extraordinario de revisión?",
+      "options": [
+        "quince días",
+        "un mes",
+        "tres meses",
+        "cuatro años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-43",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "¿En qué causas debe basarse un recurso administrativo para solicitar la suspensión del acto impugnado?",
+      "options": [
+        "en cualquiera de las causas de atemporalidad",
+        "en cualquiera de las causas de nulidad",
+        "en cualquiera de las causas de anulabilidad",
+        "en cualquiera de las causas de irregularidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-44",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "¿Cuál es el plazo máximo para la resolución del recurso potestativo de reposición?",
+      "options": [
+        "un mes",
+        "tres meses",
+        "veinte días",
+        "dos meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-45",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "Cuando en la resolución de un acto administrativo hayan influido documentos declarados falsos por sentencia judicial firme ¿cuál es el plazo de interposición del recurso extraordinario de revisión?",
+      "options": [
+        "cuatro años",
+        "tres meses",
+        "un mes",
+        "quince días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-46",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En caso de que se incurra en un error de hecho al dictar un acto administrativo ¿cuál es el plazo de interposición del recurso extraordinario de revisión?",
+      "options": [
+        "quince días",
+        "tres meses",
+        "un mes",
+        "cuatro años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-47",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "¿Cuál de los siguientes extremos no debe constar en el escrito de interposición de un recurso administrativo?",
+      "options": [
+        "el nombre del recurrente",
+        "el teléfono personal del recurrente",
+        "el acto que se recurre",
+        "la firma del recurrente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-48",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "¿Cuál es el plazo para practicar la prueba en el proceso contencioso administrativo general?",
+      "options": [
+        "treinta días",
+        "cinco días",
+        "quince días",
+        "veinte días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-49",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "¿Cuál es el plazo de interposición de un recurso contencioso administrativo si se presenta contra una actuación en vía de hecho de la Administración, si no media requerimiento?",
+      "options": [
+        "veinte días",
+        "diez días",
+        "quince días",
+        "quince días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-50",
+      "superblock": "Tema 11",
+      "subblock": "TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO",
+      "question": "En caso de que no se dicte resolución de un recurso potestativo de reposición dentro del plazo establecido al efecto, ¿cuál será el sentido del silencio administrativo?",
+      "options": [
+        "positivo como regla general",
+        "positivo en todo caso",
+        "negativo como regla general",
+        "negativo en todo caso TEST TEMA 11- PROCEDIMIENTO ADMINISTRATIVO SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-51",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Tienen capacidad de obrar, según el art.3 de la Ley 39/2015 ....",
+      "options": [
+        "las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "siempre, y en todo caso, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos",
+        "los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-52",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Se considera interesado en un procedimiento:",
+      "options": [
+        "quienes hubieran iniciado el procedimiento, independientemente de si son o no interesados en el mismo",
+        "quienes lo promuevan como titulares de derechos legítimos, ya sean individuales o colectivos",
+        "aquellos que tengan intereses legítimos afectados por la resolución, siempre y cuando se personen en el procedimiento con anterioridad al trámite de audiencia",
+        "todas las respuestas anteriores son interesados en un procedimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-53",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En un procedimiento administrativo, a tenor de lo que establece la norma 39/2015, ¿pueden ser las asociaciones y organizaciones representativas de intereses económicos y sociales titulares de intereses legítimos?",
+      "options": [
+        "si, siempre y en todo caso, aunque habrán de personarse en el procedimiento debidamente representados",
+        "si, pero lo serán en los términos que la ley reconozca",
+        "si, pero en todo caso habrán de serlo en virtud de resolución del órgano que resuelve dicho procedimiento",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-54",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando la condición de interesado en el procedimiento administrativo derivase de alguna relación jurídica transmisible...",
+      "options": [
+        "el derecho-habiente sucederá en tal condición cualquiera que sea el estado del procedimiento.",
+        "el derecho-habiente sucederá en tal condición siempre que no se haya instruido el procedimiento.",
+        "el derecho-habiente sucederá en tal condición siempre que estuviera en suspensión el procedimiento.",
+        "el derecho-habiente sucederá en tal condición, salvo inadmisión de la situación por el órgano resolutorio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-55",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "A tenor de lo establecido en el artículo 5 de la Ley 39, tienen capacidad de representación...",
+      "options": [
+        "todo interesado que disponga de la capacidad de obrar",
+        "las personas jurídicas, siempre y en todo caso",
+        "a y b son correctas",
+        "todas las respuestas son orrectas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-56",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Deberá acreditarse la representación en el procedimiento administrativo, actuando en nombre de otra persona:",
+      "options": [
+        "para formular solicitudes",
+        "para presentar declaraciones responsables",
+        "para desistir de acciones",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-57",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "A los efectos de la representación, se entenderá acreditada la misma cuando sea realizada mediante apoderamiento apud acta efectuado:",
+      "options": [
+        "por comparecencia personal",
+        "por comparecencia electrónica en la corresponde sede electrónica",
+        "a través de la acreditación de la inscripción en el registro electrónico de apoderamientos de la administración pública competente",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-58",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La falta o insuficiente acreditación de la representación:",
+      "options": [
+        "impedirá que se tenga por realizado el acto de que se trate, en defensa de la titularidad del derecho del interesado",
+        "podrá subsanarse en 5 días, habiendo de presentarse certificado en el registro del órgano administrativo que tramita el oportuno expediente administrativo",
+        "no impedirá que se tenga por realizado el acto, siempre que se aporte aquélla o se subsane el defecto en los 10 días que concede el órgano administrativo, e incluso un plazo superior cuando las circunstancias del caso lo requieran",
+        "ninguna de las respuestas anteriores es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-59",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Dispondrán de un registro electrónico general de apoderamientos...",
+      "options": [
+        "la administración general del estado",
+        "las comunidades autónomas",
+        "las entidades locales",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-60",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos deberán corresponder a alguna de las siguientes tipologías:",
+      "options": [
+        "un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo concreto",
+        "un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados",
+        "un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier administración",
+        "todas las respuestas anteriores correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-61",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El apoderamiento apud acta se otorgará mediante:",
+      "options": [
+        "comparecencia electrónica en la correspondiente sede electrónica",
+        "comparecencia personal en las oficinas de asistencia en materia de registros.",
+        "a y b son correctas",
+        "todas las respuestas son falsas, pues sólo se admite la presentación presencial con representante y representado ante el funcionario que habilita el poder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-62",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán",
+      "options": [
+        "con el representante o el interesado que expresamente hayan señalado",
+        "con el interesado que figure en primer término, si no han señalado un representante en dicho escrito",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-63",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte...",
+      "options": [
+        "se comunicará a dichas personas la tramitación del procedimiento",
+        "se dará a esas personas posibilidad de participar en el procedimiento, en la fase de trámite de audiencia",
+        "se permitirá a dichas personas incorporarse al expediente, si bien no podrán recurrir actos de trámite o resoluciones parciales que se hubieran producido en el procedimiento con anterioridad a la entra de éstos",
+        "se paraliza el procedimiento, y se da opción a información de dichos particulares, que sólo tendrán información cuando la soliciten con anterioridad al trámite de audiencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-64",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Sobre la identidad de los interesados en un procedimiento administrativo, las administraciones públicas están:",
+      "options": [
+        "obligadas a verificar la identidad de los mismos",
+        "habrán de verificar la identidad sólo en procedimientos selectivos o de concurrencia competitiva",
+        "habrán de solicitar la acreditación de la identidad, pero nunca antes de la propuesta de resolución",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-65",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:",
+      "options": [
+        "sistemas de clave concertada que las administraciones consideren válido",
+        "sistemas basados en certificados electrónicos cualificados de sello electrónico",
+        "sistemas basados en certificados electrónicos cualificados de firma electrónica",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-66",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Según el art.11 de la ley 39/2015, las administraciones públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+      "options": [
+        "formular solicitudes",
+        "desistir de acciones",
+        "renunciar a derechos",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-67",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Respecto del uso de medios electrónicos en las administraciones públicas...",
+      "options": [
+        "las administraciones públicas asistirán en el uso de medios electrónicos a los interesados que así quedan establecidos en la Ley",
+        "si alguno de los interesados del párrafo anterior no dispone de medios electrónicos necesarios, su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante firma electrónica del que esté dotado para ello",
+        "a y b son correctas",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-68",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los sistemas de clave concertada, como modo de firma del interesado ante las administraciones públicas, pueden ser solicitados en cuanto a su uso con la autorización oportuna. La autorización a la que hacemos referencia habrá de ser emitida e el plazo de;",
+      "options": [
+        "dos meses",
+        "tres meses",
+        "20 días",
+        "10 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-69",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los registros electrónicos generales y particulares de apoderamientos permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero, mediante la consulta a",
+      "options": [
+        "otros registros administrativos similares",
+        "al registro mercantil o registros de la propiedad",
+        "a los protocolos notariales",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-70",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La representación en el procedimiento administrativo no será necesario acreditarla:",
+      "options": [
+        "al formular las solicitudes",
+        "al desistir e acciones",
+        "en actos de mero trámite",
+        "todas las respuestas son correctas TEST TÍTULO I – DE LOS INTERESADOS SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-71",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Según el artículo 13 de la Ley 39, quienes de conformidad con el artículo 3 tienen capacidad de obrar ante las Administraciones Públicas serán titulares en sus relaciones con ellas de alguno de estos derechos señalados a continuación:",
+      "options": [
+        "a ser asistidos en el uso de medios electrónicos en sus relaciones con las administraciones públicas",
+        "a exigir las responsabilidades de las administraciones públicas y autoridades cuando así corresponda legalmente",
+        "a la protección de datos de carácter personal",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-72",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las personas físicas podrán elegir ebn todo momento si se comunican con las administraciones públicas a través de medios electrónicos o no, salvo que estén obligados. El medio elegido por la persona podrá ser modificado...",
+      "options": [
+        "a lo largo del procedimiento, antes e la propuesta de resolución",
+        "en cualquier momento",
+        "en la fase de instrucción del procedimiento, haciéndolo por escrito",
+        "todas las respuestas so falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-73",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los documentos que los interesados dirijan a los órganos de las administraciones públicas podrán presentarse:",
+      "options": [
+        "en las oficinas de correos, en la forma que reglamentariamente se establezca",
+        "en las representaciones diplomáticas u oficinas consulares de españa en el extranjero",
+        "en las oficinas de asistencia en materia de registros",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-74",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cada administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimiento...",
+      "options": [
+        "procedimientos finalizados",
+        "procedimientos en fase de instrucción",
+        "procedimientos en fase de ordenación",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-75",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los interesados en un procedimiento que conozcan datos que permitan identificar a otros interesados que no hayan comparecido en él",
+      "options": [
+        "tienen el derecho de proporcionárselos a la administración actuante",
+        "tienen el deber de proporcionárselos a la administración actuante.",
+        "están obligados a comunicarlo a la administración, sólo cuando el procedimiento sea favorable al interesado",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-76",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los responsables directos de la tramitación de un procedimiento serán:",
+      "options": [
+        "los titulares de los órganos administrativos que los resuelven",
+        "los titulares de las unidades administrativas y el personal al servicio de las administraciones públicas que tuviesen a su cargo la instrucción del procedimiento o el despacho de los asuntos",
+        "los titulares de las unidades administrativas y el personal al servicio de las administraciones públicas que tuviesen a su cargo la resolución o el despacho de los asuntos",
+        "los interesados, pues podrán solicitar la exigencia de responsabilidad discipli9naria a la administración pública"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-77",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Respecto de la actuación de la administración en un procedimiento, ésta tiene:",
+      "options": [
+        "obligación de dictar resolución expresa y notificarla, cuando se inicia el mismo de oficio por la propia administración",
+        "el privilegio de notificar la resolución en todos los procedimientos",
+        "la administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación, aún con las oportunas excepciones establecidas en la Ley",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-78",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Dicho plazo no podrá, salvo excepción legal, exceder:",
+      "options": [
+        "3 meses",
+        "4 meses",
+        "5 meses",
+        "6 meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-79",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución ...",
+      "options": [
+        "el órgano competente para la instrucción del procedimiento podrá habilitar los medios personales materiales para cumplir con el despacho adecuado y en plazo",
+        "el órgano competente para la resolución del procedimiento, a propuesta del interesado o interesados, podrá habilitar los medios personales materiales para cumplir con el despacho adecuado y en plazo",
+        "el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.",
+        "el órgano competente para resolver, a propuesta razonada del órgano administrativo superior, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-80",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Del cumplimiento de la obligación legal de dictar resolución expresa en plazo son directamente responsables en el ámbito de sus competencias...",
+      "options": [
+        "el personal al servicio de las administraciones públicas que tenga a su cargo el despacho de los asuntos",
+        "los titulares de los óranos administrativos competentes para instruir y resolver",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-81",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La ampliación del plazo máximo para resolver y notificar podrá ser acordada, de manera motivada por el órgano competente para ......... el procedimiento:",
+      "options": [
+        "resolver",
+        "iniciar",
+        "tramitar",
+        "ordenar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-82",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado a los interesados,",
+      "options": [
+        "sólo cabe recurso de súplica",
+        "sólo es posible una alegación por defecto de tramitación",
+        "no cabe recurso alguno",
+        "se podrá recurrir únicamente en reposición"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-83",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En un procedimiento en que el volumen del mismo exige habilitar medios personales y materiales, y que de modo motivado se amplia, la duración de dicha ampliación no podrá ser superior a:",
+      "options": [
+        "mitad del plazo original",
+        "plazo establecido para la tramitación del procedimiento",
+        "un mes",
+        "tres meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-84",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El artículo 24 de la Ley establece que en los procedimientos iniciados a solicitud del interesado, sin perjuicio de la resolución que la Administración debe dictar, el vencimiento del plazo sin haber dictado resolución hará entender que el silencio administrativo tiene carácter:",
+      "options": [
+        "estimatorio",
+        "desestimatorio",
+        "carácter de caducidad",
+        "carácter de renuncia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-85",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución, el silencio tendrá efecto:",
+      "options": [
+        "estimatorio",
+        "desestimatorio",
+        "carácter de caducidad",
+        "carácter de renuncia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-86",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Salvo las excepciones previstas en el artículo 24 de la Ley 39/2015 del P.A.C., el silencio administrativo que se produce en la resolución de un recurso, cuando dicho recurso hubiera sido planteado contra la resolución presunta de un acto, tendrá efectos:",
+      "options": [
+        "estimatorio",
+        "desestimatorio",
+        "de caducidad",
+        "de renuncia al derecho"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-87",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El certificado de acto presunto habrá de ser emitido, tras la finalización del plazo máximo para resolver el procedimiento, en el plazo de:",
+      "options": [
+        "10 días",
+        "12 días",
+        "15 días",
+        "20 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-88",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La falta de resolución expresa en procedimientos iniciados de oficio en que la administración ejercite potestades sancionadoras, producirá en dicho procedimiento:",
+      "options": [
+        "renuncia",
+        "caducidad",
+        "resolución estimatoria",
+        "resolución desestimatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-89",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse, salvo las excepciones derivadas de la aplicación de la Ley 19/2013, de 9 de diciembre, en el plazo de",
+      "options": [
+        "15 días",
+        "12 días",
+        "10 días",
+        "7 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-90",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos",
+      "options": [
+        "que no exceda de la mitad de los mismos",
+        "si las circunstancias obligan a esta decisión",
+        "el acuerdo de ampliación no se notifica a los interesados",
+        "todas las respuestas son correctas TEST TÍTULO II . De la actividad de las Administraciones Públicas SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-91",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando hablamos de los requisitos de los actos administrativos, el contenido de los actos administrativos se ajustará a lo dispuesto por el ordenamiento jurídico y será ...",
+      "options": [
+        "determinado y adecuado a los fines de aquéllos",
+        "posible, y legal conforme a ley vigente",
+        "expreso y favorable para los ciudadanos",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-92",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho: señala la respuesta incorrecta",
+      "options": [
+        "los acuerdos de aplicación de la tramitación de urgencia",
+        "los actos que rechacen pruebas propuestas por los interesados.",
+        "los actos que se dicten con el criterio seguido en actuaciones precedentes",
+        "los actos que se separen del dictamen de órganos consultivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-93",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, son, según el art 37 de la ley 39/2015",
+      "options": [
+        "anulables",
+        "nulas",
+        "irregulares",
+        "firnes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-94",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Salvo que en ellos se disponga otra cosa, los actos de las administraciones públicas sujetos al derecho administrativo se presumen validos y producen efectos,,,",
+      "options": [
+        "desde la fecha en que se publiquen",
+        "desde la fecha en que sean firmes y ejecutorios",
+        "desde la fecha en que dicten",
+        "desde la fecha en que concluya el plazo de recurso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-95",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Toda notificación deberá ser cursada, a partir de la fecha en que el acto haya sido ditado, en el plazo de:",
+      "options": [
+        "10 días",
+        "12 días",
+        "15 dias",
+        "18 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-96",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma una persona mayor de",
+      "options": [
+        "12 años",
+        "13 años",
+        "14 años",
+        "16 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-97",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido desde la puesta a disposición de la notificación sin que se acceda a su contenido en el plazo de:",
+      "options": [
+        "6 días",
+        "8 días",
+        "10 días",
+        "15 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-98",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Una de las respuestas ofrecidas es un escrito de la administración nulo de pleno derecho",
+      "options": [
+        "los que tengan un contenido imposible",
+        "los dictados prescindiendo totalmente del procedimiento legalmente establecido",
+        "los que lesionen derechos y libertades susceptibles de amparo constitucional",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-99",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, serán:",
+      "options": [
+        "irregulares",
+        "anulables",
+        "nulas de pleno derecho",
+        "provisionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-100",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El artículo que recoge en la Ley 39/2015 los derechos de los interesados en un procedimiento administrativo es;",
+      "options": [
+        "articulo 23",
+        "artículo 45",
+        "artículo 53",
+        "art. 14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-101",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniente o no de iniciar un procedimiento:",
+      "options": [
+        "con anterioridad al inicio del procedimiento",
+        "con anterioridad a la fase de instrucción del procedimiento",
+        "siempre que el procedimiento no se haya concluido",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-102",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las medidas provisionales en el procedimiento, iniciado el mismo, habrán de ser adoptadas por el órgano:",
+      "options": [
+        "el órgano competente para resolver",
+        "el órgano competente para la instrucción",
+        "el superior jerárquico del que resuelve",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-103",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El órgano que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarda íntima conexión ...",
+      "options": [
+        "siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento",
+        "contra el acuerdo de acumulación no procederá recurso alguno",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-104",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los procedimientos de naturaleza sancionadora:",
+      "options": [
+        "se iniciarán siempre de oficio por acuerdo del órgano competente",
+        "establecerán la debida separación entre la fase instructora y la sancionadora encomendada a óranos distintos",
+        "en ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-105",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla se entiende como:",
+      "options": [
+        "procedimiento administrativo",
+        "expediente administrativo",
+        "acto administrativo",
+        "recurso administrativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-106",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En el despacho de los expedientes, se guardará, en asuntos de homogénea naturaleza, el orden riguroso de:",
+      "options": [
+        "incoación",
+        "instrucción",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-107",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las cuestiones incidentales que se susciten en el procedimiento. Incluso las que se refieran a la nulidad de actuaciones:",
+      "options": [
+        "no suspenden la tramitación del procedimiento",
+        "suspenderán el procedimiento",
+        "supone la renuncia a la continuación del procedimiento",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-108",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo",
+      "options": [
+        "no superior a 30 días ni inferior a diez",
+        "no superior a 20 días, ni inferior a diez",
+        "no inferior a veinticinco días",
+        "no superior a 30 días, ni inferior a seis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-109",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Salvo disposición expresa en contrario, los informes serán ...",
+      "options": [
+        "facultativos y vinculantes",
+        "preceptivos y vinculantes",
+        "preceptivos y no vinculantes",
+        "facultativos y no vinculantes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-110",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Respecto del trámite de audiencia, en un procedimiento....",
+      "options": [
+        "se podrá prescindir cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por los interesados",
+        "su duración no podrá ser inferior a diez días, ni superior a 15 días",
+        "si antes del vencimiento del plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones se tendrá por realizado el trámite",
+        "todas son corrrectasd"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-111",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La comparecencia en el trámite de información pública ...",
+      "options": [
+        "otorga por si misma la condición de interesado",
+        "obliga a la administración a contestar una respuesta razonada",
+        "será acordada por el órgano al que corresponde la resolución del proedimiento, cuando la naturaleza de éste lo requiera",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-112",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Antes de dictar resolución, se podrá decidir mediante acuerdo motivado, la realización de actuaciones complementarias indispensables para resolver el procedimiento. El acuerdo a que aludimos será adoptado por:",
+      "options": [
+        "el acuerdo será adoptado por el órgano competente para resolver",
+        "las actuaciones complementarias habrán de realizarse en el plazo no superior a 15 días",
+        "el plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-113",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La resolución que ponga fin al procedimiento...",
+      "options": [
+        "decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas el mismo",
+        "cuando se trate de cuestiones conexas que no hubieran sido planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto por un plazo no superior a 20 días, para que formulen alegaciones pertinentes",
+        "en los procedimientos iniciados de oficio la resolución será congruente con la petición formulada por el órgano administrativo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-114",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La renuncia a una solicitud del interesado:",
+      "options": [
+        "puede producirse cuando ello no esté prohibido por el ordenamiento jurídico",
+        "puede efectuarse en todo tipo de procedimientos, pero siempre antes de la fase de resolución",
+        "puede efectuarse cuando no lo prohíba el órgano competente para resolver el procedimiento",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-115",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución, supondrá:",
+      "options": [
+        "supone la caducidad del procedimiento",
+        "supone la pérdida de derechos",
+        "supone la pérdida del derecho al referido trámite",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-116",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Podrá no ser aplicable la caducidad ...",
+      "options": [
+        "en el supuesto de que la cuestión suscitada afecte al interés general",
+        "cuando fuera conveniente sustanciarla para su definición y esclarecimiento",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-117",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La resolución de la administración a la solicitud del interesado de tramitación simplificada en un procedimiento habrá de ser contestada en el plazo de:",
+      "options": [
+        "cinco días desde su presentación",
+        "diez días desde su presentación",
+        "siete días hábiles",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-118",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, se producirá la caducidad transcurridos",
+      "options": [
+        "dos meses",
+        "tres meses",
+        "cuatro meses",
+        "cinco meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-119",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La resolución de un procedimiento habrá de ser motivada.....",
+      "options": [
+        "cuando la forma de terminación del mismo sea la imposibilidad material de continuarlo por causas sobrevenidas",
+        "cuando la forma de terminación del mismo sea la caducidad",
+        "en todos los procedimientos que produzcan efectos favorables al interesado",
+        "todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-120",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En el caso de los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder el plazo de su emisión de:",
+      "options": [
+        "5 días",
+        "10 días",
+        "15 días",
+        "20 días TEST TÍTULO III . De los actos administrativos SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-121",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las actuaciones previas en el procedimiento ....",
+      "options": [
+        "podrá abrirlas el órgano competente con anterioridad al inicio del procedimiento",
+        "serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-122",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las medidas provisionales en un procedimiento, iniciado el mismo, habrán de ser decretadas por:",
+      "options": [
+        "órgano competente para resolver",
+        "órgano competente para instruir el procedimiento",
+        "órgano superior de encargado de resolver",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-123",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "La acumulación de expedientes, con otros con los que guarde identidad sustancial o íntima conexión....",
+      "options": [
+        "no podrá ser objeto de recurso",
+        "puede acordarla el órgano que inicie o tramite siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento",
+        "ay b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-124",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Se considera iniciación de oficio:",
+      "options": [
+        "la efectuada por propia iniciativa del órgano administrativo",
+        "la iniciada por un órgano administrativo como consecuencia de una denuncia",
+        "la iniciada por un órgano administrativo a petición razonada de otros órganos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-125",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Según el artículo 62 e la Ley 39/2015, la presentación de una denuncia....",
+      "options": [
+        "confiere por si sola la condición de interesado en el procedimiento",
+        "no confiere, por si sola, la condición de interesado en el procedimiento",
+        "supone la aceptación de responsabilidad por parte del denunciante",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-126",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los procedimientos de naturaleza sancionadora...",
+      "options": [
+        "se iniciará siempre de oficio por acuerdo del órgano competente",
+        "establecerán la debida separación entre la fase de instrucción y la sancionadora, encomendada a órganos distintos",
+        "en ningún caso se podrá imponer una sanción sin que se haya tramitado el oportuno procedimiento",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-127",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Para subsanación de errores, si la solicitud no reúne los requisitos que señala el artículo 66 se requerirá al interesado para que subsane la falta o acompañe los documentos preceptivos en un plazo de:",
+      "options": [
+        "5 días",
+        "8 días",
+        "10 días",
+        "15 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-128",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El plazo de la pregunta anterior podría ser ampliado, siempre que no se trate de procedimientos:",
+      "options": [
+        "de concurrencia competitiva",
+        "procedimientos selectivos",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-129",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla se denomina en la Ley:",
+      "options": [
+        "procedimiento administrativo",
+        "acto administrativo",
+        "expediente administrativo",
+        "recurso administrativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-130",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El procedimiento, sometido al principio de celeridad, se impulsará de oficio...",
+      "options": [
+        "en todos sus trámites",
+        "a través de medios electrónicos",
+        "respetando los principios de transparencia y publicidad",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-131",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Las cuestiones incidentales en un procedimiento:",
+      "options": [
+        "paralizan el mismo hasta su resolución",
+        "no paralizan el procedimiento, salvo la recusación",
+        "serán resueltas inmediatamente paralizando la tramitación",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-132",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los actos de instrucción, necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución:",
+      "options": [
+        "se realizarán de oficio y a través de medios electrónicos",
+        "se realizan por el órgano que tramite el procedimiento",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-133",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Adoptar las medidas necesarias para lograr el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento corresponde .....",
+      "options": [
+        "al órgano instructor",
+        "al propio interesado",
+        "al órgano resolutorio",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-134",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio...",
+      "options": [
+        "en cualquier momento del procedimiento",
+        "durante la fase de iniciación del procedimiento",
+        "durante la fase de ordenación del procedimiento",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-135",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El plazo del período de prueba señalado en el artículo 77 de la Ley 39/2015, será:",
+      "options": [
+        "por plazo no superior a 30 ni inferior a 10 días",
+        "por plazo no superior a 20 ni inferior a 10 días",
+        "por plazo no superior a 15 ni inferior a 10 días",
+        "por plazo no inferior a 20 ni superior a 30 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-136",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Sobre las pruebas propuestas por los interesados en un procedimiento:",
+      "options": [
+        "el instructor sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada",
+        "en los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vinculan a las administraciones públicas respecto de los procedimientos sancionadores que substancien",
+        "cuando la prueba consista en la emisión de un informe de un órgano administrativo, se entenderá que éste tiene carácter preceptivo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-137",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "En relación a la emisión de informes, que establece la Ley de Procedimiento Administrativo:",
+      "options": [
+        "salvo disposición expresa en contrario, los informes serán facultativos y vinculantes",
+        "los informes serán emitidos a través de medios telemáticos",
+        "serán emitidos en el plazo de 20 días, salvo que una disposición establezca otro plazo mayor o menor",
+        "de no emitirse el informe en el plazo señalado, se podrán proseguir actuaciones salvo que el informe fuera preceptivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-138",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El informe emitido fuera de plazo...",
+      "options": [
+        "no podrá ser tenido en cuenta",
+        "podrá no ser tenido en cuenta",
+        "será tenido en cuenta, asumiendo la responsabilidad el órgano administrativo que debiera de haberlo realizado",
+        "no será tenido en cuenta, y conlleva la responsabilidad disciplinaria oportuna"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-139",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "Respecto del trámite de audiencia, señale la respuesta correcta:",
+      "options": [
+        "los interesados podrán alegar en un plazo no inferior a 5 ni superior a 15 días, los documentos y justificaciones que estimen pertinentes",
+        "si antes del vencimiento de plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones, se tendrá por realizado el trámite",
+        "se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por la administración",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-140",
+      "superblock": "Título I: Derechos y Deberes Fundamentales",
+      "subblock": "Título I - Test Principal",
+      "question": "El desistimiento, según la Ley 39/2015...",
+      "options": [
+        "puede producirse por la administración, en procedimientos iniciados de oficio",
+        "puede producirse por el interesado, y se refiere a su solicitud",
+        "puede hacerse por cualquier medio que permita su constancias",
+        "todas las respuestas son correctas TEST TÍTULO IV – DISPOSICIONES SOBRE EL PROCEDTO ADVO COMÚN SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-141",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "El objeto de la Ley 39/2015 es, entre otros -señale la respuesta correcta-:",
+      "options": [
+        "regular los requisitos de eficacia y eficiencia de los actos administrativos",
+        "regular el procedimiento administrativo común de la administración general del estado y, con carácter supletorio, el del resto de las administraciones públicas",
+        "regular el procedimiento sancionador de las administraciones públicas",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-142",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "Dentro del objeto de la Ley 39/2015 del P.A.C. se encuentran los principios a los que se ha de ajustar:",
+      "options": [
+        "el ejercicio de la iniciativa legislativa y la potestad reglamentaria",
+        "el ejercicio de la potestad legislativa y la iniciativa reglamentaria",
+        "el ejercicio de la capacidad de disposiciones administrativas y la potestad jurisdiccional de la administración",
+        "el control de la iniciativa legislativa y el control previo a la jurisdicción de la potestad reglamentaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-143",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "En la Ley 39/2015 se establece que, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento podrán incluirse trámites adicionales o distintos de los contemplados en esta Ley. Todo ello habrá de hacerse:",
+      "options": [
+        "sólo mediante ley",
+        "de manera motivada",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-144",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "Las especialidades del procedimiento referidas a los órganos competentes, plazos propios del concreto procedimiento por razón la materia, formas de iniciación y terminación, publicación e informes a recabar podrán establecerse mediante:",
+      "options": [
+        "sólo mediante ley",
+        "sólo mediante ley orgánica",
+        "podrán establecerse reglamentariamente",
+        "mediante resolución del responsable de cada procedimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-145",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "Comprende el sector público, según el art.2 de la Ley 30/2015 del P.A.C.:",
+      "options": [
+        "las administraciones de las ccaa",
+        "el sector público institucional",
+        "las entidades que integran la administración local",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-146",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "Integran el sector público institucional, a tenor de lo que establece la Ley 39/2015 del P.A.C.:",
+      "options": [
+        "las universidades públicas",
+        "entidades de derecho privado vinculadas a las administraciones públicas",
+        "las entidades de derecho privado dependientes de las administraciones públicas",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-147",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "La Ley 39/2015 tiene en su totalidad...",
+      "options": [
+        "seis títulos, incluido el preliminar",
+        "un título preliminar y seis títulos más",
+        "cinco títulos, y otro más preliminar",
+        "un título preliminar y diez títulos más"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-148",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "Todas las Administraciones divulgarán, para recoger todas las propuestas con rango de ley o de reglamento que vayan a ser elevadas para su aprobación el año siguiente.",
+      "options": [
+        "habrán de hacer público un registro anual de normas",
+        "deberán divulgar un plan normativo anual",
+        "habrán de publicar un sistema inter registral anual",
+        "deberán dar divulgación a un informe normativo sectorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-149",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "El sector público institucional se integra por las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas, que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, y en todo caso, cuando ejerzan:",
+      "options": [
+        "potestades administrativas",
+        "potestades normativas",
+        "potestades legislativas",
+        "todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-150",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test Principal",
+      "question": "No tienen la consideración de Administraciones Públicas, a tenor de lo que establece el artículo 2 de la ley 30/2015...",
+      "options": [
+        "las universidades públicas",
+        "las entidades que integran la administración local",
+        "las administraciones de las comunidades autónomas",
+        "todas las anteriores son administraciones públicas TEST TÍTULO PRELIMINAR SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-151",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en :",
+      "options": [
+        "20 días",
+        "25 días",
+        "30 días",
+        "45 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-152",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "En la revisión de actos y disposiciones nulos, cuando el procedimiento se hubiera iniciado de oficio, producirá la caducidad del mismo el transcurso sin resolución del plazo de:",
+      "options": [
+        "tres meses",
+        "un mes",
+        "60 días",
+        "6 meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-153",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Con carácter general, la interposición de un recurso administrativo...",
+      "options": [
+        "no suspende la ejecución del acto impugnado",
+        "si comete un error o ausencia de calificación por parte del recurrente será obstáculo para su tramitación, en todo caso",
+        "habrá de hacer constar, entre otros, el acto que se recurre y la razón de su impugnación",
+        "a y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-154",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "La administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiendose personado en elmismo terceros interesados, instasen estos su continuación en el plazo de:",
+      "options": [
+        "un mes desde que fueron notificados del desistimiento o renuncia",
+        "veinte días desde que fueron notificados del desistimiento o renuncia",
+        "quince días desde que fueron notificados del desistimiento o renuncia",
+        "diez días desde que fueron notificados del desistimiento o renuncia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-155",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la administración leadvertirá que se producirá la caducidad del procedimiento, transcurrido:",
+      "options": [
+        "un mes",
+        "tres meses",
+        "seis meses",
+        "un año"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-156",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso de alzada se presentará:",
+      "options": [
+        "ante el superior jerárquico del órgano que dictó el acto",
+        "ante el tribunal contencioso competente",
+        "ante el órgano que dictó el acto",
+        "indistintamente, ante el órgano que dictó el acto o el superior jerárquico que deba decidirlo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-157",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "La resolución presunta del recurso de alzada se dará, si no recaeresolución al/a los:",
+      "options": [
+        "quince días de interponerlo",
+        "mes de su interposición",
+        "tres meses de dictarse el acto",
+        "en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-158",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso extraordinario de revisión se interpone contra:",
+      "options": [
+        "cualquier acto administrativo",
+        "actos que no agotan la vía administrativa",
+        "los actos que agotan la vía administrativa",
+        "los actos firmes exclusivamente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-159",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso extraordinario de revisión por manifiesto error de hecho debe plantearse:",
+      "options": [
+        "a los 3 meses desde que se produjo",
+        "a los 4 años desde que se conoció",
+        "dentro de los 4 años desde la notificación del acto",
+        "no puede darse nunca aisladamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-160",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Se puede sustituir en determinados supuestos por procedimientos demediación y arbi- traje el:",
+      "options": [
+        "recurso de alzada",
+        "recurso de revisión",
+        "recurso de reposición",
+        "las respuestas a y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-161",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "La resolución de un recurso:",
+      "options": [
+        "debe circunscribirse a lo solicitado por el recurrente",
+        "resolverá cuantas cuestiones se deduzcan del expediente",
+        "no es necesario que se motive",
+        "debe aceptar las razones en que se fundamente el propio recurso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-162",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Como consecuencia del principio de congruencia, al resolver un recurso,la administración pública:",
+      "options": [
+        "podrá agravar la situación inicial del recurrente",
+        "deberá ajustarse a las peticiones del recurrente",
+        "lo desestimará manteniendo el acto administrativo",
+        "solo decidirá sobre las cuestiones planteadas por el recurrente sin entrar en otras que deriven del procedimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-163",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso de revisión es:",
+      "options": [
+        "unitario",
+        "ordinario",
+        "especial",
+        "extraordinario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-164",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Para que pueda entablarse un recurso extraordinario de revisión por error de hecho, este:",
+      "options": [
+        "ha de ser declarado por sentencia judicial firme",
+        "ha de haberse adoptado por cohecho",
+        "ha de derivar de documentos habidos en el expediente",
+        "nada de lo anterior es cierto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-165",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El plazo máximo para dictar y notificar la resolución de un recurso de reposición será de:",
+      "options": [
+        "un mes",
+        "dos meses",
+        "tres meses",
+        "seis meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-166",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "¿Qué tipo de recurso cabe contra el acuerdo de aplicación de la tramitación de urgencia al procedimiento?",
+      "options": [
+        "no cabe recurso",
+        "recurso de alzada",
+        "recurso extraordinario de revisión",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-167",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso extraordinario de revisión habrá de resolverse en plazo de:",
+      "options": [
+        "un mes",
+        "dos meses",
+        "tres meses",
+        "seis meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-168",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Las resoluciones y actos que no pongan fin a la vía administrativa podrán ser recurridas...",
+      "options": [
+        "en reposición, ante la autoridad que dictó dicha resolución",
+        "en alzada ante el órgano superior jerárquico del que los dictó",
+        "en revisión, siempre que hubiera pasado el plazo de recurrir en reposición",
+        "en revisión, solamente cuando se haya pasado el plazo de recurso en alzada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-169",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos...",
+      "options": [
+        "potestativamente, en reposición",
+        "directamente ate el orden judicial contencioso-advo",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-170",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El plazo máximo para dictar y notificar la resolución del recurso de reposición será de:",
+      "options": [
+        "un mes.",
+        "dos meses",
+        "tres meses o 4 años",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-171",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Contra la resolución de un acto que en la misma se haya dictad como consecuencia de prevaricación, y se haya declarado así en virtud de sentencia judicial firme, el plazo del oportuno recurso de revisión será, en cuanto a su presentación:",
+      "options": [
+        "tres meses",
+        "un mes",
+        "cuatro años",
+        "seis meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-172",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Transcurridos 3 meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución,, se entenderá....",
+      "options": [
+        "desestimado",
+        "estimado",
+        "desestimado, quedando la opción de recurso de súplica",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-173",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Cuando el acto a recurrir sea expreso, y el recurso a presentar fuera reposición, el plazo para presentar dicho recurso",
+      "options": [
+        "tres meses",
+        "dos meses",
+        "un mes",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-174",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "Contra la resolución de un recurso de alzada ....",
+      "options": [
+        "no cabe ningún otro recurso administrativo, salvo revisión en los casos establecidos",
+        "sólo cabe recurso potestativo de reposición",
+        "cabe excepcionalmente, recurso de súplica",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t11-175",
+      "superblock": "Tema 11",
+      "subblock": "TEST TÍTULO V . De la revisión de los actos en vía administrativa",
+      "question": "El recurso de alzada podrá interponerse...",
+      "options": [
+        "ante el órgano que dictó el acto impugnado",
+        "ante el órgano competente para resolverlo",
+        "ante el ministro competente",
+        "a y b son correctas TEST TÍTULO V . De la revisión de los actos en vía administrativa SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

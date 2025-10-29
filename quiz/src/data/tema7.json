@@ -1,0 +1,1057 @@
+{
+  "module": "Tema 7",
+  "title": "Tema 7",
+  "totalQuestions": 75,
+  "questions": [
+    {
+      "id": "t7-1",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "El número máximo de consejeros en el Consejo de Gobierno de Castilla y León se establece en la Ley de Gobierno y Administración en:",
+      "options": [
+        "15",
+        "10",
+        "12",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-2",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Según el Estatuto de Autonomía, el mandato de los Procuradores de CL será de:",
+      "options": [
+        "6 años",
+        "4 años",
+        "3 años",
+        "lo que establezca el presidente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-3",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "El Presidente de la Junta será elegido para el cargo en:",
+      "options": [
+        "elecciones autonómicas",
+        "consejo de gobierno de la comunidad de cl",
+        "cortes de castilla león",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-4",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Las disposiciones administrativas de la Junta se denominan legalmente....",
+      "options": [
+        "acuerdos",
+        "decretos",
+        "decretos-leyes",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-5",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "El órgano de representación del pueblo de Castilla y León es:",
+      "options": [
+        "delegado de gobierno",
+        "cortes de cl",
+        "presidente junta",
+        "junta cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-6",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Una de las siguientes afirmaciones es correcta:",
+      "options": [
+        "se podrá presentar al cargo de presidente de la junta de cl cualquier ciudadano de la comunidad autónoma, siempre y cuando tenga nacionalidad de la Unión Europea",
+        "se podrá acceder al cargo de presidente de la junta de cl sin tener la condición de procurador de las cortes de cl, aunque se exige titulación superior universitaria",
+        "la moción de censura es el instrumento fundamental para la exigencia de la responsabilidad política del presidente de la junta ante las cortes de cl",
+        "el no de procuradores habrá en todo caso de no ser superior a 60 miembros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-7",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Resolver conflictos de atribuciones entre Consejerías es función de:",
+      "options": [
+        "consejero de presidencia",
+        "consejero de mayor antigüedad",
+        "viceconsejero de admones. públicas",
+        "presidente de la junta de cl"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-8",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "El Secretario General de una Consejería tiene, entre otras competencias:",
+      "options": [
+        "prestar asistencia técnica al consejero en asuntos que estime conveniente",
+        "ejercer el control de eficacia y la inspección de la consejería",
+        "elaborar el anteproyecto de presupuesto correspondiente a la consejería",
+        "todas las competencias anteriores corresponden al secretario general"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-9",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Son órganos directivos periféricos de la Administración de CL:",
+      "options": [
+        "viceconsejeros",
+        "secretario gral.",
+        "dirección general",
+        "delegado territorial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-10",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Según el Estatuto no podrán ser objeto de delegación legislativa:",
+      "options": [
+        "las ratificaciones de convenios que la junta concluya con otras ccaa",
+        "el régimen electoral de la comunidad",
+        "establecer y exigir tributos, de acuerdo con la constitución, el estatuto y las leyes",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-11",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "La entidad local básica de la organización territorial de CL es:",
+      "options": [
+        "provincia",
+        "comarca",
+        "áreas metropolitanas",
+        "municipio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-12",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Las comisiones delegadas de la Junta habrán de ser creadas para el desempeño de cualquier actividad que se le encomiende. Corresponde su creación a:",
+      "options": [
+        "junta cl",
+        "pte junta",
+        "cortes cl",
+        "presidente cortes cl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-13",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "La duración del mandato del Procurador del Común en Castilla y León es de:",
+      "options": [
+        "6 años",
+        "5 años",
+        "4 años",
+        "3 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-14",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Las resoluciones de la Junta reciben la denominación de:",
+      "options": [
+        "proposiciones",
+        "proyectos",
+        "decretos",
+        "acuerdos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-15",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Los reglamentos en C.L., como norma para la ejecución de las leyes, son aprobados:",
+      "options": [
+        "decreto-legislativo",
+        "decreto-ley",
+        "decreto",
+        "orden de consejería"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-16",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "La creación de comarcas en C.L. se hará ....",
+      "options": [
+        "por decreto de la junta",
+        "por ley de las cortes de c.l.",
+        "por decreto legislativo",
+        "todas las anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-17",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "Aprobar la estructura orgánica de la Administración de C.L. ...",
+      "options": [
+        "consejero",
+        "junta",
+        "cortes",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-18",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "La reforma del estatuto de autonomía de C.L. ....",
+      "options": [
+        "la plantea la junta o el 1/3 de los procuradores de las cortes de c.l.",
+        "deberá ser aprobada siempre por las cortes generales y por las cortes de cl",
+        "supone una nueva l.o, y por tanto forma parte del ordenamiento jurídico español",
+        "todas las anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-19",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "La sede de las instituciones de autogobierno de C.L. se establece....",
+      "options": [
+        "por decreto de la junta",
+        "ley de las cortes grales.",
+        "decreto-legislativo cortes c.l.",
+        "ley cortes c.l."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-20",
+      "superblock": "Tema 7",
+      "subblock": "TEST 1. TEMA 7.",
+      "question": "El órgano de gobierno y administración de la Comunidad de CL es:",
+      "options": [
+        "pte.junta",
+        "consejero presidencia",
+        "junta cl",
+        "comisión paritaria TEST 1. TEMA 7. SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-21",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Las Cortes de CL pueden transferir competencias a Diputaciones y Ayuntamientos mediante Ley que exige para su aprobación mayoría:",
+      "options": [
+        "simple",
+        "2/3",
+        "absoluta",
+        "3/5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-22",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La propuesta de una moción de censura en las Cortes de CL corresponde a:",
+      "options": [
+        "10% procuradores",
+        "20% procuradores",
+        "mayoría simple",
+        "15% procuradores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-23",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Según el Estatuto de Autonomía, la creación de comarcas en CL habrá de efectuarse:",
+      "options": [
+        "mediante decreto de la junta de cl",
+        "mediante ley de cortes de cl",
+        "mediante ley orgánica de cortes grales",
+        "orden del consejo de presidencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-24",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Autorizar la celebración de convenios de cooperación con otras CCAA corresponde en la Comunidad Autónoma de CL:",
+      "options": [
+        "cortes c.l",
+        "pte. junta",
+        "junta",
+        "cortes generales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-25",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La potestad reglamentaria según el Estatuto de Autonomía es controlada por:",
+      "options": [
+        "cortes de c.l.",
+        "tribunales ordinarios",
+        "administración c.l",
+        "todas las anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-26",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "El control de la acción política y de gobierno de la Junta de CL compete a:",
+      "options": [
+        "cortes de cl",
+        "consejo consultivo",
+        "consejo de estado",
+        "tribunales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-27",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Los decretos leyes deberán ser convalidados o derogados por las Cortes de CL en el improrrogable plazo, desde su promulgación, de:",
+      "options": [
+        "10 días",
+        "20 días",
+        "30 días",
+        "60 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-28",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "El nombramiento de los consejeros se produce en Castilla y León mediante:",
+      "options": [
+        "decreto del presidente de la junta",
+        "decreto de la junta",
+        "orden de la consejería",
+        "ley de las cortes de castilla y león"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-29",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La delegación legislativa será efectuada por las Cortes de Castilla y León a....",
+      "options": [
+        "a la junta de castilla y león",
+        "al presidente de la junta",
+        "a la junta o a su presidente",
+        "a las comisiones delegadas de la junta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-30",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Los Consejeros presentarán a la Junta de Castilla y León, o llevarán al Consejo de Gobierno...",
+      "options": [
+        "anteproyectos de decreto y proyectos de ley en materia de su departamento",
+        "proyectos de ley y anteproyectos de reglamento, en materia de su departamento",
+        "anteproyectos de ley, y proyectos de decreto, en materia de su departamento",
+        "proyectos de estatuto y anteproyectos de normas en materia de su departamento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-31",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Interponer el recurso de inconstitucionalidad lo atribuye el estatuto de autonomía, a:",
+      "options": [
+        "cortes de c.l.",
+        "junta de c.l.",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-32",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La composición de la Junta de C.L. habrá de ser regulada:",
+      "options": [
+        "por ley de las cortes de c.l.",
+        "por ley de las cortes generales",
+        "por el estatuto de autonomía de c.l.",
+        "por decreto de la propia junta de c.l."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-33",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "El órgano de comunicación de la Consejería es:",
+      "options": [
+        "secretario general",
+        "consejero",
+        "el viceconsejero, en su caso",
+        "el director general correspondiente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-34",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La existencia de Viceconsejerías en la Administración de CL tiene carácter:",
+      "options": [
+        "facultativo",
+        "preceptivo",
+        "obligatorio",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-35",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "El control externo y la fiscalización de las cuentas de la Administración de la Comunidad Autónoma de CL corresponde según el Estatuto de Autonomía:",
+      "options": [
+        "junta cl",
+        "consejo de cuentas",
+        "consejero economía",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-36",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La delegación legislativa será efectuada por las Cortes de Castilla y León....",
+      "options": [
+        "mediante ley",
+        "mediante decreto",
+        "mediante decreto ley",
+        "mediante decreto legislativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-37",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "La ejecución del Presupuesto de la Comunidad de CL una vez aprobado el mismo en el modo normativo exigido, compete, según el Estatuto de Autonomía de CL a:",
+      "options": [
+        "pte. junta",
+        "junta de cl",
+        "cortes de cl",
+        "consejo de cuentas de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-38",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Corresponde a la Junta de Castilla y León, según la normativa autonómica:",
+      "options": [
+        "ejercer la función ejecutiva y la potestad reglamentaria",
+        "dirigir la administración de la comunidad autónoma de castilla y león",
+        "las respuestas a y b son correctas",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-39",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "A los efectos de la ley 3/2001, la Administración de la Comunidad de Castilla y León se integra por:",
+      "options": [
+        "administración general",
+        "administración institucional",
+        "administración central y local",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-40",
+      "superblock": "Tema 7",
+      "subblock": "TEST 2. TEMA 7.",
+      "question": "Ostentar la suprema representación de la Comunidad Autónoma de CL compete a:",
+      "options": [
+        "cortes cl",
+        "presidente de la junta cl",
+        "delegado gobierno",
+        "todas falsas TEST 2. TEMA 7. SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-41",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "La creación de Gabinetes de apoyo al Consejero se realizará mediante:",
+      "options": [
+        "decreto de la junta de cl",
+        "orden de la consejería correspondiente",
+        "ley de las cortes de cl",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-42",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Uno de los mencionados no es órgano directivo de la Administración de CL:",
+      "options": [
+        "viceconsejero",
+        "secretario gral.",
+        "delegado territorial",
+        "todos lo son"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-43",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "A la Junta de CL corresponde nombrar y cesar los cargos de la Administración de CL con categoría igual o superior a la de:",
+      "options": [
+        "secretario general",
+        "director general",
+        "subdirector general",
+        "director provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-44",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "La Junta de CL remite para su aprobación por las Cortes de CL, en su caso:",
+      "options": [
+        "proposiciones de ley",
+        "proyectos de ley",
+        "decretos-ley",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-45",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "El Presidente de la Junta de Castilla y León ostenta además la condición de.....",
+      "options": [
+        "presidente de las cortes de castilla y león",
+        "presidente del tribunal superior de justicia de cl",
+        "presidente de la comunidad de castilla y león",
+        "delegado del gobierno para castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-46",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Los decretos leyes, en Castilla y León....",
+      "options": [
+        "son normas con rango de ley",
+        "son aprobados por la junta, en casos de extraordinaria y urgente necesidad",
+        "tienen su límite hacia diversas materias, y en todo caso los convalidan las cortes de cl para dejar su provisionalidad",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-47",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Una de estas afirmaciones es correcta:",
+      "options": [
+        "la junta de cl ostenta la función ejecutiva y la potestad reglamentaria",
+        "el presidente de la junta de cl es un procurador elegido por las cortes en el acto que se denomina voto o moción de investidura",
+        "el consejo de gobierno de la comunidad es presidido por el presidente de la junta de cl",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-48",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "La Administración de CL podría tener en algunas poblaciones que no capital de provincia oficinas abiertas al público cuando dicha necesidad se efectúe mediante:",
+      "options": [
+        "orden del consejero respectivo",
+        "ley de las cortes de cl",
+        "decreto de la junta",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-49",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Solicitar del gobierno la adopción de un proyecto de ley, o remitir a la mesa del Congreso de los Diputados una proposición de Ley corresponde en C.L:",
+      "options": [
+        "cortes de c.l.",
+        "presidente de la junta de cl",
+        "junta de cl",
+        "a y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-50",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Las Comisiones Delegadas de la Junta de CL habrán de ser creadas por:",
+      "options": [
+        "presidente junta",
+        "consejo gobierno",
+        "pleno cortes cl",
+        "ley de cortes de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-51",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "La representación de cada consejería, por delegación del Consejero, compete a:",
+      "options": [
+        "viceconsejero en todo caso",
+        "secretario general",
+        "director general más antiguo",
+        "delegado del gobierno en cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-52",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "El número máximo de miembros de la Junta de Castilla y León se establece normativamente:",
+      "options": [
+        "en el estatuto de autonomía",
+        "por decreto del presidente de la junta",
+        "en la ley 3/2001 de gobierno de cl",
+        "no se establece número máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-53",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Son órganos directivos periféricos de la Administración de CL:",
+      "options": [
+        "departamentos territoriales",
+        "delegados territoriales",
+        "servicios",
+        "subdelegados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-54",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Para el ejercicio de las atribuciones de la Junta, sus miembros se reúnen en:",
+      "options": [
+        "consejo de ministros y comisiones delegadas",
+        "consejo de gobierno y pleno",
+        "consejo de gobierno y comisiones delegadas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-55",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "En materia de expropiación forzosa, corresponde a la Junta de CL:",
+      "options": [
+        "declarar la urgencia de la misma",
+        "regular todo lo susceptible de expropiación",
+        "determinar qué bienes pueden serlo",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-56",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Las deliberaciones del Consejo de Gobierno en CL serán:",
+      "options": [
+        "públicas, a petición del presidente de la junta",
+        "secretas",
+        "a puerta abierta, sólo para ciudadanos de cl",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-57",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "El Secretario de la Junta será nombrado para tal cargo por:",
+      "options": [
+        "presidente junta",
+        "consejero de presidencia",
+        "consejero de hacienda",
+        "vicepresidente junta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-58",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "El Consejo de gobierno de CL estará asistido de:",
+      "options": [
+        "las comisiones delegadas que cree el propio consejo de gobierno de cl",
+        "una comisión formada por los secretarios generales de las distintas consejerías",
+        "una comisión de consejeros, que al menos represente el 50% de los de la junta",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-59",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "El Decreto de creación de las Comisiones Delegadas, en la Administración de CL:",
+      "options": [
+        "deberá contener al menos los miembros de la junta que la integren",
+        "deberá contener qué miembros la integran, incluso sin pertenecer a la junta",
+        "deberá contener quién preside y que funciones tiene dicha comisión",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-60",
+      "superblock": "Tema 7",
+      "subblock": "TEST 3. TEMA 7.",
+      "question": "Los Consejeros inician su mandato ...",
+      "options": [
+        "en el momento de su toma de posesión ante las cortes de cl",
+        "en el momento de su toma de posesión ante el presidente de la junta",
+        "en el momento de su toma de posesión ante las cortes de cl y del pte.junta",
+        "cuando así lo determine el presidente en el nombramiento que efectúa en el bocyl TEST 3. TEMA 7. SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-61",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Corresponde a cada uno de los Consejeros de la Junta de CL:",
+      "options": [
+        "aprobar el anteproyecto del presupuesto de su consejería",
+        "resolver recursos y reclamaciones que le correspondan",
+        "ejercer la potestad reglamentaria de la administración de cl",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-62",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Los Vicepresidentes de la Junta de CL tienen las mismas incompatibilidades que:",
+      "options": [
+        "procuradores de cortes de cl",
+        "consejeros",
+        "presidente junta",
+        "b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-63",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "En caso de ausencia, vacante o enfermedad, los Vicepresidentes y los Consejeros serán sustituidos en el ejercicio de sus funciones por:",
+      "options": [
+        "presidente de la junta",
+        "cualquier procurador elegido por el pte. junta",
+        "otro miembro de la junta designado por el pte",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-64",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "En sus relaciones con otras Administraciones Públicas, la Administración de Castilla y León actúa de acuerdo con los principios de:",
+      "options": [
+        "cooperación y coordinación",
+        "respeto de competencias",
+        "subsidiariedad y ponderación de intereses públicos",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-65",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Ordenar la publicación en el BOCyL de los nombramientos de altos cargos del Estado en Castilla y León compete en la comunidad autónoma a:",
+      "options": [
+        "delegado de gobierno",
+        "presidente de la junta",
+        "la junta de castilla y león",
+        "presidente de las cortes de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-66",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Los elementos organizativos básicos de la estructura orgánica de la Administración de la Comunidad de Castilla y León se denominan en la Ley:",
+      "options": [
+        "direcciones generales",
+        "secretaría general",
+        "unidades administrativas",
+        "subdirección general"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-67",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "No es función del Presidente de la Junta de Castilla y León:",
+      "options": [
+        "velar por el cumplimiento de las decisiones de la junta, ordenando su ejecución",
+        "asegurar la coordinación entre las distintas consejerías y resolver conflictos de atribuciones entre las diversas autoridades de las consejerías",
+        "firmar los acuerdos de la junta y ordenar, en su caso, la publicación en el bocyl",
+        "todas las funciones anteriores corresponden al presidente de la junta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-68",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Si resultara denegada la confianza de las Cortes de CL al presidente de la Junta en el voto de la moción correspondiente...",
+      "options": [
+        "el presidente disolverá las cortes de castilla y león y convocará elecciones autonómicas",
+        "se disolverán las cortes de castilla y león pero no habrá convocatoria de elecciones, sino nueva moción de investidura para elegir otro candidato a la presidencia de la Junta",
+        "la junta de castilla y león cesará, encabezada por su presidente, y las cortes procederán a elegir un nuevo presidente de la comunidad de cl en el modo previsto en el estatuto",
+        "la confianza no se puede denegar en ningún caso. el cese del presidente se produce sólo por aprobación de una moción de censura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-69",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Es función de la Junta de Castilla y León:",
+      "options": [
+        "acordar la interposición de un recurso de inconstitucionalidad",
+        "el planteamiento de conflictos de competencia con el estado u otras comunidades autónomas",
+        "la personación ante el tribunal constitucional en los casos previstos, y por su propia iniciativa o por acuerdo de las Cortes de Castilla y León",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-70",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "En caso de ausencia del Secretario de la Junta, el sustituto del mismo será:",
+      "options": [
+        "el miembro de la junta que decida su presidente",
+        "el consejero de más edad",
+        "el consejero más joven",
+        "el vicepresidente primero de la junta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-71",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Es función del Consejero una de las que aparecen a continuación:",
+      "options": [
+        "ostentar la jefatura superior del personal de la consejería",
+        "formular el proyecto de presupuesto de la consejería",
+        "ostentar la representación de la consejería por delegación del presidente",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-72",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Suscitar conflictos de atribuciones con otras consejerías corresponde, según la Ley 3/2001:",
+      "options": [
+        "secretarios generales de cada consejería",
+        "viceconsejeros respectivos",
+        "delegados territoriales respectivos",
+        "consejero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-73",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Para que las reuniones de la Junta sean válidas la normativa exige que en la sesión correspondiente de la misma estén presentes al menos el Presidente, o quien legalmente le sustituya, y al menos:",
+      "options": [
+        "la mitad de los consejeros",
+        "una tercera parte de consejeros",
+        "la mayoría de los consejeros",
+        "una cuarta parte de consejeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-74",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "Una de las respuestas que se ofrece es correcta; señálela:",
+      "options": [
+        "la junta de castilla y león cesará cuando lo haga su presidente",
+        "la junta de castilla y león, cuando se encuentre en funciones, limita su gestión al despacho ordinario de asuntos públicos absteniéndose de adoptar en todo caso cualesquiera otras medidas",
+        "la junta de castilla y león, cuando se encuentre en funciones, sólo podrá aprobar el proyecto de ley de presupuestos en casos de extraordinaria y urgente necesidad",
+        "la junta de castilla y león, cuando se encuentre en funciones, sólo podrá presentar proyectos de ley a las cortes de castilla y león en los dos primeros meses de encontrarse en dicha situación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t7-75",
+      "superblock": "Tema 7",
+      "subblock": "TEST 4. TEMA 7.",
+      "question": "No es función de la Junta de Castilla y León ...",
+      "options": [
+        "resolver los recursos en vía contencioso administrativa que le atribuyan las leyes",
+        "autorizar, en su caso, el ejercicio de acciones judiciales, su desistimiento y el allanamiento procesal",
+        "autorizar contratos en los supuestos legalmente previstos, así como determinar el órgano de contratación cuando los mismos afecten a varias consejerías",
+        "todas las anteriores son funciones de la junta de castilla y león TEST 4. TEMA 7. SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

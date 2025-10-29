@@ -1,0 +1,1407 @@
+{
+  "module": "Tema 26",
+  "title": "Tema 26",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": "t26-1",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "La normativa por la que, por la que se adapta la normativa de prevención de riesgos laborales a la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos es:",
+      "options": [
+        "el decreto 101/2005, de 24 de noviembre",
+        "el decreto 80/2013, de 26 de diciembre",
+        "la ley 31/1995, de 8 de noviembre",
+        "la orden hac/205/2015, de 23 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-2",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "En cada provincia existirá:",
+      "options": [
+        "un comité de seguridad y salud de administración general y organismos autónomos, un Comité de Seguridad y Salud en el ámbito educativo y otro más, de área sanitaria, en el ámbito de la Gerencia Regional de Salud.",
+        "un comité de seguridad y salud de administración general y organismos autónomos.",
+        "en cada provincia existirá un comité de seguridad y salud de administración general y organismos autónomos y un comité de seguridad y salud en el ámbito sanitario.",
+        "tantos comités de seguridad y salud de administración general y organismos autónomos, como centros de trabajo existan en ella."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-3",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "La Ley 31/95 de Prevención de Riesgos Laborales en su art. 15 establece los principios de la acción preventiva, señalar cual de loa siguientes es falso:",
+      "options": [
+        "evitar los riesgos",
+        "adaptar el trabajo al apersona, así como la elección del equipo y los métodos de trabajo",
+        "evaluar los riesgos que no se puedan evitar",
+        "adoptar las medidas que antepongan la protección individual a la colectiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-4",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según el articulo 2 de la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos Laborales, las disposiciones de carácter laboral contenidas en esta ley y en sus normas reglamentarias de desarrollo, tendrán la condición de:",
+      "options": [
+        "derecho supletorio",
+        "derecho general",
+        "derecho necesario, mínimo e indisponible, pudiendo ser mejorado por los convenios colectivos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-5",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "\"El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados\", a efectos de la Ley 31/1995, es la definición de:",
+      "options": [
+        "servicio de salud",
+        "comité de seguridad y salud",
+        "delegados de prevención",
+        "servicio de prevención"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-6",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "La actuación preventiva en el ámbito personal, funcional y territorial de la Administración General de la Comunidad de Castilla y León y de sus Organismos Autónomos, salvo en el ámbito de las Gerencias de Salud de Área de la Gerencia Regional de Salud, se realizará mediante servicios de prevención propios con las especialidades y disciplinas preventivas de:",
+      "options": [
+        "medicina del trabajo y seguridad en el trabajo.",
+        "higiene industrial y medicina del trabajo.",
+        "ergonomía y psicosociología aplicada",
+        "higiene industrial, ergonomía y psicosociología aplicada, medicina del trabajo y seguridad en el trabajo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-7",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según los dispuesto en la Ley 31/1995, de Prevención de Riesgos Laborales, el Comité de Seguridad y Salud:",
+      "options": [
+        "se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo",
+        "ejercerá, entre otras, la función de vigilancia y control de la normativa sobre prevención de riesgos laborales",
+        "se constituirá en todas las empresas o centros de trabajo que cuenten con 250 o más trabajadores",
+        "prestará apoyo técnico especializado en materia de certificación, ensayo y acreditación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-8",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Cada empleado público designado para colaborar en tareas de prevención, con independencia de su vínculo jurídico con la Administración, dispondrá de un tiempo de dedicación, dentro de su jornada ordinaria, que inicialmente se fija en:",
+      "options": [
+        "4 días al mes en la consejería u organismo autónomo de servicios centrales o en servicio territorial o equivalente, con 30 o más centros de trabajo. 2 días al mes en la Consejería u Organismo Autónomo de servicios centrales o en servicio territorial o equivalente los que cuenten con menos de 30 centros de trabajo.",
+        "4 días al mes en la consejería u organismo autónomo de servicios centrales o en servicio territorial o equivalente, con 50 o más centros de trabajo. 2 días al mes en la Consejería u Organismo Autónomo de servicios centrales o en servicio territorial o equivalente los que cuenten con menos de 50 centros de trabajo",
+        "5 días al mes en la consejería u organismo autónomo de servicios centrales o en servicio territorial o equivalente, con 30 o más centros de trabajo. 3 días al mes en la Consejería u Organismo Autónomo de servicios centrales o en servicio territorial o equivalente los que cuenten con menos de 30 centros de trabajo",
+        "5 días al mes en la consejería u organismo autónomo de servicios centrales o en servicio territorial o equivalente, con 50 o más centros de trabajo. 3 días al mes en la Consejería u Organismo Autónomo de servicios centrales o en servicio territorial o equivalente los que cuenten con menos de 50 centros de trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-9",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "1. j) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.",
+      "options": [
+        "comité de seguridad y salud",
+        "mesa sectorial de negociación",
+        "comisión técnica de prevención de riesgos laborales",
+        "instituto nacional de seguridad e higiene"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-10",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según la Ley de Prevención de Riesgos laborales, los datos relativos a la vigilancia de la salud de los trabajadores, podrán ser usados con fines discriminatorios o en perjuicio del trabajador:",
+      "options": [
+        "no",
+        "solo en caso de enfermedades contagiosas",
+        "si, siempre que se notifique al trabajador afectado",
+        "si"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-11",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "La normativa de riesgos laborales no será de aplicación:",
+      "options": [
+        "a los fabricantes, importadores y suministradores y trabajadores autónomos sin perjuicio de sus obligaciones especificas",
+        "a las sociedades cooperativas, en las que existan socios con prestación de su trabajo personal, con las peculiaridades derivadas de su normativa especifica",
+        "a los establecimientos penitenciarios",
+        "fuerzas armadas y actividades militares de la guardia civil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-12",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Las causas más frecuentes de lesiones en el ámbito de oficinas y despachos suelen estar relacionadas con, señale la incorrecta:",
+      "options": [
+        "golpes y caídas",
+        "sobreesfuerzos físicos",
+        "accidentes de tráfico.",
+        "electrocuciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-13",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según el articulo 27 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos Laborales, antes de la incorporación al trabajo de jóvenes menores de 18 años y previamente a cualquier modificación importante de sus condiciones de trabajo, el empresario deberá efectuar:",
+      "options": [
+        "una investigación",
+        "una evaluación de los puestos de trabajo a desempeñar por estos trabajadores",
+        "una actualización",
+        "antes de nada, informar a sus padres o tutores, aunque no intervengan en la contratación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-14",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "El foro de consulta y participación regular y periódica de las actuaciones de la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos en materia de seguridad y salud constituye:",
+      "options": [
+        "la comisión de seguridad y salud",
+        "el comité de prevención de riesgos laborales",
+        "el comité de seguridad y salud.",
+        "ninguna de las anteriores es cierta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-15",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "El incumplimiento de los trabajadores de las obligaciones en materia de prevención de riesgos:",
+      "options": [
+        "dara lugar a su despido inmediato de la empresa o a la pérdida de su condición de funcionario publico",
+        "no lleva aparejada ninguna consecuencia si no se producen resultados perjudiciales",
+        "tendrá consideración de incumplimiento laboral, a los efectos previstos en el art. 58.1 del estatuto de los trabajadores o de falta, en su caso, según la normativa sobre Régimen Disciplinario de los Funcionarios Públicos o del Personal Estatutario al servicio de las Administraciones Públicas.",
+        "ninguna de las anteriores respuestas es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-16",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Los Servicios de Prevención de Riesgos Laborales de las Gerencias de Salud de Área de la Gerencia Regional de Salud:",
+      "options": [
+        "asumen todas las especialidades técnicas -seguridad en el trabajo, higiene industrial y ergonomía/psicosociología aplicada- y la medicina del trabajo. A nivel de Área de Salud, tendrán dependencia funcional de la correspondiente Gerencia de Área, desarrollando sus actividades dentro de su Área, ubicándose, preferentemente, en un centro hospitalario.",
+        "asumen las especialidades técnicas seguridad en el trabajo y la medicina del trabajo. a nivel de área de salud, tendrán dependencia funcional de la correspondiente Gerencia de Área, desarrollando sus actividades dentro de su Área, ubicándose, preferentemente, en un centro hospitalario.",
+        "asumen las especialidades técnicas, higiene industrial y ergonomía/psicosociología aplicada. a nivel de área de salud, tendrán dependencia funcional de la correspondiente Gerencia de Área, desarrollando sus actividades dentro de su Área, ubicándose, preferentemente, en un centro hospitalario.",
+        "asumen todas las especialidades técnicas -seguridad en el trabajo, higiene industrial y ergonomía/psicosociología aplicada- y la medicina del trabajo. A nivel de Área de Salud, tendrán dependencia funcional de la correspondiente Gerencia de Área, desarrollando sus actividades dentro de su Área, ubicándose, preferentemente, en un centro sanitario."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-17",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "El tiempo utilizado por los Delegados de Prevención para el desempeño de sus competencias y facultades será considerado:",
+      "options": [
+        "como tiempo efectivo de trabajo",
+        "como ejercicio de funciones de representación, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente.",
+        "como ejercicio de funciones de participacion, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente",
+        "dichas competencias deberán desarrollarse fuera del horario de trabajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-18",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según el artículo 35 de la Ley 31/1995, de Prevención de Riesgos Laborales, los delegados de prevención serán designados de manera que:",
+      "options": [
+        "de 100 a 500 trabajadores le corresponden 3 delegados",
+        "de 501 a 1000 trabajadores le corresponden 4 delegados",
+        "de 2000 a 3000 trabajadores le corresponden 6 delegados",
+        "de 4000 trabajadores en adelante le corresponden 8 delegados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-19",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "El plan de prevención de riesgos laborales, sigue la estructura establecida por la norma OHSAS 18001:2007, indicándose en el propio plan cinco tipos de documentos, entre los que no se encuentran:",
+      "options": [
+        "los procedimientos generales",
+        "los procedimientos específicos",
+        "los procedimientos específicos por actividad",
+        "las notas técnicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-20",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según el artículo 4 de la Ley 31/1995, de Prevención de Riesgos Laborales, es entenderá como “Riesgo Laboral”:",
+      "options": [
+        "la probabilidad de que un trabajador sufra un determinado daño como consecuencia del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño como consecuencia de sus condiciones personales y del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo",
+        "la posibilidad de que un trabajador se caiga en su casa o en el trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-21",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según el artículo 32 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, las Mutuas Colaboradoras con la Seguridad Social, ¿podrán desarrollar directamente las funciones correspondientes a los servicios de prevención ajenos?",
+      "options": [
+        "no",
+        "sí, en los términos y condiciones que se establezcan en las disposiciones de aplicación y desarrollo",
+        "sí, en cualquier caso",
+        "sólo en empresas de más de 10 trabajadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-22",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "El Plan de Prevención de Riesgos Laborales de la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos se aprueba por:",
+      "options": [
+        "decreto 80/2013, de 26 de diciembre",
+        "real decreto 39/1997, de 17 de enero",
+        "orden hac/708/2014, de 4 de agosto",
+        "acuerdo 135/2015, de 12 de noviembre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-23",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Según la Ley de Prevención de Riesgos laborales el empresario adoptara las medidas necesarias a fin de garantizar que a las zonas de riesgo grave y especifico puedan acceder:",
+      "options": [
+        "cualquier trabajador al que se lo ordene un superior",
+        "cualquier trabajador, siempre que cuente con el equipo de protección adecuado",
+        "solo los trabajadores que hayan recibido información suficiente y adecuada",
+        "únicamente los trabajadores autorizados por la inspección de trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-24",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "-La herramienta a través de la cual debe integrarse la actividad preventiva de las Consejerías y Organismos Autónomos en el sistema general de gestión es:",
+      "options": [
+        "la organización preventiva de la empresa",
+        "el comité de seguridad y salud",
+        "el plan de prevención de riesgos laborales.",
+        "ninguna respuesta es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-25",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 1",
+      "question": "Los delegados de prevención serán:",
+      "options": [
+        "nombrados entre los trabajadores con titulación de técnico de nivel básico",
+        "designados por y entre los representantes de los trabajadores",
+        "los designa la empresa para dicha ocupación",
+        "trabajadores fijos de la empresa TEMA 26. Test 1 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-26",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "La normativa por la que, por la que se adapta la normativa de prevención de riesgos laborales a la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos es:",
+      "options": [
+        "el decreto 101/2005, de 24 de noviembre",
+        "el decreto 80/2013, de 26 de diciembre",
+        "la ley 31/1995, de 8 de noviembre",
+        "la orden hac/205/2015, de 23 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-27",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "En cada provincia existirá:",
+      "options": [
+        "un comité de seguridad y salud de administración general y organismos autónomos, un comité de Seguridad y Salud en el ámbito educativo y otro más, de área sanitaria, en el ámbito de la Gerencia Regional de Salud.",
+        "un comité de seguridad y salud de administración general y organismos autónomos.",
+        "en cada provincia existirá un comité de seguridad y salud de administración general y organismos autónomos y un comité de seguridad y salud en el ámbito sanitario.",
+        "tantos comités de seguridad y salud de administración general y organismos autónomos, como centros de trabajo existan en ella."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-28",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "La Ley 31/95 de Prevención de Riesgos Laborales en su art. 15 establece los principios de la acción preventiva, señalar cual de loa siguientes es falso:",
+      "options": [
+        "evitar los riesgos",
+        "adaptar el trabajo al apersona, así como la elección del equipo y los métodos de trabajo",
+        "evaluar los riesgos que no se puedan evitar",
+        "adoptar las medidas que antepongan la protección individual a la colectiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-29",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según el articulo 2 de la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos Laborales, las disposiciones de carácter laboral contenidas en esta ley y en sus normas reglamentarias de desarrollo, tendrán la condición de:",
+      "options": [
+        "derecho supletorio",
+        "derecho general",
+        "derecho necesario, mínimo e indisponible, pudiendo ser mejorado por los convenios colectivos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-30",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "\"El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados\", a efectos de la Ley 31/1995, es la definición de:",
+      "options": [
+        "servicio de salud",
+        "comité de seguridad y salud",
+        "delegados de prevención",
+        "servicio de prevención"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-31",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "La actuación preventiva en el ámbito personal, funcional y territorial de la Administración General de la Comunidad de Castilla y León y de sus Organismos Autónomos, salvo en el ámbito de las Gerencias de Salud de Área de la Gerencia Regional de Salud, se realizará mediante servicios de prevención propios con las especialidades y disciplinas preventivas de:",
+      "options": [
+        "medicina del trabajo y seguridad en el trabajo.",
+        "higiene industrial y medicina del trabajo.",
+        "ergonomía y psicosociología aplicada",
+        "higiene industrial, ergonomía y psicosociología aplicada, medicina del trabajo y seguridad en el trabajo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-32",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, el Comité de Seguridad y Salud:",
+      "options": [
+        "se reunirá trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo",
+        "ejercerá, entre otras, la función de vigilancia y control de la normativa sobre prevención de riesgos laborales",
+        "se constituirá en todas las empresas o centros de trabajo que cuenten con 250 o más trabajadores",
+        "prestará apoyo técnico especializado en materia de certificación, ensayo y acreditación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-33",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "En las empresas de hasta 30 trabajadores el Delegado de Prevención será:",
+      "options": [
+        "el trabajador designado por el empresario",
+        "el trabajador más antiguo en la empresa",
+        "el trabajador más joven de la empresa",
+        "el delegado de personal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-34",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Donde se abordará la negociación en aquellas cuestiones que así se establezcan en la normativa de prevención de riesgos laborales, de conformidad con lo establecido en el art. 37.1. j) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.",
+      "options": [
+        "comité de seguridad y salud",
+        "mesa sectorial de negociación",
+        "comisión técnica de prevención de riesgos laborales",
+        "instit. nacional de seguridad e higiene"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-35",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según la Ley de Prevención de Riesgos laborales, los datos relativos a la vigilancia de la salud de los trabajadores, podrán ser usados con fines discriminatorios o en perjuicio del trabajador:",
+      "options": [
+        "no",
+        "solo en caso de enfermedades contagiosas",
+        "si, siempre que se notifique al trabajador afectado",
+        "si"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-36",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "La normativa de riesgos laborales no será de aplicación:",
+      "options": [
+        "a los fabricantes, importadores y suministradores y trabajadores autónomos sin perjuicio de sus obligaciones especificas",
+        "a las sociedades cooperativas, en las que existan socios con prestación de su trabajo personal, con las peculiaridades derivadas de su normativa especifica",
+        "a los establecimientos penitenciarios",
+        "servicios operativos de protección civil y peritaje forense en los casos de grave riesgo, catástrofe y calamidad pública"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-37",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Las causas más frecuentes de lesiones en el ámbito de oficinas y despachos suelen estar relacionadas con, señale la incorrecta:",
+      "options": [
+        "golpes y caídas",
+        "sobreesfuerzos físicos",
+        "accidentes de tráfico.",
+        "electrocuciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-38",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según el articulo 27 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos Laborales, antes de la incorporación al trabajo de jóvenes menores de 18 años y previamente a cualquier modificación importante de sus condiciones de trabajo, el empresario deberá efectuar:",
+      "options": [
+        "una investigación",
+        "una evaluación de los puestos de trabajo a desempeñar por estos trabajadores",
+        "una actualización",
+        "antes de nada, informar a sus padres o tutores, aunque no intervengan en la contratación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-39",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "El foro de consulta y participación regular y periódica de las actuaciones de la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos en materia de seguridad y salud constituye:",
+      "options": [
+        "la comisión de seguridad y salud",
+        "el comité de prevención de riesgos laborales",
+        "el comité de seguridad y salud.",
+        "ninguna de las anteriores es cierta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-40",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "El incumplimiento de los trabajadores de las obligaciones en materia de prevención de riesgos:",
+      "options": [
+        "dara lugar a su despido inmediato de la empresa o a la pérdida de su condición de funcionario publico",
+        "no lleva aparejada ninguna consecuencia si no se producen resultados perjudiciales",
+        "tendrá consideración de incumplimiento laboral, a los efectos previstos en el art. 58.1 del estatuto de los Trabajadores o de falta, en su caso, según la normativa sobre Régimen Disciplinario de los Funcionarios Públicos o del Personal Estatutario al servicio de las Administraciones Públicas.",
+        "ninguna de las anteriores respuestas es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-41",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "En cuestiones relacionadas con la prevención de riesgos en el trabajo, los trabajadores tienen…",
+      "options": [
+        "el derecho a participar",
+        "el deber de asumir la prevención sin participar en ella",
+        "el deber de promover dicha prevención",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-42",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "El tiempo utilizado por los Delegados de Prevención para el desempeño de sus competencias y facultades será considerado:",
+      "options": [
+        "como tiempo efectivo de trabajo",
+        "como ejercicio de funciones de representación, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente.",
+        "como ejercicio de funciones de participación, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente",
+        "dichas competencias deberán desarrollarse fuera del horario de trabajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-43",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Los comités de seguridad y salud en la Administración de Castilla y León se reunirán:",
+      "options": [
+        "bimensualmente",
+        "trimestralmente",
+        "semestralmente",
+        "mensualmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-44",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "En cada provincia existirá, en el ámbito de la Adminsitración de Castilla y León.",
+      "options": [
+        "un comité de seguridad y salud",
+        "un consejo de seguridad y un comité de salud",
+        "un consejo de salud y un servicio de seguridad",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-45",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según el artículo 4 de la Ley 31/1995, de Prevención de Riesgos Laborales, es entenderá como “Riesgo Laboral”:",
+      "options": [
+        "la probabilidad de que un trabajador sufra un determinado daño como consecuencia del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño como consecuencia de sus condiciones personales y del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo",
+        "la posibilidad de que un trabajador se caiga en su casa o en el trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-46",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según el artículo 32 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, las Mutuas Colaboradoras con la Seguridad Social, ¿podrán desarrollar directamente las funciones correspondientes a los servicios de prevención ajenos?",
+      "options": [
+        "no",
+        "sí, en los términos y condiciones que se establezcan en las disposiciones de aplicación y desarrollo",
+        "sí, en cualquier caso",
+        "sólo en empresas de más de 10 trabajadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-47",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "El Plan de Prevención de Riesgos Laborales de la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos se aprueba por:",
+      "options": [
+        "decreto 80/2013, de 26 de diciembre",
+        "real decreto 39/1997, de 17 de enero",
+        "orden hac/708/2014, de 4 de agosto",
+        "acuerdo 135/2015, de 12 de noviembre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-48",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Según la Ley de Prevención de Riesgos laborales el empresario adoptara las medidas necesarias a fin de garantizar que a las zonas de riesgo grave y especifico puedan acceder:",
+      "options": [
+        "cualquier trabajador al que se lo ordene un superior",
+        "cualquier trabajador, siempre que cuente con el equipo de protección adecuado",
+        "solo los trabajadores que hayan recibido información suficiente y adecuada",
+        "únicamente los trabajadores autorizados por la inspección de trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-49",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "-La herramienta a través de la cual debe integrarse la actividad preventiva de las Consejerías y Organismos Autónomos en el sistema general de gestión es:",
+      "options": [
+        "la organización preventiva de la empresa",
+        "el comité de seguridad y salud",
+        "el plan de prevención de riesgos laborales.",
+        "ninguna respuesta es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-50",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 2",
+      "question": "Los delegados de prevención serán:",
+      "options": [
+        "nombrados entre los trabajadores con titulación de técnico de nivel básico",
+        "designados por y entre los representantes de los trabajadores",
+        "los designa la empresa para dicha ocupación",
+        "trabajadores fijos de la empresa TEMA 26. Test 2 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-51",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El coste de las medidas relativas a la seguridad y salud en el trabajo habrá de soportarlo…",
+      "options": [
+        "la administración laboral",
+        "la administración sanitaria",
+        "la empresa",
+        "el trabajador"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-52",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En referencia al trabajador, y en materia de seguridad y salud, se consideran derechos del mismo…",
+      "options": [
+        "derecho a disponer de equipos de protección individual",
+        "derecho de protección de la maternidad",
+        "derecho a la vigilancia periódica de su estado de salud",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-53",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En la Administración del Estado, el organismo encargado de la vigilancia y control del cumplimiento de la normativa sobre seguridad y salud laboral es …",
+      "options": [
+        "el instituto nacional de seguridad e higiene en el trabajo",
+        "la inspección de trabajo y seguridad social",
+        "la comisión nacional de seguridad y salud en el trabajo",
+        "ninguna de las anteriores es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-54",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El art.40.2 de la Constitución encomienda, como uno de los principios rectores de la política social y económica y la vigilancia por la seguridad e higiene en el trabajo a….",
+      "options": [
+        "cortes generales",
+        "gobierno central",
+        "administraciones e instituciones",
+        "poderes públicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-55",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En materia de prevención de riesgos derivados del trabajo, en España tienen competencias distintas administraciones, entre las que se encuentran:",
+      "options": [
+        "administración laboral",
+        "administración sanitaria",
+        "administración de industria",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-56",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, las Mutuas Colaboradoras con la Seguridad Social, ¿podrán desarrollar directamente las funciones correspondientes a los servicios de prevención ajenos?",
+      "options": [
+        "no",
+        "sí, en los términos que se establezcan en las disposiciones de aplicación y desarrollo",
+        "sí, en todo caso",
+        "sólo en empresas de más de 10 trabajadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-57",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El tiempo utilizado por los Delegados de Prevención para el desempeño de sus competencias y facultades será considerado:",
+      "options": [
+        "como tiempo efectivo de trabajo",
+        "como ejercicio de funciones de representación, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente.",
+        "como ejercicio de funciones de participacion, a efectos de utilización del crédito de horas mensuales retribuidas, de conformidad con el ordenamiento jurídico vigente",
+        "dichas competencias deberán desarrollarse fuera del horario de trabajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-58",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Según el artículo 35 de la Ley 31/1995, de Prevención de Riesgos Laborales, los delegados de prevención serán designados de manera que:",
+      "options": [
+        "de 100 a 500 trabajadores le corresponden 3 delegados",
+        "de 501 a 1000 trabajadores le corresponden 4 delegados",
+        "de 2000 a 3000 trabajadores le corresponden 6 delegados",
+        "de 4000 trabajadores en adelante le corresponden 8 delegados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-59",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El plan de prevención de riesgos laborales, sigue la estructura establecida por la norma OHSAS 18001:2007, indicándose en el propio plan cinco tipos de documentos, entre los que no se encuentran:",
+      "options": [
+        "los procedimientos generales",
+        "los procedimientos específicos",
+        "los procedimientos específicos por actividad",
+        "las notas técnicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-60",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Según el artículo 4 de la Ley 31/1995, de Prevención de Riesgos Laborales, es entenderá como “Riesgo Laboral”:",
+      "options": [
+        "la probabilidad de que un trabajador sufra un determinado daño como consecuencia del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño como consecuencia de sus condiciones personales y del trabajo",
+        "la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo",
+        "la posibilidad de que un trabajador se caiga en su casa o en el trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-61",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La ley de prevención obliga a evaluar los riesgos que pueda tener cada puesto de trabajo a….",
+      "options": [
+        "a las empresas",
+        "a los trabajadores",
+        "a la administración",
+        "todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-62",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La normativa de prevención de riesgos, en el caso de los trabajadores de la empresa, es…",
+      "options": [
+        "un derecho",
+        "un deber",
+        "un derecho y un deber",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-63",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En materia de prevención de riesgos laborales, “las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo” se conocen como:",
+      "options": [
+        "daños derivados del trabajo",
+        "accidentes laborales",
+        "accidentes preventivos",
+        "lesiones corporales laborales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-64",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El art.40.2 de la Constitución encomienda, como uno de los principios rectores de la política social y económica y la vigilancia por la seguridad e higiene en el trabajo a….",
+      "options": [
+        "cortes generales",
+        "gobierno central",
+        "administraciones e instituciones",
+        "poderes públicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-65",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En materia de prevención de riesgos derivados del trabajo, en España tienen competencias distintas administraciones, entre las que se encuentran:",
+      "options": [
+        "administración laboral",
+        "administración sanitaria",
+        "administración de industria",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-66",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Las siglas AENOR responden a …",
+      "options": [
+        "asociación empresarial para normas de prevención",
+        "asociación española de normalización y certificación",
+        "asociación española de normativa y riesgos laborales",
+        "asociación empresarial de normalización y riesgos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-67",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La normativa por la que, por la que se adapta la normativa de prevención de riesgos laborales a la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos es:",
+      "options": [
+        "el decreto 101/2005, de 24 de noviembre",
+        "el decreto 80/2013, de 26 de diciembre",
+        "la ley 31/1995, de 8 de noviembre",
+        "la orden hac/205/2015, de 23 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-68",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En cada provincia existirá:",
+      "options": [
+        "un comité de seguridad y salud de administración general y organismos autónomos, un comité de seguridad y salud en el ámbito educativo y otro más, de área sanitaria, en el ámbito de la Gerencia Regional de Salud.",
+        "un comité de seguridad y salud de administración general y organismos autónomos.",
+        "en cada provincia existirá un comité de seguridad y salud de administración general y organismos autónomos y un comité de seguridad y salud en el ámbito sanitario.",
+        "tantos comités de seguridad y salud de administración general y organismos autónomos, como centros de trabajo existan en ella."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-69",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La Ley 31/95 de Prevención de Riesgos Laborales en su art. 15 establece los principios de la acción preventiva, señalar cual de loa siguientes es falso:",
+      "options": [
+        "evitar los riesgos",
+        "adaptar el trabajo al apersona, así como la elección del equipo y los métodos de trabajo",
+        "evaluar los riesgos que no se puedan evitar",
+        "adoptar las medidas que antepongan la protección individual a la colectiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-70",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Según el articulo 2 de la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos Laborales, las disposiciones de carácter laboral contenidas en esta ley y en sus normas reglamentarias de desarrollo, tendrán la condición de:",
+      "options": [
+        "derecho supletorio",
+        "derecho general",
+        "derecho necesario, mínimo e indisponible, pudiendo ser mejorado por los convenios colectivos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-71",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Uno de los que se proponen no es agente físico en materia de prevención",
+      "options": [
+        "radiaciones",
+        "vibraciones",
+        "virus",
+        "ruido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-72",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La exposición al ruido constituye un riesgo en materia de:",
+      "options": [
+        "seguridad",
+        "exposición a agentes físicos",
+        "ergonomía",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-73",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Las caídas al mismo o distinto nivel, el atrapamiento, los cortos, los choques contra objetos móviles e inmóviles, los golpes, y las quemaduras y heridas en los dedos se encuentran entre:",
+      "options": [
+        "riesgos higiénicos",
+        "riesgos de seguridad",
+        "riesgos ergonómicos",
+        "riesgos psicosociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-74",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La iluminación, temperatura y humedad, exposición a gases, radiaciones, exposición a enfermedades infecciosas y contaminantes biológicos se encuentra entre",
+      "options": [
+        "riesgos higiénicos",
+        "riesgos de seguridad",
+        "riesgos ergonómicos",
+        "riesgos psicosociales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-75",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Para prevenir los riesgos ergonómicos es recomendable:",
+      "options": [
+        "manipular cargas pesadas sin ayuda de medios mecánicos o compañeros",
+        "evitar posturas forzadas y mantenidas durante mucho tiempo",
+        "realizar trabajos repetitivos sin alternar tareas",
+        "sentarse frente al ordenador en la postura más cómoda, sin tener en cuenta la altura de la silla, la distancia a la pantalla ni la posición del teclado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-76",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Los requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y la salud de los trabajadores serán regulados mediante:",
+      "options": [
+        "ley de prevención de rrll",
+        "norma reglamentaria del gobierno",
+        "norma aprobada por comisión nacional de prevención de rrll",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-77",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La función de vigilancia y control de la normativa sobre prevención de riesgos laborales es competencia, a tenor de lo establecido en el art.9 de la norma Ley 39/1995",
+      "options": [
+        "gobierno",
+        "administración de las ccaa",
+        "comisión nacional de riesgos",
+        "inspección de trabajo y seguridad social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-78",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Es principio básico de la política de prevención de riesgos laborales, a desarrollar por las administraciones públicas competentes en los distintos niveles territoriales…",
+      "options": [
+        "la participación de empresarios y trabajadores en la planificación, programación, organización y control de la gestión relacionada con la mejora de las condiciones de trabajo y la protección de la seguridad y salud de los trabajadores",
+        "la dirección de la política de planificación, programación, organización y control de la gestión relacionada con la mejora de las condiciones de trabajo por parte de las organizaciones empresariales y sindicatos",
+        "la programación de la gestión relacionada con la mejora de las condiciones de trabajo y la protección de la seguridad y salud en todos los colectivos de trabajadores por parte de la administración sindical",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-79",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El órgano colegiado asesor de las Administraciones Públicas en la formulación de las políticas de prevención es, según la Ley:",
+      "options": [
+        "comisión nacional de seguridad y salud",
+        "dirección general de trabajo",
+        "gobierno español",
+        "comisión nacional para la interpretación de relaciones laborales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-80",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Es función de la inspección de trabajo y Seguridad Social:",
+      "options": [
+        "asesorar e informar a las empresas y a los trabajadores sobre la manera más efectiva de cumplir las disposiciones cuya vigilancia tienen encomendada",
+        "ordenar la paralización inmediata de trabajos cuando, a juicio del inspector, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores",
+        "vigilar el cumplimiento de la normativa sobre prevención de riesgos laborales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-81",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La normativa por la que, por la que se adapta la normativa de prevención de riesgos laborales a la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos es:",
+      "options": [
+        "el decreto 101/2005, de 24 de noviembre",
+        "el decreto 80/2013, de 26 de diciembre",
+        "la ley 31/1995, de 8 de noviembre",
+        "la orden hac/205/2015, de 23 de enero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-82",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En cada provincia existirá:",
+      "options": [
+        "un comité de seguridad y salud de administración general y organismos autónomos, un comité de seguridad y salud en el ámbito educativo y otro más, de área sanitaria, en el ámbito de la Gerencia Regional de Salud.",
+        "un comité de seguridad y salud de administración general y organismos autónomos.",
+        "en cada provincia existirá un comité de seguridad y salud de administración general y organismos autónomos y un comité de seguridad y salud en el ámbito sanitario.",
+        "tantos comités de seguridad y salud de administración general y organismos autónomos, como centros de trabajo existan en ella."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-83",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La Ley 31/95 de Prevención de Riesgos Laborales en su art. 15 establece los principios de la acción preventiva, señalar cual de loa siguientes es falso:",
+      "options": [
+        "evitar los riesgos",
+        "adaptar el trabajo al apersona, así como la elección del equipo y los métodos de trabajo",
+        "evaluar los riesgos que no se puedan evitar",
+        "adoptar las medidas que antepongan la protección individual a la colectiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-84",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Donde se abordará la negociación en aquellas cuestiones que así se establezcan en la normativa de prevención de riesgos laborales, de conformidad con lo establecido en el art. 37.1. j) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.",
+      "options": [
+        "comité de seguridad y salud",
+        "mesa sectorial de negociación",
+        "comisión técnica de prevención de riesgos laborales",
+        "instituto nacional de seguridad e higiene"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-85",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "\"El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados\", a efectos de la Ley 31/1995, es la definición de:",
+      "options": [
+        "servicio de salud",
+        "comité de seguridad y salud",
+        "delegados de prevención",
+        "servicio de prevención"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-86",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Las causas más frecuentes de lesiones en el ámbito de oficinas y despachos suelen estar relacionadas con, señale la incorrecta:",
+      "options": [
+        "golpes y caídas",
+        "sobreesfuerzos físicos",
+        "accidentes de tráfico.",
+        "electrocuciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-87",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Según la Ley de prevención de riesgos Laborales, antes de la incorporación al trabajo de jóvenes menores de 18 años y previamente a cualquier modificación importante de sus condiciones de trabajo, el empresario deberá efectuar:",
+      "options": [
+        "una investigación",
+        "una evaluación de los puestos de trabajo a desempeñar por estos trabajadores",
+        "una actualización",
+        "antes de nada, informar a sus padres o tutores, aunque no intervengan en la contratación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-88",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El foro de consulta y participación regular y periódica de las actuaciones de la Administración General de la Comunidad de C y L y sus Organismos Autónomos en materia de seguridad y salud constituye:",
+      "options": [
+        "la comisión de seguridad y salud",
+        "el comité de prevención de riesgos laborales",
+        "el comité de seguridad y salud.",
+        "ninguna de las anteriores es cierta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-89",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Cualquier característica del mismo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador se conoce en la ley como…",
+      "options": [
+        "condición de trabajo",
+        "naturaleza de trabajo",
+        "garantía laboral",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-90",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Es correcta una de estas afirmaciones:",
+      "options": [
+        "las administraciones públicas promoverán la efectividad del principio de igualdad entre mujeres y hombres",
+        "se considerarán como «daños derivados del trabajo» las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+        "se entenderá como «riesgo laboral» la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-91",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Son los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo…",
+      "options": [
+        "comisión de seguridad y prevención",
+        "delegados sindicales",
+        "delegados de prevención",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-92",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "El órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos",
+      "options": [
+        "comité de empresa",
+        "comité de seguridad y salud",
+        "comité de prevención",
+        "comisión paritaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-93",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Podrán recurrir a la Inspección de Trabajo y Seguridad Social si consideran que las medidas adoptadas y los medios utilizados por el empresario no son suficientes para garantizar la seguridad y la salud en el trabajo.",
+      "options": [
+        "los trabajdores",
+        "los representantes de los trabajadores",
+        "las organizaciones empresariales",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-94",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "44. El incumplimiento por los empresarios de sus obligaciones en materia de prevención de riesgos laborales dará lugar a responsabilidades de tipo…",
+      "options": [
+        "administrativas",
+        "penales",
+        "civiles",
+        "todas las anteriores pueden ser correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-95",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Cuando concurran circunstancias de excepcional gravedad en las infracciones en materia de seguridad y salud en el trabajo, podrán acordar la suspensión de las actividades laborales por un tiempo determinado o, en caso extremo, el cierre del centro de trabajo los….",
+      "options": [
+        "inspectores de trabajo de la dirección provincial en que radica la empresa",
+        "inspectores de trabajo encargados de levantar el acta de inspección de la citada empresa",
+        "los gobiernos de las ccaa con competencia en la materia o, en su caso, el gobierno central",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-96",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Conocer directamente la situación relativa a la prevención de riesgos en el centro de trabajo, realizando a tal efecto las visitas que estime oportunas es facultad de:",
+      "options": [
+        "comité de prevención",
+        "comité de salud y vigilancia",
+        "comité de seguridad y salud",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-97",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Son principios de la acción preventiva, según la Ley:",
+      "options": [
+        "evitar los riesgos",
+        "combatir los riesgos en su origen",
+        "evaluar los riesgos que no se pueden evitar",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-98",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "Por normativa, en los locales de trabajo cerrado donde se realicen trabajos sedentarios, propios de oficinas o similares, la temperatura aproximada ha de estar ….",
+      "options": [
+        "entre 5 y 15º c",
+        "entre 10 y 20º c",
+        "entre 17 y 27º c",
+        "entre 2 y 35º c"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-99",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "La humedad relativa que debe existir según obligación de las normas, en los locales de trabajo cerrado, sin tener en cuenta aquellos locales donde existan riesgos por electricidad estática?",
+      "options": [
+        "entre el 10 y el 30%",
+        "entre el 30 y 70%",
+        "más del 70%",
+        "entre el 60 y 75%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t26-100",
+      "superblock": "Tema 26",
+      "subblock": "TEMA 26. Test 3",
+      "question": "En casos de sospecha de contaminación acústica, qué parámetro de sonido se mide?",
+      "options": [
+        "potencia",
+        "tono",
+        "intensidad",
+        "timbre TEMA 26. Test 3 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

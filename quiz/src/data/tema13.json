@@ -1,0 +1,903 @@
+{
+  "module": "Tema 13",
+  "title": "Tema 13",
+  "totalQuestions": 64,
+  "questions": [
+    {
+      "id": "t13-1",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El artículo de la Constitución que reconoce que los ciudadanos “tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes”",
+      "options": [
+        "19",
+        "21",
+        "22",
+        "23.2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-2",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La condición de funcionario se adquiere por el cumplimiento sucesivo de los siguientes requisitos o fases:",
+      "options": [
+        "superación de las pruebas de selección y, en su caso, de los cursos de formación que proponga el tribunal o comisión de selección",
+        "nombramiento conferido por la autoridad competente, que en el caso de las convocatorias de la Administración de Castilla y León será el consejero competente en materia de función pública en los cuerpos generales de dicha Admón",
+        "juramento o promesa de acatar el estatuto de autonomía y la ley de función pública de cl, o presentar declaración jurada de estar dispuesto/a a hacerlo en caso de necesidad normativa",
+        "tomar posesión en el plazo que determine la convocatoria, como máximo diez días a la publicación del nombramiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-3",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Las necesidades de recursos humanos con asignación presupuestaria qué por no poder ser cubiertas con los efectivos de personal existentes, constituyen:",
+      "options": [
+        "la relación de puestos de trabajo",
+        "la plantilla de vacantes",
+        "la oferta de empleo público",
+        "la planificación de recursos humanos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-4",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La LEY 7/2019, de 19 de marzo, de implantación y desarrollo de la carrera profesional de los empleados públicos de la Administración de la Comunidad de Castilla y León dispone que las OEP de 2018 y 2019 incluirán todas las plazas de estabilización de empleo temporal y las del personal indefinido no fijo declarado por sentencia judicial. Los procesos selectivos derivados de dichas ofertas se convocarán cuando contengan dichas plazas por:",
+      "options": [
+        "oposición",
+        "concurso oposición",
+        "concurso",
+        "libre designación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-5",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La renuncia, como forma de pérdida de la condición de funcionario, habrá de reunir alguno de los siguientes requisitos:",
+      "options": [
+        "ha de ser voluntaria",
+        "habrá de ser aceptada expresamente por la administración siempre y en todo caso",
+        "podrá hacerse oralmente",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-6",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La prolongación en la permanencia en la condición de funcionario podrá alargarse hasta que éste cumpla:",
+      "options": [
+        "70 años",
+        "67 años",
+        "65 años",
+        "los años que determine el reglamento de seguridad social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-7",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Podrá también concederse, a petición del interesado, la rehabilitación de quien hubiera sido condenado a la pena principal o accesoria de inhabilitación, una vez cumplida ésta, atendiendo a las circunstancias y entidad del delito cometido. Corresponde dicha concesión:",
+      "options": [
+        "presidente de la junta",
+        "consejero respectivo",
+        "junta de cl",
+        "consejo de la función pública"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-8",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Son situaciones administrativas del personal funcionario, a tenor de lo que establece la normativa de función pública de la Comunidad Autónoma de Castilla y León:",
+      "options": [
+        "excedencia voluntaria, y la excedencia por cuidado de familiares entre otras",
+        "suspensión temporal y servicios forzosos, entre otras",
+        "la excedencia por razón de acoso laboral y la situación de servicios especiales en otras instituciones públicas",
+        "todas las respuestas anteriores son situaciones administrativas en la ley de función pública de cl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-9",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Los funcionarios que fueran activados como reservistas voluntarios para presentar servicio en las Fuerzas Armadas quedarán, en ese momento y en su condición de empleado público en situación de:",
+      "options": [
+        "excedencia voluntaria",
+        "servicios especiales",
+        "excedencia forzosa",
+        "servicios al estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-10",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "En la excedencia por violencia de género, la mujer víctima de la misma tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo durante...",
+      "options": [
+        "los tres primeros meses de esta excedencia",
+        "durante los seis primeros meses de esta excedencia",
+        "los dos primeros meses de esta excedencia",
+        "durante los cuatro primeros meses de esta excedencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-11",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El funcionario de la Administración de Castilla y León que obtuviera plaza por los procedimientos de provisión de puestos de trabajo en una administración pública distinta será declarado en ésta primera ....",
+      "options": [
+        "excedencia forzosa",
+        "excedencia voluntaria",
+        "servicios especiales",
+        "servicio en otras admones públicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-12",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La excedencia voluntaria por interés particular se declara:",
+      "options": [
+        "a petición del interesado, siempre y en todo caso",
+        "de oficio, siempre y en todo caso",
+        "a petición del interesado o, en su caso, de oficio",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-13",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La suspensión de un funcionario, como sanción disciplinaria:",
+      "options": [
+        "determinará la pérdida de la condición de funcionario en caso de exceder de seis meses",
+        "no podrá exceder en ningún caso de 3 años a contar de la resolución firme de la misma",
+        "podrá acordarse la extinción de la misma en caso de tramitación de procedimiento judicial",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-14",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La carrera profesional que consiste en la progresión de grado, categoría, escalafón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo se denomina:",
+      "options": [
+        "promoción profesional",
+        "carrera horizontal",
+        "carrera vertical",
+        "promoción interna horizontal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-15",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El reconocimiento del grado personal para el personal funcionario de la Administración de CL lo reconoce:",
+      "options": [
+        "consejero de presidencia",
+        "dtor.,gral. función pública",
+        "junta cl",
+        "delegado territorial respectivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-16",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento y el logro de resultados se denomina en la normativa de función pública:",
+      "options": [
+        "la evaluación del desempeño",
+        "la carrera vertical",
+        "la promoción interna",
+        "el grado personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-17",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Por fallecimiento de un pariente de tercer grado de consanguinidad, el funcionario de la Administración de CL tendrá un permiso, siempre que el suceso se produjera en distinta localidad en la que trabaja:",
+      "options": [
+        "dos días",
+        "tres días",
+        "un día",
+        "no tiene permiso al ser tercer grado de consanguinidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-18",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El permiso por nacimiento para la madre biológica, en caso de parto prematuro cuando el neonato deba permanecer hospitalizado a continuación del parto podrá ser ampliado....",
+      "options": [
+        "en tantos días como el neonato se encuentre hospitalizado",
+        "con un máximo de dieciséis semanas adicionales",
+        "en un total de ocho semanas, además de las 16 anteriores",
+        "a y c son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-19",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La Ley de Función Pública de CL reservará para aspirantes con minusvalía un porcentaje sobre las vacantes de la oferta global de empleo público, no inferior al:",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-20",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La rehabilitación en la condición de funcionario en la Administración de Castilla y León habrá de ser concedida, en su caso, por:",
+      "options": [
+        "junta de cl",
+        "consejero competente en materia de función publica",
+        "a y b son correctas",
+        "todas falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-21",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Quienes desempeñan funciones retribuidas en las administraciones públicas al servicio de los intereses generales son, según el Texto Refundido del E.B.E.P.:",
+      "options": [
+        "funcionarios de carrera",
+        "funcionarios de empleo",
+        "personal laboral",
+        "empleados públicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-22",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Los puestos de la administración de CL cuyas actividades se correspondan con la custodia, portero y otras análogas serán desempeñados por:",
+      "options": [
+        "funcionarios de carrera",
+        "funcionarios de empleo",
+        "personal laboral",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-23",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La ley de función pública de la Administración de CL se ordena, para cumplimiento de sus fines, según los criterios informadores y principios en ella establecidos. Uno de éstos no lo es:",
+      "options": [
+        "sometimiento pleno a la ley y al derecho",
+        "eficacia en el servicio a los intereses generales",
+        "desconcentración en la utilización de los recursos",
+        "profesionalización de la carrera administrativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-24",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "En la Ley 7/2015 de función pública de Castilla y León el título que recoge la planificación y organización de la función pública es:",
+      "options": [
+        "título ii",
+        "título iii",
+        "título iv",
+        "título vi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-25",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Uno de los señalados a continuación es órgano superior de la Administración de Castilla y León:",
+      "options": [
+        "consejo de la función pública",
+        "consejeros de la junta de cl",
+        "comisión de personal de la función pública de castilla y león",
+        "todas las anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-26",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Uno de los deberes recogidos en las respuestas no es correcto en relación a los que la LFP CYL les establece a los funcionarios de la Administración de CL:",
+      "options": [
+        "cumplir con diligencia las instrucciones profesionales recibidas por vía funcional",
+        "realizar con la debida aplicación las funciones o tareas que tengan asignadas",
+        "ejercer sus tareas con lealtad e imparcialidad, y servir con objetividad los intereses generales",
+        "cumplir el régimen de incompatibilidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-27",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Proponer a la Junta de Castilla y León el establecimiento de la jornada de trabajo es competencia de:",
+      "options": [
+        "consejero competente en materia de función pública",
+        "consejero competente en materia de hacienda",
+        "consejo regional de la función pública",
+        "comisión regional de función pública"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-28",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El número de puestos, características, y retribuciones del personal eventual, en la Administración de Castilla y León, será determinado por:",
+      "options": [
+        "presidente de la junta",
+        "cortes cl",
+        "junta de cl",
+        "consejero competente en función pública"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-29",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El instrumento de ordenación de los recursos humanos a través del cual se establecen los requisitos para el desempeño de cada puesto se denomina legalmente:",
+      "options": [
+        "oferta de empleo público",
+        "relación de puestos de trabajo",
+        "plan de recursos humanos",
+        "plantilla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-30",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El Consejo de la función pública en la Administración de Castilla y León está presidido por:",
+      "options": [
+        "presidente de la junta o persona en quien delegue",
+        "consejero de hacienda o persona en quien delegue",
+        "consejero competente en materia de función pública",
+        "todas las respue1 d stas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-31",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Una de las opciones que se presenta se corresponde con los derechos individuales que recoge el TREBEP:",
+      "options": [
+        "inamovilidad en la condición de funcionario de carrera",
+        "la no intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización",
+        "la no resolución de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable en cada caso",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-32",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Las relaciones de puestos de trabajo en la Administración de Castilla y León habrán se aprobarán por:",
+      "options": [
+        "acuerdo de la junta de cl, a propuesta de la consejería competente en materia de función pública",
+        "decreto del presidente de la junta de cl, con la propuesta conjunta de consejeros de presidencia y economía",
+        "ley de las cortes de cl, junto al resto de los documentos económico-administrativos relacionados con la Oferta anual",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-33",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "En la administración de CL, La creación, modificación y supresión de los puestos de trabajo se realizará a través de",
+      "options": [
+        "relación de puestos de trabajo",
+        "plantilla",
+        "oferta de empleo",
+        "planes de empleo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-34",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El instrumento de coordinación entre la estructura de la función pública y las decisiones presupuestarias y debe responder a los principios de racionalidad, eficiencia y economía y contiene la relación de plazas dotadas presupuestariamente que corresponden a cada uno de los Grupos y Cuerpos de funcionarios y a cada uno de los Grupos de clasificación del personal laboral",
+      "options": [
+        "presupuesto de personal",
+        "oferta de empleo público",
+        "relación de puestos de trabajo",
+        "plantilla"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-35",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "Son notas características del personal eventual en la Administración Pública -señale la respuesta falsa-",
+      "options": [
+        "el cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento",
+        "la condición de personal eventual no podrá constituir mérito para el acceso a la función pública o para la promoción interna",
+        "les será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general del personal laboral de la administración",
+        "las leyes de función pública (estado y ccaa) que se dicten en desarrollo del trebep deben determinar los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-36",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El proyecto de oferta de empleo público en la administración de Castilla y León, previas las propuestas de cada consejería, habrá de ser elaborado puntualmente por:",
+      "options": [
+        "consejero competente en materia de función pública",
+        "consejero competente en gasto público",
+        "presidente de la junta de castilla y león",
+        "director general de función pública"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-37",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "La propuesta motivada en los expedientes de compatibilidad del personal funcionario destinado en el ámbito de las delegaciones territoriales es competencia de:",
+      "options": [
+        "consejero competente en materia de función pública",
+        "consejero competente en gasto público",
+        "delegado territorial de la junta de castilla y león",
+        "director general de función pública"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-38",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El acuerdo de la jubilación de un funcionario de la Administración de CL, cualquiera que fuera el hecho causante de la misma, corresponde efectuarlo a:",
+      "options": [
+        "consejero competente en materia de función pública",
+        "consejero competente en gasto público",
+        "secretario general de la respectiva consejería",
+        "director general de función pública"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-39",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El consejo de la función pública de CL tiene.... representantes del personal:",
+      "options": [
+        "8 representantes",
+        "10 representantes",
+        "12 representantes",
+        "16 representantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-40",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (PRIMERA PARTE)",
+      "question": "El nombramiento como funcionarios de aquellos aspirantes que hayan superado las pruebas de acceso a la función pública de la Administración de Castilla y León corresponde",
+      "options": [
+        "consejero competente en materia de función pública",
+        "consejero competente en gasto público",
+        "presidente de la junta de castilla y león",
+        "director general de función pública TEST TEMA 13 (PRIMERA PARTE) SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-41",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Son principios establecidos en la ley para la selección del personal funcionario de las Administraciones Públicas, según la normativa de personal al efecto (EBEP):",
+      "options": [
+        "transparencia",
+        "discrecionalidad técnica de los órganos de selección",
+        "agilidad",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-42",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Según el EBEP, los sistemas selectivos habituales a utilizar en la selección de funcionarios de carrera serán:",
+      "options": [
+        "concurso y oposición",
+        "concurso y concurso-oposición",
+        "oposición y concurso-oposición",
+        "concurso y libre designación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-43",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La duración de un proceso selectivo en la Administración de Castilla y León será en atención a sus características la que establezca la convocatoria, pero el plazo no podrá exceder de:",
+      "options": [
+        "6 meses",
+        "8 meses",
+        "10 meses",
+        "12 meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-44",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Forma parte del contenido mínimo de las convocatorias de pruebas selectivas: (señale la respuesta falsa)",
+      "options": [
+        "los requisitos y condiciones que deben reunir los aspirantes",
+        "la composición de los órganos de selección, y la propuesta de nombramiento de las personas que lo componen.",
+        "el calendario para la realización de las pruebas.",
+        "el modelo de instancia y la oficina pública en que puede presentarse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-45",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "En la comunidad de CL, la normativa establece que se reservará, a aquellos que acrediten la condición legal de minusválido, un porcentaje no inferior al ........ de las vacantes de la oferta global de empleo público",
+      "options": [
+        "3%",
+        "5%",
+        "7%",
+        "10%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-46",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La normativa de CL establece que la renuncia como pérdida de la condición de funcionario...",
+      "options": [
+        "habrá de ser manifestada oralmente o por escrito",
+        "no exige en caso alguno ser aceptada expresamente por la administración",
+        "inhabilita para ingresar de nuevo en las administraciones públicas a través del proceso de selección establecido",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-47",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La prolongación de la permanencia en el servicio activo para los funcionarios de la Administración de CL habrá de solicitarse y resolverse concediéndose por plazo renovable de:",
+      "options": [
+        "5 años",
+        "4 años",
+        "2 años",
+        "un año"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-48",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Aquella solicitud de rehabilitación realizada por el funcionario que no fuera resuelta expresamente se entenderá",
+      "options": [
+        "estimada",
+        "desestimada",
+        "caducada",
+        "estimada, y concedida para posesión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-49",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "El modo normal de provisión de puestos de trabajo para el personal funcionario en la Administración de CL:",
+      "options": [
+        "concurso-oposición",
+        "oposición",
+        "libre designación",
+        "concurso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-50",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Las comisiones de servicio para el personal funcionario cuando las mismas se realizaren en el ámbito de la misma consejería habrán de ser autorizadas por:",
+      "options": [
+        "delegado territorial",
+        "d.g.función pública",
+        "secretario general",
+        "consejero presidencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-51",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Son derechos individuales de los empleados públicos según TREBEP (señale la respuesta falsa)",
+      "options": [
+        "a percibir las retribuciones y las indemnizaciones por razón del servicio.",
+        "a participar en la consecución de los objetivos atribuidos a la unidad donde preste sus servicios y a ser informado por sus superiores de las tareas a desarrollar.",
+        "a la defensa jurídica y protección de la administración pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio de sus funciones o cargos públicos y en atención a su responsabilidad civil",
+        "a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente en horario laboral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-52",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Son derechos de titularidad personal ejercidos colectivamente según el TREBEP para el personal funcionario de las Administraciones Públicas",
+      "options": [
+        "libertad de decisión",
+        "el ejercicio de huelga",
+        "la libre asociación profesional",
+        "todas son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-53",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "El grado personal de los funcionarios habrá de corresponderse ...",
+      "options": [
+        "con el grupo de clasificación y el nivel del puesto que desempeña el funcionario",
+        "con el nivel del puesto de trabajo y la jornada laboral del puesto, así como el complemento personal del funcionario",
+        "con alguno de los 30 niveles en que se clasifican los puestos de trabajo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-54",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La modalidad de la promoción interna consistente en el ascenso desde Cuerpos o Escalas de un grupo de titulación a otros del inmediato superior, que se facilitará por la Administración de Castilla y León se denomina:",
+      "options": [
+        "promoción interna vertical",
+        "promoción interna horizontal",
+        "carrera administrativa",
+        "provisión conjunta vertical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-55",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "El traslado provisional derivado de la presentación de informaciones sobre hechos relacionados con posibles delitos contra la Administración Pública tendrá una duración, después de que la Inspección General de Servicios haya emitido el informe que ponga fin a las actuaciones inspectoras, de hasta:",
+      "options": [
+        "3 meses",
+        "6 meses",
+        "9 meses",
+        "un año"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-56",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Según la Ley de Función Pública de CyL, Ley 7/2005 de 24 de mayo dice que la atribución de funciones como forma de provisión del personal funcionario tendrá una duración de:",
+      "options": [
+        "2 años, prorrogables un año más",
+        "un año, prorrogable 2 años más",
+        "1 año, prorrogable otro año más",
+        "2 años, prorrogables 2 años más"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-57",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Los funcionarios de la Administración de CL que cesen en un puesto de trabajo que ocupen por el sistema de libre designación, sin obtener otro por los sistemas previstos en la Ley 7/2005 quedarán a disposición",
+      "options": [
+        "junta de castilla y león",
+        "director general función pública",
+        "secretario general respectivo",
+        "consejería de presidencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-58",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "El traslado por razones de violencia de género, recogido en el artículo 54 de la LFPCYL....",
+      "options": [
+        "tendrá la consideración de traslado forzoso",
+        "está previsto en defensa y protección de la víctima de violencia de género, dándole otro puesto en la misma localidad",
+        "no computa antigüedad pero sí reserva de puesto de trabajo",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-59",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Constituyen excepciones al principio del carácter abierto y permanente de los procesos selectivos en la Administración de CL:",
+      "options": [
+        "promoción interna",
+        "medidas de discriminación positiva en relación con las personas con discapacidad",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-60",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Los tribunales calificadores de las pruebas selectivas de personal funcionario en la Administración de Castilla y León:",
+      "options": [
+        "están constituidos por un número impar de miembros",
+        "son nombrados por el secretario general respectivo",
+        "no son responsables de la objetividad del procedimiento",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-61",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "En la administración de Castilla y León, la selección del personal temporal vendrá a realizarse mediante:",
+      "options": [
+        "concurso",
+        "libre designación",
+        "bolsa o lista abierta y pública",
+        "oposición"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-62",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "Son causas de pérdida de la condición de funcionario, a tenor de la normativa autonómica de Castilla y León:",
+      "options": [
+        "jubilación",
+        "pena accesoria de inhabilitación",
+        "pena principal de inhabilitación",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-63",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La Ley de Función Pública de CL reservará para aspirantes con minusvalía un porcentaje sobre las vacantes de la oferta global de empleo público para su cobertura de modo que se alcance progresivamente sobre el total de efectivos de la Administración de CL un",
+      "options": [
+        "5%",
+        "3%",
+        "2%",
+        "12%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t13-64",
+      "superblock": "Tema 13",
+      "subblock": "TEST TEMA 13 (SEGUNDA PARTE)",
+      "question": "La rehabilitación en la condición de funcionario en la Administración de Castilla y León habrá de ser concedida, en su caso, por:",
+      "options": [
+        "junta de cl",
+        "consejero competente en materia de función pública",
+        "a y b son correctas",
+        "todas falsas TEST TEMA 13 (SEGUNDA PARTE) SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

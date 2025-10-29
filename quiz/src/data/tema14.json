@@ -1,0 +1,2247 @@
+{
+  "module": "Tema 14",
+  "title": "Tema 14",
+  "totalQuestions": 160,
+  "questions": [
+    {
+      "id": "t14-1",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "El texto refundido del ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO (TREBEP) fue aprobado mediante",
+      "options": [
+        "decreto legislativo del consejo de ministros de 5/2016 de 30 de octubre.",
+        "decreto legislativo del consejo de ministros de 15/2015 de 31 de octubre.",
+        "decreto legislativo del consejo de ministros de 5/2015 de 30 de octubre.",
+        "decreto legislativo del consejo de ministros de 15/2015 de 31 de octubre."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-2",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "El texto refundido del ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO (TREBEP) es una:",
+      "options": [
+        "norma con rango de ley, y constituye una normativa básica en materia de empleo público.",
+        "norma con rango de ley orgánica, y constituye una normativa básica en materia de empleo público.",
+        "norma con rango de ley orgánica, y constituye una normativa básica en materia de empleo privado.",
+        "norma con rango de ley, y constituye una normativa básica en materia de empleo privado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-3",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Cuál es la estructura del TREBEP?",
+      "options": [
+        "8 títulos, 17 disposiciones adicionales, 9 transitorias, 1 derogatoria y 4 finales.",
+        "8 títulos, 7 disposiciones adicionales, 9 transitorias, 1 derogatoria y 4 finales.",
+        "8 títulos, 17 disposiciones adicionales, 19 transitorias, 1 derogatoria y 4 finales.",
+        "8 títulos, 17 disposiciones adicionales, 9 transitorias, 2 derogatoria y 4 finales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-4",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Objeto y ámbito de aplicación y comprende los artículos del 1-7?",
+      "options": [
+        "título i",
+        "título ii",
+        "título iii",
+        "título iv"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-5",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Personal al servicio de las Administraciones Públicas y comprende los artículos del 8-13?",
+      "options": [
+        "título i",
+        "título ii",
+        "título iii",
+        "título iv"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-6",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Derechos y deberes. Código de conducta de los empleados públicos y comprende los artículos del 14-54?",
+      "options": [
+        "título i",
+        "título ii",
+        "título iii",
+        "título iv Página 2 de 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-7",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Adquisición y pérdida de la relación de servicio y comprende los artículos del 55-68?",
+      "options": [
+        "título i",
+        "título ii",
+        "título iii",
+        "título iv"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-8",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Ordenación de la actividad profesional y comprende los artículos del 69-84?",
+      "options": [
+        "título i",
+        "título ii",
+        "título iii",
+        "título v"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-9",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Situaciones administrativas y comprende los artículos del 85-92?",
+      "options": [
+        "título vi",
+        "título ii",
+        "título iii",
+        "título v"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-10",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Régimen disciplinario y comprende los artículos del 93-98?",
+      "options": [
+        "título i",
+        "título ii",
+        "título vii",
+        "título v"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-11",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "¿Qué título del TREBEP se llama Cooperación entre las Administraciones Públicas y comprende los artículos del 99-100?",
+      "options": [
+        "título i",
+        "título ii",
+        "título viii",
+        "título v Página 3 de 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-12",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "El TREBEP en su artículo 1 expone el Objeto de la ley que no es otro que:",
+      "options": [
+        "establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación. Asimismo tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas.",
+        "limitar las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación. Asimismo tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas.",
+        "coordinar las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación. Asimismo tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas.",
+        "dirigir las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación. Asimismo tiene por objeto determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-13",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Señala la respuesta incorrecta. Di cuales de los siguientes son fundamentos de actuación.",
+      "options": [
+        "servicio a los ciudadanos y a los intereses generales.",
+        "igualdad, mérito y capacidad en el acceso y en la promoción profesional.",
+        "sometimiento pleno a la ley y al derecho.",
+        "igualdad de trato entre mujeres y hombres, y objetividad, profesionalidad e imparcialidad en el servicio garantizadas con la inamovilidad en la condición de personal laboral temporal."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-14",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Señala la respuesta incorrecta. Di cuales de los siguientes son fundamentos de actuación.",
+      "options": [
+        "eficacia en la planificación y gestión de los recursos humanos.",
+        "desarrollo y cualificación profesional permanente solo de los funcionarios de carrera",
+        "transparencia y evaluación y responsabilidad en la gestión.",
+        "jerarquía en la atribución, ordenación y desempeño de las funciones y tareas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-15",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "En relación a la normativa aplicable al personal laboral, se rige",
+      "options": [
+        "además de por la legislación laboral y por las demás normas convencionalmente aplicables, por los preceptos de este Estatuto que así lo dispongan.",
+        "solo en lo que diga la legislación laboral",
+        "además de por la legislación funcionarial y por las demás normas convencionalmente aplicables, por los preceptos de este Estatuto que así lo dispongan.",
+        "solo en lo que diga la legislación administrativa. Página 4 de 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-16",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Según el artículo 2 del TREBEP se establece que el ámbito de aplicación de este Estatuto sea:",
+      "options": [
+        "al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas (La Administración General del Estado, de las CCAA y de las ciudades de Ceuta y Melilla, Las Administraciones de las entidades locales y las Universidades Públicas.",
+        "al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas (La Administración General del Estado, de las CCAA y de las ciudades de Ceuta y Melilla, Las Administraciones de las entidades locales, Los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de cualquiera de las Administraciones Públicas y las Universidades Públicas.",
+        "al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas (La Administración General del Estado, de las CCAA y de las ciudades de Ceuta y Melilla, Las Administraciones de las entidades locales, Los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de cualquiera de las Administraciones Públicas y las Universidades Privadas.",
+        "al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas (La Administración General del Estado, de las CCAA y de las ciudades de Ceuta y Melilla, Las Administraciones de las entidades locales y las Universidades Privadas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-17",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "El título II del EBEP recoge en su capítulo I las clases de personal. Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales. Los empleados públicos se clasifican en:",
+      "options": [
+        "funcionarios de carrera, personal interino, personal laboral (ya sea fijo, por tiempo indefinido o temporal) o personal eventual.",
+        "funcionarios de carrera, funcionario interino, personal laboral (ya sea fijo, por tiempo indefinido o temporal) o personal eventual.",
+        "funcionarios de carrera, personal interino, personal laboral (ya sea fijo, por tiempo indefinido o temporal) o funcionario eventual.",
+        "funcionarios de carrera, funcionario interino, personal laboral (ya sea fijo, por tiempo indefinido o temporal) o funcionario eventual. Página 5 de 12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-18",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Son funcionarios de carrera quienes,",
+      "options": [
+        "en virtud de contrato, están vinculados a una administración pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+        "en virtud de nombramiento legal, están vinculados a una administración pública por una relación estatutaria regulada por el Derecho Privado para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+        "en virtud de nombramiento legal, están vinculados a una administración pública por una relación estatutaria regulada por el Derecho Privado para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+        "en virtud de nombramiento legal, están vinculados a una administración pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-19",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas",
+      "options": [
+        "corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.",
+        "corresponden exclusivamente a los funcionarios interinos en los términos que en la ley de desarrollo de cada Administración Pública se establezca.",
+        "corresponden exclusivamente a los personales laborales, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.",
+        "corresponden exclusivamente a los personales eventuales, en los términos que en la ley de desarrollo de cada Administración Pública se establezca."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-20",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Son funcionarios interinos los que, por razones",
+      "options": [
+        "expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se de algunas de las ocasiones recogidas en el TREBEP.",
+        "expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se de algunas de las ocasiones recogidas en el convenio.",
+        "expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter permanente para el desempeño de funciones propias de funcionarios de carrera, cuando se de algunas de las ocasiones recogidas en el TREBEP. Página 6 de 12",
+        "expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter permanente para el desempeño de funciones propias de funcionarios de carrera, cuando se de algunas de las ocasiones recogidas en el convenio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-21",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Algunas de las ocasiones que el TREBEP fija para la contratación de personal funcionario interino son: Señala la incorrecta",
+      "options": [
+        "la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de 2 años.",
+        "la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+        "la ejecución de programas de carácter temporal, que no podrán tener una duración superior a 3 años, ampliable hasta 12 meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+        "el exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un periodo de"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-22",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Algunas de las ocasiones que el TREBEP fija para la contratación de personal funcionario interino son: Señala la incorrecta",
+      "options": [
+        "la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de 3 años.",
+        "la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+        "la ejecución de programas de carácter temporal, que no podrán tener una duración superior a 3 años, ampliable hasta 12 meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+        "el exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un periodo de 20 meses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-23",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Algunas de las ocasiones que el TREBEP fija para la contratación de personal funcionario interino son: Señala la incorrecta",
+      "options": [
+        "la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de 3 años.",
+        "la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+        "la ejecución de programas de carácter temporal, que no podrán tener una duración superior a 2 años, ampliable hasta 12 meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+        "el exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un periodo de"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-24",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Algunas de las ocasiones que el TREBEP fija para la contratación de personal funcionario interino son: Señala la incorrecta",
+      "options": [
+        "la existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de 3 años.",
+        "la sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+        "la ejecución de programas de carácter temporal, que no podrán tener una duración superior a 3 años, ampliable hasta 12 meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+        "el exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un periodo de"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-25",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Los procedimientos de selección del personal funcionario interino serán públicos, rigiéndose en todo caso por los principios de",
+      "options": [
+        "igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura posterior del puesto.",
+        "igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura inmediata del puesto.",
+        "igualdad, mérito, capacidad, publicidad y celeridad, y tendrán por finalidad la cobertura posterior del puesto.",
+        "igualdad, mérito, capacidad, publicidad y tendrán por finalidad la cobertura inmediata del puesto."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-26",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "El nombramiento derivado de estos procedimientos de selección",
+      "options": [
+        "en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
+        "en algún caso dará lugar al reconocimiento de la condición de funcionario de carrera.",
+        "siempre dará lugar al reconocimiento de la condición de funcionario de carrera.",
+        "en ningún caso dará lugar al reconocimiento de la condición de funcionario interino."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-27",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "En todo caso, la Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63 (causas de pérdida de la condición de funcionario), sin derecho a compensación alguna: Señala la incorrecta",
+      "options": [
+        "por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos.",
+        "por razones organizativas que den lugar a la supresión pero no cuando se produzca la amortización de los puestos asignados.",
+        "por la finalización del plazo autorizado expresamente recogido en su nombramiento. Página 8 de 12",
+        "por la finalización de la causa que dio lugar a su nombramiento."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-28",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Según el TREBEP tenemos que decir que es personal laboral el que en virtud de",
+      "options": [
+        "contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser fijo, por tiempo indefinido o temporal.",
+        "contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser solo fijo",
+        "contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser solo por tiempo indefinido",
+        "contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser solo temporal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-29",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de",
+      "options": [
+        "igualdad, mérito y capacidad. en el caso del personal laboral temporal se regirá igualmente por el principio de publicidad, no teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia.",
+        "igualdad, mérito y capacidad. en el caso del personal laboral temporal se regirá igualmente por el principio de publicidad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia.",
+        "igualdad, mérito y capacidad. en el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia.",
+        "igualdad, mérito y capacidad. en el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, no teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia. Página 9 de 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-30",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Es personal eventual el que, en virtud de",
+      "options": [
+        "nombramiento y con carácter permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, no siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+        "nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, no siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+        "nombramiento y con carácter permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, no siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.",
+        "nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-31",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal. El número máximo se establecerá por",
+      "options": [
+        "los respectivos órganos de gobierno. este número y condiciones retributivas serán públicas.",
+        "las asambleas legislativas de la ccaa. este número y condiciones retributivas serán públicas.",
+        "las asambleas legislativas de la ccaa. este número y condiciones retributivas serán públicas.",
+        "los respectivos órganos de gobierno. este número y condiciones retributivas no serán públicas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-32",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Completa la frase: El nombramiento y cese del personal eventual _________. El cese tendrá lugar, ___________ cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.",
+      "options": [
+        "serán libres / en ningún caso",
+        "serán privadas / en todo caso",
+        "serán libres / en todo caso",
+        "serán privadas / en ningún caso Página 10 de 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-33",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "La condición de personal eventual",
+      "options": [
+        "no podrá constituir mérito para el acceso a la función pública o para la promoción interna.",
+        "si podrá constituir mérito para el acceso a la función pública o para la promoción interna.",
+        "si podrá constituir mérito para el acceso a la función pública pero no para la promoción interna.",
+        "no podrá constituir mérito para el acceso a la función pública peri sí para la promoción interna."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-34",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Recogido en el EBEP en el capítulo II del título II, el personal directivo podrá ser establecido por el gobierno de la Comunidad Autónoma en cuanto a su régimen jurídico específico así como los criterios para determinar su condición. El personal directivo",
+      "options": [
+        "desarrolla funciones directivas profesionales en las administraciones privadas, definidas como tales en las normas específicas de cada administración.",
+        "desarrolla funciones administrativas profesionales en las administraciones privadas, definidas como tales en las normas específicas de cada administración.",
+        "desarrolla funciones directivas profesionales en las administraciones públicas, definidas como tales en las normas específicas de cada administración.",
+        "desarrolla funciones administrativas profesionales en las administraciones públicas, definidas como tales en las normas específicas de cada administración."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-35",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "La designación del personal directivo atiende a principios de",
+      "options": [
+        "mérito y capacidad y a criterios de idoneidad y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia.",
+        "mérito y capacidad y a criterios de no idoneidad y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia.",
+        "mérito y publicidad y a criterios de no idoneidad y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia.",
+        "mérito y publicidad y a criterios de idoneidad y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-36",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De las siguientes frases di la que es incorrecta del personal directivo:",
+      "options": [
+        "no estará sujeto a evaluación (evaluación del desempeño).",
+        "cuando el personal directivo fuere designado de entre personal laboral estará sometido a contrato especial de alta dirección.",
+        "estará sujeto a evaluación (evaluación del desempeño)",
+        "todas son correctas. Página 11 de 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-37",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "Los derechos y deberes esenciales de los empleados públicos se recogen en el TREBEP en su título:",
+      "options": [
+        "se recogen en el título iii del ebep, que también establece el código de conducta de los empleados públicos.",
+        "se recogen en el título ii del ebep, que también establece el código de conducta de los empleados públicos.",
+        "se recogen en el título vi del ebep, que también establece el código de conducta de los empleados públicos.",
+        "se recogen en el título vi del ebep, que también establece el código de conducta de los empleados públicos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-38",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De los derechos individuales que marca el TREBEP, señala el que es incorrecto:",
+      "options": [
+        "a la movilidad en la condición de funcionario de carrera.",
+        "al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional.",
+        "a la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación.",
+        "a percibir las retribuciones y las indemnizaciones por razón del servicio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-39",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De los derechos individuales que marca el TREBEP, señala el que es incorrecto:",
+      "options": [
+        "a participar en la consecución de los objetivos atribuidos a la unidad donde preste sus servicios y a ser informado por sus superiores de las tareas a desarrollar.",
+        "a la defensa jurídica y protección de la administración pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos.",
+        "a la formación continua y a la actualización permanente de sus conocimientos y capacidades profesionales, preferentemente fuera del horario laboral.",
+        "al respeto de su intimidad, orientación sexual, propia imagen y dignidad en el trabajo, especialmente frente al acoso sexual y por razón de sexo, moral y laboral. Página 12 de 12"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-40",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De los derechos individuales que marca el TREBEP, señala el que es incorrecto:",
+      "options": [
+        "a la discriminación por razón de nacimiento, origen racial o étnico, género, sexo u orientación sexual, religión o convicciones, opinión, discapacidad, edad o cualquier otra condición o circunstancia personal o social.",
+        "a la adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral.",
+        "a la intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales. (Añadido por la L.O.3/2018 de protección de datos personales y garantía de los derechos digitales)",
+        "a la libertad de expresión dentro de los límites del ordenamiento jurídico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-41",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De los derechos individuales que marca el TREBEP, señala el que es incorrecto:",
+      "options": [
+        "a recibir protección colectiva en materia de seguridad y salud en el trabajo.",
+        "a las vacaciones, descansos, permisos y licencias y a la jubilación según los términos y condiciones establecidas en las normas aplicables.",
+        "a las prestaciones de la seguridad social correspondientes al régimen que les sea de aplicación.",
+        "a la libre asociación profesional y a los demás derechos reconocidos por el ordenamiento jurídico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-42",
+      "superblock": "Tema 14",
+      "subblock": "TEST1 YT4. TREBEP",
+      "question": "De los derechos individuales ejercidos colectivamente, señala el incorrecto:",
+      "options": [
+        "a la libertad sindical y al de reunión, en la forma prevista en el artículo 46 del ebep.",
+        "a la negociación colectiva y a la participación en la determinación de las condiciones de trabajo.",
+        "al ejercicio de la huelga, sin la garantía del mantenimiento de los servicios esenciales de la comunidad.",
+        "al planteamiento de conflictos colectivos de trabajo, de acuerdo con la legislación aplicable en cada caso. TEST1 YT4. TREBEP SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-43",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "¿Qué empleados públicos tienen derecho a la promoción profesional de una manera específica?",
+      "options": [
+        "los funcionarios de carrera",
+        "los personales laborales",
+        "a y b",
+        "los funcionarios, personales laborales y personales eventuales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-44",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "¿En qué norma está regulada la carrera profesional?",
+      "options": [
+        "estará regulada en la ley de gobierno de castilla y león",
+        "estará regulada en la ley de función pública de castilla y león",
+        "estará regulada en la ley de función pública del estado",
+        "estará regulada en el estatuto de autonomía e cyl."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-45",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "¿Qué modalidades tiene la carrera profesional?",
+      "options": [
+        "carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal.",
+        "carrera interna horizontal, carrera interna vertical, promoción vertical y promoción horizontal.",
+        "sólo carrera horizontal y carrera vertical.",
+        "sólo promoción interna vertical y promoción interna horizontal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-46",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La carrera horizontal consiste en:",
+      "options": [
+        "la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+        "el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos.",
+        "el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior.",
+        "el acceso a cuerpos o escalas del mismo subgrupo profesional."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-47",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La carrera vertical consiste en:",
+      "options": [
+        "la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+        "el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos.",
+        "el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior.",
+        "el acceso a cuerpos o escalas del mismo subgrupo profesional."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-48",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La promoción interna horizontal consiste en:",
+      "options": [
+        "la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+        "el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos.",
+        "el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior.",
+        "promoción interna horizontal, que consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-49",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La promoción interna vertical consiste en:",
+      "options": [
+        "la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+        "la estructura de puestos de trabajo por los procedimientos de provisión establecidos.",
+        "el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior.",
+        "el acceso a cuerpos o escalas del mismo subgrupo profesional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-50",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Para el personal laboral, tanto la carrera profesional como la promoción interna se hará efectiva a través de",
+      "options": [
+        "los procedimientos previstos en el estatuto de los trabajadores o en los convenios Colectivos.",
+        "los procedimientos previstos en el trebep",
+        "los procedimientos previstos en la ley de función pública de cyl.",
+        "los procedimientos previstos solamente en el estatuto de los trabajadores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-51",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Para el caso de los funcionarios de carrera, la carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de",
+      "options": [
+        "no igualdad, mérito y capacidad.",
+        "igualdad, mérito y publicidad.",
+        "igualdad, mérito y celeridad.",
+        "igualdad, mérito y capacidad."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-52",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La promoción interna se realizará mediante procesos selectivos garantizando los principios de",
+      "options": [
+        "igualdad, mérito y publicidad, así como la capacidad de la convocatorias y sus bases, transparencia, imparcialidad y profesionalidad de los miembros de los órganos de selección, la adecuación entre el contenido de los procesos selectivos y las funciones/tareas a desarrollar, y la agilidad en los procesos de selección.",
+        "igualdad, mérito y capacidad, así como la publicidad de la convocatorias y sus bases, transparencia, imparcialidad y profesionalidad de los miembros de los órganos de selección, la adecuación entre el contenido de los procesos selectivos y las funciones/tareas a desarrollar, y la agilidad en los procesos de selección.",
+        "igualdad, mérito y racionalidad, así como la publicidad de la convocatorias y sus bases, transparencia, imparcialidad y profesionalidad de los miembros de los órganos de selección, la adecuación entre el contenido de los procesos selectivos y las funciones/tareas a desarrollar, y la agilidad en los procesos de selección.",
+        "igualdad, mérito y no discriminación, así como la publicidad de la convocatorias y sus bases, transparencia, imparcialidad y profesionalidad de los miembros de los órganos de selección, la adecuación entre el contenido de los procesos selectivos y las funciones/tareas a desarrollar, y la agilidad en los procesos de selección."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-53",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Para participar en promoción interna se habrán de cumplir los requisitos exigidos para el ingreso, tener una:",
+      "options": [
+        "antigüedad de al menos 3 años de servicio activo en el inferior subgrupo o grupo de clasificación profesional, y superar las pruebas selectivas correspondientes.",
+        "antigüedad de al menos 1 año de servicio activo en el inferior subgrupo o grupo de clasificación profesional, y superar las pruebas selectivas correspondientes.",
+        "antigüedad de al menos 2 años de servicio activo en el inferior subgrupo o grupo de clasificación profesional, y superar las pruebas selectivas correspondientes.",
+        "antigüedad de al menos 4 años de servicio activo en el inferior subgrupo o grupo de clasificación profesional, y superar las pruebas selectivas correspondientes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-54",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "¿Quién establecerán los sistemas para evaluar el desempeño de los empleados públicos?",
+      "options": [
+        "las administraciones privadas.",
+        "las cortes generales.",
+        "las cortes de cyl.",
+        "las administraciones públicas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-55",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La evaluación del desempeño es el procedimiento mediante el",
+      "options": [
+        "cual se mide y valora la conducta profesional",
+        "cual se mide y valora el rendimiento o el logro de resultados.",
+        "a y b son correctas y se complementan",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-56",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los sistemas de evaluación del desempeño se adecuarán, en todo caso, a criterios de",
+      "options": [
+        "transparencia, subjetividad, imparcialidad y no discriminación y se aplicarán sin menoscabo de los derechos de los empleados públicos.",
+        "transparencia, subjetividad, parcialidad y no discriminación y se aplicarán sin menoscabo de los derechos de los empleados públicos.",
+        "transparencia, objetividad, imparcialidad y no discriminación y se aplicarán sin menoscabo de los derechos de los empleados públicos.",
+        "transparencia, objetividad, parcialidad y no discriminación y se aplicarán sin menoscabo de los derechos de los empleados públicos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-57",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a la evaluación del desempeño de acuerdo con los sistemas de evaluación que cada Administración Pública determine,",
+      "options": [
+        "dando audiencia al interesado, y por la correspondiente resolución motivada.",
+        "no dando audiencia al interesado, y por la correspondiente resolución motivada.",
+        "no dando audiencia al interesado, y sin motivar la resolución.",
+        "dando audiencia al interesado, y sin motivar la resolución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-58",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de los funcionarios, así como el incremento de la masa salarial del personal laboral,",
+      "options": [
+        "deberán reflejarse para cada ejercicio presupuestario en la correspondiente orden de presupuestos.",
+        "deberán reflejarse para cada ejercicio presupuestario en el correspondiente decreto de presupuestos.",
+        "deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley de presupuestos.",
+        "deberán reflejarse para cada ejercicio presupuestario en la correspondiente ley orgánica de presupuestos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-59",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "No podrán acordarse incrementos retributivos que globalmente supongan un incremento de la masa salarial",
+      "options": [
+        "superior a los límites fijados anualmente en la ley orgánica de presupuestos generales del Estado para el personal.",
+        "superior a los límites fijados anualmente en la ley de presupuestos generales del estado para el personal.",
+        "superior a los límites fijados anualmente en la orden de presupuestos generales del estado para el personal.",
+        "superior a los límites fijados anualmente en el decrto de presupuestos generales del estado para el personal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-60",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Las retribuciones del personal laboral se determinarán de acuerdo con",
+      "options": [
+        "la legislación laboral",
+        "el convenio colectivo que sea aplicable",
+        "el contrato de trabajo",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-61",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Las retribuciones del personal funcionario serán",
+      "options": [
+        "básicas (sueldo y trienios), y complementarias que son complemento de destino, complemento de productividad, complemento específico, y servicios extraordinarios fuera de la jornada normal de trabajo.",
+        "básicas (sueldo y complemento específico), y complementarias que son complemento de destino, complemento de productividad, trienios, y servicios extraordinarios fuera de la jornada normal de trabajo.",
+        "básicas (sueldo y complemento de productividad), y complementarias que son complemento de destino, trienios, complemento específico, y servicios extraordinarios fuera de la jornada normal de trabajo.",
+        "básicas (complemento de destino y trienios), y complementarias que son, sueldo, complemento de productividad, complemento específico, y servicios extraordinarios fuera de la jornada normal de trabajo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-62",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Las pagas extraordinarias serán:",
+      "options": [
+        "4 al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad de las retribuciones complementarias (salvo gratificaciones o las horas extraordinarias).",
+        "4 al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad de las retribuciones complementarias (incluidas gratificaciones o las horas extraordinarias).",
+        "2 al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad de las retribuciones complementarias (salvo gratificaciones o las horas extraordinarias).",
+        "2 al año, cada una por el importe de una mensualidad de las retribuciones básicas y de la totalidad de las retribuciones complementarias (incluidas gratificaciones o las horas extraordinarias)."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-63",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Existen también para el funcionario las indemnizaciones (por razón del servicio), y para todos los empleados públicos las retribuciones diferidas que son:",
+      "options": [
+        "(cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros de los empleados públicos).",
+        "(cantidades destinadas a no financiar aportaciones a planes de pensiones o contratos de seguros de los empleados públicos).",
+        "(cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros de los empleados privados).",
+        "(cantidades destinadas a no financiar aportaciones a planes de pensiones o contratos de seguros de los empleados privados)."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-64",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Por negociación colectiva, a los efectos de esta ley, se entiende",
+      "options": [
+        "el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+        "la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados.",
+        "el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-65",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Por participación institucional, a los efectos de esta ley, se entiende",
+      "options": [
+        "el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+        "la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados.",
+        "el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-66",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Por representación, a los efectos de esta ley, se entiende",
+      "options": [
+        "el derecho a negociar la determinación de condiciones de trabajo de los empleados de la Administración Pública.",
+        "la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados.",
+        "el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-67",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "La negociación colectiva, representación y participación de los empleados públicos con contrato laboral se regirá",
+      "options": [
+        "por la legislación laboral, sin perjuicio de los preceptos del ebep que le son de aplicación.",
+        "por la legislación funcionarial, sin perjuicio de los preceptos del ebep que le son de aplicación.",
+        "por la legislación privada, sin perjuicio de los preceptos del ebep que le son de aplicación.",
+        "por la legislación económica, sin perjuicio de los preceptos del ebep que le son de aplicación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-68",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Se garantiza el cumplimiento de los convenios colectivos y acuerdos que afecten al personal laboral, salvo",
+      "options": [
+        "cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los PARLAMENTOS AUTONÓMICOS no suspendan o modifiquen el cumplimiento de convenios colectivos o acuerdos ya firmados en la medida estrictamente necesaria para salvaguardar el interés público.",
+        "cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los PARLAMENTOS AUTONÓMICOS suspendan o modifiquen el cumplimiento de convenios colectivos o acuerdos ya firmados en la medida estrictamente necesaria para salvaguardar el interés público.",
+        "cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los ÓRGANOS DE GOBIERNO DE LAS ADMINISTRACIONES PÚBLICAS suspendan o modifiquen el cumplimiento de convenios colectivos o acuerdos ya firmados en la medida estrictamente necesaria para salvaguardar el interés público.",
+        "cuando excepcionalmente y por causa grave de interés público derivada de una alteración sustancial de las circunstancias económicas, los ÓRGANOS DE GOBIERNO DE LAS ADMINISTRACIONES PÚBLICAS no suspendan o modifiquen el cumplimiento de convenios colectivos o acuerdos ya firmados en la medida estrictamente necesaria para salvaguardar el interés público."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-69",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los representantes de las mesas de negociación entre empleados públicos y la administración podrán acordar:",
+      "options": [
+        "los pactos y los acuerdos.",
+        "solo pactos",
+        "solo acuerdos.",
+        "ninguna de las anteriores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-70",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los Pactos se celebrarán sobre materias que :",
+      "options": [
+        "no se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán indirectamente al personal correspondiente.",
+        "se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán indirectamente al personal correspondiente..",
+        "se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal correspondiente.",
+        "no se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal correspondiente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-71",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los Acuerdos versarán sobre",
+      "options": [
+        "materias competencia de los órganos de gobierno de las administraciones PÚBLICAS. Para su validez y eficacia será necesaria su aprobación expresa y formal",
+        "materias competencia de los órganos de gobierno de las administraciones PÚBLICAS. Para su validez y eficacia será necesaria su aprobación tácita y formal",
+        "materias competencia de los parlamentos autonomicos. para su validez y eficacia será necesaria su aprobación tácita y formal",
+        "materias competencia de los parlamentos autonomicos. para su validez y eficacia será necesaria su aprobación expresa y formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-72",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los Pactos y Acuerdos deberán determinar:",
+      "options": [
+        "solo las partes que los conciertan, el ámbito personal, funcional, territorial y temporal.",
+        "solo la forma, plazo de preaviso y condiciones de denuncia de los mismos.",
+        "las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, así como la forma, plazo de preaviso y condiciones de denuncia de los mismos.",
+        "las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, así como la forma, plazo de preaviso pero no las condiciones de denuncia de los mismos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-73",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Se establecerán Comisiones Paritarias de seguimiento de los Pactos y Acuerdos con la composición y funciones que las partes determinen. Los Pactos celebrados y los Acuerdos, una vez ratificados,",
+      "options": [
+        "deberán ser publicados en el boletín oficial que corresponda.",
+        "deberán ser publicados siempre en el boe.",
+        "deberán ser publicados siempre en el bocyl.",
+        "deberán ser publicados siempre en el diario oficial de la unión europea."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-74",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En cuanto al derecho de reunión, se establece en el EBEP quien está legitimado para convocar una reunión,",
+      "options": [
+        "las organizaciones empresariales y los delegados sindicales, y las reuniones se celebran fuera o en, horas de trabajo.",
+        "las organizaciones empresariales y los delegados sindicales, y las reuniones se celebran sólo fuera de horas de trabajo.",
+        "las organizaciones sindicales y los delegadossindicales, y las reuniones se celebran sólo fuera de horas de trabajo.",
+        "las organizaciones sindicales y los delegados sindicales, y las reuniones se celebran fuera o en, horas de trabajo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-75",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "El EBEP establece en el capítulo V del título III",
+      "options": [
+        "el derecho a la jornada de trabajo, permisos y vacaciones del personal laboral.",
+        "el derecho a la jornada de trabajo, permisos y vacaciones del personal eventual.",
+        "el derecho a la jornada de trabajo, permisos y vacaciones del personal funcionario.",
+        "el derecho a la jornada de trabajo, permisos y vacaciones del personal funcionario privado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-76",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Dicho capítulo habla de la jornada de trabajo, el teletrabajo, añadido por",
+      "options": [
+        "real decreto ley 29/2020",
+        "ley orgánica 29/2020",
+        "decreto 29/2020",
+        "orden 29/2020"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-77",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "El capítulo VI del título III del EBEP recoge",
+      "options": [
+        "los deberes de sólo los funcionarios de carrera y el código de conducta.",
+        "los deberes de los empleados públicos y el código de conducta.",
+        "los deberes de sólo los personales laborales y el código de conducta.",
+        "los deberes de sólo los personales eventuales y el código de conducta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-78",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico, y deberán actuar con arreglo a unos principios establecidos en el TREBEP que",
+      "options": [
+        "inspiran el código de conducta de los empleados públicos configurado por los principios éticos y de conducta regulados en los artículos siguientes.",
+        "inspiran el código de conducta de sólo los personales laborales configurado por los principios éticos y de conducta regulados en los artículos siguientes.",
+        "inspiran el código de conducta de sólo los personales eventuales configurado por los principios éticos y de conducta regulados en los artículos siguientes.",
+        "inspiran el código de conducta de ningún empleado público configurado por los principios éticos y de conducta regulados en los artículos siguientes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-79",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico, y deberán actuar con arreglo a los siguientes principios:",
+      "options": [
+        "objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación servicio, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres.",
+        "objetividad, integridad, neutralidad, irresponsabilidad, imparcialidad, confidencialidad, dedicación servicio, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres.",
+        "subjetividad, integridad, neutralidad, irresponsabilidad, imparcialidad, confidencialidad, dedicación servicio, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres.",
+        "subjetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación servicio, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-80",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios éticos, señala la incorrecta:",
+      "options": [
+        "los empleados públicos respetarán la constitución y el resto de normas que integran el ordenamiento jurídico.",
+        "su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos y se fundamentará en consideraciones objetivas orientadas hacia la imparcialidad y el interés común, al margen de cualquier otro factor que exprese posiciones personales, familiares, corporativas, clientelares o cualesquiera otras que puedan colisionar con este principio.",
+        "ajustarán su actuación a los principios de lealtad y buena fe con la administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos.",
+        "su conducta se basará en el respeto de los derechos fundamentales y libertades públicas, no evitando toda actuación que pueda producir discriminación alguna por razón de nacimiento, origen racial o étnico, género, sexo, orientación sexual, religión o convicciones, opinión, discapacidad, edad o cualquier otra condición o circunstancia personal o social."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-81",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios éticos, señala la incorrecta:",
+      "options": [
+        "no se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público.",
+        "no contraerán obligaciones económicas ni intervendrán en operaciones financieras, obligaciones patrimoniales o negocios jurídicos con personas o entidades cuando pueda suponer un conflicto de intereses con las obligaciones de su puesto público.",
+        "no aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
+        "actuarán de acuerdo con los principios de eficacia, economía y eficiencia, y vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-82",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios éticos, señala la incorrecta:",
+      "options": [
+        "no influirán en la agilización o resolución de trámite o procedimiento administrativo sin justa causa y, en ningún caso, cuando ello comporte un privilegio en beneficio de los titulares de los cargos públicos o su entorno familiar y social inmediato o cuando suponga un menoscabo de los intereses de terceros.",
+        "no guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo, sin que puedan hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público.",
+        "cumplirán con diligencia las tareas que les correspondan o se les encomienden y, en su caso, resolverán dentro de plazo los procedimientos o expedientes de su competencia.",
+        "ejercerán sus atribuciones según el principio de dedicación al servicio público absteniéndose no solo de conductas contrarias al mismo, sino también de cualesquiera otras que comprometan la neutralidad en el ejercicio de los servicios públicos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-83",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios de conducta, señala la incorrecta:",
+      "options": [
+        "el desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos.",
+        "obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes.",
+        "informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+        "tratarán con atención y respeto a los ciudadanos, a sus inferiores y a los restantes empleados públicos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-84",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios de conducta, señala la incorrecta:",
+      "options": [
+        "administrarán los recursos y bienes públicos con austeridad, y utilizarán los mismos en provecho propio o de personas allegadas. Tendrán, asimismo, el deber de velar por su conservación.",
+        "se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal.",
+        "garantizarán la constancia y permanencia de los documentos para su transmisión y entrega a sus posteriores responsables.",
+        "mantendrán actualizada su formación y cualificación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-85",
+      "superblock": "Tema 14",
+      "subblock": "TEST2 T4. TREBEP",
+      "question": "En relación a los principios de conducta, señala la incorrecta:",
+      "options": [
+        "observarán las normas sobre seguridad y salud laboral.",
+        "no pondrán en conocimiento de sus superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad en la que estén destinados.",
+        "garantizarán la atención al ciudadano en la lengua que lo solicite siempre que sea oficial en el territorio.",
+        "todas son correctas. TEST2 T4. TREBEP SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-86",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "El TREBEP es una norma:",
+      "options": [
+        "del estado español con rango de orden ministerial",
+        "de castilla y león con rango de ley",
+        "de castilla y león con rango de decreto",
+        "del estado con rango de ley"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-87",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Son fundamentos de actuación recogidos en el TREBEP:",
+      "options": [
+        "sometimiento pleno a la ley y al derecho",
+        "equiparación de puestos entre mujeres y hombres",
+        "eficiencia en planificación y economía en recursos humanos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-88",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "El EBEP se aplica al personal funcionario, y en lo que proceda al personal laboral, de las Administraciones Públicas:",
+      "options": [
+        "administraciones de entidades locales",
+        "administraciones de las comunidades autónomas",
+        "administraciones de ceuta y melilla",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-89",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "En materia de permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia, el personal laboral al servicio de las Administraciones públicas se regirá por",
+      "options": [
+        "estatuto de los trabjadores",
+        "convenios colectivos respectivos",
+        "leyes de función pública de cada administración",
+        "por lo previsto en el trebep"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-90",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Según el TREBEP, los empleados públicos se clasifican en (señale la respuesta incorrecta):",
+      "options": [
+        "funcionario de carrera",
+        "funcionarios eventuales",
+        "personal laboral",
+        "funcionarios interinos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-91",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Desarrolla funciones directivas profesionales en las administraciones públicas, definidas como tales en las normas específicas de cada administración...",
+      "options": [
+        "personal funcionario",
+        "personal interino",
+        "personal laboral",
+        "personal directivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-92",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Es un derecho individual de los empleados públicos recogido en el EBEP:",
+      "options": [
+        "a percibir las retribuciones y las indemnizaciones por razón del servicio",
+        "a la aprobación de medidas que favorezcan la conciliación de la vida personal, familiar y laboral",
+        "a la planificación eficaz en materia de seguridad y salud en el trabajo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-93",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Según el EBEP, uno de los derechos individuales de los empleados públicos es, en referencia a la consecución de los objetivos atribuidos a la unidad donde preste sus servicios y a ser informado por sus superiores de las tareas a desarrollar...",
+      "options": [
+        "participar en dicha consecución",
+        "planificar la consecución",
+        "aprobar la consecución",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-94",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo",
+      "options": [
+        "carrera vertical",
+        "promoción interna vertical",
+        "carrera horizontal",
+        "promoción interna horizontal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-95",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos.",
+      "options": [
+        "carrera vertical",
+        "promoción interna vertical",
+        "carrera horizontal",
+        "promoción interna horizontal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-96",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional.",
+      "options": [
+        "carrera vertical",
+        "promoción interna vertical",
+        "carrera horizontal",
+        "promoción interna horizontal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-97",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior",
+      "options": [
+        "carrera vertical",
+        "promoción interna vertical",
+        "carrera horizontal",
+        "promoción interna horizontal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-98",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "La promoción interna se realizará mediante",
+      "options": [
+        "sistemas de concurso",
+        "procesos selectivos",
+        "sistemas de provisión",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-99",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Para participar en promoción interna se habrán de cumplir los requisitos exigidos para el ingreso, tener una antigüedad de al menos ......... de servicio activo en el inferior subgrupo o grupo de clasificación profesional, y superar las pruebas selectivas correspondientes.",
+      "options": [
+        "3 años",
+        "2 años",
+        "1 año",
+        "no hay antigüedad mínima"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-100",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "El conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad se denomina para el caso de los funcionarios de carrera:",
+      "options": [
+        "promoción profesional",
+        "carrera funcionarial",
+        "carrera profesional",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-101",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Son derechos individuales de los empleados públicos según el EBEP que se ejercen colectivamente. Señale la respuesta incorrecta:",
+      "options": [
+        "negociación colectiva",
+        "ejercicio de la huelga",
+        "recibir protección en materia de seguridad y salud",
+        "planteamientos de conflictos colectivos de trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-102",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Los representantes de las mesas de negociación entre empleados públicos y administración podrán acordar pactos y acuerdos. Se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal del ámbito correspondiente",
+      "options": [
+        "los acuerdos",
+        "los convenios",
+        "los pactos",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-103",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Los representantes de las mesas de negociación entre empleados públicos y administración podrán acordar, que versarán sobre materias competencia de los órganos de gobierno de las Administraciones Públicas y que para su validez y eficacia será necesaria su aprobación expresa y formal por estos órganos.",
+      "options": [
+        "los acuerdos",
+        "los convenios",
+        "los pactos",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-104",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y deberán actuar con arreglo a los siguientes principios -señale la respuesta incorrecta-",
+      "options": [
+        "neutralidad",
+        "transparencia",
+        "austeridad",
+        "eficiencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-105",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Son principios éticos exigidos a los empleados públicos en el TREBEP",
+      "options": [
+        "su actuación perseguirá la satisfacción de los intereses generales de los ciudadanos",
+        "habrán de resolver aquellos asuntos en los que tengan un interés personal",
+        "actuarán de acuerdo con los principios de planificación de interés general, economía y eficiencia",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-106",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "El personal que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin se denomina:",
+      "options": [
+        "personal funcionario de empleo",
+        "funcionario interino",
+        "personal laboral",
+        "personal eventual"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-107",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Los procedimientos de selección del personal laboral en las administraciones públicas, según el EBEP:",
+      "options": [
+        "habrán de ser públicos",
+        "se regirán en todo caso por los principios de igualdad, mérito y capacidad",
+        "en personal temporal se regirá igualmente por el principio de celeridad",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-108",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "No es un principio por el que se rigen los procedimientos de selección del personal funcionario interino:",
+      "options": [
+        "mérito",
+        "celeridad",
+        "igualdad",
+        "todos son principios en dicha selección"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-109",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Son razones que expresamente han de justificarse en los nombramientos de personal interino:",
+      "options": [
+        "necesidad",
+        "urgencia",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-110",
+      "superblock": "Tema 14",
+      "subblock": "TEST3 T4. TREBEP",
+      "question": "Una de las respuestas que se presentan es correcta en relación a los derechos individuales de los empleados públicos:",
+      "options": [
+        "a la defensa jurídica y protección de la administración pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos",
+        "a la no discriminación por razón de nacimiento, origen racial o étnico, género, sexo u orientación sexual, religión o convicciones, opinión, discapacidad, edad o cualquier otra condición o circunstancia personal o social",
+        "a la libertad de expresión dentro de los límites del ordenamiento jurídico",
+        "todas las respuestas anteriores son correctas TEST3 T4. TREBEP SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-111",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Aprobar la estructura orgánica de la Administración de CL corresponde a:",
+      "options": [
+        "junta de cl",
+        "presidente junta cl",
+        "consejero de presidencia",
+        "consejo consultivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-112",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los representantes de la Junta de Castilla y León en el ámbito de la provincia",
+      "options": [
+        "directores provinciales",
+        "departamentos territoriales",
+        "delegados territoriales",
+        "todas falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-113",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El nombramiento de los consejeros se produce en Castilla y León mediante:",
+      "options": [
+        "decreto del presidente de la junta",
+        "decreto de la junta",
+        "orden de la consejería",
+        "ley de las cortes de castilla y león"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-114",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La reunión del consejo de gobierno de Castilla y León será convocada por:",
+      "options": [
+        "junta de castilla y león",
+        "presidente de la junta",
+        "consejero de presidencia",
+        "a las comisiones delegadas de la junta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-115",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los Consejeros presentarán a la Junta de Castilla y León, o llevarán al Consejo de Gobierno...",
+      "options": [
+        "anteproyectos de decreto y proyectos de ley en materia de su departamento",
+        "proyectos de ley y anteproyectos de reglamento, en materia de su departamento",
+        "anteproyectos de ley, y proyectos de decreto, en materia de su departamento",
+        "proyectos de estatuto y anteproyectos de normas en materia de su departamento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-116",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Interponer el recurso de inconstitucionalidad lo atribuye el estatuto de autonomía, a:",
+      "options": [
+        "cortes de c.l.",
+        "junta de c.l.",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-117",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La composición de la Junta de C.L. habrá de ser regulada:",
+      "options": [
+        "por ley de las cortes de c.l.",
+        "por ley de las cortes generales",
+        "por el estatuto de autonomía de c.l.",
+        "por decreto de la propia junta de c.l."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-118",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El órgano de comunicación de la Consejería es:",
+      "options": [
+        "secretario general",
+        "consejero",
+        "el viceconsejero, en su caso",
+        "el director general correspondiente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-119",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La existencia de Viceconsejerías en la Administración de CL tiene carácter:",
+      "options": [
+        "facultativo / potestativo",
+        "preceptivo",
+        "obligatorio",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-120",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El control externo y la fiscalización de las cuentas de la Administración de la Comunidad Autónoma de CL corresponde según el Estatuto de Autonomía:",
+      "options": [
+        "junta cl",
+        "consejo de cuentas",
+        "consejero economía",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-121",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La administración de Castilla y León es dirigida por....",
+      "options": [
+        "junta cl",
+        "presidente junta",
+        "consejero de presidencia",
+        "cortes de castilla y león"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-122",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La ejecución del Presupuesto de la Comunidad de CL una vez aprobado el mismo en el modo normativo exigido, compete, según la normativa de CL a:",
+      "options": [
+        "pte. junta",
+        "junta de cl",
+        "cortes de cl",
+        "consejo de cuentas de cl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-123",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Corresponde a la Junta de Castilla y León, según la normativa autonómica:",
+      "options": [
+        "ejercer la función ejecutiva y la potestad reglamentaria",
+        "dirigir la administración de la comunidad autónoma de castilla y león",
+        "las respuestas a y b son correctas",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-124",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "A los efectos de la ley 3/2001, la Administración de la Comunidad de Castilla y León se integra por:",
+      "options": [
+        "administración general",
+        "administración institucional",
+        "administración central y local",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-125",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Ostentar la suprema representación de la Comunidad Autónoma de CL compete a:",
+      "options": [
+        "cortes cl",
+        "presidente de la junta cl",
+        "delegado gobierno",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-126",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La creación de Gabinetes de apoyo al Consejero se realizará mediante:",
+      "options": [
+        "decreto de la junta de cl",
+        "orden de la consejería correspondiente",
+        "ley de las cortes de cl",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-127",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Uno de los mencionados no es órgano directivo de la Administración de CL:",
+      "options": [
+        "viceconsejero",
+        "secretario gral.",
+        "delegado territorial",
+        "todos lo son"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-128",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "A la Junta de CL corresponde nombrar y cesar los cargos de la Administración de CL con categoría igual o superior a la de:",
+      "options": [
+        "secretario general",
+        "director general",
+        "subdirector general",
+        "director provincial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-129",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La Junta de CL remite para su aprobación por las Cortes de CL, en su caso:",
+      "options": [
+        "proposiciones de ley",
+        "proyectos de ley",
+        "decretos-ley",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-130",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El Presidente de la Junta de Castilla y León ostenta además la condición de.....",
+      "options": [
+        "presidente de las cortes de castilla y león",
+        "presidente del tribunal superior de justicia de cl",
+        "presidente de la comunidad de castilla y león",
+        "delegado del gobierno para castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-131",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los decretos leyes, en Castilla y León....",
+      "options": [
+        "son normas con rango de ley",
+        "son aprobados por la junta, en casos de extraordinaria y urgente necesidad",
+        "tienen su límite hacia diversas materias, y en todo caso los convalidan las cortes de cl para dejar su provisionalidad",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-132",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Una de estas afirmaciones es correcta:",
+      "options": [
+        "la junta de cl ostenta la función ejecutiva y la potestad reglamentaria",
+        "el presidente de la junta de cl es un procurador elegido por las cortes en el acto que se denomina voto o moción de investidura",
+        "el consejo de gobierno de la comunidad es presidido por el presidente de la junta de cl",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-133",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La Administración de CL podría tener en algunas poblaciones que no capital de provincia oficinas abiertas al público cuando dicha necesidad se efectúe mediante:",
+      "options": [
+        "orden del consejero respectivo",
+        "ley de las cortes de cl",
+        "decreto de la junta",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-134",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Solicitar del gobierno la adopción de un proyecto de ley, o remitir a la mesa del Congreso de los Diputados una proposición de Ley corresponde en C.L:",
+      "options": [
+        "cortes de c.l.",
+        "presidente de la junta de cl",
+        "junta de cl",
+        "a y c son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-135",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Las Comisiones Delegadas de la Junta de CL habrán de ser creadas por:",
+      "options": [
+        "presidente junta",
+        "consejo gobierno",
+        "pleno cortes cl",
+        "ley de cortes de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-136",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "La representación de cada consejería, por delegación del Consejero, compete a:",
+      "options": [
+        "viceconsejero en todo caso",
+        "secretario general",
+        "director general más antiguo",
+        "delegado del gobierno en cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-137",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El número máximo de miembros de la Junta de Castilla y León se establece normativamente:",
+      "options": [
+        "en el estatuto de autonomía",
+        "por decreto del presidente de la junta",
+        "en la ley 3/2001 de gobierno de cl",
+        "no se establece número máximo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-138",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Son órganos directivos periféricos de la Administración de CL:",
+      "options": [
+        "departamentos territoriales",
+        "delegados territoriales",
+        "servicios",
+        "subdelegados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-139",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Para el ejercicio de las atribuciones de la Junta, sus miembros se reúnen en:",
+      "options": [
+        "consejo de ministros y comisiones delegadas",
+        "consejo de gobierno y pleno",
+        "consejo de gobierno y comisiones delegadas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-140",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "En materia de expropiación forzosa, corresponde a la Junta de CL:",
+      "options": [
+        "declarar la urgencia de la misma",
+        "regular todo lo susceptible de expropiación",
+        "determinar qué bienes pueden serlo",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-141",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Las deliberaciones del Consejo de Gobierno en CL serán:",
+      "options": [
+        "públicas, a petición del presidente de la junta",
+        "secretas",
+        "a puerta abierta, sólo para ciudadanos de cl",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-142",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El Secretario de la Junta será nombrado para tal cargo por:",
+      "options": [
+        "presidente junta",
+        "consejero de presidencia",
+        "consejero de hacienda",
+        "vicepresidente junta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-143",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El Consejo de gobierno de CL estará asistido de:",
+      "options": [
+        "las comisiones delegadas que cree el propio consejo de gobierno de cl",
+        "una comisión formada por los secretarios generales de las distintas consejerías",
+        "una comisión de consejeros, que al menos represente el 50% de los de la junta",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-144",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "El Decreto de creación de las Comisiones Delegadas, en la Administración de CL:",
+      "options": [
+        "deberá contener al menos los miembros de la junta que la integren",
+        "deberá contener qué miembros la integran, incluso sin pertenecer a la junta",
+        "deberá contener quién preside y que funciones tiene dicha comisión",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-145",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los Consejeros inician su mandato ...",
+      "options": [
+        "en el momento de su toma de posesión ante las cortes de cl",
+        "en el momento de su toma de posesión ante el presidente de la junta",
+        "en el momento de su toma de posesión ante las cortes de cl y del pte.junta",
+        "cuando así lo determine el presidente en el nombramiento que efectúa en el bocyl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-146",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Corresponde a cada uno de los Consejeros de la Junta de CL:",
+      "options": [
+        "aprobar el anteproyecto del presupuesto de su consejería",
+        "resolver recursos y reclamaciones que le correspondan",
+        "ejercer la potestad reglamentaria de la administración de cl",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-147",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los Vicepresidentes de la Junta de CL tienen las mismas incompatibilidades que:",
+      "options": [
+        "procuradores de cortes de cl",
+        "consejeros",
+        "presidente junta",
+        "b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-148",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "En caso de ausencia, vacante o enfermedad, los Vicepresidentes y los Consejeros serán sustituidos en el ejercicio de sus funciones por:",
+      "options": [
+        "presidente de la junta",
+        "cualquier procurador elegido por el pte. junta",
+        "otro miembro de la junta designado por el pte",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-149",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "En sus relaciones con otras Administraciones Públicas, la Administración de Castilla y León actúa de acuerdo con los principios de:",
+      "options": [
+        "cooperación y coordinación",
+        "respeto de competencias",
+        "subsidiariedad y ponderación de intereses públicos",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-150",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Ordenar la publicación en el BOCyL de los nombramientos de altos cargos del Estado en Castilla y León compete en la comunidad autónoma a:",
+      "options": [
+        "delegado de gobierno",
+        "presidente de la junta",
+        "la junta de castilla y león",
+        "presidente de las cortes de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-151",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Los elementos organizativos básicos de la estructura orgánica de la Administración de la Comunidad de Castilla y León se denominan en la Ley:",
+      "options": [
+        "direcciones generales",
+        "secretaría general",
+        "unidades administrativas",
+        "subdirección general"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-152",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "No es función del Presidente de la Junta de Castilla y León:",
+      "options": [
+        "velar por el cumplimiento de las decisiones de la junta, ordenando su ejecución",
+        "asegurar la coordinación entre las distintas consejerías y resolver los conflictos de atribuciones entre las mismas.",
+        "firmar los acuerdos de la junta y ordenar, en su caso, la publicación en el bocyl",
+        "todas las funciones anteriores corresponden al presidente de la junta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-153",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "En el convenio colectivo de Castilla y León la excedencia recogida como “otros supuestos de excedencia” tiene una duración mínima de:",
+      "options": [
+        "un mes",
+        "dos meses",
+        "tres meses",
+        "seis meses"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-154",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Es función de la Junta de Castilla y León:",
+      "options": [
+        "acordar la interposición de un recurso de inconstitucionalidad",
+        "el planteamiento de conflictos de competencia con el estado u otras comunidades autónomas",
+        "la personación ante el tribunal constitucional en los casos previstos, y por su propia iniciativa o por acuerdo de las cortes de Castilla y León",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-155",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "En caso de ausencia del Secretario de la Junta, el sustituto del mismo será:",
+      "options": [
+        "el miembro de la junta que decida su presidente",
+        "el consejero de más edad",
+        "el consejero más joven",
+        "el vicepresidente primero de la junta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-156",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Es función del Consejero una de las que aparecen a continuación:",
+      "options": [
+        "ostentar la jefatura superior del personal de la consejería",
+        "formular el proyecto de presupuesto de la consejería",
+        "ostentar la representación de la consejería por delegación del presidente",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-157",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Suscitar conflictos de atribuciones con otras consejerías corresponde, según la Ley 3/2001:",
+      "options": [
+        "secretarios generales de cada consejería",
+        "viceconsejeros respectivos",
+        "delegados territoriales respectivos",
+        "consejero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-158",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Para que las reuniones de la Junta sean válidas la normativa exige que en la sesión correspondiente de la misma estén presentes al menos el Presidente, o quien legalmente le sustituya, y al menos:",
+      "options": [
+        "la mitad de los consejeros",
+        "una tercera parte de consejeros",
+        "la mayoría de los consejeros",
+        "una cuarta parte de consejeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-159",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "Una de las respuestas que se ofrece es correcta; señálela:",
+      "options": [
+        "la junta de castilla y león cesará cuando lo haga su presidente",
+        "la junta de castilla y león, cuando se encuentre en funciones, limita su gestión al despacho ordinario de asuntos públicos absteniéndose de adoptar en todo caso cualesquiera otras medidas",
+        "la junta de castilla y león, cuando se encuentre en funciones, sólo podrá aprobar el proyecto de ley de presupuestos en casos de extraordinaria y urgente necesidad",
+        "la junta de castilla y león, cuando se encuentre en funciones, sólo podrá presentar proyectos de ley a las cortes de Castilla y León en los dos primeros meses de encontrarse en dicha situación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t14-160",
+      "superblock": "Tema 14",
+      "subblock": "TEST4   T4.TREBEP",
+      "question": "No es función de la Junta de Castilla y León ...",
+      "options": [
+        "resolver los recursos en vía contencioso administrativa que le atribuyan las leyes",
+        "autorizar, en su caso, el ejercicio de acciones judiciales, su desistimiento y el allanamiento procesal",
+        "autorizar contratos en los supuestos legalmente previstos, así como determinar el órgano de contratación cuando los mismos afecten a varias consejerías",
+        "todas las anteriores son funciones de la junta de castilla y león TEST4 T4.TREBEP SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

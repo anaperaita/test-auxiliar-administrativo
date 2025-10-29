@@ -1,0 +1,567 @@
+{
+  "module": "Tema 12",
+  "title": "Tema 12",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "id": "t12-1",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Según la Ley 40/2015, las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho y deberán respetar en su actuación y relaciones los siguientes principios (señale la respuestas incorrecta):",
+      "options": [
+        "servicio efectivo a los ciudadanos",
+        "responsabilidad por la gestión pública",
+        "buena fe, confianza legítima y legitimidad institucional",
+        "simplicidad en la asignación y eficiencia en recursos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-2",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En el artículo 3 de la Ley 40/2015 se establece que cada una de las administraciones públicas actúa, para el cumplimiento de sus fines, con personalidad jurídica...",
+      "options": [
+        "propia",
+        "única",
+        "derivada",
+        "original"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-3",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En relación a los órganos administrativos de cada administración pública, señale la respuesta incorrecta:",
+      "options": [
+        "cada administración habrá de delimitar, en su ámbito de competencias, las unidades administrativas que configuran los órganos administrativos propios de las especialidades derivadas de su organización",
+        "cada administración, cumpliendo los requisitos que se establecen en la constitución, podrá crear sus órganos administrativos oportunos",
+        "tendrán la consideración de órgano administrativo las unidades administrativas a las que se atribuyan funciones que tengan efectos jurídicos frente a terceros",
+        "tendrán la consideración de órgano administrativo las unidades administrativas cuya actuación tenga carácter preceptivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-4",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "El incumplimiento de las instrucciones u órdenes de servicio dictadas según lo que establece la Ley 40/2015:",
+      "options": [
+        "afectan sólo a la validez de los actos administrativos en caso de que el órgano que las dicta así lo considere",
+        "no afectan por si sólos a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad penal que se les pudiera exigir por tal incumplimiento",
+        "afectan a la legitimidad de la actuación, de modo que esta se declara nula de pleno derecho al incumplir una norma",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-5",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "A tenor del artículo 8 de la LRJSP, la competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de:",
+      "options": [
+        "delegación",
+        "avocación",
+        "renuncia",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-6",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": ". La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos:",
+      "options": [
+        "podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos",
+        "podrán ser desconcentradas en otros jerárquicamente independientes de aquéllos",
+        "podrán ser desconcentradas en otros jerárquicamente dependientes o independientes de aquéllos",
+        "no podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-7",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Contra el acuerdo de avocación:",
+      "options": [
+        "podrá imponerse recurso de alzada",
+        "podrá imponerse recurso potestativo de reposición",
+        "no cabrá recurso, ni podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento",
+        "no cabrá recurso, pero podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-8",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Según la Ley 40/2015, los órganos colegiados tendrán un secretario...",
+      "options": [
+        "que podrá ser miembro del propio órgano",
+        "que podrá ser una persona al servicio de la administración pública correspondiente",
+        "que tendrá voz y voto en un caso, o voz en otro según sea o no miembro del órgano colegiado",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-9",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma",
+      "options": [
+        "presencial",
+        "a distancia",
+        "a y b son correctas siempre y en todo caso",
+        "a y b son correctas, salvo que su reglamento interno recoge expresa y excepcionalmente lo contrario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-10",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Hablando de órganos colegiados, para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia ...",
+      "options": [
+        "del presidente y del secretario, o quienes les suplan, y de al menos la mitad más uno de sus miembros",
+        "de la mitad más uno de sus miembros, siempre con asistencia de presidente o persona en quien delegue",
+        "de la mitad más uno de sus miembros, siempre con asistencia de secretario o persona en quien delegue",
+        "del presidente y del secretario, o quienes les suplan, y de al menos la mitad de sus miembros"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-11",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En las reuniones de un órgano colegiado, no podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día....",
+      "options": [
+        "salvo que asistan la mayoría de los miembros y sea declarada la urgencia del asunto con el voto favorable de todos ellos",
+        "salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto, quedando aceptada por la unanimidad de todos ellos",
+        "salvo que asistan la totalidad de los miembros y el presidente acepte la urgencia del asunto, independientemente de la mayoría simple de los miembros que habrán de votar la misma",
+        "todas las respuestas anteriores son falsas12.-"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-12",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "El acta de la sesión de un órgano colegiado habrá de aprobarse, según la Ley 40....",
+      "options": [
+        "en la misma sesión",
+        "en la siguientes sesión",
+        "en la misma o en la inmediata siguiente reunión",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-13",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "La abstención, para las autoridades y el personal al servicio d las administraciones....",
+      "options": [
+        "es un derecho que pueden o no ejercer a tenor de su propio criterioç",
+        "es un deber a cumplir y por el que, en caso de incumplimiento, tendrán responsabilidad",
+        "es un derecho y un deber, que pueden ejercer siempre con el consentimiento de su superior jerárquico",
+        "es un derecho que podrán ejercer siempre y en todo caso, teniendo obligación la administración de asumir su criterio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-14",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Según la Ley 40/2015, la recusación...",
+      "options": [
+        "se plantea por escrito o de modo oral, pero siempre dejando constancia de la misma",
+        "se plantea oralmente, pero sólo cuando se haga ante la autoridad que nombró al funcionario o persona recusada",
+        "se plantea por escrito, expresando la causa o causas en que se funda y en cualquier momento de la tramitación del expediente",
+        "se plantea ante el funcionario, que deberá resolverla en caso de ser negativa y pasarla al superior para que éste conteste en plazo máximo de 10 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-15",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En los órganos colegiados, preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones, es competencia según la Ley de:",
+      "options": [
+        "presidente",
+        "secretario",
+        "consejero más joven",
+        "consejero de más edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-16",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Son requisitos necesarios de creación de un órgano administrativo según la normativa de la Comunidad Autónoma de Castilla y León que la disposición o convenio que constituya el mismo prevea:",
+      "options": [
+        "sus fines y objetivos",
+        "la dotación de los créditos necesarios para su funcionamiento",
+        "su adscripción administrativa",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-17",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Visar las actas y certificaciones de los acuerdos de un órgano colegiado de la administración es una competencia recogida en la normativa autonómica de Castilla y León de:",
+      "options": [
+        "presidente del órgano colegiado",
+        "secretario del órgano colegiado",
+        "vocal de mayor edad del órgano colegiado",
+        "vocal de menor edad del órgano colegiado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-18",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En casos de vacante, ausencia o enfermedad del presidente de un órgano colegiado será sustituido por el Vicepresidente que corresponde o, en su defecto por el miembro del órgano colegiado que, perteneciendo a la administración autonómica o subsidiariamente a cualquier otra administración, que tenga mayor:",
+      "options": [
+        "mayor jerarquía",
+        "mayor antigüedad",
+        "mayor edad",
+        "las tres cualidades anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-19",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En los órganos colegiados corresponde expedir las certificaciones de los acuerdos adoptados en el mismo a:",
+      "options": [
+        "presidente del órgano",
+        "vocal de mayor edad",
+        "vocal más joven",
+        "secretario del órgano"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-20",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Los miembros que discrepan del acuerdo mayoritario en un órgano colegiado podrán formular su voto particular por escrito en el plazo de:",
+      "options": [
+        "24 horas",
+        "48 horas",
+        "72 horas",
+        "96 horas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-21",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "La recusación es un derecho que poseen los ciudadanos y que podrán promover en cualquier momento de la tramitación del procedimiento. Dicha recusación habrá de hacerse:",
+      "options": [
+        "por escrito, en que se expresan las causas en que se funda",
+        "oralmente, dejando constancia de las causas en que se funda o motiva",
+        "oralmente o por escrito, de modo que quede constancia en la oficina administrativa",
+        "todas las respuestas son falsas; no se podrá hacer en cualquier momento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-22",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "La administración no podrá dictar resolución expresa cuando ...",
+      "options": [
+        "el interesado hubiera solicitado certificación de acto presunto, por haber transcurrido tres meses o más desde la solicitud",
+        "se haya emitido la certificación de acto presunto",
+        "se traten expedientes de interés individual relacionados con peticiones graciables",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-23",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En ningún caso podrán ser objeto de delegación competencias relativas a:",
+      "options": [
+        "adopción de disposiciones de carácter individual",
+        "resolución de recursos en órganos administrativos que hayan dictado el acto objeto de recurso",
+        "materias en que así se determine mediante instrucción del órgano administrativo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-24",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "No podrán abstenerse en votaciones de un órgano colegiado quienes pertenezcan a los mismos en su cualidad de",
+      "options": [
+        "autoridad o personal al servicio de las administraciones públicas",
+        "autoridad o personal al servicio únicamente de la administración del estado",
+        "autoridad o personal al servicio únicamente de cualquiera de las admones locales",
+        "autoridad o personal al servicio de cualquier administración institucional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-25",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "De los recursos que se deduzcan en relación con los actos de los Ministros y de los Secretarios de Estado en materia de personal cuando se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera, conoce:",
+      "options": [
+        "la sala de lo contencioso-administrativo del tribunal supremo",
+        "los juzgados centrales de lo contencioso-administrativo",
+        "la sala de lo contencioso-administrativo del tribunal superior de justicia competente por razón del domicilio del demandante",
+        "la sala de lo contencioso-administrativo de la audiencia nacional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-26",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Frente a la resolución de un recurso de alzada:",
+      "options": [
+        "únicamente cabe presentar recurso extraordinario de revisión en los casos excepciones previstos en la ley.",
+        "cabe presentar recurso de reposición y recurso extraordinario de revisión.",
+        "cabe presentar recurso de reposición puesto que pone fin a la vía administrativa.",
+        "no cabe presentar ningún recurso en vía administrativa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-27",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": ". ¿Qué duración máxima tendrá el trámite de audiencia en la tramitación de los recursos administrativos?",
+      "options": [
+        "15 días.",
+        "10 días.",
+        "20 días.",
+        "5 días."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-28",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En relación con la tramitación de urgencia del procedimiento administrativo, indique la respuesta correcta:",
+      "options": [
+        "se reducirán a la mitad todos los plazos establecidos para el procedimiento ordinario.",
+        "se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+        "el acuerdo que declare la aplicación de tramitación de urgencia al procedimiento es susceptible de recurso, en todo caso.",
+        "se podrá acordar únicamente de oficio."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-29",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": ". Es competente para resolver un recurso de alzada el órgano....",
+      "options": [
+        "superior jerárquico del que dictó el acto que se impugna",
+        "que dictó el acto que se impugna.",
+        "ante el que se interponga el recurso.",
+        "inferior del que dictó el acto que se impugna."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-30",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Según establece la Ley 39/2015, el plazo máximo para resolver en los procedimientos iniciados a solicitud de los interesados será el que resulte de la tramitación del procedimiento aplicable en cada caso. Cuando la norma de procedimiento no fije plazos, el plazo máximo de resolución será de:",
+      "options": [
+        "seis meses.",
+        "quince días.",
+        "tres meses.",
+        "un mes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-31",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": ". El recurso potestativo de reposición se interpondrá:",
+      "options": [
+        "ante la autoridad que nombró al órgano administrativo que ha dictado el acto objeto de recurso.",
+        "ante el órgano superior jerárquico del que lo dictó.",
+        "ante el orden jurisdiccional contencioso-administrativo.",
+        "ante el mismo órgano que lo hubiera dictado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-32",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "El artículo 72 de la Ley 39/2015 establece que el principio, en virtud del cual, en el procedimiento administrativo, se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo, se denomina:",
+      "options": [
+        "principio de eficiencia administrativa.",
+        "principio de celeridad administrativa.",
+        "principio de unicidad administrativa.",
+        "principio de simplificación administrativa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-33",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En relación con la ampliación de plazos en el procedimiento administrativo, señale la respuesta correcta:",
+      "options": [
+        "en ningún caso podrá ser objeto de ampliación un plazo ya vencido.",
+        "el acuerdo de ampliación deberá ser comunicado a los interesados.",
+        "la administración concederá, de oficio únicamente, una ampliación de los plazos establecidos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero.",
+        "los acuerdos sobre ampliación de plazos o sobre su denegación serán susceptibles de recurso."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-34",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Las resoluciones de los recursos de alzada:",
+      "options": [
+        "no ponen fin a la vía administrativa si así lo decide motivadamente el superior jerárquico del órgano que dictó la resolución.",
+        "ponen fin a la vía administrativa.",
+        "pueden poner o no fin a la vía administrativa según los casos.",
+        "no ponen fin a la vía administrativa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-35",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Según la Ley 39/2015 señale si es heredable la condición de interesado en el procedimiento administrativo:",
+      "options": [
+        "sí, en cualquier momento del procedimiento cuando se trate de una relación jurídica transmisible.",
+        "sí, con la autorización del órgano administrativo competente cuando se trate de una relación jurídica transmisible.",
+        "no, porque los derechos del interesado concluyen con el fallecimiento",
+        "sí, al inicio del procedimiento cuando se trate de una relación jurídica transmisible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-36",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Las medidas provisionales adoptadas antes del inicio de un procedimiento tendrán una duración máxima, entendiendo que dicho procedimiento habrá de iniciarse, de:",
+      "options": [
+        "10 días",
+        "15 días",
+        "20 días",
+        "no menos de 10 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-37",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En la fase de instrucción podrá haber un período de prueba, cuya duración no excederá en mínimo y máximo:",
+      "options": [
+        "10 y 15 días",
+        "10 y 20 días",
+        "10 y 25 días",
+        "10 y 30 días"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-38",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En la fase de terminación del procedimiento terceros interesados pueden solicitar la continuación del mismo si es que dicho procedimiento fuera a concluir. El plazo para solicitar o instar dicha continuación será:",
+      "options": [
+        "10 días desde que se les notifica la renuncia o el desistimiento de otros interesados",
+        "10 días desde que la administración da por concluido el procedimiento",
+        "15 días desde que se les notifica la renuncia o desistimiento de otros interesados",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-39",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "En procedimientos de tramitación simplificada la resolución se dictará en plazo de:",
+      "options": [
+        "20 días",
+        "30 días",
+        "45 días",
+        "25 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t12-40",
+      "superblock": "Tema 12",
+      "subblock": "TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO",
+      "question": "Es una forma de terminación anormal del procedimiento administrativo:",
+      "options": [
+        "resolución",
+        "caducidad",
+        "resolución presunta",
+        "todas son correctas TEST TEMA 12.- LEY RÉGIMEN JURÍDICO SECTOR PÚBLICO SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

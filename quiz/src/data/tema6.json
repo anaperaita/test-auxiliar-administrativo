@@ -1,0 +1,1267 @@
+{
+  "module": "Tema 6",
+  "title": "Tema 6",
+  "totalQuestions": 90,
+  "questions": [
+    {
+      "id": "t6-1",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La legislación delegada en Castilla y León recibe el nombre técnico de:",
+      "options": [
+        "decreto",
+        "decreto-ley",
+        "decreto legislativo",
+        "ley de bases"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-2",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El procurador del Común habrá de ser elegido para el cargo en:",
+      "options": [
+        "cortes cl",
+        "junta cl",
+        "tribunal superior de justicia de cl",
+        "ministerio de justicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-3",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El control de la acción política y de gobierno de la Junta de CL compete a:",
+      "options": [
+        "cortes de cl",
+        "consejo consultivo",
+        "consejo de estado",
+        "tribunales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-4",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El control de la acción política y de gobierno del Presidente de la Junta de CL compete a:",
+      "options": [
+        "cortes de cl",
+        "consejo consultivo",
+        "consejo de estado",
+        "tribunales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-5",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Uno de los citados a continuación no constituye un símbolo de identidad exclusiva de la comunidad de Castilla y León:",
+      "options": [
+        "blasón",
+        "bandera",
+        "himno",
+        "todos lo son"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-6",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Establecer y exigir tributos corresponde en la Comunidad de CL, según su Estatuto:",
+      "options": [
+        "cortes cl",
+        "junta cl",
+        "presidente junta cl",
+        "consejo económico y social de cl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-7",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Según el Estatuto, los ciudadanos de CL tendrán derecho a acceder a una renta garantizada de ciudadanía cuando se encuentren en situación de:",
+      "options": [
+        "inclusión social",
+        "exclusión social",
+        "regresión",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-8",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Cuando hablamos de uno de los derechos que tienen los Procuradores en Cortes de C.L., por el cual no podrá exigírseles responsabilidad por las opiniones manifestadas en el ejercicio de su cargo de representación, nos referimos a:",
+      "options": [
+        "inmunidad parlamentaria",
+        "inviolabilidad",
+        "inelegibilidad",
+        "incompatibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-9",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La elección del Pte de la Junta requiere, en primera votación de las Cortes de C.L.:",
+      "options": [
+        "mayoría simple",
+        "mayoría absoluta",
+        "mayoría de 2/3",
+        "mayoría de 3/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-10",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Es una institución básica de CL según su Estatuto:",
+      "options": [
+        "procurador del común",
+        "consejo cuentas",
+        "junta cl",
+        "todas falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-11",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los presupuestos de la Comunidad de CL se recogen en el Estatuto en el artículo:",
+      "options": [
+        "89",
+        "85",
+        "91",
+        "94"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-12",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El artículo constitucional por el que se constituyó la comunidad autónoma de C. L.:",
+      "options": [
+        "art.144",
+        "art.149",
+        "art.143",
+        "art.151"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-13",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Las Cortes Generales hubieron de anexionar Segovia al territorio castellano-leonés en base al art.144 de la constitución por...",
+      "options": [
+        "motivos de interés nacional",
+        "no alcanzar el territorio provincial",
+        "no estar dentro de la organización provincial",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-14",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "No corresponde a las Cortes de CL:",
+      "options": [
+        "ratificar convenios que la junta concluya con otras comunidades autónomas",
+        "interponer recurso de inconstitucionalidad de acuerdo a la c.e. y la l.o. del tr.constitucional",
+        "establecer y exigir tributos de acuerdo a la c.e., el estatuto de autonomía y las leyes estatales",
+        "nombrar al presidente de la junta de cl"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-15",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El control de la acción política y de gobierno de la Junta de C.L. corresponde, según el Estatuto de Autonomía:",
+      "options": [
+        "pte. junta",
+        "cortes generales",
+        "cortes de c.l.",
+        "tribunal de cuentas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-16",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los decretos leyes deberán ser convalidados o derogados por las Cortes de CL en el improrrogable plazo, desde su promulgación, de:",
+      "options": [
+        "10 días",
+        "20 días",
+        "30 días",
+        "60 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-17",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Una de las siguientes atribuciones corresponde a las Cortes de C.L.:",
+      "options": [
+        "elaborar los presupuestos de la comunidad de c.l.",
+        "elegir a los consejeros que componen la junta de c.l.",
+        "designar a los diputados del congreso que representan a la comunidad de c.l. en dicha alta institución",
+        "controlar la acción política y de gobierno de la junta de c.l. y de su presidente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-18",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Quien es autor de las proposiciones de ley que llegan a las Cortes de Castilla y León:",
+      "options": [
+        "la junta cl en todo caso.",
+        "iniciativa popular en todo caso",
+        "a y b correctas.",
+        "todas falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-19",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El Estado puede transferir a las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal mediante:",
+      "options": [
+        "ley ordinaria.",
+        "ley marco.",
+        "ley orgánica.",
+        "ley de armonización."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-20",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Interponer el recurso de inconstitucionalidad lo atribuye el estatuto de autonomía, a:",
+      "options": [
+        "cortes de c.l.",
+        "junta de c.l.",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-21",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El control externo y la fiscalización de las cuentas de la Administración de la Comunidad Autónoma de CL corresponde según el Estatuto de Autonomía:",
+      "options": [
+        "junta cl",
+        "consejo de cuentas",
+        "consejero economía",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-22",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los miembros de las Cortes de C.L. reciben la denominación tradicional de ...",
+      "options": [
+        "senadores de c.l.",
+        "diputados de c.l.",
+        "procuradores",
+        "procurador del común"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-23",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La propuesta de nombramiento del Presidente del Tribunal Superior de Justicia de Castilla y León corresponde:",
+      "options": [
+        "cortes c.l.",
+        "junta c.l.",
+        "consejo gral. poder jud.",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-24",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Es un órgano colegiado de carácter consultivo y asesor en materia socioeconómica de la Comunidad de Castilla y León...",
+      "options": [
+        "procurador del común",
+        "consejo consultivo",
+        "consejo de cuentas",
+        "consejo económico y social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-25",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Supervisa la actuación de la Administración Regional, entes, organismos y de las autoridades y del personal que de ella dependen o están afectos a un servicio público. Supervisa también la actuación de los Entes Locales de Castilla y León en las materias en las que el Estatuto de Autonomía atribuya competencia a la Comunidad Autónoma. En cumplimiento de su misión podrá dirigirse a autoridades, organismos, funcionarios y dependencias de cualquier Administración con sede en la Comunidad Autónoma.",
+      "options": [
+        "procurador del común",
+        "consejo consultivo",
+        "consejo de cuentas",
+        "consejo económico y social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-26",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los Consejeros del Consejo Consultivo pueden ser electivos y natos. Los primeros de éstos son:",
+      "options": [
+        "dos",
+        "tres",
+        "cuatro",
+        "seis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-27",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El presidente del Consejo Consultivo podrá ser reelegido...",
+      "options": [
+        "sólo para un segundo mandato",
+        "para un máximo de dos mandatos, además del original",
+        "no podrá ser reelegido",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-28",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El Consejo Económico y Social tiene un total de ......",
+      "options": [
+        "24 miembros",
+        "30 miembros",
+        "36 miembros",
+        "48 miembros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-29",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Actualmente, las proposiciones de ley a debatir en las Cortes de CL, podrán ser aprobadas por:",
+      "options": [
+        "las propias cortes de cl",
+        "ayuntamientos de la comunidad de cl",
+        "iniciativa popular",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-30",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La delegación legislativa será efectuada por las Cortes de Castilla y León....",
+      "options": [
+        "mediante ley",
+        "mediante decreto",
+        "mediante decreto ley",
+        "mediante decreto legislativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-31",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El examen, enmienda, aprobación y control del Presupuesto de la Comunidad de CL compete, según el Estatuto de Autonomía de CL a:",
+      "options": [
+        "pte. junta",
+        "cortes cl",
+        "junta cl",
+        "consejo de cuentas de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-32",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Ostentar la suprema representación de la Comunidad Autónoma de CL compete a:",
+      "options": [
+        "cortes cl",
+        "presidente de la junta cl",
+        "delegado gobierno",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-33",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El órgano dependiente de las Cortes de C.L. que realizará funciones de fiscalización externa de la gestión económica, financiera y contable del sector público de la Comun. autónoma, sin perjuicio de las competencias que competen al Tribunal de Cuentas de acuerdo con la constitución se conoce como:",
+      "options": [
+        "tribunal de contabilidades de c.l.",
+        "consejo de cuentas",
+        "consejeros de fiscalización contable",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-34",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Designar a los senadores que han de representar a la Comunidad, según lo previsto en la Constitución Española, corresponde en C.L. a:",
+      "options": [
+        "cortes cl",
+        "junta de c.l.",
+        "pte de las cortes",
+        "mesa de las cortes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-35",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La Junta de CL remite para su aprobación por las Cortes de CL, en su caso:",
+      "options": [
+        "proposiciones de ley",
+        "proyectos de ley",
+        "decretos-ley",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-36",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La potestad legislativa, en Castilla y León ...",
+      "options": [
+        "corresponde a las cortes de castilla y león",
+        "corresponde a la junta de castilla y león",
+        "puede delegarla la junta de cl en las cortes de cl",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-37",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "En la jerarquía normativa de Castilla y León...",
+      "options": [
+        "el estatuto de autonomía es, con independencia de la constitución, la norma institucional de cl",
+        "las leyes están jerárquicamente por encima de los decretos",
+        "los decretos son normas aprobadas, entre otros, para la ejecución de las leyes",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-38",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El Presidente de la Junta de Castilla y León ostenta además la condición de.....",
+      "options": [
+        "presidente de las cortes de castilla y león",
+        "presidente del tribunal superior de justicia de cl",
+        "presidente de la comunidad de castilla y león",
+        "delegado del gobierno para castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-39",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Las elecciones a las Cortes de Castilla y León habrán de ser convocadas por:",
+      "options": [
+        "gobierno español",
+        "rey",
+        "presidente de castilla león",
+        "presidentes cortes cl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-40",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La representación del pueblo castellano leonés corresponde a:",
+      "options": [
+        "presidente de la junta de cl",
+        "junta de castilla y león",
+        "cortes de castilla y león",
+        "delegado de gobierno de castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-41",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los decretos leyes, en Castilla y León....",
+      "options": [
+        "tienen rango de ley",
+        "son aprobados por la junta, en casos de extraordinaria necesidad",
+        "habrán de ser convalidados por las cortes de cl para dejar de ser provisionales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-42",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La representación de las Cortes de Castilla y León la ostenta:",
+      "options": [
+        "el pueblo de castilla y leo",
+        "el presidente de las cortes de cl",
+        "el presidente de la junta de cl",
+        "el procurador del común"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-43",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Los textos que elaboran las Comisiones de las Cortes de CL para aportar su iniciativa, y que posteriormente las Cortes terminarán aprobado como leyes, se conocen como:",
+      "options": [
+        "proposiciones de ley",
+        "proyectos de ley",
+        "anteproyectos de ley",
+        "proyectos de decreto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-44",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Tienen iniciativa legislativa en Castilla y León:",
+      "options": [
+        "cortes de castilla y león",
+        "junta de cl",
+        "ayuntamientos de cl e iniciativa popular",
+        "todos los anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-45",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El Procurador del Común es una institución de Castilla y León que en el estado español y según la Constitución ostenta como órgano relacionado o equivalente:",
+      "options": [
+        "procurador de cortes de cl",
+        "consejero",
+        "defensor del pueblo",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-46",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "El alcance y contenido del reconocimiento que se hará a las comunidades castellano-leonesas fuera del territorio de C.L. será mediante:",
+      "options": [
+        "decreto de la junta",
+        "ley de las cortes de c.l.",
+        "decreto-legislativo",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-47",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La condición de castellano leonés la otorga, para todos los españoles:",
+      "options": [
+        "su nacimiento en el territorio de la misma",
+        "su vecindad administrativa",
+        "su actividad laboral en la misma",
+        "la junta, mediante decreto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-48",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "La institución en que se organiza política y jurídicamente el autogobierno de la Comunidad Autónoma:",
+      "options": [
+        "junta c.l.",
+        "las cortes c.l.",
+        "el pte. de la junta",
+        "la comunidad c.l."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-49",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Ordenar la publicación en el B.O.C.L. y en el B.O.E. de las Leyes aprobadas en las Cortes de C.L. es competencia de:",
+      "options": [
+        "pte. de las cortes de c.l.",
+        "pte. de la junta",
+        "mesa de las cortes de c.l.",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-50",
+      "superblock": "Tema 6",
+      "subblock": "TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL",
+      "question": "Solicitar del gobierno la adopción de un proyecto de ley, o remitir a la mesa del Congreso de los Diputados una proposición de Ley corresponde en C.L:",
+      "options": [
+        "cortes de c.l.",
+        "tribunal de justicia de cl",
+        "junta de cl",
+        "a y c son correctas TEST TEMA 6. ESTATUTO AUTONOMÍA.- CORTES DE CL. INSTITUCIONES PROPIAS CL SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-51",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Limita con el territorio de Castilla y León -señale la respuesta falsa-:",
+      "options": [
+        "asturias, cantabria y país vasco -entre otras-",
+        "madrid y aragón -entre otras-",
+        "extremadura y portugal -entre otras-",
+        "valencia y castilla la mancha -entre otras-"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-52",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En Castilla y León consta lo que se ha venido a considerar el municipio más antiguo de España. Reconoce esta situación la llamada...",
+      "options": [
+        "carta municipal de burgos",
+        "fuero de león",
+        "carta puebla de brasoñera",
+        "fuero palentino"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-53",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La unión definitiva de los reinos de León y Castilla aconteció en:",
+      "options": [
+        "1230",
+        "1320",
+        "1425",
+        "1160"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-54",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La batalla de Villalar, con el protagonismo de los Comuneros, tuvo lugar hacia:",
+      "options": [
+        "1521",
+        "1251",
+        "1125",
+        "1512"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-55",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La actual Ley Orgánica que aprueba el Estatuto de Autonomía de Castilla y León es:",
+      "options": [
+        "ley orgánica 4/78",
+        "ley orgánica 4/87",
+        "ley orgánica 5/1983",
+        "ley orgánica 14/2007"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-56",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Las instituciones de autogobierno de la Comunidad aparecen recogidas en el Estatuto de Autonomía de CL en su título:",
+      "options": [
+        "preliminar",
+        "i",
+        "ii",
+        "iii"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-57",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Una Ley de las Cortes de CL fijará la sede o sedes de las instituciones básicas de CL. Dicha ley exige para su aprobación mayoría:",
+      "options": [
+        "simple",
+        "absoluta",
+        "2/3",
+        "3/5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-58",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El blasón de Castilla y León, recogido en el Estatuto...",
+      "options": [
+        "es un escudo timbrado por corona real abierta",
+        "es un escudo cuartelado en cruz o contracuartelado",
+        "es uno de los símbolos de identidad exclusiva de cyl",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-59",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "A los efectos del Estatuto de Autonomía, tienen la condición política de ciudadanos de Castilla y León:",
+      "options": [
+        "los ciudadanos que, de acuerdo con las leyes del estado, tengan vecindad administrativa en cualquiera de los municipios integrados en el territorio de la Comunidad.",
+        "los españoles que, de acuerdo con las leyes del estado, tengan vecindad administrativa en cualquiera de los municipios integrados en el territorio de la Comunidad.",
+        "los residentes que, de acuerdo con las leyes del estado, tengan vecindad administrativa en cualquiera de los municipios integrados en el territorio de la Comunidad.",
+        "los vecinos que, de acuerdo con las leyes del estado, tengan vecindad administrativa en cualquiera de los municipios integrados en el territorio de la Comunidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-60",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Facilitar la participación de todos los castellanos y leoneses en la vida política, económica, cultural y social compete, según el estatuto de autonomía de CL.",
+      "options": [
+        "poderes públicos",
+        "cortes de cl",
+        "junta de cl",
+        "partidos políticos y asociaciones culturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-61",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En relación a los ciudadanos oriundos o procedentes de CL que residan en otras CCAA de España, o fuera del territorio nacional, -señale la respuesta correcta-",
+      "options": [
+        "tendrán el reconocimiento de su origen o procedencia",
+        "tendrán derecho a colaborar y compartir la vida social y cultural de castilla y león",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-62",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El artículo 12 del Estatuto de Autonomía de CL recoge el derecho a una buena Administración, y entre otros conceptos refleja:",
+      "options": [
+        "recibir información suficiente sobre servicios y prestaciones a los que acceder",
+        "tratamiento imparcial y objetivo de los asuntos que les conciernan",
+        "a y b son correctas",
+        "acceso a formular reclamaciones sobre el mal funcionamiento de servicios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-63",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Las Cortes de C.L. tienen su sede en:",
+      "options": [
+        "tordesillas",
+        "burgos",
+        "valladolid",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-64",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La reforma del estatuto de autonomía de C.L. habrá de ser aprobada en las Cortes de Castilla y León por mayoría de ...",
+      "options": [
+        "1/3 procuradores",
+        "absoluta",
+        "simple",
+        "2/3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-65",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La organización territorial está en el Estatuto de C.L.",
+      "options": [
+        "título ii",
+        "título iii",
+        "título i, capítulo 2",
+        "título iv"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-66",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Ejercer la iniciativa de reforma de la Constitución en CL es competencia de:",
+      "options": [
+        "junta cl y cortes cl",
+        "cortes cl",
+        "junta cl",
+        "todas son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-67",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El fortalecimiento de la sociedad civil y el fomento del asociacionismo, el voluntariado y la participación social son, según el Estatuto de Autonomía:",
+      "options": [
+        "derechos de los ciudadanos",
+        "principios rectores de la política pública de cl",
+        "derechos fundamentales de los ciudadanos",
+        "todas falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-68",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El himno de la Comunidad de CL habrá de regularse mediante:",
+      "options": [
+        "ley de las cortes de cl",
+        "decreto de la junta",
+        "decreto pte. junta cl",
+        "todas falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-69",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La integración social, económica laboral y cultural de los inmigrantes en la sociedad de CL compete en cuanto a su promoción, según el estatuto a:",
+      "options": [
+        "pueblo de cl",
+        "procurador del común y tribunal constitucional",
+        "poderes públicos de cl",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-70",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En sus relaciones con la administración de CL, la ley garantizará los derechos de los ciudadanos (señale la respuestas correcta)",
+      "options": [
+        "protección de los datos personales contenidos en ficheros dependientes de la admon cl garantizándose el acceso a dichos datos",
+        "a formular quejas sobre los funcionarios de los servicios públicos",
+        "a un tratamiento imparcial y subjetivo de los asuntos que les conciernan y a la resolución de los mismos en un plazo razonable",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-71",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El estatuto recoge los principios rectores de las políticas públicas, marcándose para ello una serie de objetivos entre los que se encuentran (señale la respuesta incorrecta).",
+      "options": [
+        "prestación de unos servicios públicos de calidad",
+        "la creación de empleo estable y de calidad, la garantía de la seguridad y salud laboral de los trabajadores, así como de su formación permanente",
+        "la modernización y el desarrollo integral de las zonas urbanas de castilla y león, dotándolas de infraestructuras y servicios públicos suficientes",
+        "el apoyo a los sectores agrícola, ganadero y agroalimentario de la comunidad mediante el desarrollo tecnológico y biotecnológico, con el fin de mejorar la competitividad de los mismos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-72",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Son instituciones propias de Castilla y León",
+      "options": [
+        "tribunal de cuentas",
+        "consejo consultivo",
+        "defensor del común",
+        "todas son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-73",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los Procuradores de las Cortes de CL son elegidos mediante...",
+      "options": [
+        "sufragio universal, libre, igual, directo y secreto",
+        "mediante un sistema de representación territorial",
+        "elegidos por circunscripciones electorales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-74",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La exigencia de responsabilidad penal de los procuradores de las Cortes de CL será exigida, en su caso:",
+      "options": [
+        "en el tribunal supremo, en cualquier caso",
+        "en el tribunal superior de justicia de cl, en todo caso",
+        "en la sala correspondiente del consejo consultivo",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-75",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano ordinario de gobierno de las Cortes de Castilla y León es:",
+      "options": [
+        "presidente de las cortes",
+        "mesa de las cortes",
+        "diputación permanente",
+        "junta de cl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-76",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El reglamento de las cortes de Castilla y León habrá de ser aprobado mediante mayoría:",
+      "options": [
+        "simple",
+        "absoluta",
+        "2/3",
+        "3/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-77",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Tiene iniciativa para solicitar una sesión extraordinaria de las Cortes de Castilla y León....",
+      "options": [
+        "la junta de cl, la diputación permanente de las cortes de cl, y la mayoría absoluta de los procuradores",
+        "el presidente de la junta, el presidente de las cortes de cl, y la mayoría absoluta de los procuradores",
+        "la junta de cl y la mayoría de los procuradores de las cortes de cl",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-78",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Es causa de cese del presidente de la Junta...",
+      "options": [
+        "aprobación de una moción de censura",
+        "la pérdida de la confianza",
+        "la pérdida de la condición de ciudadano castellano-leonés",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-79",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Convalidar los Decretos Leyes aprobados por la Junta, de acuerdo con lo dispuesto en el artículo 25.4 del Estatuto de autonomía de Castilla y León:",
+      "options": [
+        "junta de castilla y león",
+        "presidente de la junta",
+        "cortes cl",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-80",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los convenios que la Junta concluy7a con otras Comunidades Autónomas para la gestión y prestación de servicios propios de las mismas...",
+      "options": [
+        "han de ser ratificados por las cortes de cl",
+        "han de ser comunicados de inmediato a las cortes generales",
+        "serán firmados por el presidente de c y l",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-81",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Para constituir un grupo parlamentario en las Cortes de Castilla y León son necesarios...",
+      "options": [
+        "5 procuradores",
+        "al menos 3 procuradores siempre y cuando se hubieran obtenido el 5% de los votos emitidos en el conjunto de cl",
+        "a y b son correctas",
+        "10 procuradores en el ámbito de todas las provincias, o al menos 3 en una de las provincias de castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-82",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La iniciativa legislativa cuando tiene su origen en la Junta de Castilla y León recibe la denominación de:",
+      "options": [
+        "orden o acuerdo, dependiendo de quién es su autor",
+        "decreto o decreto ley, según el caso",
+        "proyecto de ley",
+        "proposición de ley o decretos leyes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-83",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Una de estas afirmaciones es correcta en relación con los miembros de las Cortes de Castilla y León:",
+      "options": [
+        "no tienen mandato imperativo",
+        "tienen y disponen de inviolabilidad en el ejercicio de su cargo",
+        "son aforados en el tribunal superior de justicia y tribunal supremo",
+        "todas las afirmaciones son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-84",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano encargado de producir, recopilar, actualizar y divulgar la información y documentación, escrita, fotográfica y cartográfica, sobre el territorio y el planeamiento de la Comunidad Autónoma se denomina:",
+      "options": [
+        "centro de información territorial",
+        "delegación territorial",
+        "consejo de medio ambiente y territorio",
+        "dirección general de planes y proyectos regionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-85",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano mixto para el diálogo y la cooperación institucional entre la comunidad autónoma y las corporaciones locales de Castilla y León se regula por Ley, y se conoce como:",
+      "options": [
+        "consejo de cooperación local de castilla y león",
+        "consejo interterritorial de castilla y león",
+        "consejo interadministraciones territoriales de castilla y león",
+        "consejo de haciendas territoriales de c l"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-86",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Las Cortes de CL podrán transferir competencias a los ayuntamientos y diputaciones. Dicha transferencia se hará mediante Ley, que exige para su aprobación mayoría:",
+      "options": [
+        "simple",
+        "absoluta",
+        "3/5",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-87",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Como entidad local, tiene personalidad jurídica propia y autonomía plena para la gestión de sus intereses:",
+      "options": [
+        "municipio",
+        "provincia",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-88",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Las entidades locales de Castilla y León se regirán por los principios de... (Señale la respuesta incorrecta).",
+      "options": [
+        "suficiencia financiera",
+        "competencia",
+        "lealtad institucional",
+        "economía"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-89",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En materia de educación, la comunidad autónoma de CL tiene competencias...",
+      "options": [
+        "exclusivas",
+        "de desarrollo legislativo y ejecución",
+        "de ejecución",
+        "no tiene competencias en esta materia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t6-90",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El Consejo Económico y Social es un órgano...",
+      "options": [
+        "colegiado, de carácter consultivo y asesor en materia socioeconómica de la comunidad autónoma de castilla y león",
+        "colegiado, de carácter ejecutivo y asesor en materia social de la comunidad autónoma de castilla y león",
+        "colegiado, de carácter consultivo y asesor en materia económico-financiera de la comunidad de castilla y león",
+        "todas las respuestas son falsas TEST TEMA 6. REPASO SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

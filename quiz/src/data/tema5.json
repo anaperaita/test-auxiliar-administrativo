@@ -1,0 +1,3899 @@
+{
+  "module": "Tema 5",
+  "title": "Tema 5",
+  "totalQuestions": 278,
+  "questions": [
+    {
+      "id": "t5-1",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Quién promoverá la igualdad efectiva de las mujeres y de los hombres en el acceso a los mandatos representativos autonómicos?",
+      "options": [
+        "los poderes públicos",
+        "las cortes de castilla y león",
+        "la ley",
+        "el estado y la junta de castilla y león."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-2",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿A quién le corresponde caso de procesamiento de un procurador por un delito cometido fuera de la comunidad?",
+      "options": [
+        "tribunal superior de justicia en pleno",
+        "sala de lo penal tribunal supremo",
+        "sala de lo penal tribunal superior de justicia",
+        "ministerio de justicia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-3",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Con arreglo al art. 13.10 de nuestro actual estatuto de autonomía, ¿quién tiene derecho a la cultura y el patrimonio?",
+      "options": [
+        "todos los castellanos y leoneses",
+        "todos los españoles",
+        "exclusivamente españoles",
+        "quien tenga vecindad en castilla y león"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-4",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Instituciones de autogobierno de la comunidad, ¿en qué título del estatuto se encuentran regulados?",
+      "options": [
+        "dicha denominación no existe en el estatuto",
+        "se encuentran regulados en el título i del estatuto",
+        "título ii del estatuto",
+        "la denominación correcta es instituciones de gobierno de la comunidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-5",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿A efectos de la elección de procuradores, cual es la circunscripción electoral?",
+      "options": [
+        "el municipio",
+        "la comunidad autónoma",
+        "la provincia",
+        "partido judicial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-6",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Quién determinara las causas de inelegibilidad e incompatibilidad de los procuradores?",
+      "options": [
+        "ley de incompatibilidades",
+        "los poderes públicos",
+        "cortes de castilla y león",
+        "legislación electoral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-7",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Los ciudadanos de Castilla y León tienen derecho a promover la convocatoria de consultas populares, relativas a decisiones políticas que sean competencia de la comunidad, en las condiciones y con los requisitos que señalen las leyes, respetando.",
+      "options": [
+        "art. 148.2.32 de la constitución",
+        "art. 11 del estatuto",
+        "art. 149.1.32a de la constitución",
+        "art. 148.1.32a de la constitución"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-8",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "El voto o moción de investidura que se produce en las cortes de CyL para la elección del presidente de la comunidad, exige en su primera votación:",
+      "options": [
+        "mayoría simple",
+        "mayoría absoluta",
+        "mayoría de 2/3",
+        "mayoría de 3/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-9",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Aprobar decretos en Castilla y León es competencia de:",
+      "options": [
+        "consejeros",
+        "cortes de castilla y león",
+        "junta de castilla y león",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-10",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Desde la promulgación los Decretos-leyes deberán ser convalidados o derogados en un plazo improrrogable de:",
+      "options": [
+        "10 días.",
+        "20 días.",
+        "30 días.",
+        "40 días."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-11",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Dictar decretos legislativos en la forma establecida por el estatuto de autonomía de Castilla y León corresponde según el mismo:",
+      "options": [
+        "cortes castilla y león",
+        "junta castilla y león",
+        "presidente de cortes",
+        "consejeros respectivos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-12",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "La moción de censura en Castilla y León habrá de ser aprobada en las Cortes de Castilla y León, para que prospere la misma mayoría...",
+      "options": [
+        "simple",
+        "absoluta",
+        "2/3",
+        "3/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-13",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "En el ámbito autonómico de Castilla y León, la regulación esencial de los derechos reconocidos en el Título I, Capítulo II debe realizarse mediante:",
+      "options": [
+        "decreto de la junta",
+        "disposiciones administrativas de castilla y león",
+        "ley de cortes de castilla y león",
+        "orden de la administración de castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-14",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "La delegación de las Cortes a la Junta para la elaboración de textos articulados, ¿ha de efectuarse a través de?",
+      "options": [
+        "un decreto-ley",
+        "una ley de bases",
+        "un real decreto",
+        "una orden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-15",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Cuál es el órgano institucional que representa al Pueblo de Castilla y León, según su Estatuto de Autonomía?",
+      "options": [
+        "la junta de castilla y león",
+        "el consejo de gobierno de castilla y león",
+        "las cortes generales",
+        "las cortes de castilla y león"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-16",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Cuál es la Circunscripción Electoral a efectos de elección de los procuradores de las Cortes de Castilla y León?",
+      "options": [
+        "el municipio",
+        "la provincia",
+        "la comunidad autónoma",
+        "la comarca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-17",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "La Convocatoria de Elecciones de Procuradores de las Cortes de Castilla y León se realizará por:",
+      "options": [
+        "el presidente de las cortes de castilla y león",
+        "el presidente de la junta",
+        "el presidente de castilla y león",
+        "la junta de castilla y león"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-18",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿A quién le corresponde promover la integración social, económica, laboral y cultural de los inmigrantes en la sociedad de Castilla y León?",
+      "options": [
+        "a las poderes fácticos de la comunidad",
+        "a los poderes públicos de la comunidad",
+        "a las cortes de castilla y león",
+        "a las cortes y junta de castilla y león."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-19",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "La autonomía de la comunidad de CyL se consiguió:",
+      "options": [
+        "a través del procedimiento del artículo 143 de la constitución",
+        "a través del procedimiento del artículo 151 de la constitución",
+        "a través del procedimiento del artículo 1 de su estatuto de autonomía",
+        "a través del procedimiento del artículo 2 de la constitución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-20",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Qué ley aprobó el estatuto de autonomía de la comunidad autónoma de CyL?",
+      "options": [
+        "la ley 4/1983 aprobada por las cortes de cyl",
+        "la ley 4/1983 aprobada por las cortes generales",
+        "la ley orgánica 4/1983 aprobada por las cortes generales",
+        "la ley orgánica 2/1984 aprobada por las cortes de cyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-21",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿De qué fecha es la ley que aprobó el estatuto de autonomía de la comunidad autónoma de CyL?",
+      "options": [
+        "de 15 de enero de 1984",
+        "de 15 de febrero de 1983",
+        "de 25 de enero de 1983",
+        "de 25 de febrero de 1983"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-22",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Cuál es la norma institucional básica conforme a la que se organiza la comunidad autónoma de CyL?",
+      "options": [
+        "la constitución española",
+        "el estatuto de autonomía",
+        "la ley orgánica de organización de dicha comunidad",
+        "está pendiente de aprobarse por las cortes de cyl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-23",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Qué título del estatuto de autonomía de la comunidad de CyL regula las competencias de la comunidad?",
+      "options": [
+        "su título i",
+        "su título ii",
+        "su título iv",
+        "su título v"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-24",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿De qué trata el título VII del estatuto de autonomía de la comunidad de CyL?",
+      "options": [
+        "de las competencias de la comunidad",
+        "de la reforma del estatuto",
+        "de la organización territorial",
+        "de la economía y hacienda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-25",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "El estatuto de autonomía de la comunidad de castilla y león regula al presidente de la junta de CyL:",
+      "options": [
+        "en el capítulo i de su título i",
+        "en el capítulo ii de su título i",
+        "en el capítulo i de su título ii",
+        "en el capítulo ii de su título ii"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-26",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Cuál de las siguientes provincias no forma parte de la comunidad de CyL?",
+      "options": [
+        "salamanca",
+        "ávila",
+        "logroño",
+        "zamora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-27",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "¿Cuál de las siguientes provincias forma parte de la comunidad de CyL?",
+      "options": [
+        "santander",
+        "logroño",
+        "soria",
+        "fuensaldaña"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-28",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "La sede de la Junta de CyL se encuentra en:",
+      "options": [
+        "salamanca",
+        "burgos",
+        "león",
+        "valladolid"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-29",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Las Cortes de CyL tendrán su sede en:",
+      "options": [
+        "zamora",
+        "salamanca",
+        "valladolid",
+        "fuensaldaña"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-30",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 1",
+      "question": "Señala la correcta:",
+      "options": [
+        "el blasón de castilla y león es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.El segundo y tercer cuarteles: en campo de gules, un castillo de oro almenado de dos almenas, mamposteado de sable y clarado de azur.",
+        "el blasón de castilla y león es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.El segundo y tercer cuarteles: en campo de gules, un castillo de oro almenado de tres almenas, mamposteado de sable y clarado de azur.",
+        "el blasón de castilla y león es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de gules, un castillo de oro almenado de tres almenas, mamposteado de sable y clarado de azur. El segundo y tercer cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro.",
+        "el blasón de castilla y león es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado. El primer y cuarto cuarteles: en campo de gules, un castillo de oro almenado de dos almenas, mamposteado de sable y clarado de azur. El segundo y tercer cuarteles: en campo de plata, un león rampante de púrpura, linguado, uñado y armado de gules, coronado de oro. Test 1 Título Preliminar y II Estatuto Autonomía SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-31",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Según el estatuto de autonomía de la comunidad de CyL tienen la condición política de ciudadanos de CyL todos los ciudadanos españoles que de acuerdo con la legislación general del estado:",
+      "options": [
+        "tengan vecindad administrativa en cualquier municipio integrado en el territorio de la comunidad",
+        "residan en el territorio de la comunidad al menos 3 meses al año",
+        "hayan nacido en el actual territorio de la comunidad, aunque no residan actualmente en la misma",
+        "tengan vecindad administrativa en cualquier municipio integrado en el territorio de la comunidad y hayan nacido en el mismo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-32",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Los derechos y deberes de los ciudadanos de Castilla y León son:",
+      "options": [
+        "los establecidos en la constitución española.",
+        "los establecidos en la constitución española, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto de Autonomía.",
+        "los establecidos en la constitución española, en los tratados internacionales sobre Derechos Humanos ratificados por España, en el ordenamiento de la Unión Europea, así como los establecidos en el ámbito de la Comunidad Autónoma por el presente Estatuto de Autonomía.",
+        "los establecidos en la constitución española, así como los establecidos en título i del presente Estatuto de Autonomía."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-33",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "La Junta de CyL es:",
+      "options": [
+        "una institución básica de la comunidad de c y l",
+        "un órgano unipersonal de gobierno de la comunidad",
+        "una institución elemental del estado",
+        "un órgano no superior colegiado de la comunidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-34",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Cuál de las siguientes no es una institución básica de la comunidad de CyL?",
+      "options": [
+        "las cortes de cyl",
+        "el presidente de la junta de cyl",
+        "el consejo local de gobierno de cyl",
+        "la junta de cyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-35",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Qué denominación reciben los miembros de las Cortes de CyL?",
+      "options": [
+        "cortesanos",
+        "procuradores",
+        "diputados",
+        "parlamentarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-36",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Cuál es el mínimo de procuradores que se asigna a cada provincia de la comunidad de CyL?",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-37",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Fuera del territorio de la comunidad de castilla y león la responsabilidad penal de los procuradores de las Cortes de CyL será exigible:",
+      "options": [
+        "ante el tribunal superior del estado",
+        "ante la audiencia provincial sala de lo penal",
+        "ante el tribunal superior en pleno",
+        "ante la sala de lo penal del tribunal supremo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-38",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿A quién corresponde convocar las sesiones extraordinarias de las Cortes de CyL?",
+      "options": [
+        "al presidente de la comunidad",
+        "al presidente de las cortes",
+        "al rey",
+        "a la junta de cyl"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-39",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Expresar cuál de las siguientes afirmaciones es incorrecta:",
+      "options": [
+        "la junta de cyl puede pedir que se convoque sesión extraordinaria de las cortes de cyl",
+        "la diputación permanente de las cortes de cyl puede pedir que se convoque sesión extraordinaria de las cortes",
+        "una mayoría absoluta de los procuradores de las cortes de cyl puede pedir que se convoque sesión extraordinaria de las Cortes de CyL",
+        "cualquier consejero de la junta de cyl puede pedir que se convoque sesión extraordinaria de las Cortes de CyL"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-40",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Expresar cuál de las siguientes atribuciones corresponde a las Cortes de CyL",
+      "options": [
+        "elaborar los presupuestos de la comunidad",
+        "elegir a los consejeros que forman parte de la junta de cyl",
+        "designar a los diputados del congreso de los diputados que han de representar a la comunidad",
+        "controlar la acción política y de gobierno de la junta y de su presidente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-41",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Expresar cuál de las siguientes atribuciones no corresponde a las Cortes de CyL",
+      "options": [
+        "ejercitar la iniciativa de reforma de la constitución, en los términos previstos en la misma.",
+        "ejercer la potestad legislativa y ejecutiva de la comunidad",
+        "aprobar los presupuestos de las propias cortes",
+        "designar a los senadores que han de representar a la comunidad en el senado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-42",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Las leyes de CyL serán promulgadas:",
+      "options": [
+        "en nombre del rey por el presidente de la junta de cyl",
+        "en nombre del rey por el presidente de las cortes de cyl",
+        "en nombre del rey por el presidente de la nación",
+        "en nombre del presidente de la junta por el presidente de las cortes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-43",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Cuál de las siguientes competencias no corresponde en exclusiva a la comunidad de CyL?",
+      "options": [
+        "ordenación de su territorio, urbanismo y vivienda",
+        "aeropuertos comerciales dentro de su territorio",
+        "promoción y ordenación del turismo en el ámbito de la comunidad",
+        "ordenación de la hacienda de la comunidad autónoma, conforme a lo establecido en su estatuto de CyL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-44",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Indicar cuál de las siguientes funciones corresponde al presidente de la Junta de CyL",
+      "options": [
+        "convocar las sesiones de la junta",
+        "presidir las sesiones de la junta",
+        "dirigir los debates y deliberaciones de la junta",
+        "las tres anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-45",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Para ser elegido presidente de la Junta de CyL",
+      "options": [
+        "es necesario ser miembro de las cortes de cyl y ser nombrado por el rey",
+        "no es necesario ser miembro de las cortes de cyl pero si ser nombrado por el rey",
+        "es necesario ser miembro de las cortes de cyl y ser nombrado por el presidente de las Cortes de CyL",
+        "es necesario ser miembro de las cortes de cyl y ser nombrado por el presidente de la nación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-46",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "La Junta de Castilla y León es: (art 28)",
+      "options": [
+        "el órgano de gobierno de la comunidad de castilla y león.",
+        "el órgano de gobierno y administración de la comunidad de castilla y león.",
+        "la institución de gobierno y administración de la comunidad de castilla y león.",
+        "la institución de gobierno y administración de la comunidad de castilla y león y ejerce la función reglamentaria y la potestad ejecutiva de acuerdo con el presente Estatuto y el resto del ordenamiento jurídico."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-47",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "La Junta de Castilla y León está compuesta:",
+      "options": [
+        "por el presidente, los vicepresidentes, en su caso, y los consejeros.",
+        "por el presidente y los procuradores.",
+        "por el presidente, los vicepresidentes, y los consejeros.",
+        "por el presidente y los vicepresidentes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-48",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Las cortes de CyL podrán exigir la responsabilidad política de la Junta:",
+      "options": [
+        "mediante el planteamiento de la cuestión de confianza",
+        "mediante la adopción por mayoría simple de sus miembros de la moción de censura.",
+        "mediante la adopción por mayoría absoluta de sus miembros de la moción de censura",
+        "mediante el planteamiento de la cuestión de confianza, adoptado por mayoría absoluta de sus miembros"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-49",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "El Capítulo III del Título I del Estatuto de Autonomía de C y L trata de:",
+      "options": [
+        "la organización territorial",
+        "la potestad sancionadora",
+        "la organización judicial",
+        "ninguna de las respuestas anteriores es correcta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-50",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Según el Estatuto de Autonomía, ¿quién determina la ubicación de los organismos o servicios de la Administración de la Comunidad?",
+      "options": [
+        "las cortes de c y l",
+        "el presidente de c y l",
+        "la junta de c y l",
+        "ninguno de los anteriores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-51",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Por quién se realizará la convocatoria de elecciones de los miembros de las Cortes de C y L?",
+      "options": [
+        "por el presidente de las cortes de c y l",
+        "por el presidente de las cortes generales",
+        "por el presidente de la junta de castilla y león",
+        "por el presidente del senado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-52",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Las Cortes de CyL celebraran sus periodos ordinarios de sesiones:",
+      "options": [
+        "entre septiembre y diciembre el primero, y entre febrero y junio el segundo",
+        "entre octubre y diciembre, el primero, y entre enero y junio el segundo",
+        "entre septiembre y noviembre, el primero, y entre diciembre y julio, el segundo",
+        "entre agosto y diciembre, el primero, y entre febrero y mayo el segundo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-53",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "La Comunidad Autónoma de CyL podrá establecer acuerdos de cooperación con otras comunidades autónomas:",
+      "options": [
+        "previa autorización del presidente de la junta",
+        "previa autorización de las cortes generales",
+        "previa autorización de las cortes de castilla y león",
+        "previa autorización del presidente de las cortes de c y l"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-54",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Según el artículo 30 del Estatuto de Autonomía, ¿a quién corresponde suscitar, en su caso, conflictos de competencia con el Estado u otra Comunidad Autónoma?",
+      "options": [
+        "al presidente de la junta de c y l",
+        "al presidente del consejo consultivo",
+        "a la junta de c y l",
+        "al presidente de las cortes de c y l"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-55",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "El control de la acción de gobierno de la junta de CyL lo ejerce según el estatuto de CyL:",
+      "options": [
+        "el presidente de la comunidad",
+        "las cortes de castilla y león",
+        "tribunal superior de justicia",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-56",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Quién elige al presidente de las Cortes de Castilla y León?:",
+      "options": [
+        "el presidente de la junta de castilla y león, de entre los miembros que las componen",
+        "el rey",
+        "las cortes de castilla y león",
+        "la junta de castilla y león."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-57",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "¿Quién convoca las sesiones extraordinarias de las Cortes de CyL?",
+      "options": [
+        "el presidente de las cortes de c y l",
+        "el presidente de la junta de c y l",
+        "la diputación permanente",
+        "1/5 de los procuradores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-58",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "El Estatuto de Autonomía de Castilla y León se aprobó por:",
+      "options": [
+        "la lo 4/1985.",
+        "la lo 4/1983.",
+        "la lo 5/1983.",
+        "la lo 5/1985."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-59",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "El número de artículos del Estatuto es:",
+      "options": [
+        "50.",
+        "91.",
+        "43.",
+        "51"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-60",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 2",
+      "question": "Es un símbolo de la Comunidad Autónoma de Castilla y León:",
+      "options": [
+        "el emblema o blasón.",
+        "el pendón.",
+        "el himno, que se establecerá mediante ley.",
+        "todas son correctas. Test 2 Título Preliminar y II Estatuto Autonomía SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-61",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La delegación de las Cortes a la Junta para la elaboración de textos refundidos, ¿ha de efectuarse a través de?",
+      "options": [
+        "un decreto-ley",
+        "una ley ordinaria",
+        "un real decreto",
+        "una orden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-62",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Cuál de las siguientes atribuciones no es propia de la Junta de C y L?",
+      "options": [
+        "ejercer el gobierno y administración de la comunidad.",
+        "interponer recursos de inconstitucionalidad.",
+        "suscitar conflictos de competencia con el estado u otra comunidad autónoma.",
+        "plantear ante las cortes de cyl la cuestión de confianza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-63",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién elige al presidente de la Junta de Castilla y León?",
+      "options": [
+        "la propia junta de entre sus miembros",
+        "las cortes de castilla y león",
+        "el pueblo castellano-leonés, por sufragio universal, libre igual y directo",
+        "no hay ninguna correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-64",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La convocatoria de elecciones a Cortes de Castilla y León, habrá de efectuarse por:",
+      "options": [
+        "presidente de la junta de castilla y león.",
+        "cortes de castilla y león.",
+        "presidente de las cortes de castilla y león.",
+        "junta de castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-65",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La bandera de CyL ondeará en todos los Centros y Actos oficiales de la Comunidad Autónoma",
+      "options": [
+        "a la izquierda de la bandera española",
+        "a la izquierda o derecha de la bandera española, según se trate de actos propios de la Comunidad Autónoma o del estado, respectivamente",
+        "a la derecha de la bandera de la comunidad europea",
+        "a la derecha de la bandera española"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-66",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El número de disposiciones derogatorias del Estatuto es:",
+      "options": [
+        "2.",
+        "6.",
+        "3.",
+        "1."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-67",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Es correcta, sobre el pendón de Castilla y León, una de estas afirmaciones:",
+      "options": [
+        "se trata de un símbolo de la comunidad de castilla y león",
+        "es una institución básica de la comunidad de castilla y león",
+        "está constituido por un escudo cuartelado y contracuartelado de leones y almenas de castillo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-68",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Dentro del derecho a una buena administración que recoge el estatuto de autonomía de Castilla y León, la ley garantizará los siguientes derechos en las relaciones ciudadano administración:",
+      "options": [
+        "recibir información suficiente sobre servicios a los que pueden acceder y condiciones de acceso a los mismos",
+        "formular quejas sobre el funcionamiento de los servicios públicos",
+        "acceso a los archivos y registros administrativos",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-69",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién fomentará el uso correcto del castellano?",
+      "options": [
+        "los poderes públicos",
+        "la junta de castilla y león",
+        "las cortes de castilla y león",
+        "el pueblo castellano-leones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-70",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El número de disposiciones transitorias del Estatuto es:",
+      "options": [
+        "2.",
+        "6.",
+        "3.",
+        "1."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-71",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién tiene derecho a dirigir peticiones a las instituciones y a las administraciones públicas?",
+      "options": [
+        "todas las personas",
+        "sólo los castellano-leones",
+        "sólo los españoles",
+        "todos los empadronados en castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-72",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién propone al presidente del Tribunal Superior de Justicia de Castilla y León?",
+      "options": [
+        "las cortes de castilla y león con acuerdo del ministerio de justicia",
+        "el consejo general del poder judicial",
+        "la junta de castilla y león, de acuerdo con las cortes de castilla y león.",
+        "el presidente de la junta de castilla y león, y lo nombra el rey"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-73",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "De cuantos Títulos se conforma el Estatuto de Autonomía de Castilla y León:",
+      "options": [
+        "ocho títulos",
+        "nueve títulos",
+        "diez títulos",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-74",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "En que título del Estatuto están reguladas las Competencias de la Comunidad:",
+      "options": [
+        "título i",
+        "título v",
+        "título iii",
+        "titulo x"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-75",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El respeto a la lengua gallega:",
+      "options": [
+        "gozará de respeto y protección en los lugares en que habitualmente se utilice.",
+        "es cooficial, junto al castellano, en los lugares en que habitualmente se utilice.",
+        "no se recoge en el estatuto de castilla y león",
+        "se establecerá en una ley."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-76",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El estatuto de autonomía de Castilla y León....",
+      "options": [
+        "entró en vigor al día siguiente de su publicación en el b.o.c.l.",
+        "entró en vigor el mismo día de publicarse en el b.o.e.",
+        "entró en vigor al día siguiente de publicarse en el b.o. de las cortes de castilla y león",
+        "entró en vigor al día siguiente de su publicación en el b.o.e."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-77",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Los símbolos de identidad exclusiva de la comunidad de Castilla y León son:",
+      "options": [
+        "blasón, bandera y pendón de castilla y león",
+        "blasón, bandera e himno de castilla y león",
+        "bandera, blasón, pendón e himno de castilla y león",
+        "bandera, pendón, blasón y canción de castilla y león"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-78",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Respecto de los castellanos y leoneses en el exterior, el estatuto establece que, sin perjuicio de las competencias del estado, el alcance y contenido del reconocimiento a estos ciudadanos procedentes de la comunidad que residen en otras comunidades autónomas o fuera del territorio nacional habrá de hacerse:",
+      "options": [
+        "por la junta de castilla y león",
+        "por la administración de castilla y león",
+        "por ley de cortes de castilla y león",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-79",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Cuál fue la primera reforma que sufrió el actual estatuto de autonomía de Castilla y León?",
+      "options": [
+        "ley 53/84 de 26-12",
+        "ley orgánica 4/1983",
+        "ley orgánica 11/94",
+        "ley orgánica 4/1999"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-80",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Cuál es la norma institucional básica en Castilla y León?",
+      "options": [
+        "estatuto de autonomía",
+        "la constitución española",
+        "a y b más el resto del ordenamiento jurídico",
+        "las que designen las cortes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-81",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Cuál es la última reforma que ha sufrido nuestro actual estatuto?",
+      "options": [
+        "ley orgánica 4/1983 de 25 de febrero",
+        "ley orgánica 11/1994 de 24 de marzo",
+        "ley orgánica 4/1999, de 8 de enero",
+        "ley orgánica 14/2007 de 30 de noviembre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-82",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El himno y los demás símbolos de la Comunidad de Castilla y León se regularán mediante:",
+      "options": [
+        "ley de las cortes de castilla y león",
+        "ley orgánica cortes gral.",
+        "decreto junta de castilla y león",
+        "todas son falsas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-83",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Con arreglo al art. 4 del estatuto indicar los valores esenciales para la identidad de la comunidad de Castilla y León.",
+      "options": [
+        "libertad, igualdad y pluralismo político",
+        "libertad, igualdad y pluralismo jurídico",
+        "la lengua castellana y el patrimonio artístico y natural",
+        "la lengua castellana y el patrimonio artístico y cultural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-84",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién será objeto de protección específica por parte de las instituciones por su particular valor dentro del patrimonio lingüístico de la comunidad?",
+      "options": [
+        "la lengua gallega",
+        "el castellano",
+        "el leonés",
+        "las zonas de montaña"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-85",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Cómo se denomina el Título II del Estatuto desde la reforma de 2007:",
+      "options": [
+        "instituciones de autogobierno de la comunidad,",
+        "derechos y principios rectores",
+        "de la organización territorial",
+        "relaciones institucionales y acción exterior de la comunidad de castilla y león"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-86",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿En Qué artículo del Estatuto se regulan las competencias exclusivas de la Comunidad?:",
+      "options": [
+        "art. 69",
+        "art. 70",
+        "art. 71",
+        "art. 72"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-87",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El Estatuto de Autonomía de Castilla y León se integra dentro del ordenamiento jurídico del Estado Español con el rango de:",
+      "options": [
+        "ley ordinaria",
+        "bloque de constitucionalidad",
+        "ley orgánica",
+        "ley autonómica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-88",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El territorio de la Comunidad de Castilla y León comprende el de los municipios integrados en las actuales provincias de:",
+      "options": [
+        "ávila, burgos, logroño, palencia, salamanca, segovia, soria, valladolid y zaragoza",
+        "ávila, burgos, logroño, plasencia, salamanca, segovia, soria, valladolid y zamora",
+        "ávila, burgos, león, palencia, salamanca, segovia, soria, valladolid y zamora",
+        "ávila, burgos, león, plasencia, salamanca, segovia, soria, valladolid y zamora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-89",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "A efectos de la identidad de la Comunidad de Castilla y León la lengua castellana se considera:",
+      "options": [
+        "esencial patrimonio lingüístico de la comunidad",
+        "valor esencial para la identidad de la comunidad",
+        "la lengua oficial de la comunidad autónoma junto con el español para el resto del estado",
+        "un valor esencial de su patrimonio histórico como lo es el español para el resto del estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-90",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "No es un símbolo de la Comunidad de Castilla y León:",
+      "options": [
+        "castellano",
+        "blasón",
+        "himno",
+        "pendón"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-91",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Cuál es la norma suprema del ordenamiento jurídico español en castilla y León?",
+      "options": [
+        "estatuto de autonomía y resto del ordenamiento jurídico español",
+        "estatuto de autonomía y constitución española",
+        "constitución española",
+        "todas son correctas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-92",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿A quién le corresponde el poder legislativo en Castilla y León?",
+      "options": [
+        "junta de castilla y león",
+        "asamblea legislativa de la comunidad",
+        "junta de castilla y león y cortes de castilla y león, exclusivamente",
+        "junta de castilla y león, cortes de castilla y león y procurador del común"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-93",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La sede de las instituciones de autogobierno de C.L. se establece por:",
+      "options": [
+        "decreto de la junta",
+        "ley de las cortes generales",
+        "decreto-legislativo de las cortes c.l.",
+        "ley cortes c.l."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-94",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La utilización de los símbolos y banderas de la comunidad se regula por:",
+      "options": [
+        "ley de las cortes de c.l.",
+        "ley orgánica cortes gral.",
+        "decreto de la junta de c.l.",
+        "todas son falsas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-95",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La sede de las instituciones de autogobierno en C.L. será fijada por Ley de las Cortes de C.L. que necesitará mayoría de:",
+      "options": [
+        "3/5",
+        "2/3",
+        "3/4",
+        "absoluta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-96",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "¿Quién determina la ubicación de los servicios de la administración de la comunidad?",
+      "options": [
+        "la junta de castilla y león",
+        "el presidente de la junta de cyl.",
+        "las cortes de cyl",
+        "el presidente de las cortes de cyl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-97",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El pendón de castilla y león, vendrá constituido:",
+      "options": [
+        "por el escudo cuartelado sobre un fondo carmesí tradicional",
+        "cada provincia y municipio conservará su propio pendón.",
+        "cuartelado con los símbolos de castilla y león.",
+        "todas las respuestas anteriores son correctas, respecto al pendón."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-98",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "Según el art. 5 del Estatuto, ¿quién promoverá el aprendizaje del castellano en el ámbito internacional especialmente en colaboración con las Universidades de la Comunidad, para lo cual podrá adoptar las medidas que considere oportunas?",
+      "options": [
+        "las cortes de cyl",
+        "la junta de cyl",
+        "los procuradores de cyl",
+        "ninguno de los anteriores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-99",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "La protección jurídica de los símbolos de Castilla y León es la que corresponde a:",
+      "options": [
+        "los símbolos del estado",
+        "los símbolos del resto de ccaa",
+        "los símbolos de las instituciones básicas de cyl",
+        "todos los anteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-100",
+      "superblock": "Título Preliminar",
+      "subblock": "Título Preliminar - Test 3",
+      "question": "El número de disposiciones adicionales del Estatuto es:",
+      "options": [
+        "2.",
+        "6.",
+        "3.",
+        "1. Test 3 Título Preliminar y II Estatuto Autonomía SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-101",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Qué título recoge las competencias de la Comunidad de CyL?",
+      "options": [
+        "título i",
+        "título ii",
+        "título v",
+        "titulo vi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-102",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Qué título de la Constitución habla de las competencias que puede cada CCAA asumir?",
+      "options": [
+        "título i",
+        "título ii",
+        "título vii",
+        "título viii"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-103",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Cuántos capítulos forman el título que recoge las competencias de CyL?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "no tiene capítulos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-104",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias exclusivas de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 70",
+        "título ii, artículo 70",
+        "título v, artículo 70",
+        "título viii, artículo 70"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-105",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias de desarrollo normativo y ejecución de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 71",
+        "título ii, artículo 71",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-106",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias de ejecución de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 76",
+        "título ii, artículo 76",
+        "título v, artículo 76",
+        "título viii, artículo 76"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-107",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Las competencias en las que corresponde a la comunidad de Castilla y León las potestades legislativa y reglamentaria, y la función ejecutiva incluida la inspección, son:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-108",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Las competencias en las que, dentro del marco legislativo del Estado, compete a la Comunidad de Castilla y León el desarrollo de dicho marco y la ejecución de la legislación del Estado, son:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-109",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Las competencias en las que Castilla y León, según establezcan las leyes del Estado y las normas que desarrollan éstas leyes, ejecuta las diferentes materias aquí recogidas.",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-110",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre la posibilidad de formar un Cuerpo de policía en CyL es:",
+      "options": [
+        "artículo 72",
+        "artículo 12",
+        "artículo 46",
+        "artículo 116"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-111",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre educación o enseñanza es:",
+      "options": [
+        "artículo 27",
+        "artículo 73",
+        "artículo 48",
+        "artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-112",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre sanidad es:",
+      "options": [
+        "artículo 27",
+        "artículo 73",
+        "artículo 74",
+        "artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-113",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "La transferencia de competencias que realice el Estado a la Comunidad Autónoma habrá de efectuarse mediante:",
+      "options": [
+        "ley, que tendrá rango de ley orgánica.",
+        "orden del consejero de presidencia",
+        "ley, que será decreto ley",
+        "ley que será decreto legislativo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-114",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Elige las palabras que faltan: Por su parte, la Comunidad de Castilla y León podrá delegar competencias_______. Dicha delegación habrá de efectuarse ____________________________",
+      "options": [
+        "en las entidades locales mediante ley de las cortes de castilla y león.",
+        "en otras ccaa mediante ley de las cortes de castilla y león.",
+        "en las entidades locales mediante ley orgánica de las cortes de castilla y león.",
+        "en las entidades locales mediante decreto de cortes de castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-115",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "De las siguientes dime cual es una competencia exclusiva:",
+      "options": [
+        "organización, régimen y funcionamiento de sus instituciones de autogobierno.",
+        "estructura y organización de la administración de la comunidad.",
+        "ordenación de la hacienda de la comunidad autónoma, de acuerdo con lo establecido en este estatuto.",
+        "todas lo son."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-116",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala cual se recoge en el artículo 71 (Competencias de desarrollo normativo y de ejecución)",
+      "options": [
+        "régimen local.",
+        "organización territorial de la comunidad. relaciones entre las instituciones de la comunidad y los entes locales y regulación de los entes locales creados por la Comunidad, en los términos previstos en el presente Estatuto.",
+        "conservación del derecho consuetudinario de castilla y león.",
+        "ordenación del territorio, urbanismo y vivienda."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-117",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Dime cual es una competencia exclusiva:",
+      "options": [
+        "obras públicas de interés para la comunidad autónoma dentro de su propio territorio que no tengan la calificación legal de interés general del estado ni afecten a otra Comunidad Autónoma.",
+        "obras públicas de interés para la comunidad autónoma fuera de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.",
+        "obras privadas de interés para la comunidad autónoma fuera de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.",
+        "obras privadas de interés para la comunidad autónoma dentro de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-118",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "¿Cuáles de las siguientes competencias son exclusivas?",
+      "options": [
+        "ferrocarriles, carreteras y caminos que transcurran íntegramente por el territorio de la comunidad autónoma y, en los mismos términos, los transportes terrestres, fluviales, por cable o tubería. Centros de transporte, logística y distribución en el ámbito de la Comunidad.",
+        "asistencia social, servicios sociales y desarrollo comunitario. promoción y atención de las familias, la infancia, la juventud y los mayores. Prevención, atención e inserción social de los colectivos afectados por la discapacidad, la dependencia o la exclusión social. Protección y tutela de menores.",
+        "promoción de la igualdad de trato y de oportunidades entre mujeres y hombres, con particular atención a las mujeres víctimas de la violencia de género.",
+        "todas lo son."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-119",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "Dime cual es una competencia exclusiva:",
+      "options": [
+        "aeropuertos, helipuertos, muelles e instalaciones de navegación de carácter deportivo y, en general, los que no desarrollen actividades comerciales.",
+        "desarrollo rural.",
+        "aeropuertos, helipuertos, muelles e instalaciones de navegación de carácter deportivo y, en general, los que desarrollen actividades comerciales.",
+        "a y b"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-120",
+      "superblock": "Tema 5",
+      "subblock": "Test1 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala cual se recoge en el artículo 71 (Competencias de desarrollo normativo y de ejecución)",
+      "options": [
+        "agricultura, ganadería e industrias agroalimentarias, de acuerdo con la ordenación general de la economía.",
+        "denominaciones de origen y otras protecciones de calidad relativas a productos de castilla y león. organización de los consejos reguladores y entidades de naturaleza equivalente.",
+        "tratamiento especial de las zonas de montaña.",
+        "montes, aprovechamientos y servicios forestales, vías pecuarias, pastos y espacios naturales protegidos. Test1 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-121",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "De las siguientes señala la competencia que no es exclusiva:",
+      "options": [
+        "patrimonio histórico, artístico, monumental, arqueológico, arquitectónico y científico de interés para la Comunidad, cuando la competencia sea del Estado para su defensa contra la exportación y la expoliación",
+        "museos, bibliotecas, hemerotecas, archivos y otros centros culturales y de depósito de interés para la comunidad y que no sean de titularidad estatal. En los mismos términos, conservatorios de música y danza, centros de artes escénicas y otras instituciones relacionadas con el fomento y la enseñanza de las Bellas Artes.",
+        "fiestas y tradiciones populares.",
+        "b y c son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-122",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala la que corresponde con una competencia del artículo 71 (Competencias de desarrollo normativo y de ejecución).",
+      "options": [
+        "promoción de la educación física, del deporte y del ocio.",
+        "normas adicionales sobre protección del medio ambiente y del paisaje, con especial atención al desarrollo de políticas que contribuyan a mitigar el cambio climático.",
+        "servicio meteorológico de la comunidad autónoma.",
+        "protección del medio ambiente y de los ecosistemas. prevención ambiental. vertidos a la atmósfera y a las aguas superficiales y subterráneas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-123",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala la que corresponde con el artículo 71(Competencias de desarrollo normativo y de ejecución).",
+      "options": [
+        "régimen minero y energético, incluidas las fuentes renovables de energía.",
+        "cámaras agrarias, de comercio e industria y cualesquiera otras de naturaleza equivalente. 14.o colegios profesionales y ejercicio de profesiones tituladas.",
+        "asociaciones que desarrollen principalmente sus actividades en la comunidad autónoma.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-124",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "El Sistema de consultas populares en el ámbito de Castilla y León, de conformidad con lo que disponga la ley a la que se refiere el artículo 92.3 de la Constitución y demás leyes del Estado, correspondiendo a éste la autorización de su convocatoria, esta competencia es:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-125",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "La Protección civil, incluyendo en todo caso la regulación, planificación y ejecución de medidas relativas a las emergencias y la seguridad civil, así como la coordinación y formación de los servicios de protección civil, entre ellos los de prevención y extinción de incendios, queda encuadrada en el artículo:",
+      "options": [
+        "título i, artículo 71",
+        "título ii, artículo 71",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-126",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "BIS. Las competencias sobre sanidad están encuadradas dentro del Estatuto de Autonomía de Cyl:",
+      "options": [
+        "título ii, artículo 74",
+        "título v, artículo 74",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-127",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Son de competencia exclusiva de la Comunidad de Castilla y León, sin perjuicio de las facultades reservadas al Estado, señala la incorrecta:",
+      "options": [
+        "las funciones en materia de sanidad y salud pública, la promoción de la salud en todos los ámbitos",
+        "la planificación de los recursos sanitarios públicos",
+        "la no coordinación de la sanidad privada con el sistema sanitario público",
+        "la formación sanitaria especializada."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-128",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "En el marco de las bases y coordinación estatal de la Sanidad, corresponde a la Comunidad de Castilla y León:",
+      "options": [
+        "solo la organización de todas las instituciones sanitarias públicas dentro del territorio de la comunidad de castilla y león.",
+        "solo el funcionamiento de todas las instituciones sanitarias públicas dentro del territorio de la comunidad de Castilla y León.",
+        "solo la administración y gestión de todas las instituciones sanitarias públicas dentro del territorio de la comunidad de castilla y león.",
+        "la organización, funcionamiento, administración y gestión de todas las instituciones sanitarias públicas dentro del territorio de la comunidad de Castilla y León."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-129",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "¿En qué artículo queda recogido las competencias de la Cuenca del Duero y las aguas?",
+      "options": [
+        "título ii, artículo 74",
+        "título v, artículo 74",
+        "título v, artículo 75",
+        "título viii, artículo 75"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-130",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "En colaboración con el Estado y las demás Comunidades Autónomas, corresponde a la Junta de Castilla y León:",
+      "options": [
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren fuera del territorio de Castilla y León.",
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren en todo el territorio español",
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren en el territorio de castilla y león.",
+        "ninguna es correcta, es una competencia del estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-131",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Completa la frase: La Comunidad tiene _________________________ en materia de proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; aguas minerales, termales y subterráneas, ordenación y concesión de recursos y aprovechamientos hidráulicos, canales y regadíos.",
+      "options": [
+        "competencia de ejecución , cuando las aguas discurran íntegramente dentro del territorio de castilla y león,",
+        "competencia de ejecución, cuando las aguas discurran fuera del territorio de castilla y león,",
+        "competencia exclusiva, cuando las aguas discurran fuera dentro del territorio de castilla y león,",
+        "competencia exclusiva, cuando las aguas discurran íntegramente dentro del territorio de castilla y león,"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-132",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Según establece en el artículo 75 del Estatuto de Autonomía de CyL, la garantía del abastecimiento de agua en condiciones de cantidad y calidad suficientes para atender las necesidades presentes y futuras de los castellanos y leoneses es un:",
+      "options": [
+        "es un principio rector de la acción política de la comunidad",
+        "un derecho que tenemos solamente por ser españoles",
+        "no queda recogido en este artículo.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-133",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Las competencias que quedan recogidas en el artículo 76 (competencias de ejecución) corresponde a la Comunidad de CyL",
+      "options": [
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el estado, la función ejecutiva en las siguientes materias.",
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el estado, la función legislativa en las siguientes materias.",
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el estado, la función de inspección en las siguientes materias.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-134",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Señala de las siguientes afirmaciones cual no corresponde con una competencia de ejecución:",
+      "options": [
+        "empleo y relaciones laborales. políticas activas de ocupación. prevención de riesgos laborales, promoción de la salud y seguridad laboral.",
+        "fijación, en colaboración con el estado, de las necesidades del mercado laboral que determinan la concesión de las autorizaciones de trabajo de los extranjeros.",
+        "ferias internacionales.",
+        "sanidad agraria y animal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-135",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Señala de las siguientes afirmaciones corresponde con una competencia de ejecución:",
+      "options": [
+        "gestión de museos, archivos, bibliotecas y colecciones de naturaleza análoga de titularidad estatal que no se reserve el estado.",
+        "pesas y medidas. contraste de metales.",
+        "planes establecidos por el estado para la implantación o reestructuración de sectores económicos.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-136",
+      "superblock": "Tema 5",
+      "subblock": "Test3 T5 TitV (2024)",
+      "question": "Señala de las siguientes afirmaciones corresponde con una competencia de ejecución:",
+      "options": [
+        "productos farmacéuticos.",
+        "propiedad industrial e intelectual.",
+        "seguridad privada, cuando así lo establezca la legislación del estado.",
+        "todas son correctas. Test3 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-137",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Qué título recoge las competencias de la Comunidad de CyL?",
+      "options": [
+        "título i",
+        "título ii",
+        "título v",
+        "título vi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-138",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Qué título de la Constitución habla de las competencias que puede cada CCAA asumir?",
+      "options": [
+        "título i",
+        "título ii",
+        "título vii",
+        "título viii"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-139",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuántos capítulos forman el título que recoge las competencias de CyL?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "no tiene capítulos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-140",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias exclusivas de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 70",
+        "título ii, artículo 70",
+        "título v, artículo 70",
+        "título viii, artículo 70"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-141",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias de desarrollo normativo y ejecución de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 71",
+        "título ii, artículo 71",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-142",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Dónde se recogen las competencias de ejecución de la Comunidad de CyL?",
+      "options": [
+        "título i, artículo 76",
+        "título ii, artículo 76",
+        "título v, artículo 76",
+        "título viii, artículo 76"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-143",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las competencias en las que corresponde a la comunidad de Castilla y León las potestades legislativa y reglamentaria, y la función ejecutiva incluida la inspección, son:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-144",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las competencias en las que, dentro del marco legislativo del Estado, compete a la Comunidad de Castilla y León el desarrollo de dicho marco y la ejecución de la legislación del Estado, son:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-145",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las competencias en las que Castilla y León, según establezcan las leyes del Estado y las normas que desarrollan éstas leyes, ejecuta las diferentes materias aquí recogidas.",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-146",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre la posibilidad de formar un Cuerpo de policía en CyL es:",
+      "options": [
+        "artículo 72",
+        "artículo 12",
+        "artículo 46",
+        "artículo 116"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-147",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre educación o enseñanza es:",
+      "options": [
+        "artículo 27",
+        "artículo 73",
+        "artículo 48",
+        "artículo 16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-148",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El artículo en donde recogen las competencias sobre sanidad es:",
+      "options": [
+        "artículo 27",
+        "artículo 73",
+        "artículo 74",
+        "artículo 16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-149",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La transferencia de competencias que realice el Estado a la Comunidad Autónoma habrá de efectuarse mediante:",
+      "options": [
+        "ley, que tendrá rango de ley orgánica.",
+        "orden del consejero de presidencia",
+        "ley, que será decreto ley",
+        "ley que será decreto legislativo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-150",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Elige las palabras que faltan: Por su parte, la Comunidad de Castilla y León podrá delegar competencias_______. Dicha delegación habrá de efectuarse ____________________________",
+      "options": [
+        "en las entidades locales mediante ley de las cortes de castilla y león.",
+        "en otras ccaa mediante ley de las cortes de castilla y león.",
+        "en las entidades locales mediante ley orgánica de las cortes de castilla y león.",
+        "en las entidades locales mediante decreto de cortes de castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-151",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "De las siguientes dime cual es una competencia exclusiva di cual es la incorrecta:",
+      "options": [
+        "organización, régimen y funcionamiento de sus instituciones de autogobierno.",
+        "estructura y organización de la administración de la comunidad.",
+        "ordenación de la hacienda del estado",
+        "todas lo son."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-152",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala cual se recoge en el artículo 71",
+      "options": [
+        "régimen local.",
+        "organización territorial de la comunidad.",
+        "conservación del derecho consuetudinario de castilla y león.",
+        "ordenación del territorio, urbanismo y vivienda."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-153",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Dime cual es una competencia exclusiva:",
+      "options": [
+        "obras públicas de interés para la comunidad autónoma dentro de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.",
+        "obras públicas de interés para la comunidad autónoma fuera de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.",
+        "obras privadas de interés para la comunidad autónoma fuera de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma.",
+        "obras privadas de interés para la comunidad autónoma dentro de su propio territorio que no tengan la calificación legal de interés general del Estado ni afecten a otra Comunidad Autónoma."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-154",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuáles de las siguientes competencias son exclusivas? Una de ellas no lo es",
+      "options": [
+        "ferrocarriles, carreteras y caminos que transcurran entre varias comunidades autónomas y, en los mismos términos, los transportes terrestres, fluviales, por cable o tubería. Centros de transporte, logística y distribución en el ámbito de la Comunidad.",
+        "asistencia social, servicios sociales y desarrollo comunitario. promoción y atención de las familias, la infancia, la juventud y los mayores. Prevención, atención e inserción social de los colectivos afectados por la discapacidad, la dependencia o la exclusión social. Protección y tutela de menores.",
+        "promoción de la igualdad de trato y de oportunidades entre mujeres y hombres, con particular atención a las mujeres víctimas de la violencia de género.",
+        "todas lo son."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-155",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Dime cual es una competencia exclusiva:",
+      "options": [
+        "aeropuertos, helipuertos, muelles e instalaciones de navegación de carácter deportivo y, en general, los que no desarrollen actividades comerciales.",
+        "desarrollo rural.",
+        "aeropuertos, helipuertos, muelles e instalaciones de navegación de carácter deportivo y, en general, los que desarrollen actividades comerciales.",
+        "a y b"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-156",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "De las siguientes afirmaciones señala cual se recoge en el artículo 71",
+      "options": [
+        "agricultura, ganadería e industrias agroalimentarias, de acuerdo con la ordenación general de la economía.",
+        "denominaciones de origen y otras protecciones de calidad relativas a productos de castilla y león.",
+        "tratamiento especial de las zonas de montaña.",
+        "montes, aprovechamientos y servicios forestales, vías pecuarias, pastos y espacios naturales protegidos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-157",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La competencia llamada Régimen de acogida e integración económica, social y cultural de los inmigrantes.",
+      "options": [
+        "es una competencia exclusiva",
+        "competencias de desarrollo y ejecución",
+        "competencias de ejecución",
+        "todas ellas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-158",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "En el ejercicio de estas competencias, corresponderán a la Comunidad de Castilla y León las potestades:",
+      "options": [
+        "reglamentaria, y la función ejecutiva, incluida la inspección.",
+        "legislativa y reglamentaria, y la inspección.",
+        "legislativa y reglamentaria, y la función ejecutiva, incluida la inspección.",
+        "legislativa y reglamentaria, y la función ejecutiva."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-159",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Dime de las siguientes cual es competencia exclusiva:",
+      "options": [
+        "ordenación farmacéutica.",
+        "defensa de los consumidores y usuarios.",
+        "ordenación del crédito, banca y seguros.",
+        "pesca fluvial y lacustre, acuicultura, caza y explotaciones cinegéticas. protección de los ecosistemas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-160",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Dime cuál de las siguientes es competencia exclusiva:",
+      "options": [
+        "comercio interior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del estado",
+        "comercio interior, limitando la libre circulación de bienes en el territorio del estado",
+        "comercio exterior, limitando la libre circulación de bienes en el territorio del estado",
+        "comercio exterior, sin perjuicio de la política general de precios, de la libre circulación de bienes en el territorio del Estado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-161",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Dime cuál de las siguientes es competencia exclusiva:",
+      "options": [
+        "calendarios y horarios comerciales, en el marco de la normativa estatal.",
+        "ferias y mercados interiores",
+        "ferias internacionales",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-162",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes es competencia exclusiva?",
+      "options": [
+        "promoción del turismo y su ordenación en el ámbito de la comunidad.",
+        "casinos, juegos y apuestas, incluidas las loterías y apuestas del estado y los juegos autorizados por el Estado en el territorio nacional a entidades sin ánimo de lucro.",
+        "publicidad en general y publicidad institucional sin perjuicio de la legislación del estado.",
+        "a y c."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-163",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes competencias está incluida en el artículo 71 (Competencias de desarrollo normativo y de ejecución)?",
+      "options": [
+        "cooperativas y entidades asimilables. fomento del sector de la economía social.",
+        "industria, con observancia de cuanto determinen las normas del estado por razones de seguridad, de interés militar o sanitario y las normas relacionadas con las industrias que estén sujetas a la legislación de minas, hidrocarburos y energía nuclear.",
+        "seguridad social, exceptuando el régimen económico y respetando los principios de unidad económico- patrimonial y de solidaridad financiera.",
+        "investigación científica y técnica. fomento y desarrollo de la investigación, desarrollo e innovación en coordinación con la investigación científica y técnica estatal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-164",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes competencias está incluida en el artículo 71 (Competencias de desarrollo normativo y de ejecución)?",
+      "options": [
+        "instalaciones de almacenamiento, producción, de distribución y de transporte de cualesquiera energías, cuando se circunscriban al territorio de la Comunidad.",
+        "fomento, regulación y desarrollo de la artesanía y espectáculos públicos y actividades recreativas",
+        "sanidad agraria y animal.",
+        "estadística para los fines de la comunidad autónoma, en coordinación con la general del estado y con la de las demás comunidades autónomas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-165",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿En qué artículo queda recogido la seguridad pública y la posibilidad de crear Cuerpos de Policías?",
+      "options": [
+        "artículo 70",
+        "artículo 71",
+        "artículo 72",
+        "artículo 76"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-166",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Rellena la frase: Corresponde a la Comunidad Autónoma de CyL _____________________para lo que podrá convenir con el Estado la adscripción de una Unidad del Cuerpo Nacional de Policía",
+      "options": [
+        "la vigilancia y protección de sus edificios e instalaciones.",
+        "solo la vigilancia de sus edificios e instalaciones",
+        "solo la protección de sus edificios e instalaciones.",
+        "ninguna de ellas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-167",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cómo puede crear la Comunidad de CyL un Cuerpo de Policía propio? Se hace mediante:",
+      "options": [
+        "ley de la junta",
+        "ley de cortes el cuerpo de policía de cyl,",
+        "orden de cortes el cuerpo de policía de cyl",
+        "decreto de la junta,"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-168",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La coordinación de la actuación, en el territorio de Castilla y León, de las Fuerzas y Cuerpos de Seguridad del Estado y del Cuerpo de Policía de Castilla y León corresponderá",
+      "options": [
+        "a la junta de seguridad, formada por más representantes del gobierno que de la junta de cyl.",
+        "a la junta de seguridad, formada por un número igual de representantes del gobierno y de la junta de CyL",
+        "a la junta de seguridad, formada más representantes de la junta de cyl que del gobierno.",
+        "a la junta de seguridad, formada por solo representantes de la junta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-169",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "En las materias del artículo 71, y salvo norma en contrario, corresponde además a la Comunidad la:",
+      "options": [
+        "potestad reglamentaria y la función ejecutiva, incluida la inspección.",
+        "potestad reglamentaria, la gestión y la inspección.",
+        "potestad reglamentaria, la gestión y la función ejecutiva, incluida la inspección.",
+        "la gestión y la función ejecutiva, incluida la inspección."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-170",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes competencias está incluida en el artículo 71 (Competencias de desarrollo normativo y de ejecución)?",
+      "options": [
+        "protección de datos de carácter personal que estén bajo la responsabilidad de las instituciones de la Comunidad, de los entes locales y de cualquier entidad pública o privada dependiente de aquéllas.",
+        "tecnologías de la información y el conocimiento.",
+        "prensa, radio, televisión y otros medios de comunicación social.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-171",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "En relación con las competencias sobre educación, corresponde a la Comunidad Autónoma la competencia:",
+      "options": [
+        "legislativo y ejecución de la enseñanza en la enseñanza primaria, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en la normativa estatal.",
+        "legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en la normativa estatal.",
+        "legislativo de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en la normativa estatal.",
+        "ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en la normativa estatal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-172",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Los artículos del Estatuto de Autonomía que hacen referencia a las competencias exclusivas, de desarrollo y ejecución y de ejecución corresponden a los siguientes artículos:",
+      "options": [
+        "articulo 70 quedan recogidas las competencia exclusivas, artículo 71 quedan recogidas las competencias de desarrollo y ejecución y artículo 76 quedan recogidas las competencias de ejecución",
+        "articulo 71 quedan recogidas las competencia exclusivas, artículo 70 quedan recogidas las competencias de desarrollo y ejecución y artículo 76 quedan recogidas las competencias de ejecución",
+        "articulo 76 quedan recogidas las competencia exclusivas, artículo 71 quedan recogidas las competencias de desarrollo y ejecución y artículo 70 quedan recogidas las competencias de ejecución",
+        "articulo 72 quedan recogidas las competencia exclusivas, artículo 71 quedan recogidas las competencias de desarrollo y ejecución y artículo 76 quedan recogidas las competencias de ejecución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-173",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "En materia de enseñanza, corresponde a CyL",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo legislativo y de ejecución",
+        "competencias de ejecución",
+        "no tiene competencias en esta materia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-174",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La Comunidad Autónoma podrá solicitar de las instituciones del Estado y asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del",
+      "options": [
+        "artículo 150 de la constitución.",
+        "artículo 151 de la constitución.",
+        "artículo 120 de la constitución.",
+        "artículo 15 de la constitución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-175",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El título V del estatuto de autonomía de CyL aprobado en 2007 se dedica a:",
+      "options": [
+        "economía y hacienda",
+        "competencias de la comunidad",
+        "organización territorial",
+        "relacione institucionales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-176",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Por ley de Cortes se podrán transferir competencias de CL a los Ayuntamientos. Dicha ley exige en su aprobación:",
+      "options": [
+        "mayoría absoluta",
+        "mayoría simple",
+        "mayoría 3/5",
+        "mayoría 2/3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-177",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Por ley de Cortes se podrán transferir competencias de CL a las Diputaciones. Dicha ley exige en su aprobación:",
+      "options": [
+        "mayoría absoluta",
+        "mayoría simple",
+        "mayoría 3/5",
+        "mayoría 2/3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-178",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Cuando la Comunidad de CyL quiera ampliar sus competencias, es necesario:",
+      "options": [
+        "reformar el estatuto de autonomía",
+        "aprobar dicha ampliación por el pueblo de cyl",
+        "aprobar dicha ampliación por el pueblo español",
+        "ninguna"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-179",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿Por qué norma se podrán transferir competencias a los ayuntamientos, diputaciones y otros entes locales?",
+      "options": [
+        "ley de cortes de cyl",
+        "decreto de la junta",
+        "no se puede transferir",
+        "orden del consejero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-180",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La Protección civil, incluyendo en todo caso la regulación, planificación y ejecución de medidas relativas a las emergencias y la seguridad civil, así como la coordinación y formación de los servicios de protección civil, entre ellos los de prevención y extinción de incendios, queda encuadrada en el artículo:",
+      "options": [
+        "título i, artículo 71",
+        "título ii, artículo 71",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-181",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las competencias sobre sanidad están encuadradas dentro del Estatuto de Autonomía de Cyl:",
+      "options": [
+        "título ii, artículo 74",
+        "título v, artículo 74",
+        "título v, artículo 71",
+        "título viii, artículo 71"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-182",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Son de competencia exclusiva de la Comunidad de Castilla y León, sin perjuicio de las facultades reservadas al Estado, señala la incorrecta:",
+      "options": [
+        "las funciones en materia de sanidad y salud pública, la promoción de la salud en todos los ámbitos",
+        "la planificación de los recursos sanitarios públicos",
+        "la no coordinación de la sanidad privada con el sistema sanitario público",
+        "la formación sanitaria especializada."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-183",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "¿En qué artículo queda recogido las competencias de la Cuenca del Duero y las aguas?",
+      "options": [
+        "título ii, artículo 74",
+        "título v, artículo 74",
+        "título v, artículo 75",
+        "título viii, artículo 75"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-184",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "En colaboración con el Estado y las demás Comunidades Autónomas, corresponde a la Junta de Castilla y León:",
+      "options": [
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren fuera del territorio de Castilla y León.",
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren en todo el territorio Español",
+        "la participación en la gestión de las aguas pertenecientes a otras cuencas intercomunitarias que se encuentren en el territorio de Castilla y León.",
+        "ninguna es correcta, es una competencia del estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-185",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Completa la frase: La Comunidad tiene _________________________ en materia de proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; aguas minerales, termales y subterráneas, ordenación y concesión de recursos y aprovechamientos hidráulicos, canales y regadíos.",
+      "options": [
+        "competencia de ejecución , cuando las aguas discurran íntegramente dentro del territorio de castilla y León,",
+        "competencia de ejecución, cuando las aguas discurran fuera del territorio de castilla y león,",
+        "competencia exclusiva, cuando las aguas discurran fuera dentro del territorio de castilla y león,",
+        "competencia exclusiva, cuando las aguas discurran íntegramente dentro del territorio de castilla y león,"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-186",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Según establece en el artículo 75 del Estatuto de Autonomía de CyL, la garantía del abastecimiento de agua en condiciones de cantidad y calidad suficientes para atender las necesidades presentes y futuras de los castellanos y leoneses es un:",
+      "options": [
+        "es un principio rector de la acción política de la comunidad",
+        "un derecho que tenemos solamente por ser españoles",
+        "no queda recogido en este artículo.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-187",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las competencias que quedan recogidas en el artículo 76 (competencias de ejecución) corresponde a la Comunidad de CyL",
+      "options": [
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el Estado, la función ejecutiva en las siguientes materias.",
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el Estado, la función legislativa en las siguientes materias.",
+        "en los términos que establezcan las leyes y las normas reglamentarias que en su desarrollo dicte el Estado, la función de inspección en las siguientes materias.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-188",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Señala de las siguientes afirmaciones cual no corresponde con una competencia de ejecución:",
+      "options": [
+        "empleo y relaciones laborales. políticas activas de ocupación. prevención de riesgos laborales, promoción de la salud y seguridad laboral.",
+        "fijación, en colaboración con el estado, de las necesidades del mercado laboral que determinan la concesión de las autorizaciones de trabajo de los extranjeros.",
+        "ferias internacionales.",
+        "sanidad agraria y animal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-189",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Señala de las siguientes afirmaciones corresponde con una competencia de ejecución:",
+      "options": [
+        "productos farmacéuticos.",
+        "propiedad industrial e intelectual.",
+        "seguridad privada, cuando así lo establezca la legislación del estado.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-190",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "La Comunidad Autónoma podrá solicitar de las instituciones del Estado y asumir competencias a través de los procedimientos establecidos en los números 1 y 2 del:",
+      "options": [
+        "artículo 150 de la constitución.",
+        "artículo 151 de la constitución.",
+        "artículo 152 de la constitución.",
+        "artículo 153 de la constitución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-191",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar:",
+      "options": [
+        "para sí mismas y para el estado, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.",
+        "para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.",
+        "para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley autonómica.",
+        "para sí mismas y para el estado, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-192",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. Esto lo hará.",
+      "options": [
+        "mediante ley orgánica",
+        "mediante ley",
+        "mediante decreto",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-193",
+      "superblock": "Tema 5",
+      "subblock": "Test4 T5 TitV (2024)",
+      "question": "El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde:",
+      "options": [
+        "a las cortes generales, por mayoría absoluta de cada cámara, la apreciación de esta necesidad.",
+        "solo al congreso por mayoría absoluta de la cámara, la apreciación de esta necesidad.",
+        "solo al senado, por mayoría absoluta de la cámara, la apreciación de esta necesidad.",
+        "a las cortes generales, por mayoría simple de cada cámara, la apreciación de Test4 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-194",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "El Estatuto de Autonomía de Castilla y León se integra dentro del ordenamiento jurídico del Estado Español con el rango de:",
+      "options": [
+        "ley autonómica.",
+        "ley ordinaria.",
+        "ley orgánica.",
+        "reglamento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-195",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿En qué disposición del Estatuto de Autonomía se determina la entrada en vigor del Estatuto?",
+      "options": [
+        "en la disposición final.",
+        "en la disposición derogatoria.",
+        "en la disposición adicional primera.",
+        "en la disposición transitoria primera."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-196",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Según lo dispuesto en el Título Preliminar del Estatuto de Autonomía, el territorio de la Comunidad de Castilla y León comprende el de los municipios integrados en las actuales provincias de:",
+      "options": [
+        "ávila, burgos, león, palencia, salamanca, segovia, soria, valladolid y zamora.",
+        "ávila, burgos, logroño, palencia, salamanca, segovia, soria, valladolid y zamora.",
+        "ávila, burgos, logroño, plasencia, salamanca, segovia, soria, valladolid y zamora.",
+        "ninguna respuesta es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-197",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "A efectos de la identidad de la Comunidad de Castilla y León, la lengua castellana se considera:",
+      "options": [
+        "esencial patrimonio lingüístico de la comunidad.",
+        "valor esencial para la identidad de la comunidad.",
+        "la lengua oficial de la comunidad autónoma junto con el español para el resto del Estado.",
+        "un valor esencial de su patrimonio histórico como lo es el español para el resto del Estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-198",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Además del castellano, ¿a qué otras lenguas se refiere el Estatuto de Autonomía?",
+      "options": [
+        "al leonés, exclusivamente.",
+        "al leonés y el asturiano.",
+        "al leonés y al gallego.",
+        "al gallego, exclusivamente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-199",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Conforme a lo dispuesto en el Estatuto de Autonomía, no es un símbolo de la Comunidad de Castilla y León:",
+      "options": [
+        "el himno.",
+        "el castellano.",
+        "el blasón.",
+        "el pendón."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-200",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál es la circunscripción electoral a efectos de la elección de los procuradores de las Cortes de Castilla y León?",
+      "options": [
+        "la comunidad autónoma.",
+        "la comarca.",
+        "la provincia.",
+        "el municipio."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-201",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál es el órgano institucional que representa al Pueblo de Castillo y León, según el Estatuto de Autonomía?",
+      "options": [
+        "las cortes de castilla y león.",
+        "el consejo de gobierno de castilla y león.",
+        "las cortes generales.",
+        "la junta de castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-202",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "La convocatoria de elecciones de Procuradores de las Cortes de Castilla y León se realizará por:",
+      "options": [
+        "la junta de castilla y león.",
+        "el presidente de las cortes de castilla y león.",
+        "el presidente de la junta.",
+        "el procurador del común."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-203",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál es la entidad territorial básica de la Comunidad de Castilla y León, según su Estatuto de Autonomía?",
+      "options": [
+        "el municipio.",
+        "la provincia.",
+        "la comarca.",
+        "las respuestas a y b son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-204",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿De qué fecha es la ley que aprobó el Estatuto de Autonomía de Castilla y León?",
+      "options": [
+        "de 15 de enero de 1984.",
+        "de 15 de febrero de 1983.",
+        "de 25 de enero de 1983.",
+        "de 25 de febrero de 1983."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-205",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál es la norma institucional básica conforme a la que se organiza la Comunidad Autónoma de Castilla y León?",
+      "options": [
+        "su estatuto de autonomía.",
+        "la constitución española.",
+        "el reglamento de las cortes de castilla y león.",
+        "ninguna respuesta es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-206",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Qué Título del Estatuto de Autonomía de Castilla y León regula las competencias de la Comunidad?",
+      "options": [
+        "título iii.",
+        "título v.",
+        "título vi.",
+        "título iv."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-207",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿De qué trata el Título VII del Estatuto de Autonomía de Castilla y León?",
+      "options": [
+        "economía y hacienda.",
+        "organización territorial.",
+        "reforma del estatuto.",
+        "relaciones institucionales y acción exterior."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-208",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "El emblema o blasón de Castilla y León:",
+      "options": [
+        "es un escudo timbrado por corona real semiabierta, cuartelado en cruz o contracuartelado.",
+        "está formado por dos franjas iguales de colores rojo y amarillo, con un castillo de tres almenas en cada franja.",
+        "es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado.",
+        "es un escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado y ondeará en todos los centros y actos oficiales a la izquierda de la bandera española."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-209",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Señale cuál de las siguientes atribuciones corresponde a las Cortes de Castilla y León:",
+      "options": [
+        "elaborar los presupuestos de la comunidad.",
+        "designar a los diputados del congreso que han de representar a la comunidad.",
+        "controlar la acción política y de gobierno de la junta y de su presidente.",
+        "elegir a los consejeros que forman parte de la junta de castilla y león."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-210",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "La tramitación parlamentaria de la cuestión de confianza se regirá por el Reglamento de las Cortes de Castilla y León y se entenderá otorgada cuando vote a favor de ella la:",
+      "options": [
+        "mayoría absoluta de los procuradores.",
+        "mayoría simple de los procuradores.",
+        "mayoría de votos de los procuradores.",
+        "mayoría de dos tercios de los procuradores."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-211",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Según el Estatuto de Autonomía de Castilla y León, tienen la condición política de ciudadano de Castilla y León todos los ciudadanos españoles que de acuerdo con la legislación general del Estado:",
+      "options": [
+        "hayan nacido en el actual territorio de la comunidad, aunque no residan actualmente en la misma.",
+        "residan en el territorio de la comunidad al menos tres meses al año.",
+        "tengan vecindad administrativa en cualquier municipio integrado en el territorio de la Comunidad.",
+        "tengan vecindad administrativa en cualquier municipio integrado en el territorio de la Comunidad y hayan nacido en el mismo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-212",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Señale cuál de las siguientes funciones corresponde al Presidente de la Junta de Castilla y León:",
+      "options": [
+        "promulgar en nombre del rey, las leyes aprobadas por las cortes de castilla y león, así como ordenar su publicación en “el Boletín Oficial de Castilla y León” y la remisión para su publicación en “el Boletín Oficial del Estado”.",
+        "dirigir y coordinar la acción de gobierno.",
+        "acordar la disolución de las cortes de castilla y león.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-213",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Según lo dispuesto en el Capítulo III del Título II del Estatuto de Autonomía, la Junta de Castilla y León se compone de:",
+      "options": [
+        "el presidente de las cortes de castilla y león y los consejeros.",
+        "el presidente de la junta, de los consejeros y de los directores generales.",
+        "el presidente de la junta y de los consejeros.",
+        "el presidente de la junta, vicepresidente y consejeros, en todo caso."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-214",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "La iniciativa de reforma del Estatuto de Autonomía de Castilla y León no corresponde a:",
+      "options": [
+        "las cortes generales.",
+        "la junta de castilla y león.",
+        "las cortes de castilla y león, a propuesta de una tercera parte de sus miembros.",
+        "la comisión permanente de reforma de estatutos de las comunidades autónomas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-215",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "Las Cortes de Castilla y León tendrán su sede en:",
+      "options": [
+        "zamora.",
+        "valladolid.",
+        "salamanca.",
+        "fuensaldaña."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-216",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "La delegación de las Cortes a la Junta para la elaboración de los textos articulados, ha de efectuarse a través de:",
+      "options": [
+        "ley orgánica.",
+        "ley de bases.",
+        "ley ordinaria.",
+        "decreto-ley."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-217",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes competencias no corresponde en exclusiva a la Comunidad de Castilla y León?",
+      "options": [
+        "aeropuertos comerciales dentro de su territorio.",
+        "ordenación de la hacienda de la comunidad autónoma, conforme a lo establecido en su Estatuto.",
+        "promoción y ordenación del turismo en el ámbito de la comunidad.",
+        "ordenación de su territorio, urbanismo y vivienda."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-218",
+      "superblock": "Tema 5",
+      "subblock": "Test5 T5 TitV (2024)",
+      "question": "¿Cuál es el mínimo de Procuradores que se asigna a cada provincia de la Comunidad de Castilla y León?",
+      "options": [
+        "3.",
+        "5.",
+        "2.",
+        "4. Test5 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-219",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Castilla y León accedió a la autonomía, ¿a través de qué vía?",
+      "options": [
+        "art. 70 del estatuto de autonomía",
+        "art. 70 de la constitución española",
+        "art. 143 del estatuto de autonomía",
+        "art. 143 de la constitución española"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-220",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál es la norma suprema del ordenamiento jurídico español en castilla y León?",
+      "options": [
+        "estatuto de autonomía y el resto del ordenamiento jurídico español",
+        "estatuto de autonomía y constitución española",
+        "constitución española",
+        "todas son correctas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-221",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿A quién le corresponde en Castilla y León, ostentar el poder legislativo?",
+      "options": [
+        "junta de castilla y león",
+        "asamblea legislativa de la comunidad",
+        "junta de castilla y león y cortes de castilla y león exclusivamente",
+        "junta de castilla y león, cortes de castilla y león y procurador del común"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-222",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Con carácter general la entrada en vigor de las normas administrativas en Castilla y León,¿ tendrá lugar?",
+      "options": [
+        "mismo día de su publicación",
+        "al día siguiente de su publicación",
+        "cuando en la propia ley así lo indique",
+        "a los 20 días de su publicación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-223",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La comunidad autónoma de castilla y León limita al norte con una de las CCAA que se indican:",
+      "options": [
+        "país vasco",
+        "cantabria",
+        "asturias.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-224",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Dentro de los derechos sociales que recoge el estatuto de autonomía de castilla y León (art. 13), se encuentra:",
+      "options": [
+        "derecho a la educación",
+        "derecho a la salud",
+        "derechos de las personas mayores",
+        "a, b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-225",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién es el representante ordinario del estado en la comunidad autónoma de castilla y León?",
+      "options": [
+        "subdelegado del gobierno",
+        "delegado territorial",
+        "delegado del gobierno",
+        "presidente de la junta de cyl."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-226",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién elige al presidente de la junta de CYL?",
+      "options": [
+        "la propia junta de entre sus miembros",
+        "las cortes de castilla y león",
+        "el pueblo castellano-leonés, por sufragio universal, libre igual y directo",
+        "no hay ninguna correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-227",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La convocatoria de elecciones a cortes de castilla y León, habrá de efectuarse por:",
+      "options": [
+        "presidente de la junta de cyl",
+        "cortes de cyl.",
+        "presidente de las cortes de cyl",
+        "junta de castilla y león."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-228",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El control de la acción de gobierno de la junta de CYL. Lo ejerce según el estatuto de autonomía:",
+      "options": [
+        "el presidente de la comunidad",
+        "las cortes de cyl",
+        "tribunal superior de justicia",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-229",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién elige al presidente de las cortes de CYL:",
+      "options": [
+        "el presidente de la junta de castilla y león, de entre los miembros que las componen",
+        "el rey",
+        "el pleno de la asamblea legislativa (las cortes de cyl)",
+        "la junta de castilla y león."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-230",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién nombra al presidente de la junta de CYL.",
+      "options": [
+        "el rey",
+        "la propia junta",
+        "el presidente de las cortes de cyl",
+        "el ministro de justicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-231",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Los derechos y libertades de los ciudadanos de CYL serán:",
+      "options": [
+        "los que se establezcan en la ley de gobierno",
+        "los que se establezcan en el estatuto de autonomía",
+        "solo los que dispongan las leyes estatales",
+        "solo los establecidos por la constitución."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-232",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El respeto a la lengua gallega:",
+      "options": [
+        "se recoge en la redacción inicial del estatuto",
+        "se introdujo por la lo 4/99 de reforma del estatuto",
+        "no se recoge en el estatuto de castilla y león",
+        "se establecerá en una ley."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-233",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Cual es la cámara alta en España:",
+      "options": [
+        "congreso",
+        "senado",
+        "asamblea legislativa de la ccaa",
+        "parlamento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-234",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Dónde tiene su sede el tribunal superior de justicia de Castilla y León?",
+      "options": [
+        "valladolid",
+        "burgos",
+        "zamora",
+        "salamanca"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-235",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "En la ciudad de León, que órgano de la CCAA se encuentra:",
+      "options": [
+        "tribunal de cuentas de la comunidad",
+        "procurador del común.",
+        "consejo consultivo",
+        "no se encuentra ninguno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-236",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál es la circunscripción electoral a efectos de las elecciones a miembros de las cortes de CyL?",
+      "options": [
+        "partido judicial",
+        "provincia",
+        "el municipio",
+        "toda la comunidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-237",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "A quién le corresponde la designación de los miembros de la Junta de CyL:",
+      "options": [
+        "al pueblo castellano-leonés",
+        "al pte de la junta de castilla y león.",
+        "al presidente de las cortes de cyl",
+        "a las cortes de castilla y león"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-238",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "En materia de enseñanza, corresponde a Castilla y León:",
+      "options": [
+        "competencias exclusivas",
+        "competencias de desarrollo legislativo y de ejecución",
+        "competencias de ejecución",
+        "castilla y león no tiene competencias en esta materia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-239",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El presidente de la Junta de C.L. podrá presentar ante las Cortes de CL la cuestión de confianza.",
+      "options": [
+        "cuándo lo estime oportuno previa deliberación de la junta",
+        "cuando se lo soliciten el 15% procuradores",
+        "cuando lo solicite la junta",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-240",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Una de estas afirmaciones es cierta:",
+      "options": [
+        "la función ejecutiva en c.l. le corresponde a la junta, mientras la potestad reglamentaria le corresponde a los procuradores de C.L.",
+        "la función ejecutiva en c.l. le corresponde a las cortes, mientras la potestad reglamentaria le corresponde a la Junta de C.L.",
+        "tanto la potestad reglamentaria como la función ejecutiva son funciones de la junta de c.l., que además participa en la función o potestad legislativa, por delegación de las Cortes de C.L.",
+        "todas las anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-241",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El órgano que gobierna y administra la entidad territorial provincial:",
+      "options": [
+        "dirección provincial",
+        "delegado del gobierno",
+        "la junta de c.l.",
+        "diputación provincial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-242",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El órgano colegiado de gobierno y administración de la comunidad de C.L. es:",
+      "options": [
+        "cortes c.l",
+        "pte. junta",
+        "junta de cyl",
+        "tribunal sup."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-243",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Es nombrado por el Rey a propuesta de las Cortes de C.L., y se dice es el representante de la comunidad de C.L.; es:",
+      "options": [
+        "pte. de las cortes de c.l.",
+        "pte. de la junta",
+        "consejero de presidencia",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-244",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La Constitución Española.....",
+      "options": [
+        "entró en vigor al día siguiente de su publicación en el b.o.c.l.",
+        "entró en vigor el mismo día de publicarse en el b.o.e",
+        "entró en vigor al día siguiente de publicarse en el b.o. de las cortes de c.l.",
+        "entró en vigor al día siguiente de su publicación en el boe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-245",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La sede de las instituciones de autogobierno de C.L. se establece....",
+      "options": [
+        "por decreto de la junta",
+        "ley de las cortes generales.",
+        "decreto-legislativo cortes c.l.",
+        "ley cortes c.l."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-246",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La utilización de los símbolos y banderas de la comunidad se regula:",
+      "options": [
+        "ley de las cortes de c.l.",
+        "ley orgánica cortes generales.",
+        "decreto junta de c.l.",
+        "todas son falsas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-247",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "No es institución básica en CL según el Estatuto de Autonomía:",
+      "options": [
+        "junta c.l.",
+        "pte. de la junta",
+        "cortes",
+        "tribunal superior de justicia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-248",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "A las normas elaboradas por la Junta como consecuencia de delegación legislativa de las Cortes de",
+      "options": [
+        "l. se les conoce como:",
+        "decretos",
+        "leyes",
+        "decretos-legislativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-249",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La norma institucional básica de CL es:",
+      "options": [
+        "junta, cortes y pte. junta",
+        "estatuto de autonomía de cl",
+        "leyes de transferencias de las cortes",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-250",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El Presidente de las Cortes de CL ostenta la condición de presidente de:",
+      "options": [
+        "poder ejecutivo (junta)",
+        "poder legislativo (cortes)",
+        "poder judicial (tsj)",
+        "todas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-251",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La Comunidad de Castilla y León ha de elegir convenientemente los Senadores que la representan. ¿A qué órgano autonómico le compete dicha función?",
+      "options": [
+        "junta de c.l.",
+        "presidente junta",
+        "cortes de c.l.",
+        "tribunal superior de justicia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-252",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La sede de las instituciones de autogobierno en C.L. será fijada por Ley de las Cortes de C.L. que necesitará mayoría de:",
+      "options": [
+        "3/5",
+        "2/3",
+        "3/4",
+        "absoluta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-253",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Los Presupuestos de la Comunidad de C.L....",
+      "options": [
+        "son elaborados por las cortes de c.l.",
+        "son aprobados por la junta de c.l. como ley ordinaria",
+        "son de carácter anual",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-254",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El control de la acción política y de gobierno de la Junta y de su Presidente se ejerce en la Comunidad de C.L. por:",
+      "options": [
+        "cortes de cyl.",
+        "cortes generales",
+        "gobierno central",
+        "tribunal constitucional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-255",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "El cargo representativo de Procurador en Cortes de C.L. es incompatible con el desempeño de:",
+      "options": [
+        "senador",
+        "alcalde",
+        "concejal",
+        "diputado al congreso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-256",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La asignación mínima inicial de Procuradores por provincia en las elecciones a Cortes de C.L. será de:",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-257",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La circunscripción electoral en C.L., según su estatuto:",
+      "options": [
+        "municipio",
+        "provincia",
+        "comarca",
+        "mancomunidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-258",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La ubicación de los organismos o servicios de la Administración de la Comunidad, atendiendo a criterios de descentralización, eficacia y coordinación de funciones y a la tradición histórico-cultural, habrá de determinarla:",
+      "options": [
+        "las cortes de cl",
+        "la junta de cl",
+        "los consejeros",
+        "la administración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-259",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál fue la primera reforma que sufrió el actual estatuto de autonomía de Castilla y León?",
+      "options": [
+        "ley 53/84 de 26-12",
+        "ley orgánica 4/1983",
+        "ley orgánica 11/94",
+        "ley orgánica 4/1999"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-260",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál es la norma institucional básica en Castilla y León?",
+      "options": [
+        "estatuto de autonomía",
+        "la constitución española",
+        "a y b más el resto del ordenamiento jurídico",
+        "las que designen las cortes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-261",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién elige al jefe del órgano ejecutivo (La Junta de CyL) en Castilla y León?",
+      "options": [
+        "el propio órgano entre sus miembros reunidos al efecto y por mayoría absoluta en primera votación y sino simple en segunda votación",
+        "la asamblea legislativa de la comunidad (las cortes)",
+        "el pueblo castellano-leones por sufragio universal libre directo igual y secreto",
+        "no hay ninguna correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-262",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál es la última reforma que ha sufrido nuestro actual estatuto?",
+      "options": [
+        "ley orgánica 4/1983 de 25 de febrero",
+        "ley orgánica 11/1994 de 24 de marzo",
+        "ley orgánica 4/1999, de 8 de enero",
+        "ley orgánica 14/2007 de 30 de noviembre"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-263",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cuál es la norma suprema del ordenamiento jurídico español en Castilla y León?",
+      "options": [
+        "la constitución española",
+        "ley orgánica 11/1994 de 24 de marzo",
+        "ley orgánica 4/1999, de 8 de enero",
+        "ley orgánica 14/2007 de 30 de noviembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-264",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Cómo se fija la sede de una institución básica en Castilla y León?",
+      "options": [
+        "decreto de la junta de cyl.",
+        "ley de la junta de cyl.",
+        "ley de cortes cyl.",
+        "decreto de las cortes de cyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-265",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién determinará la ubicación de los servicios de la administración de la comunidad?",
+      "options": [
+        "la junta de castilla y león",
+        "el presidente de la junta de cyl.",
+        "las cortes de cyl",
+        "el presidente de las cortes cyl"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-266",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "La ubicación de los servicios se hará atendiendo a criterios de: indicar el incorrecto.",
+      "options": [
+        "descentralización",
+        "eficacia",
+        "coordinación de funciones",
+        "igualdad y equidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-267",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "Con arreglo al art. 4 del estatuto indicar los valores esenciales para la identidad de CyL.",
+      "options": [
+        "libertad, igualdad y pluralismo político",
+        "libertad, igualdad y pluralismo jurídico",
+        "la lengua castellana y el patrimonio artístico y natural",
+        "la lengua castellana y el patrimonio artístico y cultural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-268",
+      "superblock": "Tema 5",
+      "subblock": "Test6 T5 TitV (2024)",
+      "question": "¿Quién fomentará el uso correcto del castellano?",
+      "options": [
+        "los poderes públicos",
+        "la junta de cyl",
+        "las cortes de castilla y león",
+        "el pueblo castellano-leones Test6 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-269",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "El Estatuto de Autonomía de Castilla y León se integra dentro del ordenamiento jurídico del Estado Español con el rango de...",
+      "options": [
+        "ley ordinaria",
+        "bloque de constitucionalidad",
+        "ley orgánica",
+        "ley autonómica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-270",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "¿Cuál de las siguientes afirmaciones es verdadera en relación al Estatuto de Autonomía de Castilla y León?",
+      "options": [
+        "es un estatuto de autonomía que ha sido objeto de reforma",
+        "no tiene título preliminar haciendo las veces de éste el preámbulo del estatuto",
+        "es un texto con numeroso articulado que supera incluso el número de artículos de la Constitución",
+        "todas las afirmaciones anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-271",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "Dentro de la parte final del Estatuto de Autonomía de Castilla y León no existen disposiciones...",
+      "options": [
+        "adicionales",
+        "especiales",
+        "transitorias",
+        "derogatorias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-272",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "A efectos de la Unión Europea el art. 2 del Estatuto de Autonomía de Castilla y León considera esta comunidad autónoma como...",
+      "options": [
+        "una zona europea",
+        "en espacio europeo",
+        "un territorio de europa",
+        "una región europea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-273",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "El territorio de la Comunidad de Castilla y León comprende el de los municipios integrados en las actuales provincias de ...",
+      "options": [
+        "ávila, burgos, logroño, palencia, salamanca, segovia, soria, valladolid y zaragoza",
+        "ávila, burgos, logroño, plasencia, salamanca, segovia, soria, valladolid y zamora",
+        "ávila, burgos, león, palencia, salamanca, segovia, soria, valladolid y zamora",
+        "ávila, burgos, logroño, palencia, salamanca, segovia, soria, valladolid y zamora"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-274",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "A efectos de la identidad de la Comunidad de Castilla y León la lengua castellana se considera...",
+      "options": [
+        "esencial patrimonio lingüístico de la comunidad",
+        "valor esencial para la identidad de la comunidad",
+        "la lengua oficial de la comunidad autónoma junto con el español para el resto del Estado",
+        "un valor esencial de su patrimonio histórico como lo es el español para el resto del Estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-275",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "Además del castellano ¿a qué otras lenguas se refiere el Estatuto de Autonomía?",
+      "options": [
+        "al leonés y al gallego",
+        "al leonés y al asturiano",
+        "al leonés y al bable",
+        "al leonés exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-276",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "Escudo timbrado por corona real abierta, cuartelado en cruz o contracuartelado",
+      "options": [
+        "estandarte",
+        "pendón",
+        "himno",
+        "blasón"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-277",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "No es un símbolo de la Comunidad de Castilla y León...",
+      "options": [
+        "castellano",
+        "blasón",
+        "himno",
+        "pendón"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t5-278",
+      "superblock": "Tema 5",
+      "subblock": "Test7 T5 TitV (2024)",
+      "question": "Según el Estatuto de Autonomía la bandera de la Comunidad Autónoma ondeará en los actos oficiales",
+      "options": [
+        "a la izquierda de la bandera española",
+        "junta a la bandera española, indistintamente a derecha o a izquierda de la misma",
+        "a la derecha de la bandera española",
+        "entre la bandera española y la bandera de la unión europea siempre a idéntica altura de las mismas Test7 T5 TitV (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

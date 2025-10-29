@@ -1,0 +1,567 @@
+{
+  "module": "Tema 9",
+  "title": "Tema 9",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "id": "t9-1",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La aprobación de proyectos de ley que van a someterse al Congreso de los Diputados será remitida desde:",
+      "options": [
+        "presidente del gobierno, tras deliberación en el consejo de ministros",
+        "ministro competente por razón de la materia, que debe acompañar la preceptiva memoria económica",
+        "comisión de subsecretarios, que acompañará memoria económica y exposición de motivos",
+        "consejo de ministros, debiendo acompañarse exposición de motivos y antecedentes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-2",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Conforme a lo previsto en la Ley del Gobierno, sobre el informe anual de evaluación, señale la afirmación incorrecta:",
+      "options": [
+        "será aprobado por el consejo de ministros, a propuesta del ministerio de la presidencia, relaciones con las Cortes y Memoria Democrática, aprobará, antes del 30 de abril de cada año.",
+        "el informe incluirá el grado de cumplimiento del plan anual normativo del año en cuestión.",
+        "la evaluación se realizará en los términos y plazos previstos en la memoria del análisis de impacto normativo y deberá comprender, en todo caso, la eficacia de la norma, entendiendo por tal la medida en que ha conseguido los fines pretendidos con su aprobación.",
+        "el informe podrá contener recomendaciones específicas de modificación y, en su caso, derogación de las normas evaluadas, cuando así lo aconsejase el resultado del análisis."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-3",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según lo previsto en la Constitución Española, qué tipo de norma deberá ser aprobada para regular el régimen electoral general",
+      "options": [
+        "mediante ley ordinaria.",
+        "mediante ley orgánica.",
+        "mediante decreto legislativo.",
+        "mediante real decreto."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-4",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Una de las siguientes funciones la Constitución Española no atribuye al Gobierno del Estado",
+      "options": [
+        "ejercer la potestad reglamentaria.",
+        "dirigir la defensa del estado.",
+        "ejercer la función ejecutiva.",
+        "controlar la legalidad de la actuación administrativa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-5",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Quién habrá de aprobar los reglamentos de ejecución de las leyes",
+      "options": [
+        "al consejo de ministros.",
+        "al congreso de los diputados.",
+        "al senado.",
+        "a las cámaras."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-6",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La delegación legislativa prevista en la Constitución Española, deberá otorgarse mediante una ley de bases en el caso de que:",
+      "options": [
+        "se trate de recoger toda la doctrina y jurisprudencia sobre un determinado tema.",
+        "su objeto sea la creación de una norma básica aplicable a todas las administraciones públicas.",
+        "su objeto sea la formación de textos articulados.",
+        "se trate de refundir varios textos legales en uno solo,"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-7",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La aprobación de un decreto-ley en el Senado, si llegara a éste por ser tramitado como un proyecto de ley urgente, reduce el plazo en la cámara alta para dicha aprobación, estableciéndolo en:",
+      "options": [
+        "10 días hábiles",
+        "15 días hábiles",
+        "10 días naturales",
+        "20 días"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-8",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según el artículo 1o del Código Civil se consideran fuentes del ordenamiento jurídico español:",
+      "options": [
+        "la ley.",
+        "la costumbre.",
+        "los principios generales del derecho.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-9",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Respecto a la elaboración de las leyes, indique la respuesta incorrecta:",
+      "options": [
+        "los estatutos de autonomía se aprobarán por leyes orgánicas.",
+        "la delegación legislativa deberá otorgarse por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.",
+        "la aprobación de las leyes orgánicas exigirá mayoría absoluta del congreso.",
+        "las cortes generales podrán delegar en el gobierno la potestad de dictar normas con rango de ley para aprobar el régimen electoral general."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-10",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Conforme a lo previsto en la Ley 50/1997, en el procedimiento de elaboración de un anteproyecto de ley deberá realizarse una consulta pública, ¿cuál será el plazo de la misma?",
+      "options": [
+        "en ningún caso será inferior a diez días naturales.",
+        "en ningún caso será inferior a quince días naturales.",
+        "en ningún caso será inferior a diez días hábiles.",
+        "en ningún caso será inferior a quince días hábiles."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-11",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La delegación legislativa de las Cortes Generales en el Gobierno para refundir varios textos legales en uno solo, incluyendo la labor de regularizar, aclarar y armonizar dichos textos, se efectúa a través de:",
+      "options": [
+        "una ley ordinaria.",
+        "un decreto legislativo.",
+        "una ley orgánica.",
+        "una ley de bases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-12",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según lo establecido en la Ley 50/1997, las resoluciones de los Ministros que afecten a varios departamentos revestirán la forma de:",
+      "options": [
+        "orden de los ministros interesados, dictada a propuesta del ministro de la presidencia, relaciones con las Cortes y Memoria Democrática.",
+        "real decreto del presidente del gobierno, dictado a propuesta de los ministros interesados.",
+        "orden del ministro de la presidencia, relaciones con las cortes y memoria democrática, dictada a propuesta de los Ministros interesados.",
+        "decreto del ministro de la presidencia, relaciones con las cortes y memoria democrática, dictada a propuesta uno de los Ministros interesados."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-13",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "No son fuentes secundarias del derecho:",
+      "options": [
+        "costumbre",
+        "principios generales del derecho",
+        "ley",
+        "todas son fuentes secundarias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-14",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La Constitución Española establece para los Decretos-Leyes y su convalidación:",
+      "options": [
+        "el congreso será convocado para el debate y votación de los decretos-leyes en el plazo de los cuarenta días siguientes a su promulgación, debiendo esperar a la finalización de dicho plazo para que las Cortes puedan tramitarlos por el procedimiento de urgencia.",
+        "deben someterse los decretos-leyes a debate y votación de la totalidad al congreso de los diputados, convocado al efecto si no estuviese reunido, en los treinta días siguientes a su promulgación.",
+        "en caso de extraordinaria y urgente necesidad, el gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes y que podrán afectar al régimen de las Comunidades Autónomas y al Derecho Electoral General.",
+        "los decretos-leyes deberán ser inmediatamente sometidos a debate y votación de su totalidad al congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los quince días siguientes a su promulgación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-15",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según el Código Civil ¿Cuál de las siguientes no es una fuente del ordenamiento jurídico español?",
+      "options": [
+        "la ley.",
+        "los principios generales del derecho.",
+        "la costumbre.",
+        "la jurisprudencia."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-16",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Los Decretos Leyes:",
+      "options": [
+        "deberán ser inmediatamente sometidos a debate y votación de totalidad al congreso de los diputados y al Senado, convocados al efecto si no estuviesen reunidos, en el plazo de los siete días siguientes a su promulgación.",
+        "pueden ser dictados por el presidente del gobierno en casos de extraordinaria y urgente necesidad.",
+        "no pueden afectar al ordenamiento de las instituciones básicas del estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas, ni al Derecho electoral general.",
+        "son disposiciones legislativas no provisionales, como cualquier otra ley."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-17",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Indique qué definición de las Leyes armonizadoras es la correcta:",
+      "options": [
+        "son leyes dictadas por el estado que establecen los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas. Sólo podrán armonizar disposiciones dictadas por delegación del Estado.",
+        "son leyes dictadas por el estado que establecen los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas y de las entidades que integran la Administración local, aún en el caso de materias atribuidas a la competencia de éstas.",
+        "son leyes dictadas por las comunidades autónomas que establecen los principios necesarios para armonizar las disposiciones normativas de las entidades locales.",
+        "son leyes dictadas por el estado que establecen los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aún en el caso de materias atribuidas a la competencia de éstas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-18",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "¿Qué establece la Constitución respecto a los proyectos de ley?",
+      "options": [
+        "los proyectos de ley deberán ir acompañados de las memorias e informes que conformen los expedientes de elaboración de dichos textos normativos.",
+        "los proyectos de ley deberán ir acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+        "el propio consejo de los ministros los someterá al senado.",
+        "serán aprobados por el congreso de los diputados."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-19",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "De acuerdo con la Constitución Española, qué materias no pueden ser afectadas por el contenido de un Decreto-ley:",
+      "options": [
+        "ordenamiento de las instituciones básicas del estado, todos los derechos, deberes y libertades de los ciudadanos contempladas en el ordenamiento jurídico, régimen de las Comunidades Autónomas y Derecho electoral general.",
+        "las relativas al ordenamiento de las instituciones básicas del estado, derechos y deberes de los ciudadanos, régimen de las Comunidades Autónomas y Derecho electoral europeo.",
+        "las que hubiesen sido previamente reguladas por un decreto-ley anterior no convalidado.",
+        "ordenamiento de las instituciones básicas del estado, derechos, deberes y libertades de los ciudadanos regulados en el Título I de la Constitución Española, régimen de las Comunidades Autónomas y Derecho electoral general."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-20",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Conforme a lo previsto en la Constitución Española, ¿qué órgano convalida los decretos leyes?",
+      "options": [
+        "las cortes generales.",
+        "el gobierno.",
+        "el congreso.",
+        "el senado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-21",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según el artículo 167 de la Constitución, los proyectos de reforma constitucional deberán ser aprobados por:",
+      "options": [
+        "la mayoría de tres quintos de cada una de las cámaras.",
+        "mayoría de cada una de las cámaras.",
+        "la mayoría del congreso de los diputados.",
+        "mayoría absoluta de cada una de las cámaras."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-22",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "De acuerdo con el art. 133 de la Ley 39/2015, en el procedimiento de elaboración de normas con rango de Ley y reglamentos, ¿cuándo podrá prescindirse de los trámites de consulta, audiencia e información públicas?",
+      "options": [
+        "cuando se trate de normas presupuestarias u organizativas de la administración general del estado.",
+        "cuando la futura normativa no tenga un impacto significativo en la actividad económica.",
+        "cuando se trate de tramitaciones urgentes.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-23",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La delegación legislativa otorgada al Gobierno mediante una Ley de Bases tiene como resultado ...",
+      "options": [
+        "la formación de un reglamento de desarrollo de la materia comprendida en la propia ley de bases.",
+        "la armonización de disposiciones normativas de las comunidades autónomas en el caso de materias atribuidas a la competencia de éstas.",
+        "la formación de un texto refundido.",
+        "la formación de un texto articulado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-24",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "¿Qué mayoría se exige en una votación final en el Congreso de los Diputados para aprobar, modificar o derogar una ley orgánica?",
+      "options": [
+        "unanimidad.",
+        "mayoría de tres quintos.",
+        "mayoría simple.",
+        "mayoría absoluta."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-25",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Dentro del estudio de las fuentes del Derecho Administrativo, ¿cuál de las siguientes fuentes no tendrá el carácter de indirecta?",
+      "options": [
+        "jurisprudencia.",
+        "costumbre.",
+        "tratados internacionales no publicados en el boletín oficial del estado.",
+        "doctrina científica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-26",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+      "options": [
+        "decreto-ley.",
+        "ley ordinaria.",
+        "ley orgánica.",
+        "decreto legislativo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-27",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Señale la opción incorrecta. ¿Qué establece la Constitución Española respecto a la posibilidad de refundir varios textos en uno?",
+      "options": [
+        "la autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único.",
+        "la autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.",
+        "puede refundirse un único texto normativo o varios.",
+        "la delegación legislativa para refundir varios textos legales se otorgará mediante ley ordinaria o ley de bases."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-28",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según lo establecido en la Constitución, una vez aprobado un proyecto de ley ordinaria por el Congreso de los Diputados, ¿en qué plazo se dará cuenta del mismo al Senado?",
+      "options": [
+        "en plazo de 10 días.",
+        "en plazo de 20 días.",
+        "inmediatamente.",
+        "en plazo de 15 días."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-29",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "La reforma extraordinaria de la Constitución se aprobará por:",
+      "options": [
+        "mayoría absoluta de cada cámara.",
+        "mayoría de 2/3 de cada cámara.",
+        "mayoría de 3/5 de cada cámara.",
+        "consenso de cada cámara."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-30",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en la Constitución se regularán mediante",
+      "options": [
+        "ley orgánica.",
+        "decreto.",
+        "real decreto.",
+        "ordinaria."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-31",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las leyes especiales por su contenido, donde las Cortes Generales pueden facultar a las Comunidades Autónomas para legislar en materias que son competencia estatal, se denominan:",
+      "options": [
+        "leyes marco",
+        "leyes de armonización",
+        "leyes básicas",
+        "leyes de transferencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-32",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Los reglamentos, entendidos como disposición jurídica....",
+      "options": [
+        "son inferiores jerárquicamente a las leyes",
+        "son actos normativos dictados por la administración",
+        "son controlados por los juzgados y tribunales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-33",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las disposiciones administrativas que vulneren la constitución, las leyes u otras disposiciones administrativas de rango superior séran...",
+      "options": [
+        "irregulares",
+        "anulables",
+        "nulas de pleno derecho",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-34",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Los reglamentos que desarrollan y complementan una ley, normalmente porque la misma ley ha previsto dicho reglamento, se dicen que son de tipo:",
+      "options": [
+        "independientes",
+        "ejecutivos",
+        "administrativos",
+        "jurídicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-35",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las disposiciones de carácter general que adopta la Junta de Castilla y León se denominan:",
+      "options": [
+        "decreto ley",
+        "decreto",
+        "decreto legislativo",
+        "reglamento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-36",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las resoluciones administrativas del Presidente de la Junta de Castilla y León se denominan:",
+      "options": [
+        "decreto ley",
+        "decreto",
+        "acuerdo",
+        "reglamento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-37",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las disposiciones administrativas de carácter general, en la Comunidad Autónoma de Castilla y León:",
+      "options": [
+        "se publicarán en el boletín oficial de castilla y león",
+        "entrarán en vigor a los 20 días de su publicación, salvo que en las mismas se disponga otra cosa",
+        "están subordinadas a las leyes y normas con fuerza de ley",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-38",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Las Comisiones Delegadas de la Junta de Castilla y León podrán adoptar resoluciones que adoptarán la forma de ...",
+      "options": [
+        "decretos",
+        "resoluciones",
+        "órdenes",
+        "acuerdos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-39",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Es una fuente primaria del derecho:",
+      "options": [
+        "ley",
+        "costumbre",
+        "jurisprudencia",
+        "todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t9-40",
+      "superblock": "Tema 9",
+      "subblock": "TEST 1. TEMA 9.",
+      "question": "Según el código civil, las disposiciones que contradigan otras de rango superior:",
+      "options": [
+        "carecen de validez",
+        "no podrán publicarse",
+        "serán definitivas, pero no firmes",
+        "todas las respuestas anteriores son correctas TEST 1. TEMA 9. SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

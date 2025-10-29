@@ -7,8 +7,33 @@ export default function SequentialModeScreen() {
   const navigate = useNavigate();
   const { questions } = useQuiz();
 
-  // Obtener bloques únicos
-  const blocks = [...new Set(questions.map(q => q.block))];
+  // Obtener bloques únicos (grouped by superblock with subblocks)
+  const blockStructure = {};
+  questions.forEach(q => {
+    const superblock = q.superblock || q.block;
+    const subblock = q.subblock;
+
+    if (!blockStructure[superblock]) {
+      blockStructure[superblock] = {
+        name: superblock,
+        subblocks: new Set(),
+        questionCount: 0,
+      };
+    }
+
+    blockStructure[superblock].questionCount += 1;
+
+    if (subblock) {
+      blockStructure[superblock].subblocks.add(subblock);
+    }
+  });
+
+  // Convert to array and sort
+  const superblocks = Object.values(blockStructure).map(sb => ({
+    name: sb.name,
+    subblocks: Array.from(sb.subblocks),
+    questionCount: sb.questionCount,
+  }));
 
   return (
     <div className="container sequential-mode-container">
@@ -37,22 +62,49 @@ export default function SequentialModeScreen() {
           <div className="blocks-section">
             <h2 className="blocks-title">O selecciona un bloque:</h2>
             <div className="blocks-list">
-              {blocks.map((block, index) => {
-                const blockQuestions = questions.filter(q => q.block === block);
+              {superblocks.map((superblock, index) => {
+                const hasSubblocks = superblock.subblocks.length > 0;
+
                 return (
-                  <button
-                    key={index}
-                    className="sequential-option-card block-card"
-                    onClick={() => navigate(`/review/block/${encodeURIComponent(block)}`)}
-                  >
-                    <div className="option-icon">📘</div>
-                    <div className="option-content">
-                      <h3 className="option-title">{block}</h3>
-                      <p className="option-description">
-                        {blockQuestions.length} preguntas
-                      </p>
-                    </div>
-                  </button>
+                  <div key={index} className="superblock-group">
+                    <button
+                      className="sequential-option-card block-card"
+                      onClick={() => navigate(`/review/block/${encodeURIComponent(superblock.name)}`)}
+                    >
+                      <div className="option-icon">📘</div>
+                      <div className="option-content">
+                        <h3 className="option-title">{superblock.name}</h3>
+                        <p className="option-description">
+                          {superblock.questionCount} preguntas
+                          {hasSubblocks && ` (${superblock.subblocks.length} tests)`}
+                        </p>
+                      </div>
+                    </button>
+
+                    {/* Subblocks */}
+                    {hasSubblocks && (
+                      <div className="subblocks-list">
+                        {superblock.subblocks.map((subblock, subIndex) => {
+                          const subblockQuestions = questions.filter(q => q.subblock === subblock);
+                          return (
+                            <button
+                              key={subIndex}
+                              className="sequential-option-card subblock-card"
+                              onClick={() => navigate(`/review/block/${encodeURIComponent(subblock)}`)}
+                            >
+                              <div className="option-icon">└─</div>
+                              <div className="option-content">
+                                <h4 className="option-title-small">{subblock}</h4>
+                                <p className="option-description">
+                                  {subblockQuestions.length} preguntas
+                                </p>
+                              </div>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
                 );
               })}
             </div>

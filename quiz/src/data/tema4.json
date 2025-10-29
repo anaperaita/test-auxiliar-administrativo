@@ -1,0 +1,707 @@
+{
+  "module": "Tema 4",
+  "title": "Tema 4",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "t4-1",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El Tratado Constitutivo de París, que puso en marcha la Comunidad Europea, tuvo lugar en",
+      "options": [
+        "1962",
+        "1956",
+        "1.951",
+        "1945"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-2",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En 1986 se introducen grandes modificaciones en la normativa comunitaria europea, con la aprobación de",
+      "options": [
+        "tratado de maastricht",
+        "tratado de parís",
+        "acta única europea",
+        "tratado de lisboa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-3",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Son fines de la Unión Europea, según las cláusulas en que se basa la misma:",
+      "options": [
+        "la educación ciudadana europea",
+        "promover la paz y la seguridad",
+        "promover la paz, los valores y el bienestar de sus pueblos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-4",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En la Unión Europea, el órgano de representación de los ciudadanos y de sus Estados miembros, que tiene poderes legislativos es:",
+      "options": [
+        "consejo europeo",
+        "comisión",
+        "consejo",
+        "parlamento europeo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-5",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Constatar la violación grave y reiterada por parte de un país miembro de los valores de la UE decidir por mayoría cualificada que se suspendan determinados derechos derivados de la aplicación de los tratados al Estado miembro de que se trate incluido el derecho de voto corresponde en la Unión Europea:",
+      "options": [
+        "consejo europeo",
+        "parlamento europeo",
+        "presidente ue",
+        "comisión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-6",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La institución europea por excelencia, cuyo fundamento es dirigir, gestionar y poner en marcha todos los acuerdos que la UE adopte:",
+      "options": [
+        "consejo europeo",
+        "comisión",
+        "parlamento europeo",
+        "presidente de la ue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-7",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El alto representante de la UE para asuntos exteriores y política de seguridad es nombrado para el cargo por:",
+      "options": [
+        "el consejo europeo, mediante mayoría cualificada",
+        "la comisión, con mayoría simple",
+        "el parlamento europeo, con acuerdo de mayoría absoluta",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-8",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La sede del Tribunal de Cuentas de la Unión Europea es:",
+      "options": [
+        "luxemburgo",
+        "estrasburgo",
+        "bruselas",
+        "zurich"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-9",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano donde están representadas las comunidades autónomas españolas así como las distintas regiones de cada uno de los países miembros y las entidades locales en la Unión Europea es:",
+      "options": [
+        "consejo territorial",
+        "comisión regional",
+        "comité de las regiones",
+        "comité económico y social"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-10",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En la Unión europea, los actos jurídicos que son obligatorios en todos sus elementos. Si bien cuando se dirigen a un Estado miembro concreto, sólo es obligatoria para éste/éstos, se denominan:",
+      "options": [
+        "recomendaciones",
+        "decisiones",
+        "dictámenes",
+        "directivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-11",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En la Unión Europea, la función legislativa y la función presupuestaria la ejercerán conjuntamente....",
+      "options": [
+        "parlamento europeo y consejo",
+        "consejo europeo y comisión",
+        "comisión y parlamento europeo",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-12",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Además de otros requisitos, para formar un grupo parlamentario en el parlamento europeo se exige un número de diputados en el mismo no inferior a:",
+      "options": [
+        "23",
+        "35",
+        "19",
+        "30"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-13",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En el parlamento europeo existen comisiones, creadas a propuesta de la Conferencia de Presidentes:",
+      "options": [
+        "especiales y permanentes",
+        "especiales y generales",
+        "permanentes y volantes",
+        "específicas y ordinarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-14",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los actos legislativos de la UE adoptados con arreglo al procedimiento legislativo ordinario serán firmados por",
+      "options": [
+        "presidente del parlamento europeo y el presidente del consejo",
+        "presidente de la comisión y el presidente del consejo",
+        "presidente de la comisión y el presidente del parlamento europeo",
+        "presidente del parlamento y el presidente del tribunal de justiia de la ue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-15",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Cuando en la Unión Europea varios órganos o instituciones de la misma asumen una decisión entre ambos y la obligatoriedad de la misma corresponde a los dos o más, hablamos de....",
+      "options": [
+        "colaboración",
+        "corporación",
+        "codecisión",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-16",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Elegir al presidente de la Comisión es competencia en la Unión Europea:",
+      "options": [
+        "parlamento europeo",
+        "consejo",
+        "consejo de ministros",
+        "comisión europea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-17",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El presupuesto de la Unión Europea corresponde establecerlo de modo anual a:",
+      "options": [
+        "parlamento y comisión",
+        "parlamento y consejo",
+        "consejo y comisión",
+        "comisión y tribunal de cuentas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-18",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los miembros del parlamento europeo son elegidos para un período de:",
+      "options": [
+        "3 años",
+        "4 años",
+        "6 años",
+        "5 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-19",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La Secretaría General del Parlamento Europeo es en dicha institución:",
+      "options": [
+        "un órgano directivo",
+        "un órgano de trabajo",
+        "un órgano de apoyo",
+        "un órgano de decisión"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-20",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Las sesiones extraordinarias del parlamento europeo podrán ser solicitadas por:",
+      "options": [
+        "la mayoría de los diputados",
+        "la comisión",
+        "el consejo",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-21",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La Constitución Europea fue instituida en el Tratado:",
+      "options": [
+        "roma 2004",
+        "lisboa 2007",
+        "maastricht 1992",
+        "lisboa 2017"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-22",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El criterio de la Unión Europea que se aplica en casos en que la Unión Europea en los ámbitos que no sean de su competencia exclusiva, intervendrá sólo en caso de que y en la medida en que los objetivos de la acción prevista no pueden ser alcanzados de modo suficiente por los Estados miembros pues pueden alcanzarse mejor por sus dimensiones en la escala de la Unión Europea:",
+      "options": [
+        "espontaneidad",
+        "prioridad",
+        "subsidiariedad",
+        "celeridad y eficiencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-23",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Aprobar la designación de los miembros que integran la Comisión Europea es competencia en la U.E.:",
+      "options": [
+        "comisión",
+        "consejo",
+        "parlamento europeo",
+        "presidente de la u.e."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-24",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "No es una función del Consejo Europeo...",
+      "options": [
+        "dar a la ue impulso para su desarrollo, definir sus orientaciones y prioridades, y dirigir la ue. decidirá la lista de las formaciones del Consejo diferentes de Asuntos Generales y Asuntos Exteriores",
+        "nombrar con la aprobación del presidente de la comisión, al alto representantes de la ue para asuntos exteriores y política de seguridad.",
+        "recibe del estado que quiera retirarse de la ue notificación sobe su intención",
+        "discutir en sesión pública el informe general anual que presenta la comisión"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-25",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Cada país miembro de la UE tiene un número fijo de parlamentarios. Los países más pequeños tienen una representación con un mínimo de:",
+      "options": [
+        "7 diputados",
+        "6 diputados",
+        "5 diputados",
+        "4 diputados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-26",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Concluir acuerdos internacionales entre la U.e. y otros países u organizaciones internacionales es competencia en la misma de:",
+      "options": [
+        "consejo europeo",
+        "parlamento europeo",
+        "comisión",
+        "presidente u.e."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-27",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En la toma de decisiones de la Unión Europea participan diversas instituciones, en especial:",
+      "options": [
+        "comisión europea",
+        "parlamento europeo",
+        "consejo de la u.e.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-28",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los Tratados en la U.E. son acordados por los Presidentes o los Primeros Ministros de todos los países de la UE, y son ratificados por:",
+      "options": [
+        "el parlamento europeo",
+        "los gobiernos de cada país miembro",
+        "los primeros ministros de cada país miembro",
+        "por los parlamentos de cada país miembro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-29",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Ejercer el control de la financiación de las actividades de la Unión Europea es competencia de:",
+      "options": [
+        "tribunal de cuentas de la ue",
+        "tribunal de justicia europeo",
+        "comisión de asuntos económicos del parlamento europeo",
+        "comisión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-30",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano auxiliar del parlamento que presta apoyo a la institución y a sus miembros es...",
+      "options": [
+        "presidente de la comisión",
+        "presidente de la u.e.",
+        "secretaría general del parlamento europeo",
+        "comité de las regiones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-31",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los miembros de la Comisión Europea ejercen sus funciones:",
+      "options": [
+        "con absoluta independencia y en interés general de la unión",
+        "de acuerdo con los principios generales que marque el consejo",
+        "según las instrucciones que reciban de sus respectivos gobiernos",
+        "en representación de los intereses de los ciudadanos de sus estados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-32",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿Quién tendrá derecho a presentar una petición al Parlamento Europeo sobre un asunto propio de los ámbitos de actuación de la Unión que le afecte directamente?",
+      "options": [
+        "toda persona jurídica que tenga su domicilio fiscal en europa.",
+        "cualquier ciudadano de un país de europa.",
+        "cualquier persona física que resida en la unión.",
+        "cualquier persona jurídica que tenga su domicilio fiscal en la unión europea."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-33",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿Qué nombre recibe en la actualidad el órgano de cooperación entre el Estado y las comunidades autónomas que permite articular la participación de estas en las materias que ostentan competencias en la ejecución del derecho de la Unión Europea y de las políticas comunitarias?",
+      "options": [
+        "consejería para asuntos autonómicos de la representación permanente de españa ante la unión europea.",
+        "conferencia de asuntos relacionados con la unión europea.",
+        "asamblea para las relaciones entre las comunidades autónomas y la unión europea.",
+        "conferencia sectorial del servicio exterior del estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-34",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Con relación al Tribunal de Justicia de la Unión Europea, señale cada cuántos años tendrá lugar una renovación parcial del Tribunal General y si los miembros salientes podrán ser nuevamente designados:",
+      "options": [
+        "cada seis años y sí podrán ser nuevamente designados",
+        "cada seis años y no podrán ser nuevamente designados",
+        "cada tres años y no podrán ser nuevamente designados",
+        "cada tres años y sí podrán ser nuevamente designados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-35",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "De acuerdo con el art. 229 del Tratado de funcionamiento de la Unión Europea, el Parlamento Europeo podrá reunirse en período parcial de sesiones extraordinario a petición:",
+      "options": [
+        "de la mayoría de los diputados, del consejo o de la comisión.",
+        "de un tercera parte de los diputados o de la comisión.",
+        "de un tercera parte de los diputados, del consejo o de la comisión.",
+        "de la mayoría de los diputados, del consejo, del consejo europeo o de la comisión."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-36",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En el ejercicio de su mandato, ¿en quién se apoyará el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad para trabajar en colaboración con los servicios diplomáticos de los Estados miembros?",
+      "options": [
+        "en la consejo de la unión europea.",
+        "en el consejo de asuntos exteriores.",
+        "en la asamblea de política exterior y de seguridad común.",
+        "en un servicio europeo de acción exterior."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-37",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿Qué órgano de la Unión Europea será el encargado del control de la ejecución del presupuesto del Parlamento Europeo y del Consejo?",
+      "options": [
+        "el banco central europeo.",
+        "el banco europeo de inversiones y fiscalización.",
+        "la comisión fiscalizadora de cada institución.",
+        "el tribunal de cuentas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-38",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "De acuerdo con el artículo 15 del Tratado de la Unión Europea, ¿quién asumirá la representación exterior de la Unión Europea en asuntos de política exterior y seguridad común?",
+      "options": [
+        "el presidente de la comisión.",
+        "el consejo europeo en su conjunto.",
+        "el presidente del consejo europeo.",
+        "alto representante de la unión para asuntos exteriores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-39",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "La representación de los ciudadanos en el Parlamento Europeo será decrecientemente proporcional, con un mínimo de:",
+      "options": [
+        "diez diputados por estado miembro.",
+        "doce diputados por estado miembro.",
+        "seis diputados por estado miembro.",
+        "cuatro diputados por estado miembro."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-40",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Si lo estimaren necesario, el Parlamento Europeo, el Consejo o la Comisión podrán fijar al Comité de Regiones un plazo para la presentación de su dictamen que no podrá ser:",
+      "options": [
+        "inferior a un mes a partir de la fecha de la notificación que, a tal fin, se curse al presidente.",
+        "superior a un mes a partir de la fecha de la notificación que, a tal fin, se curse al presidente.",
+        "superior a dos meses a partir de la fecha de la notificación que, a tal fin, se curse al presidente.",
+        "inferior a dos meses a partir de la fecha de la notificación que, a tal fin, se curse al presidente."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-41",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El Tribunal General de la Unión Europea actuará en Salas compuestas por:",
+      "options": [
+        "dos o seis jueces.",
+        "cinco u ocho jueces.",
+        "tres o cinco jueces.",
+        "cuatro y siete jueces."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-42",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El Tribunal de Justicia de la Unión Europea será competente para:",
+      "options": [
+        "comprobar la validez o proporcionalidad de las operaciones de la policía respecto de las disposiciones relativas al espacio de libertad, seguridad y justicia del Tratado de la Unión Europea.",
+        "juzgar en virtud de una cláusula compromisoria contenida en un contrato de derecho público o de Derecho privado celebrado por la Unión o por su cuenta.",
+        "controlar la legalidad de las recomendaciones o dictámenes del banco central europeo.",
+        "pronunciarse sobre disposiciones relativas a la política exterior y de seguridad común de la unión."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-43",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El Euro grupo cuenta con un presidente elegido por el período de:",
+      "options": [
+        "tres años y medio",
+        "dos años.",
+        "tres años.",
+        "dos años y medio."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-44",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Los miembros del Tribunal de Cuentas de la Unión Europea serán nombrados para un período de:",
+      "options": [
+        "seis años.",
+        "cuatro años.",
+        "tres años.",
+        "cinco años."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-45",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿Quién adoptará la lista de miembros y suplentes del Comité de Regiones?",
+      "options": [
+        "el parlamento.",
+        "el consejo.",
+        "el consejo europeo.",
+        "la comisión."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-46",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿A quién le corresponde el nombramiento de la Comisión?",
+      "options": [
+        "al parlamento europeo por mayoría de miembros que lo componen.",
+        "al consejo europeo por mayoría cualificada.",
+        "al consejo por mayoría cualificada.",
+        "al parlamento europeo por mayoría cualificada."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-47",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "En relación con la legislación de la Unión Europea, son instrumentos jurídicos vinculantes:",
+      "options": [
+        "directiva, dictamen y decisión.",
+        "reglamento, recomendación y dictamen.",
+        "reglamento, directiva y decisión.",
+        "directiva, reglamento y recomendación."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-48",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "¿Cuántos abogados generales hay en el Tribunal de Justicia europeo?",
+      "options": [
+        "uno por cada estado miembro.",
+        "once",
+        "ocho",
+        "nueve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-49",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "El órgano de la Unión Europea que tiene como función el impulso de la propia Unión, la definición de sus orientaciones y prioridades políticas generales, es el siguiente:",
+      "options": [
+        "el parlamento europeo.",
+        "el consejo.",
+        "la comisión europea.",
+        "el consejo europeo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t4-50",
+      "superblock": "Repaso General CE",
+      "subblock": "Repaso CE - Test 1",
+      "question": "Señale cuándo se celebraron las primeras elecciones al Parlamento Europeo por sufragio universal directo:",
+      "options": [
+        "1974.",
+        "1981.",
+        "1977.",
+        "1979. TEST TEMA 4. REPASO. SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

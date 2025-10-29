@@ -33,13 +33,45 @@ export const getBookmarkedQuestions = (questions, bookmarks) => {
 };
 
 /**
- * Get questions by block name
+ * Get questions by block name (supports both old block and new superblock/subblock structure)
  * @param {Array} questions - All questions
- * @param {string} blockName - Block name to filter by
+ * @param {string} blockName - Block name to filter by (can be superblock or subblock)
  * @returns {Array} Questions in the block
  */
 export const getQuestionsByBlock = (questions, blockName) => {
-  return questions.filter(q => q.block === blockName);
+  return questions.filter(q => {
+    // Backward compatibility: check old block field
+    if (q.block === blockName) return true;
+
+    // New structure: check superblock or subblock
+    if (q.superblock === blockName) return true;
+    if (q.subblock === blockName) return true;
+
+    return false;
+  });
+};
+
+/**
+ * Get questions by superblock
+ * @param {Array} questions - All questions
+ * @param {string} superblockName - Superblock name to filter by
+ * @returns {Array} Questions in the superblock
+ */
+export const getQuestionsBySuperblock = (questions, superblockName) => {
+  return questions.filter(q => {
+    const superblock = q.superblock || q.block;
+    return superblock === superblockName;
+  });
+};
+
+/**
+ * Get questions by subblock
+ * @param {Array} questions - All questions
+ * @param {string} subblockName - Subblock name to filter by
+ * @returns {Array} Questions in the subblock
+ */
+export const getQuestionsBySubblock = (questions, subblockName) => {
+  return questions.filter(q => q.subblock === subblockName);
 };
 
 /**
@@ -106,5 +138,7 @@ export default {
   getIncorrectQuestions,
   getBookmarkedQuestions,
   getQuestionsByBlock,
+  getQuestionsBySuperblock,
+  getQuestionsBySubblock,
   getWeightedRandomQuestion,
 };

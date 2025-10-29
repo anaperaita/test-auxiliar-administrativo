@@ -97,7 +97,12 @@ export default function QuizScreen() {
         {/* Header */}
         <div className="header">
           <div className="block-tag">
-            <span className="block-text">{currentQuestion.block}</span>
+            <span className="block-text">
+              {currentQuestion.superblock || currentQuestion.block}
+              {currentQuestion.subblock && (
+                <> &gt; {currentQuestion.subblock}</>
+              )}
+            </span>
           </div>
           <button onClick={handleBookmark} className="bookmark-button">
             <span className="bookmark-icon">{isBookmarked ? '⭐' : '☆'}</span>

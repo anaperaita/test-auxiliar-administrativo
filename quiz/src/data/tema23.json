@@ -1,0 +1,3017 @@
+{
+  "module": "Tema 23",
+  "title": "Tema 23",
+  "totalQuestions": 215,
+  "questions": [
+    {
+      "id": "t23-1",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Cuál es una novedad destacada del Windows 10?",
+      "options": [
+        "microsoft edge.",
+        "escritorios virtuales.",
+        "las respuestas a) y b) son correctas.",
+        "interfaz modern ui."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-2",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Al fondo de escritorio se le conoce también como:",
+      "options": [
+        "fondo de pantalla.",
+        "wallpaper.",
+        "protector de pantalla.",
+        "las respuestas a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-3",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Qué combinación de teclas consigue cerrar la sesión en Windows 10?",
+      "options": [
+        "crtl+alt+u.",
+        "crtl+f8.",
+        "crtl+alt+supr.",
+        "may+f8."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-4",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Dónde se sitúa de forma predeterminada el área de notificación en Windows 10?",
+      "options": [
+        "el menú inicio.",
+        "la superficie del escritorio.",
+        "la barra de tareas.",
+        "todas las ventanas de windows 10."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-5",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Dónde se restablecen por defecto los archivos de la papelera de reciclaje de Windows 10?",
+      "options": [
+        "en la biblioteca \"documentos\".",
+        "en el maletín.",
+        "en la carpeta personal de nuestro usuario.",
+        "en la carpeta donde fueron eliminados."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-6",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Señale qué combinación de teclas podemos acceder al explorador de Windows:",
+      "options": [
+        "tecla del logotipo de windows + e.",
+        "tecla del logotipo de windows + c.",
+        "tecla del logotipo de windows + f.",
+        "tecla del logotipo de windows + a."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-7",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Los recortes se pueden guardar como archivos:",
+      "options": [
+        "png.",
+        "html.",
+        "gif.",
+        "todos ellos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-8",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "La Vista por defecto de la opción Lupa dentro del menú de configuración en accesibilidad es:",
+      "options": [
+        "pantalla completa.",
+        "lente.",
+        "acoplado.",
+        "ampliación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-9",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para seleccionar elementos consecutivos mediante teclado:",
+      "options": [
+        "haremos clic sobre el primer elemento y después en el último elemento manteniendo pulsada la tecla Mayús.",
+        "haremos clic sobre el primer elemento y después en el último elemento manteniendo pulsada la tecla Ctrl.",
+        "haremos clic sobre todos los elementos manteniendo pulsada la barra espaciadora.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-10",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para guardar nombres de usuarios y contraseñas en almacenes para poder iniciar sesión fácilmente en equipos o sitios web usaremos:",
+      "options": [
+        "administrador de tareas.",
+        "administrador de credenciales.",
+        "registro del sistema.",
+        "registro de archivos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-11",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "La opción que nos permite cambiar las propiedades de cualquier dispositivo es:",
+      "options": [
+        "administrador de dispositivos.",
+        "centro de actividades.",
+        "administrador de tareas.",
+        "explorador de windows."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-12",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Cuál de las siguientes afirmaciones referidas a un acceso directo de Windows es verdadera?",
+      "options": [
+        "es posible crear accesos directos a ficheros, que se abren utilizando el programa asociado a su extensión, pero no es posible crear accesos directos a carpetas.",
+        "es posible crear accesos directos a carpetas y ficheros, pero, en el caso de los ficheros, no se ejecuta la aplicación asociada a su extensión, sino que se abren en el Explorador de archivos.",
+        "es posible crear accesos directos a carpetas y ficheros. si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión.",
+        "es posible crear accesos directos a carpetas en local y en onedrive, pero no a ficheros de ningún tipo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-13",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿A qué nos referimos si utilizamos las siglas OCR?",
+      "options": [
+        "a una tecnología utilizada en los escáneres para reconocer los caracteres de una imagen.",
+        "a una tecnología utilizada en las impresoras para mejor impresión de los caracteres.",
+        "a una tecnología utilizada en las pantallas para mejor visualización de los caracteres.",
+        "a una tecnología utilizada en los dispositivos láser para grabar sobre soportes ópticos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-14",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Cuál es la forma correcta de cambiar el programa asociado por defecto a un tipo de fichero?",
+      "options": [
+        "a través del panel de control... programas.",
+        "desinstalando e instalando el programa.",
+        "a través del grupo herramientas del explorador de windows.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-15",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Estamos utilizando dos pantallas conectadas a un ordenador con Windows 10. En la configuración de Pantalla, en la opción \"Varias pantallas\" seleccionamos \"Duplicar estas pantallas\". ¿Qué opción describe lo que podemos ver?",
+      "options": [
+        "vemos objetos diferentes en cada pantalla y podemos mover elementos entre las dos pantallas.",
+        "vemos lo mismo en las dos pantallas.",
+        "vemos todo el contenido en la primera pantalla. la segunda pantalla se queda en negro.",
+        "se crea una copia duplicada en el disco duro de los archivos que movemos a la segunda pantalla."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-16",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para ver las especificaciones de Windows 10 y del equipo, ¿cuál de las siguientes es la secuencia correcta?",
+      "options": [
+        "configuración > cuentas > tu información",
+        "configuración > dispositivos > bluetooth y otros dispositivos",
+        "configuración > personalización > estado",
+        "configuración > sistema > acerca de"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-17",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "En la ventana Configuración de Windows 10, ¿en qué apartado puedo configurar las 'Opciones de inicio de sesión'?",
+      "options": [
+        "aplicaciones.",
+        "red e internet.",
+        "cuentas.",
+        "sistema."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-18",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Señale la respuesta INCORRECTA si queremos visualizar la versión de Windows que estamos utilizando:",
+      "options": [
+        "en el explorador de archivos, clic derecho en este equipo, y en el menú contextual, clic en propiedades.",
+        "clic en el menú inicio > configuración > sistema > acerca de.",
+        "abrir el centro de actividades y hacer clic en administrar notificaciones.",
+        "en la barra de búsqueda del menú inicio escribir \"winver\" (sin comillas) y presionar la tecla intro."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-19",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Si queremos editar un archivo con extensión RTF podemos utilizar:",
+      "options": [
+        "paint.",
+        "wordpad.",
+        "reproductor de windows media.",
+        "windows power shell."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-20",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Podemos acceder al Explorador de Windows 10 a través de:",
+      "options": [
+        "la barra de tareas.",
+        "botón inicio accesorios windows...explora-dor de windows.",
+        "la combinación de teclas win +e.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-21",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Un directorio en Windows 10 puede contener:",
+      "options": [
+        "unidades.",
+        "ficheros.",
+        "otros directorios.",
+        "las respuestas b y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-22",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "El sistema jerárquico del explorador de archivos en Windows 10 está formado por:",
+      "options": [
+        "unidades de almacenamiento y redes.",
+        "redes, archivos y carpetas.",
+        "archivos, carpetas y unidades de almacenamiento.",
+        "archivos, aplicaciones y directorios."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-23",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para acceder a los archivos y carpetas almacenados en un ordenador utilizamos la herramienta:",
+      "options": [
+        "explorador de windows.",
+        "favoritos.",
+        "historial de exploración.",
+        "buscador."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-24",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "En el Explorador de Windows, la combinación de teclas Ctrl+N:",
+      "options": [
+        "crea una nueva carpeta en la ubicación actual.",
+        "abre una nueva ventana del explorador con un contenido idéntico al de la ventana anterior.",
+        "abre una nueva ventana del explorador con el contenido expandido del elemento que teníamos seleccionado.",
+        "abriremos la ventana de propiedades."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-25",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "No se puede abrir una dirección Web:",
+      "options": [
+        "desde la búsqueda del botón inicio.",
+        "desde la barra de dirección del explorador.",
+        "desde la búsqueda del explorador.",
+        "desde las tres opciones anteriores."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-26",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Qué significa un triángulo a la izquierda del nombre de una carpeta en el Explorador de Windows?",
+      "options": [
+        "que esa carpeta no contiene subcarpetas.",
+        "que esa carpeta contiene otras subcarpetas.",
+        "que esa carpeta no contiene carpetas, pero sí archivos.",
+        "que esa carpeta no contiene otros archivos ni carpetas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-27",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para renombrar archivos o carpetas ¿qué opción utilizaremos?",
+      "options": [
+        "seleccionar el archivo o carpeta y pulsar f2.",
+        "seleccionar el archivo, pulsar organizar,,,, cambiar nombre.",
+        "desplegar menú contextual del elemento, hacer clic con el botón derecho y elegir cambiar nombre.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-28",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "¿Qué opción despliega la barra de direcciones de la parte superior de la ventana?",
+      "options": [
+        "f3.",
+        "f4.",
+        "ctrl +f.",
+        "ctrl + b."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-29",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "El signo asterisco * en el Explorador de Windows:",
+      "options": [
+        "me despliega un nivel.",
+        "me despliega un nivel en la estructura de carpetas.",
+        "me despliega todas las carpetas y subcarpetas.",
+        "sube un nivel en la estructura de carpetas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-30",
+      "superblock": "Tema 23",
+      "subblock": "TEST 7 – Windows 10 y Explorador de archivos",
+      "question": "Para realizar una selección múltiple y discontinua en el Explorador de Windows:",
+      "options": [
+        "deberemos seleccionarlos con el ratón uno a uno a la vez que mantenemos pulsada la tecla ctrl.",
+        "deberemos seleccionarlos con el ratón uno a uno a la vez que mantenemos pulsada la tecla mayús.",
+        "deberemos seleccionarlos con el ratón uno a uno a la vez que mantenemos pulsada la tecla alt.",
+        "deberemos seleccionarlos con el ratón uno a uno a la vez que mantenemos pulsada la barra espaciadora. TEST 7 – Windows 10 y Explorador de archivos SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-31",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "EL Explorador de Windows sirve para:",
+      "options": [
+        "mover carpetas.",
+        "copiar archivos.",
+        "acceder a programas.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-32",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "En caso de elegir en el Explorador de Windows la Vista de iconos medianos:",
+      "options": [
+        "veremos el espacio que ocupa en la memoria del disco duro.",
+        "veremos el nombre y el tipo de archivo.",
+        "vemos los iconos acompañados de algunas de sus propiedades.",
+        "solo veremos el icono del programa que lo ejecuta y la carpeta o la miniatura de la imagen junto a su nombre."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-33",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Para duplicar el elemento que tengamos seleccionado en ese momento en el Explorador de Windows a la misma unidad en la que se encuentra:",
+      "options": [
+        "ctrl+ mover ratón.",
+        "mayús+ mover ratón.",
+        "alt+ mover ratón.",
+        "ctrl+ mayús+ mover ratón."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-34",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "De las siguientes propiedades de los elementos del Explorador de Windows ¿cuál no está disponible para carpetas?",
+      "options": [
+        "último acceso.",
+        "modificado.",
+        "creado.",
+        "ni la a ni la b."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-35",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "La extensión de los archivos controladores es:",
+      "options": [
+        "pdf.",
+        "dll.",
+        "xml",
+        "html"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-36",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Si borramos una carpeta del Explorador de Windows:",
+      "options": [
+        "también se borrarán todos los archivos y subcarpetas que contenga.",
+        "no se borrarán las subcarpetas que contengan.",
+        "no se borrarán los archivos que contenga.",
+        "no es posible eliminar una carpeta del explorador de windows."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-37",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Si queremos ver las extensiones de los archivos en las ventanas del explorador:",
+      "options": [
+        "panel de control....apariencia y personalización.",
+        "panel de control temas.",
+        "vista ...opciones de carpeta...ver... desactivar la casilla ocultar las extensiones de archivo.",
+        "organizar... personalización de pantalla."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-38",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Si tenemos un archivo seleccionado en el Explorador de Windows y pulsamos las teclas Ctrl+E ¿Qué sucederá?",
+      "options": [
+        "se actualizará el contenido del archivo.",
+        "se eliminará el archivo sin pasar por la papelera de reciclaje.",
+        "se abrirá el menú contextual de dicho archivo.",
+        "se seleccionan todos los elementos de la carpeta."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-39",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Por defecto ¿cuáles son los detalles que se muestran para los elementos de las carpetas en el Explorador de Windows?",
+      "options": [
+        "nombre, descripción, fecha de acceso y tipo de elemento.",
+        "nombre, descripción, fecha de creación y tipo de elemento.",
+        "nombre, tamaño, tipo de elemento, fecha de modificación.",
+        "nombre, tamaño, fecha de acceso y fecha de modificación."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-40",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "En el Panel de navegación del Explorador de archivos de Windows 10, ¿cuál es el comportamiento de la opción Expandir del menú contextual de las carpetas?",
+      "options": [
+        "extiende las particiones de disco.",
+        "despliega el árbol de carpetas que está dentro de la carpeta seleccionada.",
+        "abre la ventana administración de discos.",
+        "abre una nueva ventana del explorador de archivos con la carpeta seleccionada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-41",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Para crear una carpeta nueva de forma rápida utilizaremos la combinación de teclas:",
+      "options": [
+        "mayús+n",
+        "alt+ctrl+n",
+        "ctrl+ shift+n.",
+        "ctrl+n."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-42",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "La combinación de teclas Alt+P en el Explorador de Windows:",
+      "options": [
+        "cierra la selección actual.",
+        "crea una nueva carpeta.",
+        "muestra la parte superior de la ventana activa.",
+        "muestra el panel de vista previa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-43",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "¿Qué tipos de elementos, entre otros, se muestran al seleccionar \"Este equipo\" en el Explorador de Windows?",
+      "options": [
+        "carpetas, dispositivos y unidades y ubicaciones de red.",
+        "memoria, cpu y almacenamiento en disco.",
+        "programas de ofimática, programas de sistema y configuración.",
+        "usuarios y administradores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-44",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Al abrir la Papelera de reciclaje de Windows, ¿cuál de las siguientes opciones es INCORRECTA?",
+      "options": [
+        "es posible restaurar todos los elementos que están en la papelera de reciclaje.",
+        "es posible vaciar la papelera de reciclaje de todos los elementos.",
+        "es posible compartir un elemento que está en la papelera de reciclaje haciendo clic con el botón secundario del ratón y Compartir.",
+        "es posible restaurar algunos elementos seleccionados que están en la papelera de reciclaje."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-45",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "El comando EXPLORER:",
+      "options": [
+        "abrirá los contactos de windows.",
+        "abrirá el navegador internet explorer de windows.",
+        "abrirá el explorador de archivos de windows.",
+        "abrirá el bloc de notas de windows"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-46",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Si copiamos un elemento del Explorador de Windows y la carpeta de destino es la misma que la de origen:",
+      "options": [
+        "no se podrá hacer la copia.",
+        "antes de hacerse la copia nos pedirán un nuevo nombre para la misma.",
+        "nos preguntarán si deseamos reemplazar el original por la copia.",
+        "el elemento se renombrará como nombre original-copia."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-47",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "El comando que abre la ventana de la configuración del arranque de Windows 10 es:",
+      "options": [
+        "msconfig.",
+        "cmd.",
+        "regedit.",
+        "ipconfig"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-48",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "¿Dónde podemos encontrar las descargas realizadas?",
+      "options": [
+        "en el escritorio.",
+        "en el explorador de windows, debajo de acceso rápido.",
+        "en el explorador de windows, en bibliotecas.",
+        "en equipo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-49",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "La herramienta que genera un documento exportable donde quedan registradas las acciones llevadas a cabo por el usuario se denomina...",
+      "options": [
+        "step commands.",
+        "grabación de acciones de usuario.",
+        "screen recorder.",
+        "grabación de pantalla."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-50",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "¿A qué menú del Explorador de Windows corresponden las opciones de Cortar, Copiar y Pegar?",
+      "options": [
+        "archivo.",
+        "edición.",
+        "ver.",
+        "herramientas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-51",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Podemos usar nuestro equipo para conectarnos a otros en cualquier parte para ejecutar programas o tener acceso a archivos mediante la opción:",
+      "options": [
+        "centro de sincronización.",
+        "telnet.",
+        "conectarse a un proyector.",
+        "conexión a escritorio remoto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-52",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "La herramienta de Windows 10 que permite organizar los archivos y carpetas donde se guarda la información que se maneja en el ordenador es:",
+      "options": [
+        "equipo.",
+        "mis documentos.",
+        "explorador de windows.",
+        "los iconos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-53",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Para desplegar un nivel el elemento que tengamos seleccionado en el panel derecho:",
+      "options": [
+        "+",
+        "flecha derecha.",
+        "*",
+        "las respuestas a y b son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-54",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "Para cambiar la configuración del sistema iríamos a:",
+      "options": [
+        "configuración de windows.",
+        "explorador de windows.",
+        "administrador de tareas.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-55",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "De los siguientes caracteres ¿cuáles se pueden incluir en el nombre de un archivo en Windows?",
+      "options": [
+        "<",
+        "?",
+        "*",
+        "="
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-56",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "La barra de navegación o barra de direcciones (según versión Windows) del Explorador de archivos Windows nos indica:",
+      "options": [
+        "las páginas de internet que hemos visitado recientemente con el navegador por defecto del equipo.",
+        "la lista de comandos relacionados con el archivo o archivos seleccionados.",
+        "la información acerca de tamaño del archivo o archivos seleccionados",
+        "el punto o el nombre de carpeta perteneciente a la estructura jerárquica del sistema de archivos en que nos encontremos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-57",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "No forma parte del Explorador de Windows:",
+      "options": [
+        "panel de detalles.",
+        "panel de navegación.",
+        "lista de archivos.",
+        "menú formato."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-58",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "En Windows 10, para acceder a una red inalámbrica hay que seguir los siguientes pasos:",
+      "options": [
+        "barra de tareas > red > conectar.",
+        "barra de tareas > seguridad de windows > conexión de red.",
+        "inicio > configuración > accesibilidad.",
+        "inicio > configuración > sistema."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-59",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "¿Qué función representa en Windows un fichero con extensión .exe?",
+      "options": [
+        "es un tipo de archivo de información editable con notepad.",
+        "es un tipo de archivo ejecutable o instalador.",
+        "es un tipo de archivo de configuración de windows.",
+        "es un tipo de archivo de registro de windows."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-60",
+      "superblock": "Tema 23",
+      "subblock": "TEST 8 – Windows 10 y Explorador de archivos",
+      "question": "En el Explorador de archivos de Windows 10, queremos visualizar en una sola pantalla las carpetas de primer nivel y los dispositivos y unidades. ¿Cuál de las siguientes opciones hemos de seleccionar?",
+      "options": [
+        "documentos.",
+        "este equipo.",
+        "acceso rápido.",
+        "escritorio. TEST 8 – Windows 10 y Explorador de archivos SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-61",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Que es el firmware :",
+      "options": [
+        "es un tipo de software que viene grabado por el fabricante y que proporciona instrucciones de máquina a los componentes de hardware de un dispositivo,",
+        "la parte inmaterial constituida por los programas de ordenador.",
+        "la parte material o tangible del sistema informático.",
+        "la bios, sistema básico de entrada y salida."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-62",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Señale la afirmación correcta sobre un bit:",
+      "options": [
+        "es el equivalente a 8 bytes",
+        "es el equivalente a 1024kb",
+        "es el equivalente a 1024mb",
+        "es un cero o un uno en binario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-63",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "El teclado y el ratón se conectan a la CPU mediante:",
+      "options": [
+        "bluetooth.",
+        "puertos usb.",
+        "conectores ps/2.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-64",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "De los siguientes periféricos ¿cuál no es de entrada?",
+      "options": [
+        "webcam.",
+        "datapen.",
+        "lectora de cinta perforada.",
+        "perforadora de tarjetas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-65",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "El software dirigido al ordenador para controlar su funcionamiento y conseguir que las aplicaciones del usuario que funcionen de forma eficiente se conoce como:",
+      "options": [
+        "lenguaje de programación.",
+        "software de sistema o software de base",
+        "software de aplicación.",
+        "software de programación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-66",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "El Sistema Operativo MS-DOS posee una interfaz basada en:",
+      "options": [
+        "gráficos.",
+        "vectores.",
+        "caracteres.",
+        "comandos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-67",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "El primer sistema operativo en la historia de la informática fue:",
+      "options": [
+        "msdos.",
+        "unix.",
+        "android.",
+        "windows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-68",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Cuando accedemos a internet, ¿cómo podemos evitar que accedan a nuestro ordenador o nos infectemos por un virus informático?",
+      "options": [
+        "con un antivirus es imposible infectarse.",
+        "con un cortafuegos es imposible infectarse.",
+        "con un antivirus y un cortafuegos, es imposible un ataque o una infección por virus.",
+        "con un antivirus y un cortafuegos es menos probable que nos infectemos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-69",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál de las siguientes opciones se refiere a un componente fundamental de un PC?",
+      "options": [
+        "firewall.",
+        "tarjeta gráfica.",
+        "ids.",
+        "teclado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-70",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Señale la función del comando CMD si lo ejecutamos en Inicio – Buscar:",
+      "options": [
+        "accedemos a la consola símbolo del sistema",
+        "nos muestra todos los programas",
+        "accedemos al registro de windows",
+        "apaga el ordenador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-71",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál de los siguientes programas no es un sistema operativo?",
+      "options": [
+        "windows",
+        "unix",
+        "apache",
+        "linux"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-72",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Tiene usted que acceder a la sede electrónica de un organismo, acreditando su identidad. ¿Cuál de estos elementos, accesible desde el navegador, tiene como propósito verificar la identidad del usuario?",
+      "options": [
+        "firma manuscrita",
+        "certificado digital.",
+        "marcador.",
+        "historial."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-73",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "En la Administración electrónica, las siglas CA identifican a:",
+      "options": [
+        "un certificado de autoridad",
+        "un certificado de autenticación",
+        "una autoridad de certificación",
+        "una certificación automática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-74",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál de las siguientes opciones se corresponde con un conjunto de técnicas para ejecutar un ataque informático basado en ingeniería social, donde los atacantes se hacen pasar por otras personas o entidades de confianza a través de mensajes de texto o SMS, con el fin de engañarnos para que realicemos un pago, nos descarguemos un archivo infectado o hagamos clic en un enlace malicioso?:",
+      "options": [
+        "bulk phishing..",
+        "smishing.",
+        "vishing.",
+        "cybercrook."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-75",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cómo se denominan los elementos de hardware que ayudan a liberar de calor los procesadores?",
+      "options": [
+        "los enfriadores",
+        "los disipadores",
+        "los buses",
+        "los enfrioles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-76",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál de los siguientes términos se refiere a una amenaza informática?",
+      "options": [
+        "conmutador",
+        "olap",
+        "gusano",
+        "monitorización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-77",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Las copias de seguridad o backups:",
+      "options": [
+        "deben hacerse en un lugar inaccesible para todos los usuarios salvo el administrador.",
+        "deben hacerse en un lugar accesible para todos los usuarios.",
+        "no es recomendable hacerlas por la pérdida de tiempo que suponen.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-78",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "El conjunto de cables que nos permiten transferir información de un lugar a otro en un equipo informático son:",
+      "options": [
+        "bahías.",
+        "buses.",
+        "chipset.",
+        "slots."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-79",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué se entiende por malware?",
+      "options": [
+        "el término general que se da a cualquier tipo de código malicioso que es dañino para los sistemas",
+        "el concepto para denominar a cualquier tipo de virus informático",
+        "el concepto que da nombre a cualquier tipo de adware",
+        "la expresión que se usa para dar nombre a cualquier tipo de spyware"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-80",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué herramienta emplea un ciberdelincuente cuando utiliza un tipo de malware diseñado para cifrar archivos y sitios web para exigir un rescate económico a la víctima a cambio de liberar la información?",
+      "options": [
+        "ransomware",
+        "malware",
+        "phishing",
+        "adware"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-81",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "Debo insertar una nueva clave para mi red wifi. He pensado en poner el nombre de la ciudad de mi abuela, que es diferente a mi localidad y las dos últimas cifras del año de mi cumpleaños para obtener una nueva clave, de forma que será “Segovia71”. ¿Es una contraseña segura?",
+      "options": [
+        "sí, pues usa diferentes tipos de caracteres como mayúsculas, minúsculas y números.",
+        "no, ya que contiene información que puede ser encontrada con la técnica del ataque de",
+        "no, ya que no es lo suficientemente larga para ser segura.",
+        "ninguna respuesta es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-82",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cómo se denominan los agujeros de seguridad que son aprovechados por ciberatacantes para acceder de manera ilícita a los sistemas de información?",
+      "options": [
+        "vulnerabilidades",
+        "amenazas",
+        "riesgos",
+        "impactos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-83",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué es una amenaza?",
+      "options": [
+        "cualquier acción que explota una vulnerabilidad informática para comprometer un sistema de información",
+        "la condición requerida para que un daño pueda materializarse",
+        "el impacto provocado por un incidente de seguridad",
+        "la probabilidad de que ocurra una vulnerabilidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-84",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuáles son los principios de la seguridad de la información?",
+      "options": [
+        "integridad, confidencialidad y probabilidad",
+        "disponibilidad, integridad y confidencialidad",
+        "integridad, privacidad y disponibilidad",
+        "autoridad, disponibilidad e integridad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-85",
+      "superblock": "Tema 23",
+      "subblock": "TEST4 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál es el objetivo principal de un gusano informático?:",
+      "options": [
+        "impedir el acceso a los archivos de nuestro sistema",
+        "proporcionar acceso a las contraseñas guardadas en nuestro equipo.",
+        "reproducirse y propagarse a través de las conexiones de una red",
+        "impedir el arranque de nuestro equipo TEST4 I (2024) Tema 23 Informática Básica SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-86",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La interfaz gráfica en Windows se conoce con el nombre de:",
+      "options": [
+        "escritorio",
+        "inicio",
+        "usuario",
+        "menú"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-87",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Dado que un mismo ordenador puede ser utilizado por distintas personas, Windows permite mantener perfiles diferentes de cada uno de sus usuarios para que las acciones y preferencias de uno no interfieran en las de otro. Esta capacidad se denomina:",
+      "options": [
+        "multiusuario",
+        "multitarea",
+        "ejecución paralela",
+        "acceso múltiple"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-88",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Indique cuál de las siguientes no es una versión de Windows:",
+      "options": [
+        "windows 95",
+        "windows-nt",
+        "windows-xp",
+        "windows suite"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-89",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Todas las funciones de Windows parten del botón frontal, llamado:",
+      "options": [
+        "icono, el cual se encuentra en la barra de tareas",
+        "inicio, el cual se encuentra en la barra de tareas",
+        "ventana, el cual se encuentra en la barra de tareas",
+        "apagar, el cual se encuentra en la barra de tareas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-90",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Los accesos directos:",
+      "options": [
+        "sirven para identificar de qué tipo de archivos se trata",
+        "si los borramos, borraremos el archivo vinculado.",
+        "solo se pueden crear en el escritorio",
+        "son un tipo de archivo cuyo objetivo es abrir de forma inmediata el archivo al que está vinculado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-91",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué significado tienen los puntos suspensivos debajo de un icono del escritorio?",
+      "options": [
+        "que el nombre incluye signos o caracteres especiales",
+        "que se trata de un acceso directo",
+        "que el nombre es muy largo para aparecer en dos líneas.",
+        "que se trata de un documento de texto."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-92",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Cuál de las siguientes aplicaciones de Windows 10 está relacionada con el Almacenamiento?",
+      "options": [
+        "cortana.",
+        "onedrive.",
+        "edge.",
+        "google drive."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-93",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "El área de notificación en Windows 10 la encontramos en:",
+      "options": [
+        "el botón iniciar.",
+        "la barra de tareas.",
+        "la barra de título.",
+        "la barra de menú."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-94",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "El nombre que recibe el asistente de voz de Windows 10 es...",
+      "options": [
+        "siri.",
+        "windows now.",
+        "alexa.",
+        "cortana."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-95",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué nombre recibe el nuevo navegador que implementa Windows 10?:",
+      "options": [
+        "microsoft edge.",
+        "microsoft outlook.",
+        "internet explorer.",
+        "netscape navigator."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-96",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La finalidad de anclar archivos o programas es la de:",
+      "options": [
+        "que se ejecuten al iniciar el ordenador.",
+        "poder acceder a ellas de forma rápida tanto en el menú inicio como en la barra de tareas.",
+        "ocultar programas que no se usan habitualmente.",
+        "ocultar a la vista dichos archivos o programas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-97",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Quién nos informa de tareas relacionadas con la seguridad y el mantenimiento?",
+      "options": [
+        "centro de recursos compartidos.",
+        "centro de accesibilidad",
+        "centro de sincronización.",
+        "panel de notificaciones."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-98",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué es la Barra de Tareas?",
+      "options": [
+        "forma parte del escritorio y contiene el botón de “inicio “, los objetos anclados, un botón por cada ventana o programa que tengamos abierta y un área de notificación.",
+        "está siempre situada en la parte inferior de la pantalla e indica las tareas/incidencias que tenemos pendientes de realizar",
+        "es la barra superior que aparece en todos los programas de windows: word, excel, ... y que contiene las tareas que se pueden realizar en cada aplicación",
+        "es un acceso directo que no es visible al usuario."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-99",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La Barra de Tareas aparece:",
+      "options": [
+        "por defecto, en la parte superior de la pantalla y es inamovible",
+        "por defecto, en la parte inferior de la pantalla y es inamovible",
+        "por defecto, en la parte inferior de la pantalla, aunque se puede cambiar su ubicación",
+        "por defecto, en la parte superior de la pantalla, aunque se puede cambiar su ubicación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-100",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La barra de estado suele usarse para:",
+      "options": [
+        "ofrecer cierta información al usuario.",
+        "desplazarse por la pantalla.",
+        "las respuestas a) y b) son correctas.",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-101",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La opción \"Mi PC\" que había en versiones anteriores de Windows, en Windows 10 se denomina:",
+      "options": [
+        ". \"mi equipo ''.",
+        "“este equipo”",
+        "\"pc\".",
+        "no existe esa opción como tal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-102",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La opción suspender del Botón Inicio/Apagado:",
+      "options": [
+        "apaga todos los programas que estén abiertos en ese momento",
+        "apaga muchos de los componentes o periféricos, pero mantienen encendido lo imprescindible para no perder el trabajo que estábamos haciendo",
+        "muestra el inicio de sesión del usuario en curso, sin cerrar nada",
+        "vuelve a la pantalla donde se inicia windows y nos solicita que elijamos un usuario."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-103",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La característica de Windows 10 que permite el cambio automático de interfaz al conectar o desconectar ciertos dispositivos se denomina:",
+      "options": [
+        "cortana",
+        "edge",
+        "continuum",
+        "ninguna de las respuestas es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-104",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "El tener más de un escritorio en Windows 10...",
+      "options": [
+        "sólo es posible cuando se utiliza más de una pantalla",
+        "sólo es posible cuando se utiliza una sola pantalla.",
+        "es posible siempre, independientemente del número de pantallas del que dispongamos.",
+        "ninguna de las respuestas es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-105",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Los Menús emergentes que son capaces de mostrar los comandos más comunes dependiendo de la zona en la que se encuentren se conocen como:",
+      "options": [
+        "submenús.",
+        "menús emergentes.",
+        "menús contextuales.",
+        "menús secundarios."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-106",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "¿Qué nombre reciben los programas que se cargan automáticamente al encender el ordenador?",
+      "options": [
+        "programas principales.",
+        "programas de memoria.",
+        "programas residentes.",
+        "programas básicos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-107",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Al pulsar la combinación de teclas Windows+ Pause:",
+      "options": [
+        "se abre la ventana del administrador de tareas.",
+        "se abre la ventana sistema.",
+        "se abre la ventana protección del sistema.",
+        "se abre la ventana administrador de dispositivos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-108",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Para la organización de las ventanas iremos a:",
+      "options": [
+        "cualquier espacio libre del escritorio y botón derecho del ratón.",
+        "inicio» accesorios» organización de ventanas.",
+        "al menú contextual de la barra de tareas.",
+        "a inicio» equipo» apariencia y personalización."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-109",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Si seleccionamos un elemento del escritorio de Windows 10 y hacemos clic con el botón derecho o secundario y arrastramos ese elemento:",
+      "options": [
+        "se copiará en la ubicación seleccionada.",
+        "se moverá a la ubicación seleccionada.",
+        "se desplegará un cuadro que nos dará la opción de copiar, mover y crear un icono de acceso directo.",
+        "no ocurrirá nada ya que hemos de arrastrar con el botón izquierdo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-110",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "En Windows, para ver un resumen de todas las ventanas abiertas y cambiar de una ventana a otra se pulsan las teclas:",
+      "options": [
+        "alt + tabulador",
+        "alt + f7",
+        "ctrl + c",
+        "alt + intro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-111",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Para abrir el cuadro de diálogo Ejecutar, utilizamos la combinación de teclas:",
+      "options": [
+        "windows + r",
+        "windows +l",
+        "windows + t",
+        "windows + e"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-112",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "La opción de inicio Apagado de Windows tiene como opciones:",
+      "options": [
+        "apagar y reiniciar.",
+        "suspender.",
+        "apagar y reiniciar y bloqueo.",
+        "las respuestas a) y b) son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-113",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Si te encuentras con una opción atenuada en un menú de Windows indica:",
+      "options": [
+        "que no es posible usarla con el usuario activo.",
+        "que no es posible seleccionarla en estos momentos.",
+        "que no es posible seleccionarla salvo que se use su combinación de teclas.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-114",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "De los siguientes elementos, ¿cuál forma parte de una ventana de Windows?:",
+      "options": [
+        "botón maximizar",
+        "banda o cinta de opciones",
+        "barra de título",
+        "todas las anteriores contestaciones son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-115",
+      "superblock": "Tema 23",
+      "subblock": "TEST5 I (2024) Tema 23 Informática Básica",
+      "question": "Siguiendo el método abreviado de teclados generales en Windows, ¿cómo se puede cambiar el nombre del elemento seleccionado?:",
+      "options": [
+        "pulsando la tecla f3",
+        "pulsando la combinación de teclas ctrl + z",
+        "pulsando la tecla f2",
+        "pulsando la combinación de teclas ctrl + f4 TEST5 I (2024) Tema 23 Informática Básica SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-116",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Siguiendo el método abreviado de teclados generales en Windows, ¿cómo se puede cambiar el nombre del elemento seleccionado?:",
+      "options": [
+        "pulsando la tecla f3",
+        "pulsando la combinación de teclas ctrl + z",
+        "pulsando la tecla f2",
+        "pulsando la combinación de teclas ctrl + f4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-117",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "La ubicación central desde la cual podemos gestionar todos los aspectos del Sistema Operativo Windows 10 es:",
+      "options": [
+        "explorador de windows.",
+        "la ventana de configuración.",
+        "mi pc.",
+        "equipo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-118",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Las tres Vistas de la ventana del Panel de Control son:",
+      "options": [
+        "iconos grandes, iconos medianos e iconos pequeños.",
+        "detalles, mosaico e iconos.",
+        "categoría, detalles y mosaico.",
+        "categoría, iconos grandes e iconos pequeños."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-119",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "¿Qué Vista del Panel de Control está seleccionada por defecto en Windows 10?",
+      "options": [
+        "lista.",
+        "detalles",
+        "categoría",
+        "iconos grandes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-120",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Si tratamos de borrar un archivo cuyo tamaño supera la capacidad que hayamos especificado para la papelera",
+      "options": [
+        "el archivo se borrará permanentemente.",
+        "el archivo no se borrará apareciendo un aviso de windows para que aumentemos la capacidad de la Papelera.",
+        "windows borrará automáticamente tantos archivos de la papelera como cuanta capacidad sea necesaria.",
+        "aparecerá un aviso de windows indicando que es demasiado grande y nos preguntará si desea eliminarlo de forma permanente."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-121",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Al hacer doble clic en un documento situado en la Papelera de reciclaje:",
+      "options": [
+        "este se borrará definitivamente.",
+        "se restaurará a su ubicación original.",
+        "se ejecutará.",
+        "no se ejecutará, sino que se mostrarán las propiedades del mismo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-122",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "La combinación de teclas Ctrl+ Mayús+ Esc:",
+      "options": [
+        "abre el explorador de windows.",
+        "minimiza todas las ventanas y muestra el escritorio.",
+        "abre el administrador de tareas.",
+        "actualiza el contenido de la ventana activa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-123",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "La Barra de tareas:",
+      "options": [
+        "se puede bloquear, pero no ocultar.",
+        "debe estar siempre visible en cualquiera de los lados del escritorio.",
+        "se puede ocultar, pero al llevar el cursor a la parte inferior de la ventana ésta se hará visible.",
+        "se puede ocultar, pero no bloquear."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-124",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "El botón maximizar de la barra de título de una aplicación de Windows 10:",
+      "options": [
+        "amplia el tamaño de la ventana a toda el área de trabajo, sin dejar de mostrar la barra de tareas",
+        "amplia el tamaño de la ventana a toda el área de trabajo, ocultando la barra de tareas",
+        "convierte la ventana en un botón situado en la barra de tareas.",
+        "desempeña la misma función que la combinación de teclas alt+f4."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-125",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "¿Qué cuatro opciones surgen si pulsamos Windows+P?",
+      "options": [
+        "solo equipo, duplicar, extender, solo impresión.",
+        "solo pantalla de pc, duplicado, ampliar, solo segunda pantalla.",
+        "abrir, cerrar, maximizar y minimizar.",
+        "abrir, salir, minimizar y restaurar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-126",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Con la opción “Ejecutar” del Menú Inicio se puede:",
+      "options": [
+        "acceder a la ayuda de windows cuando lo necesites",
+        "abrir programas, carpetas o archivos directamente tecleando el nombre del mismo",
+        "buscar archivos o carpetas que estén tanto en tu ordenador como en los directorios compartidos de la red en la que te encuentres",
+        "apagar, cambiar de usuario o reiniciar el ordenador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-127",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Cuando se elimina un documento, este se destruye permanentemente sin pasar por la Papelera de Reciclaje:",
+      "options": [
+        "si se mantiene pulsada la tecla mayúsculas",
+        "si se mantiene pulsada la tecla control",
+        "si se mantiene pulsada la tecla alt",
+        "si se mantiene pulsada la tecla esc"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-128",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Se puede hacer que el monitor y la CPU se apaguen automáticamente tras estar inactivos un determinado tiempo. A esta configuración se accede desde el botón:",
+      "options": [
+        "reposo",
+        "energía",
+        "cese",
+        "inactividad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-129",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "El Panel de Control se puede abrir desde varios lugares. Señale la respuesta correcta:",
+      "options": [
+        "desde el escritorio, haciendo doble clic encima del objeto este equipo y luego en panel de control.",
+        "desde el botón de windows opción herramientas administrativas, panel de control.",
+        "desde el botón de windows opción accesorios, panel de control.",
+        "desde el botón de windows opción sistema de windows, panel de control"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-130",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Una vez vaciada o eliminados objetos de la Papelera de Reciclaje:",
+      "options": [
+        "ya no tendremos posibilidad de recuperarlos",
+        "podremos recuperarlos estando dentro del programa, seleccionar el objeto a recuperar, menú “archivo”, comando “Restaurar”",
+        "podremos recuperarlos seleccionando el/los objetos y hacer clic con el botón derecho, aparecerá un menú contextual, opción “Restaurar”",
+        "podremos recuperarlos mediante arrastrar y colocar en su lugar de origen, antes de ser eliminado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-131",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "El Bloc de Notas de Windows es:",
+      "options": [
+        "un programa de autoedición",
+        "un editor de texto",
+        "un procesador de texto",
+        "un maquetador de texto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-132",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "¿Cuál de las siguientes no es un accesorio de Windows 10?",
+      "options": [
+        "herramienta recortes.",
+        "conexión de escritorio remoto.",
+        "wordpad.",
+        "información del sistema"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-133",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "¿Cómo se activa el administrador de tareas?",
+      "options": [
+        "pulsamos la combinación de teclas ctrl+alt+supr",
+        "pulsamos la combinación de teclas ctrl+may+esc",
+        "pulsando con el botón derecho del ratón sobre la barra de tareas.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-134",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "La herramienta incluida en Windows 10 destinada a bloquear programas espía (spyware) y eliminarlos es:",
+      "options": [
+        "centro de seguridad de windows defender",
+        "avast antivirus",
+        "firewwall de windows",
+        "windows update"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-135",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Señala la opción incorrecta en relación al programa Recortes.",
+      "options": [
+        "para acceder a él iremos a inicio >>todos los programas>>herramientas del sistema>>herramientas recortes",
+        "para realizar un nuevo recorte utilizaremos la opción ctrl+n",
+        "las opciones de recorte que nos ofrece son: recorte de forma libre, rectangular, de ventana y de pantalla completa.",
+        "para guardar como…el recorte realizado utilizaremos ctrl+s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-136",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "En Windows 10 existen dos tipos de cuentas:",
+      "options": [
+        "la cuenta principal y las cuentas de usuario",
+        "la cuenta de propietario y la cuenta de administrador",
+        "las cuentas microsoft y la cuenta de propietario",
+        "las cuentas microsoft y las cuenta locales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-137",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "En la búsqueda avanzada en Windows 10 el símbolo *",
+      "options": [
+        "equivale a un único carácter alfanumérico.",
+        "equivale a cualquier cantidad de caracteres alfanuméricos.",
+        "buscará solo dentro del archivo, no en su nombre ni en sus etiquetas o extensión.",
+        "buscará dentro del nombre del archivo, no en su contenido."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-138",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Si ejecutamos el comando Regedit en Inicio..Cuadro de búsqueda se abre;",
+      "options": [
+        "editor del registro.",
+        "el registro del sistema.",
+        "el administrador de tareas.",
+        "el explorador de windows"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-139",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "Si recuperamos nuestro Windows 10 al punto de restauración anterior, ¿cuál de los siguientes elementos, instalados después de crear el punto de restauración, no se verá afectado en la restauración del sistema?",
+      "options": [
+        "los drivers / controladores.",
+        "las aplicaciones.",
+        "las actualizaciones del sistema.",
+        "los archivos personales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-140",
+      "superblock": "Tema 23",
+      "subblock": "TEST6 I (2024)",
+      "question": "La consola que permite la gestión y administración del sistema operativo mediante líneas de comando y que admite instrucciones basadas en MS-DOS es:",
+      "options": [
+        "windows easy transfer.",
+        "windows live.",
+        "windows power shell.",
+        "windows defender. TEST6 I (2024) SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-141",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué es la informática?",
+      "options": [
+        "la ciencia que estudia el ordenador.",
+        "la ciencia que estudia el tratamiento automatizado de la información.",
+        "la ciencia que estudia los ordenadores.",
+        "la ciencia que estudia los avances tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-142",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué es el hardware?",
+      "options": [
+        "es un programa que se encarga de monitorizar el estado de los componentes.",
+        "es un programa que se encarga de monitorizar el sistema operativo.",
+        "es un programa que se encarga de monitorizar la temperatura de los componentes.",
+        "todas son falsas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-143",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Llamamos CPU a la Unidad Central de Proceso, que es:",
+      "options": [
+        "la torre a la que se conecta el monitor, el teclado y demás periféricos.",
+        "la torre y discos externos que componen el ordenador.",
+        "un componente que se encarga de procesar la información.",
+        "puede ser una torre, pero también los podemos encontrar en formato sobremesa."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-144",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Cuando hablamos de memoria RAM, nos referimos a:",
+      "options": [
+        "la memoria que no se borra y donde está grabada la llamada bios.",
+        "la memoria volátil que usa el sistema operativo y que se borra cuando apagamos.",
+        "la memoria volátil y no volátil.",
+        "la memoria que usamos para guardar nuestros documentos y que no se pierdan."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-145",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Podemos clasificar los componentes de un ordenador en relación a su funcionalidad, siendo un dispositivo de salida:",
+      "options": [
+        "aquel que tiene algún mecanismo para ser expulsado, por ejemplo, un dvd o una memoria usb.",
+        "aquel que sale directamente del equipo, como un teclado, mientras que una impresora conectada por wifi no lo sería.",
+        "aquel que permite sacar la información al exterior, como una impresora, esté conectada por cable o de forma inalámbrica.",
+        "aquel que saca la información en un formato físico, como una impresora que nos la muestra en papel, pero no un monitor, ya que la información seguiría dentro del ordenador."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-146",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El Hardware Básico debe contar con:",
+      "options": [
+        "una cpu.",
+        "una grabadora de dvd.",
+        "una tarjeta de sonido.",
+        "todas las anteriores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-147",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El Software es:",
+      "options": [
+        "la parte lógica del ordenador.",
+        "la parte física del ordenador.",
+        "los dispositivos de entrada.",
+        "los dispositivos de salida."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-148",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Hay tres tipos de Software que son:",
+      "options": [
+        "de oficina, de entretenimiento, de programación.",
+        "de windows, de mac, de linux.",
+        "de sistema, de aplicaciones, de programación.",
+        "ninguno de los anteriores."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-149",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El PC almacena la hora y algunos parámetros de configuración, ¿en cuál de los siguientes tipos de memorias?",
+      "options": [
+        "ram.",
+        "cmos.",
+        "rom.",
+        "ninguna de las anteriores es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-150",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué es un BIT?:",
+      "options": [
+        "la unidad mínima de información.",
+        "un dígito en base 2.",
+        "un dígito binario.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-151",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El conjunto de instrucciones que le dicen al ordenador qué tiene que hacer con los datos para obtener un resultado se denomina:",
+      "options": [
+        "software.",
+        "algoritmo.",
+        "programas.",
+        "sistema operativo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-152",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "La memoria caché se refiere a:",
+      "options": [
+        "una parte de la memoria rom.",
+        "memoria de alta velocidad similar a la ram usada por el microprocesador para almacenar los datos que usa con mayor frecuencia.",
+        "un chip coprocesador que acelera las operaciones matemáticas complejas de la unidad aritmético-lógica (alu).",
+        "la parte de la memoria ram que almacena el sistema operativo para que éste se ejecute con rapidez."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-153",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "La unidad central de proceso (CPU) del computador la constituyen:",
+      "options": [
+        "los periféricos y la memoria principal.",
+        "la memoria ram, la memoria rom y la unidad de control (uc).",
+        "la memoria ram y la unidad de control (uc).",
+        "la unidad aritmético-lógica (alu) y la unidad de control (uc)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-154",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Indique la unidad mayor:",
+      "options": [
+        "byte.",
+        "kilobyte.",
+        "gigabyte.",
+        "megabyte."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-155",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "¿De cuántos caracteres consta el código ASCII?",
+      "options": [
+        "256",
+        "255",
+        "250",
+        "251"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-156",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El lugar donde está almacenada la BIOS del ordenador se denomina:",
+      "options": [
+        "ram.",
+        "disco duro o hdd.",
+        "rom.",
+        "cpu."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-157",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "El lugar de la placa base donde se insertan las tarjetas necesarias en un equipo informático se conoce como:",
+      "options": [
+        "chipset.",
+        "disipador.",
+        "buses.",
+        "slots."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-158",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Una Tablet es un subtipo de:",
+      "options": [
+        "ordenador personal.",
+        "miniordenador.",
+        "nanoordenador.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-159",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Por el tipo de información que manejan se distinguen los siguientes tipos de buses:",
+      "options": [
+        "bus de datos y control.",
+        "bus de datos serie y paralelo.",
+        "bus de datos, control y direcciones.",
+        "bus de sistema y bus local."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-160",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "La filosofía general de un ordenador es muy simple: recibe datos del usuario a través del teclado, los procesa con el microprocesador y presenta el resultado en el monitor. Siendo esto así, ¿de dónde recibe el microprocesador los datos?:",
+      "options": [
+        "del teclado.",
+        "de la placa base.",
+        "del dispositivo de almacenamiento permanente.",
+        "de la memoria ram."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-161",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Las memorias que están dentro de la placa base del ordenador reciben el nombre de:",
+      "options": [
+        "memorias secundarias.",
+        "memorias principales.",
+        "memorias de almacenamiento masivo.",
+        "memorias auxiliares."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-162",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "La memoria ROM es:",
+      "options": [
+        "fija y de solo lectura.",
+        "volátil y de lectura y escritura.",
+        "volátil y de lectura.",
+        "fija y de lectura y escritura."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-163",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Dentro de un teclado estándar se pueden distinguir:",
+      "options": [
+        "dos bloques de teclas.",
+        "cuatro bloques de teclas.",
+        "tres bloques de teclas.",
+        "seis bloques de teclas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-164",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "Definimos el concepto longitud de palabra como:",
+      "options": [
+        "número de bits que un ordenador puede procesar en una única operación.",
+        "número de bytes que un ordenador puede procesar en una única operación.",
+        "la cantidad mínima de información que se puede representar.",
+        "la cantidad de veces por minuto que se refresca una pantalla."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-165",
+      "superblock": "Tema 23",
+      "subblock": "Test1 I (2024) Tema 23 Informática básica",
+      "question": "En un ordenador denominamos puerto:",
+      "options": [
+        "al lugar del cual leen los datos los programas.",
+        "al lugar en el cual escriben los datos los programas.",
+        "al lugar del que leen y en el que escriben los datos los programas.",
+        "a la conexión eléctrica a través de la cual el ordenador envía y recibe datos de otros dispositivos Test1 I (2024) Tema 23 Informática básica SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-166",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "De las siguientes opciones, elija cuál NO es un sistema operativo.",
+      "options": [
+        "microsoft windows.",
+        "microsoft office.",
+        "mac osx",
+        "linux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-167",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Señala la respuesta correcta. El backup es:",
+      "options": [
+        "una copia de seguridad de información.",
+        "un periférico de salida utilizado para trazar planos.",
+        "un sistema antivirus.",
+        "una aplicación que nos permite controlar el acceso a nuestro equipo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-168",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "El escáner es un dispositivo:",
+      "options": [
+        "de entrada.",
+        "de salida.",
+        "de entrada y salida.",
+        "interno."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-169",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué es USB?",
+      "options": [
+        "un puerto.",
+        "un componente de la cpu.",
+        "un tipo de memoria.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-170",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Las impresoras de matriz de puntos también se denominan:",
+      "options": [
+        "de inyección de tinta.",
+        "matriciales.",
+        "de margarita.",
+        "térmicas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-171",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Cuál de estos dispositivos incluirías en la memoria de almacenamiento masivo?",
+      "options": [
+        "memoria central",
+        "unidad aritmético-lógica",
+        "disco duro",
+        "unidad de control"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-172",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "El sistema operativo Windows 10, en cuanto al número de tareas simultáneas que puede realizar y al número de usuarios que puede atender, es:",
+      "options": [
+        "monotarea y monousuario.",
+        "monotarea y multiusuario.",
+        "multitarea y multiusuario.",
+        "multitarea y monousuario."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-173",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué dispositivo de almacenamiento no es de acceso directo?",
+      "options": [
+        "cd.",
+        "disquete de 3 1/2 hd.",
+        "disco duro",
+        "cinta magnética."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-174",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Un sistema operativo nos permite:",
+      "options": [
+        "hacer de interprete entre la máquina y el usuario.",
+        "hacer que el manejo sea más sencillo.",
+        "enviar ordenes al hardware.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-175",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Podemos dividir el software en tres grandes tipos. ¿En cuál incluiría el paquete Microsoft Office?",
+      "options": [
+        "es software de sistema al igual que el sistema operativo microsoft windows.",
+        "es software de programación, desarrollado por microsoft como una capa situada sobre su sistema operativo windows.",
+        "es software tipo \"paquete\" o \"pack\", que reúne un conjunto de programas como word, excel y otros.",
+        "es software de aplicación."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-176",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Dentro del denominado \"Software de Sistema\" podemos encontrar:",
+      "options": [
+        "controladores de dispositivos.",
+        "aplicaciones.",
+        "compiladores.",
+        "depuradores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-177",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "El número de veces que se redibuja la pantalla por segundo se denomina:",
+      "options": [
+        "resolución.",
+        "tasa de refresco.",
+        "dot dich.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-178",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Una de las características de los discos SSD es:",
+      "options": [
+        "tienen mucha más capacidad de almacenaje que los discos tradicionales al no usar cabezales.",
+        "son mucho más rápidos que los discos duros tradicionales.",
+        "al tener menos elementos físicos, resultan más económicos.",
+        "no sirven para almacenar cualquier tipo de datos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-179",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Indica cuál de las siguientes palabras no hace referencia a un Sistema Operativo:",
+      "options": [
+        "linux.",
+        "windows.",
+        "ms-d0s.",
+        "java"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-180",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Cómo se llama el software que permite al sistema operativo reconocer y utilizar los diferentes dispositivos?",
+      "options": [
+        "bios",
+        "controladores o drivers.",
+        "son correctas a y b)",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-181",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Las pantallas de ordenador son unidades:",
+      "options": [
+        "de salida",
+        "de entrada y salida",
+        "de entrada",
+        "depende del tipo de pantalla"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-182",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "La webcam es un periférico de:",
+      "options": [
+        "entrada y salida",
+        "salida",
+        "entrada",
+        "almacenamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-183",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Según la distancia del ordenador los periféricos se clasifican en:",
+      "options": [
+        "entrada y en paralelo",
+        "locales y remotos",
+        "salida y entrada",
+        "entrada, salida y entrada/salida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-184",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Cuál de estos dispositivos no es de entrada?",
+      "options": [
+        "trackball",
+        "unidad zip",
+        "scanner",
+        "touchpad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-185",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Cuál de las siguientes magnitudes precede al Exabyte?:",
+      "options": [
+        "el yottabyte.",
+        "el zettabyte.",
+        "el petabyte.",
+        "el terabyte."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-186",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Es un elemento de hardware o software ubicado entre dos redes que ejerce la política de seguridad:",
+      "options": [
+        "antivirus",
+        "firewall",
+        "antiespías",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-187",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Los antivirus son:",
+      "options": [
+        "programas diseñados para detectar y eliminar el software dañino",
+        "programas diseñados solo para detectar el software dañino",
+        "programas diseñados solo para avisar que tienes un software dañino",
+        "ninguna de las anteriores es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-188",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "Para controlar la presencia en una instalación se pueden usar:",
+      "options": [
+        "técnicas biométricas.",
+        "antivirus.",
+        "firewall.",
+        "certificado digital."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-189",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "¿Cuál de los siguientes NO es un buen hábito de uso para proteger nuestros equipos?",
+      "options": [
+        "mantener el sistema operativo actualizado",
+        "utilizar un antivirus que analice lo que descargas",
+        "abrir cualquier tipo de fichero adjunto",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-190",
+      "superblock": "Tema 23",
+      "subblock": "Test2 I (2024) Tema 23 Informática básica",
+      "question": "La mejor clave secreta:",
+      "options": [
+        "tienes secuencias con más de 8 caracteres",
+        "intercala símbolos entres las letras y los números",
+        "no usa ni letras ni números consecutivos",
+        "todas las anteriores Test2 I (2024) Tema 23 Informática básica SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-191",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El primer sistema operativo en la historia de la informática fue:",
+      "options": [
+        "msdos.",
+        "unix.",
+        "android.",
+        "windows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-192",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El término POST hace referencia a.",
+      "options": [
+        "sistema básico de entrada y salida.",
+        "protocolo de correo electrónico.",
+        "auto prueba de encendido.",
+        "sistema de alimentación ininterrumpida."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-193",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "De los siguientes dispositivos ¿cuál no se verifica en el POST en el momento del arranque?",
+      "options": [
+        "placa base.",
+        "fuente de alimentación.",
+        "ram.",
+        "teclado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-194",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El tipo de software que se encarga de obtener y memorizar las pulsaciones que se realizan en un teclado se conocen como:",
+      "options": [
+        "gusano informático.",
+        "qwerty.",
+        "keylogger.",
+        "troyano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-195",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "¿Cuál de las siguientes afirmaciones es correcta sobre un supercomputador?",
+      "options": [
+        "son los sistemas informáticos más caros y rápidos",
+        "realizan muy pocas operaciones a gran velocidad",
+        "se utilizan para las predicciones del tiempo, investigaciones nucleares etc...",
+        "todas las afirmaciones son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-196",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Los streamers son:",
+      "options": [
+        "cintas magnéticas.",
+        "discos magnéticos.",
+        "discos ópticos.",
+        "cintas perforadas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-197",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Un yottabyte equivale a:",
+      "options": [
+        "1024 zetabytes.",
+        "1024 exabytes.",
+        "10204 petabytes.",
+        "1024 terabytes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-198",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Emite un código de sonidos que indica el resultado de la verificación del POST:",
+      "options": [
+        "bios.",
+        "cm d.",
+        "speaker.",
+        "ninguno es correcto."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-199",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Los programas que indican al equipo informático cómo resolver problemas específicos del usuario son:",
+      "options": [
+        "software de aplicación.",
+        "programas de sistema.",
+        "software básico.",
+        "lenguajes de programación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-200",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El tamaño de un monitor:",
+      "options": [
+        "es la unidad mínima homogénea en color.",
+        "es la distancia entre dos puntos del mismo color en la pantalla.",
+        "es la distancia en diagonal de un vértice de la pantalla al opuesto.",
+        "es la distancia en la que el monitor es capaz de mostrar imágenes estables en la pantalla."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-201",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "La distancia que hay entre dos pixeles del mismo color de un monitor se denomina:",
+      "options": [
+        "resolución.",
+        "dot pitch.",
+        "tasa de refresco.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-202",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué dispositivo de almacenamiento no es de acceso directo?",
+      "options": [
+        "cd.",
+        "disquete de 3 1/2 hd.",
+        "disco duro",
+        "cinta magnética."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-203",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "¿Con qué otro nombre se conoce a la unidad llamada Byte?",
+      "options": [
+        "octeto",
+        "bit",
+        "palabra",
+        "ninguna de las anteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-204",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué periférico será el más adecuado para imprimir un plano arquitectónico?",
+      "options": [
+        "una impresora láser.",
+        "un plotter.",
+        "una impresora matricial.",
+        "una impresora de inyección."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-205",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El bloque de caracteres que acompaña a un documento o fichero acreditando quién es su autor y que no ha existido ninguna manipulación posterior de los datos es:",
+      "options": [
+        "firma manuscrita.",
+        "el sistema de cifrado simétrico.",
+        "la criptología.",
+        "firma digital."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-206",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El \"servicio de no repudio\" aplicable a documentos y transacciones consiste en:",
+      "options": [
+        "probar quién es el creador de un determinado documento.",
+        "determinar la propiedad de un determinado documento.",
+        "comprobar la veracidad de la firma manuscrita.",
+        "impedir que una persona niegue haber recibido un documento electrónico."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-207",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "La categoría general de agresión a la seguridad informática conocida como \"modificación\" es una agresión a:",
+      "options": [
+        "la integridad.",
+        "la disponibilidad.",
+        "la confidencialidad.",
+        "la autenticidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-208",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "La aplicación con identidad propia diseñada para buscar zonas de memoria desocupadas donde autocopiarse repetidas veces, hasta conseguir desbordar la memoria se denomina:",
+      "options": [
+        "gusano.",
+        "caballo de troya.",
+        "virus crucero.",
+        "virus de equipo lógico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-209",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El sistema de alimentación de seguridad (SAI), dentro de qué tipo de seguridad lo encuadrarías:",
+      "options": [
+        "fallos producidos por agua.",
+        "acciones mal intencionadas.",
+        "problemas de climatización.",
+        "dispositivos de seguridad física en cuanto a alimentación eléctrica."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-210",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "El término malware se refiere a:",
+      "options": [
+        "software mal instalado",
+        "programas maliciosos",
+        "hardware mal instalado",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-211",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "No es un sistema operativo:",
+      "options": [
+        "lotus.",
+        "unix.",
+        "ms-dos.",
+        "solaris."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-212",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "La aplicación destinada para tener bien actualizado nuestro sistema informático con las últimas actualizaciones del sistema operativo Windows es:",
+      "options": [
+        "windows anytime upgrade.",
+        "windows update.",
+        "windows defender.",
+        "windows cardspace."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-213",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Programas malignos diseñados para alterar el normal funcionamiento de las computadoras para robar información, se propagan utilizando medios masivos de transmisión como el e-mail, la mensajería instantánea o redes para compartir archivos",
+      "options": [
+        "virus informático",
+        "phishing",
+        "malware",
+        "amenaza informática."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-214",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "Que se entiende por autoridad de certificación:",
+      "options": [
+        "una compañía que certifica la seguridad de sus sistemas. en la actualidad solo se puede considerar a microsoft como tal.",
+        "son órganos administrativos dependientes del consejo superior de informática que dictan las normas de certificación digital de acuerdo a las directivas de la Unión Europea.",
+        "son entidades que expiden certificados digitales de manera que garantizan la correspondencia entre la identidad de un usuario y su par de claves.",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t23-215",
+      "superblock": "Tema 23",
+      "subblock": "Test3 I (2024) Tema 23 Informática básica",
+      "question": "¿Qué tipo de certificado se solicita en las oficinas de la Dirección General de Policía?:",
+      "options": [
+        "dnie.",
+        "fnmt clase 2ca.",
+        "ancert.",
+        "glss Test3 I (2024) Tema 23 Informática básica SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

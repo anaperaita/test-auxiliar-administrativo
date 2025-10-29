@@ -1,0 +1,777 @@
+{
+  "module": "Tema 25",
+  "title": "Tema 25",
+  "totalQuestions": 55,
+  "questions": [
+    {
+      "id": "t25-1",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Las direcciones de correo se componen:",
+      "options": [
+        "de cuatro partes: la ruta, el nombre del usuario, la @ y el dominio.",
+        "de tres partes: la ruta, el nombre del usuario y el dominio.",
+        "de dos partes separadas por el símbolo @, donde la primera parte indica el nombre de usuario y la segunda parte es el dominio.",
+        "de dos partes separadas por el símbolo @ donde la primera parte indica la ruta seguida hasta el ser-vidor y la segunda parte es el proveedor de los ser¬vicios de correo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-2",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Los dos protocolos más importantes usados por las aplicaciones de correo cliente para recuperar correo desde los servidores de correo son:",
+      "options": [
+        "pop e imap.",
+        "smtp y pop.",
+        "smtp e imap.",
+        "ftp y pop3."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-3",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Para enviar un email a varias personas a la vez:",
+      "options": [
+        "pondremos las direcciones separadas por punto y coma o por una coma.",
+        "pondremos las direcciones separadas por dos pun¬tos",
+        "será necesario realizar la opción de enviar tantas veces como destinatarios de los correos haya.",
+        "separaremos las direcciones con el símbolo &."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-4",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Qué protocolo de correo se puede utilizar cuando se está conectado a Internet?",
+      "options": [
+        "cualquier protocolo de correo es válido.",
+        "http.",
+        "ftp.",
+        "imap."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-5",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "La segunda parte de una dirección de correo electró¬nico:",
+      "options": [
+        "hace referencia a la dirección de internet en la que está el servidor de correo.",
+        "indica el nombre de usuario.",
+        "es el dominio, que se puede cambiar.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-6",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "De las siguientes direcciones ¿cuál es la correcta?",
+      "options": [
+        "jorge1990@ gmail.com",
+        "jorge1990@gmail.com",
+        "jorge1990.gmail@com.",
+        "jorge1990.com@gmail."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-7",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "La contraseña en un correo electrónico:",
+      "options": [
+        "debe tener al menos 16 letras y/o números.",
+        "no distingue entre mayúsculas y minúsculas.",
+        "es obligatoria para identificarnos para poder acce¬der al correo.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-8",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Cuando enviamos un correo electrónico, en el campo Para escribiremos:",
+      "options": [
+        "el asunto del mensaje.",
+        "el nombre del destinatario.",
+        "la dirección de correo del destinatario.",
+        "la dirección de correo del remitente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-9",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Si en la casilla Asunto de un correo electrónico, vemos el prefijo Fwd esto significa:",
+      "options": [
+        "que el mensaje es una respuesta.",
+        "que el mensaje había sido enviado previamente por otro remitente.",
+        "que el mensaje es un mensaje de un contacto no guardado en nuestra libreta de direcciones.",
+        "que el mensaje es un mensaje calificado como spam o correo basura."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-10",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Qué nos indica esta imagen que encontramos en nuestra bandeja de entrada?",
+      "options": [
+        "que el mensaje ha venido con prioridad.",
+        "que el mensaje de correo electrónico ha sido respondido y que tiene un fichero adjunto.",
+        "que el mensaje ha sido reenviado y tiene un fichero adjunto",
+        "a y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-11",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "El nombre de un registro en una dirección de correo electrónico:",
+      "options": [
+        "no debe incluir espacios ni acentos.",
+        "puede incluir acentos y dígitos.",
+        "no debe incluir números.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-12",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Puede existir una dirección de correo electrónico sin que lleve el símbolo @?",
+      "options": [
+        "sí, en las direcciones de correo de yahoo.",
+        "sí, en las direcciones de correo de webmail.",
+        "sí, siempre que mandemos el mensaje a un con¬tacto guardado en nuestra libreta de direcciones.",
+        "no, es un símbolo imprescindible en una dirección de correo electrónico."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-13",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Aquellos mensajes en proceso de redacción que todavía no se encuentren listos para ser enviados se almacenan en:",
+      "options": [
+        "no enviados.",
+        "borradores",
+        "archivo.",
+        "edición."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-14",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Con un mismo nombre:",
+      "options": [
+        "podemos tener más cuentas de correo en otros servidores.",
+        "podemos tener solo una cuenta en un mismo servidor.",
+        "ninguna de las respuestas anteriores es correcta.",
+        "las respuestas a y b son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-15",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Redactamos un correo electrónico y lo enviamos a las direcciones siguientes: Para Ana; CC Juan, María, Daniel.; CCO Pedro.",
+      "options": [
+        "solo ana recibirá el mensaje.",
+        "recibirán el mensaje ana y pedro y se informará a juan, maría y daniel del envío de estos correos.",
+        "el mensaje lo recibirán ana, juan, maría, daniel y pedro, pero la dirección de correo de pedro no será visible al resto.",
+        "el mensaje lo recibirán ana, juan, maría, daniel y pedro, pero la dirección de correo de juan, maría y daniel no serán visibles al resto."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-16",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Al enviar un correo electrónico, en el campo Asunto ponemos:",
+      "options": [
+        "el cuerpo del mensaje.",
+        "el destinatario.",
+        "los archivos adjuntos.",
+        "el objeto del mensaje."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-17",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Cuando utilizamos el protocolo POP:",
+      "options": [
+        "los mensajes de correo son descargados a través de las aplicaciones de correo cliente.",
+        "los mensajes de correo son descargados a través de las aplicaciones de correo servidor.",
+        "los mensajes de correo se mantienen en el servi¬dor donde los usuarios pueden leer y borrarlos.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-18",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Podemos crear una firma en nuestro correo electró¬nico con texto e imagen?",
+      "options": [
+        "no, solo se permite incluir texto.",
+        "sí.",
+        "sí, siempre y cuando la imagen sea una miniatura.",
+        "sí, pero creando dos firmas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-19",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "El correo Web:",
+      "options": [
+        "hay que configurarlo antes de usarlo.",
+        "no se necesita estar conectado para redactar los mensajes, solo a la hora de enviarlos.",
+        "puede consultarse desde cualquier lugar con ac¬ceso a internet.",
+        "los mensajes de descargan al ordenador desde el servidor."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-20",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Qué servidor utiliza el ordenador local cuando envía un mensaje?",
+      "options": [
+        "smtp.",
+        "pop3.",
+        "imap.",
+        "tcp."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-21",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "En la arquitectura Cliente/ Servidor en la que se basa el correo electrónico los clientes son:",
+      "options": [
+        "los dominios del correo.",
+        "el ordenador que gestiona el correo.",
+        "los proveedores que proveen el correo.",
+        "los ordenadores de los usuarios."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-22",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Cómo se reconoce en MS Outlook 2013 la \"prioridad\" marcada por el remitente en un mensaje de correo electrónico?:",
+      "options": [
+        "de ninguna manera.",
+        "tenemos que abrir primero el mensaje ya que figura en el contenido del propio mensaje.",
+        "un mensaje con una prioridad alta tiene un signo de admiración al lado. la prioridad baja se indica con una flecha hacia abajo.",
+        "un mensaje con una prioridad alta tiene un signo con una flecha hacia arriba azul. la prioridad baja se indica con una flecha hacia abajo azul."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-23",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Qué opción se puede utilizar para agilizar el envío a varios contactos que cum¬plan alguna característica en común?:",
+      "options": [
+        "crear grupos.",
+        "crea contactos.",
+        "crear reglas de mensaje.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-24",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "¿Cuál es el propósito de la función Reenviar del correo electrónico?",
+      "options": [
+        "volver a enviar un correo electrónico seleccionado siempre al mismo destinatario del mensaje original, por si no lo hubiera recibido.",
+        "enviar una copia del mensaje seleccionado a la carpeta de elementos eliminados.",
+        "quitar el mensaje seleccionado de la carpeta elementos enviados.",
+        "enviar una copia de un correo electrónico seleccionado a los destinatarios que elijamos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-25",
+      "superblock": "Tema 25",
+      "subblock": "Test 18 I (2024) BVI T3 correo",
+      "question": "Outlook ofrece tres opciones de vista para el Panel de lectura. ¿Cuál de las siguientes NO es una de ellas?",
+      "options": [
+        "derecha.",
+        "superior.",
+        "inferior.",
+        "desactivado. Test 18 I (2024) BVI T3 correo SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-26",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Señale la característica que está más relacionada con el correo POP3...",
+      "options": [
+        "se accede desde un único equipo.",
+        "su uso es exclusivo online.",
+        "tiene una menor seguridad.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-27",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Para acceder al correo necesitamos:",
+      "options": [
+        "una conexión a internet.",
+        "una aplicación informática.",
+        "un usuario y una contraseña.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-28",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Las siglas ISP significan:",
+      "options": [
+        "proveedor de servicios de internet.",
+        "proveedor de soluciones de internet.",
+        "proveedor de seguridad de internet.",
+        "proveedor de servicios de información."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-29",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Si respondemos al remitente de un mensaje que acabamos de leer y utilizamos la opción Responder:",
+      "options": [
+        "en la casilla para quedará automáticamente escrita la dirección del remitente del mensaje.",
+        "en la casilla asunto se verá el prefijo re , que identifica su mensaje como una respuesta.",
+        "en la casilla asunto se verá el prefijo fwd que identifica su mensaje como correo no deseado.",
+        "las respuestas a y b son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-30",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Dos direcciones de correo electrónico distintas:",
+      "options": [
+        "solo pueden tener la misma contraseña si pertenecen a la misma persona.",
+        "solo pueden tener la misma contraseña si tienen los mismos dominios.",
+        "en ningún caso pueden tener contraseñas iguales.",
+        "pueden tener la misma contraseña."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-31",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Si en una lista de mensajes recibidos en uno de ellos aparece el símbolo de un clic en la descripción del mensaje, esto significa:",
+      "options": [
+        "que ese mensaje contiene un archivo adjunto.",
+        "que ese mensaje tiene prioridad alta.",
+        "que ese mensaje está destacado.",
+        "que ese mensaje es urgente."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-32",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Si reenviamos un mensaje de correo electrónico:",
+      "options": [
+        "el mensaje original se moverá a la carpeta de enviados.",
+        "el mensaje original se moverá a la carpeta de eliminados.",
+        "el mensaje original se moverá a la carpeta de salida.",
+        "el mensaje original permanecerá en la carpeta en la que estaba antes de ser reenviado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-33",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Las siglas IMAP significan:",
+      "options": [
+        "protocolo de acceso a mensajes de internet.",
+        "proveedor de acceso a mensajes de internet.",
+        "protocolo de archivos y mensajes en internet.",
+        "proveedor de archivos y mensajes en internet."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-34",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Las dos formas básicas de utilizar el correo son:",
+      "options": [
+        "a través de los programas de yahoo o de hotmail.",
+        "a través del programa de correo y mediante webmail.",
+        "a través de los protocolos pop o pop3 exclusivamente.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-35",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Un mensaje de correo electrónico consta de dos partes:",
+      "options": [
+        "encabezado y cuerpo del mensaje.",
+        "encabezado y pie del mensaje.",
+        "encabezado y firma del remitente.",
+        "cuerpo del mensaje y asunto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-36",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "En Outlook ¿Cuál de las siguientes opciones nos permite acceder a la carpeta de contactos?",
+      "options": [
+        "ctrl + 2",
+        "ctrl + 3",
+        "ctrl + 4",
+        "ctrl + 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-37",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "En Outlook, Si pulsamos la combinación de teclas Ctrl+2, a que opción nos lleva:",
+      "options": [
+        "ir a calendario",
+        "ir a correo",
+        "ir a contactos",
+        "ir a notas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-38",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "En Outlook ¿Cuál de las siguientes opciones nos permite acceder a Notas?",
+      "options": [
+        "ctrl + 2",
+        "ctrl + 3",
+        "ctrl + 4",
+        "ctrl + 5"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-39",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Outlook respecto a los contactos permite:",
+      "options": [
+        "solamente crear nuevos contactos desde cero.",
+        "agregar únicamente como contacto a alguien desde un mensaje de correo electrónico.",
+        "de todo menos enviar correos a listas de contactos.",
+        "ver, crear y editar contactos y listas de contactos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-40",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Cuál es la utilidad de la opción \"Limpiar carpeta\" de la pestaña Inicio de la cinta de opciones de Outlook?",
+      "options": [
+        "evalúa la carpeta seleccionada para hallar correo no deseado y obtener los remitentes no deseados.",
+        "elimina todos los mensajes de correo de la carpeta seleccionada con información no legible o corrupta.",
+        "evalúa si un remitente no deseado establecido tiene mensajes en la carpeta actual.",
+        "quita los mensajes redundantes de todas las conversaciones de la carpeta seleccionada."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-41",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Cuál de los siguientes no es un servicio de correo electrónico?:",
+      "options": [
+        "icloud mail",
+        "thunderbird.",
+        "opera",
+        "yahoo!."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-42",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "De los siguientes servicios de Internet ¿cuál permite que los ordenadores y todos los dispositivos de red que los unen no estén activos al mismo tiempo?",
+      "options": [
+        "ftp.",
+        "archie.",
+        "telnet.",
+        "email."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-43",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Cuando queremos responder un correo a la persona que nos lo envía, con el mismo asunto ¿qué opción es la más adecuada?",
+      "options": [
+        "redactar.",
+        "reenviar.",
+        "responder.",
+        "filtrar."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-44",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Supongamos que yo, Ana, recibo un correo con el siguiente encabezado: De: Pedro./ Para: Daniel. / CC : Ana (yo), María. Si seleccionamos la opción Responder a todos ¿qué sucede?",
+      "options": [
+        "el mensaje se enviará a pedro, daniel y maría.",
+        "el mensaje se enviará a pedro.",
+        "el mensaje se enviará a maría y a daniel.",
+        "el mensaje se enviará a pedro y daniel."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-45",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "La carpeta donde almacenamos los correos que recibimos se llama:",
+      "options": [
+        "bandeja de salida.",
+        "bandeja de entrada.",
+        "borrador.",
+        "bandeja de llegada."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-46",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Cuál de los siguientes es un gestor de correo POP3?:",
+      "options": [
+        "gmaii.",
+        "hotmail.",
+        "microsoft outlook.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-47",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Si queremos que los correos provenientes de un remitente específico se almacenen en una carpeta específica...",
+      "options": [
+        "habría que agregar un complemento al gestor de correos denominado fromto.",
+        "habría que crear una carpeta con el nombre del remitente.",
+        "habría que crear una regla o filtro para el correo entrante.",
+        "ninguna de las respuestas es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-48",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Cuál es el gestor de correo que viene predeterminado en Windows 10?:",
+      "options": [
+        "correo.",
+        "outlook.",
+        "outlook express.",
+        "windows mail.."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-49",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Al correo IMAP también se le conoce como:",
+      "options": [
+        "webmail.",
+        "pop.",
+        "smtp.",
+        "ssl."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-50",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Los servidores especiales, email-servers, que se encargan de gestionar los correos electrónicos ¿de qué tipo pueden ser?",
+      "options": [
+        "http y html.",
+        "html y xml.",
+        "smtp y pop.",
+        "pop3 y xml"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-51",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "El protocolo POP es:",
+      "options": [
+        "el nombre que recibe el servidor que aloja nuestro correo electrónico entrante.",
+        "el nombre que recibe el servidor que aloja nuestro correo electrónico saliente.",
+        "el que permite actualizar las páginas de un navegador.",
+        "el protocolo de transmisión de correos especiales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-52",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "La carpeta donde se almacenan mensajes que hemos mandado a otras personas es la de:",
+      "options": [
+        "elementos enviados.",
+        "bandeja de salida.",
+        "borrador.",
+        "correo no deseado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-53",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Qué protocolo utilizará un proveedor de servicios de Internet en su servidor de correo para que podamos leer y almacenar los mensajes en carpetas del servidor sin descargarlas en nuestro equipo?",
+      "options": [
+        "p0p3.",
+        "imap.",
+        "smtp.",
+        "tcp/ip."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-54",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "¿Qué instrumentos nos permiten definir unas condi¬ciones sobre los mensajes entrantes y unas acciones a realizar sobre ellos?",
+      "options": [
+        "opciones.",
+        "búsqueda avanzada.",
+        "exportar datos.",
+        "filtros."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t25-55",
+      "superblock": "Tema 25",
+      "subblock": "Test 19 I (2024) BVI T3 correo",
+      "question": "Outlook permite crear varios tipos de elementos en la opción \"Nuevos elementos\" de la pestaña Inicio de la cinta de opciones de la Bandeja de entrada. ¿Qué elemento de los siguientes NO es posible crear con esta opción?",
+      "options": [
+        "presentación.",
+        "tarea.",
+        "mensaje de correo electrónico.",
+        "reunión. Test 19 I (2024) BVI T3 correo SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

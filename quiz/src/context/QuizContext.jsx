@@ -138,9 +138,19 @@ export const QuizProvider = ({ children }) => {
     return questionService.getBookmarkedQuestions(questions, bookmarks);
   };
 
-  // Obtener preguntas por bloque
+  // Obtener preguntas por bloque (backward compatible)
   const getQuestionsByBlock = (blockName) => {
     return questionService.getQuestionsByBlock(questions, blockName);
+  };
+
+  // Obtener preguntas por superbloque
+  const getQuestionsBySuperblock = (superblockName) => {
+    return questionService.getQuestionsBySuperblock(questions, superblockName);
+  };
+
+  // Obtener preguntas por subbloque
+  const getQuestionsBySubblock = (subblockName) => {
+    return questionService.getQuestionsBySubblock(questions, subblockName);
   };
 
   // Calcular estadísticas globales (solo para el módulo actual)
@@ -171,6 +181,8 @@ export const QuizProvider = ({ children }) => {
     getIncorrectQuestions,
     getBookmarkedQuestions,
     getQuestionsByBlock,
+    getQuestionsBySuperblock,
+    getQuestionsBySubblock,
     getGlobalStats,
     resetStats,
   };

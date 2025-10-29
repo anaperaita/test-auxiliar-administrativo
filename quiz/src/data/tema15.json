@@ -1,0 +1,707 @@
+{
+  "module": "Tema 15",
+  "title": "Tema 15",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "t15-1",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios transferidos a las Comunidades Autónomas, ¿en qué situación administrativa se encuentran en la Comunidad Autónoma en la que se integran?:",
+      "options": [
+        "servicio en otras aapp.",
+        "servicios especiales.",
+        "servicio activo.",
+        "excedencia voluntaria por prestación de servicios en el sector público."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-2",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El funcionario que haya sido suspendido provisionalmente como medida cautelar en la tramitación de un expediente disciplinario....",
+      "options": [
+        "deberá devolver lo percibido en tanto no se produjo la suspensión",
+        "tendrá derecho a percibir durante la suspensión las retribuciones básicas y en caso prestaciones familiares por hijo a cargo",
+        "no permanecerá en esta situación más de 3 meses salvo caso de paralización del procedimiento por causa imputable al interesado",
+        "el tiempo de permanencia en esta situación no será de abono en caso de imponerse suspensión firme"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-3",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "En el procedimiento disciplinario que establece la normativa para los funcionarios públicos...",
+      "options": [
+        "quedará establecida la debida separación entre la fase instructora y la fase sancionadora",
+        "se atenderá a principios de eficiencia, celeridad y economía procesal",
+        "la imposición de sanciones por faltas graves se llevará a cabo por procedimiento sumario con audiencia del interesado",
+        "no podrá imponerse sanción por la comisión de faltas leves sin mediar procedimiento antes establecido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-4",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "¿En cuál de los siguientes supuestos las retribuciones se liquidarán por días?:",
+      "options": [
+        "en el mes en que se cese en el servicio activo, salvo que sea por motivos de fallecimiento, jubilación o retiro.",
+        "en el mes de iniciación de licencias sin derecho a retribución.",
+        "en el mes de toma de posesión del primer destino en un cuerpo, escala o categoría, en el de reingreso al servicio activo, y en el de incorporación por conclusión de licencias sin derecho a retribución.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-5",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de carrera serán declarados en situación de servicios especiales (señala la incorrecta):",
+      "options": [
+        "cuando accedan a la condición de diputado o senador de las cortes generales o miembros de las asambleas legislativas de las comunidades autónomas si no perciben retribuciones periódicas por la realización de la función",
+        "cuando se desempeñen cargos electivos retribuidos y de dedicación exclusiva en las asambleas de las ciudades de Ceuta y Melilla y en las entidades locales",
+        "cuando sean designados para formar parte del consejo general del poder judicial o de los consejos de justicia de las comunidades autónomas",
+        "cuando sean elegidos o designados para formar parte de los órganos constitucionales o de los órganos estatutarios de las comunidades autónomas u otros cuya elección corresponda al Congreso de los Diputados, al Senado o a las asambleas legislativas de las comunidades autónomas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-6",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La excedencia de los funcionarios de carrera podrá adoptar las siguientes modalidades",
+      "options": [
+        "excedencia voluntaria por interés particular",
+        "excedencia voluntaria por agrupación familiar",
+        "excedencia por razón de violencia de género",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-7",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Podrá concederse la excedencia voluntaria por agrupación familiar a los funcionarios cuyo cónyuge resida en otra localidad por haber obtenido y estar desempeñando un puesto de trabajo de carácter definitivo como funcionario de carrera o como laboral fijo en cualquiera de las Administraciones Públicas:",
+      "options": [
+        "cuando hayan prestado servicios efectivos en cualquiera de las admones públicas durante el año inmediato anterior",
+        "cuando hayan prestado servicios efectivos en cualquiera de las admones públicas durante un periodo mínimo de dos años inmediatamente anteriores",
+        "cuando hayan prestado servicios efectivos en cualquiera de las admones públicas durante un periodo mínimo de cinco años inmediatamente anteriores",
+        "sin el requisito de haber prestado servicios efectivos en cualquiera de las admones públicas durante el periodo establecido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-8",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de carrera para atender al cuidado de un familiar que se encuentre a su cargo, hasta el 2o grado inclusive de consanguinidad o afinidad que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida tendrán derecho a un período de excedencia de duración:",
+      "options": [
+        "no superior a 1 año",
+        "no superior a 2 años",
+        "no inferior a 3 años",
+        "no superior a 3 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-9",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El tiempo de permanencia en excedencia por cuidado de familiares:",
+      "options": [
+        "será computable a efectos de trienios, carrera y derechos en el régimen de seguridad social que sea de aplicación",
+        "no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación",
+        "devengarán retribuciones, pero no les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-10",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Las funcionarias víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia:",
+      "options": [
+        "sin tener que haber prestado tiempo mínimo de servicios previos y permaneciendo un mínimo de 1 año en dicha situación",
+        "habiendo prestado tiempo mínimo de 2 años de servicios previos y sin que sea exigible plazo de permanencia en la misma",
+        "habiendo prestado tiempo mínimo de 2 años de servicios previos y permaneciendo un mínimo de 1 año en dicha situación",
+        "sin tener que haber prestado tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-11",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Respecto a la suspensión de funciones:",
+      "options": [
+        "el funcionario declarado en la situación de suspensión quedará privado durante el tiempo de permanencia en la misma del ejercicio de sus funciones y de todos los derechos inherentes a la condición",
+        "la suspensión determinará la pérdida del puesto de trabajo cuando exceda de seis años",
+        "la suspensión no podrá imponerse en virtud de sanción disciplinaria",
+        "la suspensión firme por sanción disciplinaria no podrá exceder de seis meses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-12",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Respecto a la excedencia voluntaria por interés particular:",
+      "options": [
+        "las leyes de función pública que se dicten en desarrollo del presente estatuto podrán establecer una duración mayor del periodo de prestación de servicios exigido para que el funcionario de carrera pueda solicitar la excedencia",
+        "su concesión quedará subordinada a las necesidades del servicio debidamente motivadas",
+        "podrá declararse cuando al funcionario público se le instruya expediente disciplinario",
+        "procederá declararla de oficio cuando finalizada la causa que determinó el pase a una situación distinta a la de servicio activo, se incumpla la obligación de solicitar el reingreso al servicio activo en el plazo de 10 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-13",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": ". ¿Cuál es él período mínimo de permanencia en la situación de excedencia voluntaria por interés particular para el personal funcionario de la Administración de Castilla y León?:",
+      "options": [
+        "en la actualidad, no existe un plazo mínimo.",
+        "2 años continuados.",
+        "5 años continuados.",
+        "3 años continuados."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-14",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": ". Como norma general, un puesto público y otro privado son compatibles, salvo:",
+      "options": [
+        "la realización de actividades que impidan o menoscaben el estricto cumplimiento de los deberes del personal.",
+        "la realización de actividades que comprometan la imparcialidad e independencia del funcionario.",
+        "son correctas a) y b).",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-15",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas, es una falta:",
+      "options": [
+        "no es una acción constitutiva de falta.",
+        "muy grave.",
+        "leve.",
+        "grave."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-16",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios en situación de expectativa de destino están obligados a aceptar los puestos de características similares a los que desempeñaban que se les ofrezcan:",
+      "options": [
+        "siempre que se encuentren retribuidos en la misma cuantía, independientemente del ámbito territorial.",
+        "en la provincia donde estaban destinados.",
+        "exclusivamente en el ministerio en el que prestaban servicios en el momento en que se produjo la supresión del puesto.",
+        "en el mismo cuerpo o escala al que pertenezcan y en el mismo término municipal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-17",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "¿Cuál de las siguientes circunstancias no puede originar la denegación de una excedencia voluntaria por interés particular?:",
+      "options": [
+        "no podrá declararse al funcionario que se encuentre en suspensión provisional de funciones.",
+        "no podrá declararse al funcionario público que se encuentre en suspensión firme de funciones.",
+        "necesidades del servicio debidamente motivadas.",
+        "en todos los anteriores se podrá denegar pase a excedencia voluntaria por interés particular."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-18",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La incorrección con compañeros, superiores, subordinados o público, constituye falta disciplinaria calificada como:",
+      "options": [
+        "leve.",
+        "grave.",
+        "no supone falta disciplinaria.",
+        "muy grave"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-19",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "De acuerdo con el artículo 64 del texto refundido de la Ley del Estatuto Básico del Empleado Público, señalar la proposición falsa en relación con la renuncia a la condición de funcionario:",
+      "options": [
+        "la renuncia es un acto voluntario.",
+        "la renuncia a la condición de funcionario habrá de ser manifestada por escrito.",
+        "la renuncia a la condición de funcionario no inhabilita para ingresar de nuevo en la administración pública a través del procedimiento de selección establecido.",
+        "la renuncia será aceptada por la administración, y en caso de que no exista resolución expresa se entiende desestimada la petición."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-20",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "¿En qué supuesto o supuestos la Administración tendrá que conceder la rehabilitación a un funcionario una vez desaparecida la causa objetiva que motivó la pérdida de tal condición?:",
+      "options": [
+        "cuando se hubiera perdido la condición de funcionario por haber sido condenado a la pena de inhabilitación.",
+        "cuando se hubiera perdido la condición de funcionario por pérdida de la nacionalidad.",
+        "cuando se hubiera perdido la condición de funcionario por declaración de una jubilación por incapacidad permanente.",
+        "son correctas b y c."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-21",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "En relación con el período de carencia, los funcionarios:",
+      "options": [
+        "estarán obligados a cumplir 20 años de servicios efectivos al estado en cualquier caso de jubilación o retiro.",
+        "estarán obligados a cumplir 15 años de servicios efectivos a cualquier administración en el caso de jubilación de cualquier modalidad.",
+        "no estarán obligados a cumplir dicho período en el caso de la jubilación extraordinaria.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-22",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": ". Un funcionario en situación administrativa de servicio activo, mayor de sesenta y cinco años, al que le ha sido reconocido el derecho a prolongar voluntariamente su permanencia en el servicio activo, ¿puede acogerse a la cesación progresiva de actividades?:",
+      "options": [
+        "sólo en caso de enfermedad.",
+        "sólo en el caso de que haya transcurrido un año desde la obtención de la prolongación de la permanencia en el servicio activo.",
+        "sí, condicionada a las necesidades del servicio.",
+        "no, al no estar prevista tal posibilidad en la normativa vigente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-23",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Un funcionario de la Agencia Estatal de Administración Tributaria que ocupa en comisión de servicios un puesto incluido en la relación de puestos de trabajo del Ministerio de Educación, ¿en qué situación administrativa se encuentra?:",
+      "options": [
+        "servicios especiales.",
+        "excedencia.",
+        "expectativa de destino .",
+        "servicio activo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-24",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Las Administraciones Públicas podrán conceder la rehabilitación, a petición del interesado, de quien hubiera perdido la condición de funcionario por haber sido condenado a la pena de inhabilitación:",
+      "options": [
+        "nunca.",
+        "con carácter general.",
+        "en todo caso.",
+        "con carácter excepcional."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-25",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La excedencia voluntaria incentivada tendrá, de conformidad con el Real Decreto 365/1995, de 10 de marzo, una duración de:",
+      "options": [
+        "no existe en la legislación actual la situación de excedencia voluntaria incentivada.",
+        "cinco años e impedirá desempeñar puestos de trabajo en el sector público.",
+        "quince años y podrá desempeñar cualquier actividad laboral.",
+        "cinco años y el funcionario podrá desarrollar cualquier actividad laboral en el sector público."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-26",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "¿En qué situación administrativa se encuentra un funcionario a lo largo de las dos primeras fases de una reasignación de efectivos?:",
+      "options": [
+        "servicio activo.",
+        "expectativa de destino.",
+        "excedencia forzosa.",
+        "servicios especiales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-27",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Un funcionario adopta a un menor de dos años de edad, ¿cuál es la duración de la excedencia a la que genera para atender al cuidado del hijo?:",
+      "options": [
+        "máximo un año.",
+        "máximo dos años.",
+        "máximo a tres años.",
+        "no genera derecho a excedencia alguna."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-28",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "¿Qué relación con la Administración ha de tener el cónyuge de un funcionario que solicita una excedencia voluntaria por agrupación familiar?:",
+      "options": [
+        "temporal o definitiva",
+        "no se exige relación del cónyuge con una administración pública.",
+        "temporal.",
+        "definitiva."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-29",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "De acuerdo con lo previsto en el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿qué fases del procedimiento disciplinario deberán de encomendarse necesariamente a órganos distintos?:",
+      "options": [
+        "la fase instructora y la sancionadora.",
+        "la fase incoadora y la fase sancionadora.",
+        "son correctas a y b.",
+        "no son correctas a y b."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-30",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Cuando se incoe expediente disciplinario a un funcionario que ha ostentado la condición de miembro de la Junta de Personal, deberá notificarse la misma a la referida Junta de Personal cuando la incoación del expediente se practique:",
+      "options": [
+        "dentro de los seis meses siguientes al cese del inculpado como miembro de la junta de personal.",
+        "dentro del año siguiente al cese del inculpado como miembro de la junta de personal.",
+        "dentro de los dos años siguientes al cese del inculpado como miembro de la junta de personal.",
+        "dentro de los nueve meses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-31",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de carrera serán declarados en situación de servicios especiales (señala la incorrecta):",
+      "options": [
+        "cuando sean designados como personal eventual por ocupar puestos de trabajo con funciones expresamente calificadas como de confianza o asesoramiento político y no opten por permanecer en la situación de servicio activo",
+        "cuando adquieran la condición de funcionarios al servicio de organizaciones internacionales",
+        "cuando sean designados asesores de los grupos parlamentarios de las cortes generales o de las asambleas legislativas de las comunidades autónomas",
+        "cuando sean activados como reservistas forzosos para prestar servicios en las fuerzas armadas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-32",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": ". Quienes se encuentren en situación de excedencia por interés particular:",
+      "options": [
+        "devengarán retribuciones y les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación",
+        "no devengarán retribuciones, ni les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación",
+        "devengarán retribuciones, pero no les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación",
+        "no devengarán retribuciones, pero les será computable el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que les sea de aplicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-33",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Tendrán la consideración de retribuciones diferidas, para el personal funcionario de la administración de CL:",
+      "options": [
+        "las aportaciones a planes de pensiones",
+        "las aportaciones a los contratos de seguros",
+        "a y b son correctas",
+        "todas las retribuciones complementarias del puesto de trabajo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-34",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de carrera de la Admón Civil del Estado que accedan por promoción interna a Escalas interdepartamentales o departamentales de Organismos Autónomos, quedarán incluidos obligatoriamente",
+      "options": [
+        "régimen general de la seguridad social",
+        "régimen especial de seguridad social de funcionarios",
+        "régimen general del sistema de seguridad social: muface",
+        "régimen especial de seguridad social: isfas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-35",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El personal funcionario de carrera de la Administración de Castilla y León está excluido en su cotización de:",
+      "options": [
+        "desempleo",
+        "fogasa",
+        "a y b son correctas",
+        "contingencias profesionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-36",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de nuevo ingreso en la Administración de Castilla y León formarán parte, en materia de seguridad social:",
+      "options": [
+        "régimen general",
+        "sistema especial funcionarial",
+        "régimen de clases pasivas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-37",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La situación del trabajador en la cual, después de haber estado sometido al tratamiento prescrito presenta reducciones anatómicas o funcionales graves, susceptibles de determinación objetiva y previsiblemente definitivas, que disminuyan o anulen su capacidad laboral se denomina:",
+      "options": [
+        "incapacidad temporal",
+        "incapacidad permanente",
+        "incapacidad laboral transitoria",
+        "pensión de complemento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-38",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Es causa de servicios especiales para el funcionario de carrera cuando sean..... (señale la respuesta falsa)",
+      "options": [
+        "autorizados para realizar una misión por periodo determinado superior a seis meses en organismos internacionales",
+        "sean nombrados para desempeñar puestos o cargos en organismos públicos o entidades asimilados en su rango administrativo a altos cargos",
+        "accedan a la condición de diputado de las cortes generales",
+        "cuando fueren contratados al servicio de organizaciones internacionales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-39",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El funcionario, en situación de suspensión de funciones, cuando la misma sea firme:",
+      "options": [
+        "dicha suspensión se impondrá en virtud de sentencia dictada en causa criminal o en virtud de sanción disciplinaria",
+        "no podrá exceder de seis años",
+        "el funcionario suspenso en firme quedará privado durante el tiempo de suspensión del ejercicio de sus funciones y de los derechos inherentes a la condición de funcionario",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-40",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La libertad sindical comprende los derechos a:",
+      "options": [
+        "fundar sindicatos sin autorización previa",
+        "afiliarse al sindicato de su elección observando los estatutos del mismo",
+        "derecho a elegir libremente a sus representantes dentro de cada sindicato",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-41",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Aprobar las medidas que garanticen los servicios mínimos en los casos de huelga de los empleados públicos de la administración de Castilla y León compete a:",
+      "options": [
+        "junta de castilla y león",
+        "consejero de función pública",
+        "consejo de la función pública",
+        "consejero de trabajo y asistencia social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-42",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El artículo 38.6 del TREBEP establece como requisitos para que los Pactos y Acuerdos desplieguen su eficacia que, una vez ratificados...",
+      "options": [
+        "sean publicados en el boletin oficial del estado y notificados a los órganos de representación de los trabajadores",
+        "notificados a los trabajadores individualmente por e-mail, y publicados en todos los boletines oficiales de ámbito territorial",
+        "deberán ser remitidos a la oficina pública que cada administración competente determine, y publicados en boletín oficlal que corresponda en función del ámbito territorial",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-43",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Quienes, conforme a la normativa de función pública dictada en desarrollo del presente Estatuto, presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración o entidad en el que se encuentren destinados y no les corresponda quedar en otra situación, se hallarán en situación de:",
+      "options": [
+        "excedencia",
+        "servicio activo",
+        "servicios especiales",
+        "suspensión de funciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-44",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los actos limitativos de la libre expresión de pensamiento, ideas y opiniones constituyen según el régimen disciplinario del personal funcionario de las Administraciones Públicas una falta de tipo:",
+      "options": [
+        "leve",
+        "grave",
+        "muy grave",
+        "no existe la falta mencionada en la pregunta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-45",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La retribución que se corresponde con el nivel del puesto de trabajo que se desempeña se denomina:",
+      "options": [
+        "complemento de destino",
+        "complemento específico",
+        "complemento de productividad",
+        "todas falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-46",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La situación de servicios especiales tiene para personal funcionario una duración máxima establecida de:",
+      "options": [
+        "3 años",
+        "4 años",
+        "8 años",
+        "no existe tiempo límite mientras haya situación que la provoque"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-47",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "La excedencia voluntaria incentivada tiene una duración de:",
+      "options": [
+        "4 años",
+        "5 años",
+        "3 años",
+        "12 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-48",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios en la Administración adquieren un grado personal que se corresponderá con alguno de los ....... Niveles en que se clasifican los puestos de trabajo:",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-49",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "Los funcionarios de nuevo ingreso comenzarán necesariamente a consolidar el grado correspondiente al nivel de complemento de destino ....",
+      "options": [
+        "mínimo del cuerpo al que se han incorporado",
+        "medio del cuerpo al que se han incorporado",
+        "del primer puesto adjudicado tras superar proceso selectivo",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t15-50",
+      "superblock": "Tema 15",
+      "subblock": "Test1 I BI T15",
+      "question": "El grado personal se adquiere ....",
+      "options": [
+        "por el desempeño de uno o más puestos del nivel correspondiente durante 2 años continuados o 3 con interrupción",
+        "por el cumplimiento de otros requisitos objetivos que reglamentariamente determine la junta de cl",
+        "por la superación de cursos específicos",
+        "todas las respuestas anteriores son correctas Test1 I BI T15 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

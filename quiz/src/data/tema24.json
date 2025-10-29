@@ -1,0 +1,3997 @@
+{
+  "module": "Tema 24",
+  "title": "Tema 24",
+  "totalQuestions": 285,
+  "questions": [
+    {
+      "id": "t24-1",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "El tipo de Fuente por defecto en Word 2013 es:",
+      "options": [
+        "times new roman 12 puntos.",
+        "tahoma, 10 puntos.",
+        "calibri, 11 puntos.",
+        "arial, 10 puntos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-2",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Cuando arrancamos Word 2013 sin abrir ningún documento, por defecto:",
+      "options": [
+        "nos abre un documento en blanco y le asigna el nombre inicial de libro1.",
+        "nos muestra la lista de los diez últimos documentos abiertos.",
+        "nos abre el último documento de word.",
+        "nos abre un documento en blanco y le asigna el nombre inicial documento1."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-3",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Si queremos realizar un cambio de línea de forma explícita:",
+      "options": [
+        "deberemos utilizar la combinación de teclas mayúsculas + intro.",
+        "podemos utilizar la tecla intro o ctrl.",
+        "deberemos utilizar insertar....salto de línea.",
+        "los saltos de líneas se realizan automáticamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-4",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "El punto de inserción:",
+      "options": [
+        "es el puntero del ratón.",
+        "indica dónde se introducirá el texto que tecleemos",
+        "se mueve cuando movemos el ratón.",
+        "no se mueve cuando pulsamos las teclas de dirección del teclado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-5",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "La tecla DEL o SUPR:",
+      "options": [
+        "borra el carácter que queda a la derecha del punto de inserción.",
+        "introduce un cambio de línea de forma explícita.",
+        "borra el carácter que queda a la izquierda del punto de inserción.",
+        "hace la misma función que la tecla retroceso."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-6",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Para abrir un documento que tenemos guardado:",
+      "options": [
+        "utilizaremos la combinación de teclas ctrl+ a.",
+        "en la pestaña archivo seleccionaremos la opción abrir.",
+        "utilizaremos la combinación de teclas ctrl+u.",
+        "las respuestas a y b son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-7",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Para qué sirve la combinación de teclas Ctrl+Y?",
+      "options": [
+        "para rehacer la última acción deshecha.",
+        "para deshacer la última acción realizada.",
+        "para seleccionar todo el texto.",
+        "para ir a la opción buscar."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-8",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Con la opción Cerrar de la pestaña Archivo:",
+      "options": [
+        "cerramos el documento que tenemos abierto.",
+        "cerramos todos los documentos que tengamos abiertos.",
+        "salimos de word.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-9",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "La combinación de teclas CTRL + L se utiliza para realizar la función de:",
+      "options": [
+        "reemplazar",
+        "buscar",
+        "guardar",
+        "personalizar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-10",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Qué es el portapapeles?",
+      "options": [
+        "es un programa utilizado para el tratamiento e impresión de textos",
+        "es un programa que sirve para organizar los archivos generados por las aplicaciones de un paquete ofimático.",
+        "es una herramienta del sistema operativo que sirve para transferir documentos de una carpeta del sistema de archivos a otra.",
+        "es una herramienta que sirve para almacenar temporalmente información de cualquier tipo usando las funciones cortar o copiar."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-11",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuándo reconoce WORD que pasamos a un párrafo nuevo?",
+      "options": [
+        "entre una línea y otra automáticamente, ya hay párrafos diferentes",
+        "cuando le demos al intro",
+        "cuando le demos al tabulador",
+        "si no hay sangrías en un texto, todas sus líneas se interpretarán como párrafos independientes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-12",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuáles son los botones por defecto en la barra de acceso rápido de Word?",
+      "options": [
+        "por defecto son: abrir, deshacer, marcar como leído y rehacer",
+        "por defecto son: abrir, cerrar y compartir, que son las más frecuentes.",
+        "por defecto son; guardar, deshacer, rehacer.",
+        "la barra de acceso rápido es un diseño para incorporar a los documentos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-13",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "13?",
+      "options": [
+        "en la barra de herramientas.",
+        "en la barra de título.",
+        "en la barra de desplazamiento.",
+        "en la barra de estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-14",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿En qué cinta de opciones encontramos las opciones de Buscar y reemplazar?:",
+      "options": [
+        "archivo.",
+        "ver.",
+        "inicio.",
+        "insertar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-15",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Desde qué cinta de opciones se puede abrir el Panel de Navegación?:",
+      "options": [
+        "inicio.",
+        "vista.",
+        "archivo.",
+        "complementos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-16",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuál es la tecla que borra el carácter que hay a la izquierda del punto de inserción?",
+      "options": [
+        "supr",
+        "retroceso",
+        "backspace",
+        "b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-17",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Referente a los caracteres no imprimibles en Word, es falso que:",
+      "options": [
+        "indican los lugares del texto donde se han pulsado las teclas “barra espaciadora”, “intro” y “tab”.",
+        "para mostrarlos se debe hacer clic en el botón “mostrar todo” de la cinta de opciones inicio, sección Párrafo.",
+        "para mostrarlos se debe hacer clic en el botón mostrar/ocultar de la barra de herramientas formato.",
+        "no aparecen cuando se imprime el documento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-18",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "La cinta de opciones…",
+      "options": [
+        "…contiene todas las herramientas y acciones que se pueden realizar en word",
+        "…se puede ocultar o mostrar, según nos convenga",
+        "…contiene opciones que son accesibles desde el teclado, sin necesidad de utilidad el ratón.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-19",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿cómo podemos hacer que todos los nuevos documentos tengan una fuente predeterminada en lugar de la ofrecida por Word?",
+      "options": [
+        "con el botón predeterminar del cuadro de dialogo fuente",
+        "cambiado la fuente al crear el documento",
+        "cambiando la fuente en todo el documento una vez se ha terminado",
+        "no se puede"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-20",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Para seleccionar un párrafo en Word con el ratón tenemos que pulsar?",
+      "options": [
+        "un clic.",
+        "tres clics.",
+        "doble clic.",
+        "cuatro clics."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-21",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Para seleccionar todo el texto u objetos del documento a través de las opciones de menú iremos",
+      "options": [
+        "inicio-párrafo",
+        "inicio-fuente",
+        "inicio-edición",
+        "inicio-paginas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-22",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Desde que opción podemos configurar la barra de acceso rápido",
+      "options": [
+        "archivo-opciones-personalizar cinta de opciones",
+        "archivo-opciones-avanzadas",
+        "archivo-opciones-revisión",
+        "archivo-opciones-barra de herramientas de acceso rápido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-23",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Desde que opción de menú podemos configurar se muestren las marcas de formato",
+      "options": [
+        "archivo-opciones-mostrar",
+        "archivo-opciones-revisión",
+        "archivo-opciones-general",
+        "archivo-opciones-avanzadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-24",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuántas vistas de documento hay?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-25",
+      "superblock": "Tema 24",
+      "subblock": "TEST 1 I (2024) BVI T2 Tema 24 Word",
+      "question": "Para insertar ecuaciones matemáticas lo haremos a través de:",
+      "options": [
+        "insertar texto ecuaciones.",
+        "insertar símbolos...símbolo.",
+        "a través de la combinación de teclas alt+ +.",
+        "a través de la combinación de teclas ctrl+ =. TEST 1 I (2024) BVI T2 Tema 24 Word SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-26",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "En las últimas versiones de Word, se apuesta por dotar de accesibilidad al programa pudiendo controlarlo por completo mediante el teclado, que tecla pulsaremos para entrar en el modo de acceso por teclado:",
+      "options": [
+        "ctrl",
+        "mayus",
+        "alt",
+        "ctrl+alt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-27",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Con cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar en Word 2013, una palabra seleccionada a mayúsculas o minúsculas:",
+      "options": [
+        "ctrl + <",
+        "mayus + f6",
+        "mayus + f3",
+        "ctrl + y"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-28",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Se puede insertar un salto de página manual pulsando las teclas:",
+      "options": [
+        "ctrl+e",
+        "ctrl+enter",
+        "ctrl+i",
+        "ctrl+a"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-29",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Se puede insertar un salto de línea manual pulsando las teclas:",
+      "options": [
+        "ctrl+intro",
+        "alt+intro",
+        "mayus+intro",
+        "alt+s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-30",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuál es la extensión predeterminada con que se guardan los archivos generados como plantillas de Word?",
+      "options": [
+        "docx",
+        "dotx",
+        "domt",
+        "docx"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-31",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "La barra que indica en Word el margen disponible para teclear el texto, en la que los márgenes vienen definidos por los símbolos que se encuentran a ambos lados de la barra es:",
+      "options": [
+        "barra de formato",
+        "barra de estado",
+        "regla",
+        "barra de márgenes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-32",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Que opción no corresponde a Proteger un documento.",
+      "options": [
+        "cifrar con contraseña",
+        "agregar una firma digital",
+        "inspeccionar documento",
+        "restringir edición"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-33",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Cual no es una opción de Archivo/ Información",
+      "options": [
+        "proteger documento",
+        "inspeccionar documento",
+        "administrar versiones",
+        "compartir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-34",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Vamos a compartir un documento de Word, pero antes queremos comprobar que información contiene. ¿Qué opción utilizaremos?",
+      "options": [
+        "inspeccionar documento",
+        "comprobar accesibilidad",
+        "comprobar compatibilidad",
+        "permisos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-35",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Word 2013 nos ofrece tres herramientas para cambiar el fondo de página que son:",
+      "options": [
+        "saltos, color de página y bordes de página.",
+        "marca de agua, color de página y bordes de página.",
+        "marca de agua, color de página y márgenes.",
+        "guiones, saltos y color de página."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-36",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Con qué combinación de teclas agrandaremos la fuente en un documento de Word?",
+      "options": [
+        "ctrl+=.",
+        "ctrl+ +.",
+        "ctrl+>.",
+        "alt+ ctrl."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-37",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Si queremos modificar la carpeta donde se guardan por defecto los documentos de Word:",
+      "options": [
+        "modificamos la opción guardar como…",
+        "no se puede hacer",
+        "modificamos la ruta de la opción “ubicación de archivo predeterminada” de guardar de opciones de Word.",
+        "debemos hablar con el administrador del sistema."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-38",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Cuál es la combinación de teclado para copiar formato",
+      "options": [
+        "ctrl+mayus+c",
+        "ctrl+mayus+v",
+        "ctrl+mayus+x",
+        "ctrl+mayus+p"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-39",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Señale la opción correcta para Word 2013 si queremos guardar un documento con nombre:",
+      "options": [
+        "f12",
+        "f7",
+        "f8",
+        "alt + f8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-40",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "En Word, la barra de desplazamiento sirve para visualizar el contenido que no cabe en la ventana y siempre veremos una vertical en el lateral y otra horizontal en la parte inferior.",
+      "options": [
+        "la afirmación es falsa",
+        "la afirmación es verdadera",
+        "la barra horizontal siempre es visible, pero la vertical no.",
+        "las respuestas b) y c) son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-41",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Permite almacenar texto o imágenes que se quieren copiar y pegar:",
+      "options": [
+        "estilos",
+        "fuente",
+        "párrafo",
+        "portapapeles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-42",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Dentro de los métodos abreviados de teclado generales, ¿cuál de los siguientes comandos es el empleado para deshacer una acción?",
+      "options": [
+        "ctrl +tabulador",
+        "ctrl + z",
+        "alt + f4",
+        "alt + tabulador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-43",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "En la cinta de opciones “Inicio “- “Párrafo” se establecen en Word, entre otros:",
+      "options": [
+        "justificación",
+        "tamaño de la fuente del párrafo",
+        "subrayado",
+        "espacio entre caracteres"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-44",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "La herramienta de Resaltado de texto…",
+      "options": [
+        "…subraya un texto con una línea",
+        "…aumenta el grosor de la fuente, es decir, da un efecto de negrita al texto.",
+        "…colorea el fondo de un texto, normalmente con colores llamativos.",
+        "…dibuja un circulo alrededor de un texto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-45",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "La presentación predeterminada de un documento Word es:",
+      "options": [
+        "presentación preliminar",
+        "presentación borrador",
+        "presentación diseño de impresión",
+        "presentación modo lectura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-46",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Podemos añadir una portada a nuestro documento de Word 2013 con la opción:",
+      "options": [
+        "insertar páginas...portada.",
+        "con la combinación de teclas ctrl+ enter.",
+        "diseño de página...configurar página...portada.",
+        "diseño de página...fondo de página. portada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-47",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Mediante el icono se realiza:",
+      "options": [
+        "se elige el color de los bordes",
+        "se elige el color de fondo o relleno",
+        "tanto la a) como la b)",
+        "ninguna de las anteriores."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-48",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "La sangría francesa:",
+      "options": [
+        "centra todas las líneas del párrafo.",
+        "justifica todas las líneas del párrafo.",
+        "desplaza todas las líneas del párrafo hacia la derecha excepto la primera línea.",
+        "desplaza la primera línea del párrafo un poco a la derecha."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-49",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "Con la opción Espaciado de la pestaña Sangría y Espacio del cuadro de diálogo Párrafo:",
+      "options": [
+        "podemos fijar el espacio vertical que quedará entre el párrafo que hemos seleccionado y el párrafo anterior o posterior.",
+        "podemos fijar el espacio vertical que separa las líneas del párrafo seleccionado.",
+        "podemos fijar el espacio entre los caracteres.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-50",
+      "superblock": "Tema 24",
+      "subblock": "TEST 2 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuál es el interlineado establecido por defecto en Word 2013?",
+      "options": [
+        "sencillo.",
+        "1.5 líneas.",
+        "doble.",
+        "múltiple. TEST 2 I (2024) BVI T2 Tema 24 Word SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-51",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para poder insertar una página en blanco en un documento de Word lo podremos hacer desde:",
+      "options": [
+        "menú insertar – sección ilustraciones",
+        "menú insertar – sección páginas",
+        "menú insertar – sección tablas",
+        "menú insertar – encabezados y pies de página."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-52",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Qué opciones encontramos en la pestaña Revisar?",
+      "options": [
+        "ortografía y gramática, guardar, imprimir",
+        "restringir edición, ortografía y gramática, nuevo comentario….",
+        "aplicación de formatos",
+        "todas las anteriores."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-53",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "El formato de párrafo justificado",
+      "options": [
+        "alinea el texto al centro",
+        "alinea el texto a derecha e izquierda",
+        "alinea el texto a la izquierda",
+        "alinea el texto a la derecha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-54",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "cm, izquierdo 4 y derecho 2,5",
+      "options": [
+        "diseño de página– configurar página – márgenes – márgenes personalizados",
+        "diseño de página– párrafo – configurar página –márgenes – márgenes personalizados",
+        "párrafo – configurar página – márgenes personalizados",
+        "diseño de página– configurar página – diseño – márgenes personalizados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-55",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Tipos de saltos de sección",
+      "options": [
+        "página siguiente, columna, continua.",
+        "página siguiente, columna, ajuste de texto",
+        "página siguiente, continua, columna, página par, página impar.",
+        "página siguiente, continua, página par, página impar."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-56",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En el procesador de textos Word 2013 ¿Cómo reflejarías la expresión m 2 ?",
+      "options": [
+        "ctrl + =",
+        "ctrl + mayus + +",
+        "ctrl + +",
+        "mayus + +"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-57",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Mediante el interlineado, controlamos",
+      "options": [
+        "la distancia de la primera línea",
+        "la distancia entre párrafos",
+        "la distancia entre líneas de un mismo párrafo",
+        "la separación entre caracteres"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-58",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Cuando estamos en un documento y deseamos cambiar de encabezado (por ej., a partir de la página 5) y queremos que las anteriores paginas mantenga el que tenía, debemos empezar por:",
+      "options": [
+        "nada en especial, si lo ponemos en la 5, los anteriores no se cambian.",
+        "insertar - salto - salto de página.",
+        "diseño de página- salto - salto de sección - página siguiente.",
+        "insertar - salto - salto de sección - diferente encabezado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-59",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Las características más importantes del formato de párrafo son:",
+      "options": [
+        "la alineación, la sangría y la negrita.",
+        "la alineación y el salto de página.",
+        "la fuente y la sangría.",
+        "la alineación y la sangría."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-60",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "EL texto tiene un interlineado de 1,00 y queremos modificarlo y ponerle un interlineado de 1,5 para ello seleccionaremos el texto y:",
+      "options": [
+        "haremos clic en la cinta de opciones en diseño > grupo párrafo y elegiremos interlineado de 1,5",
+        "haremos clic en la cinta de opciones en inicio > grupo párrafo y elegiremos interlineado de 1,5",
+        "usaremos el método abreviado crtl + 5",
+        "las opciones b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-61",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si pulsamos la combinación de teclas Alt+Ctrl+Mayu+S accedemos a:",
+      "options": [
+        "estilos",
+        "índices",
+        "tabla de contenido",
+        "tabla de ilustraciones."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-62",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En Word para aplicar el formato versales se utiliza como atajo las teclas:",
+      "options": [
+        "control + mayus + t",
+        "control + l",
+        "control + m",
+        "control + mayus + l"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-63",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Word, que desplazamiento produce la combinación de teclas Ctrl + (flecha derecha)",
+      "options": [
+        "una palabra completa hacia la derecha.",
+        "al final de la línea.",
+        "avanza una silaba hacia la derecha.",
+        "selecciona una silaba hacia la derecha."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-64",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Selecciona qué icono de la cinta de opciones de Word, utilizarías para poner la fuente de letra en color rojo en un texto.",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-65",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Indica cuál de las siguientes configuraciones de diseño de página se ha aplicado en el siguiente párrafo. A día de hoy existen distintas variantes de este tipo de malware y por el momento, debido al tipo de cifrado utilizado, normalmente no es posible la recuperación de los datos, por tanto, la única posibilidad de recuperar los ficheros es desde copias de seguridad que se hayan realizado previamente en otros dispositivos o sistemas externos: USB, disco duro extraíble, DVD, la nube, etc.",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-66",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "La opción Escala del cuadro de diálogo Fuente...Avanzado:",
+      "options": [
+        "afecta a la anchura de cada letra.",
+        "afecta a la distancia de separación entre caracteres.",
+        "altera la altura del texto en la línea.",
+        "afecta a las características opentype"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-67",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si en Word 2013 queremos rehacer una acción que previamente hemos deshecho, ¿Cuál de las siguientes opciones debemos ejecutar?",
+      "options": [
+        "ctrl + w",
+        "ctrl + v",
+        "ctrl + n",
+        "ctrl + y"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-68",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿por qué es tan importante la plantilla Normal.dotm?",
+      "options": [
+        "porque es la única que cumple los estándares para poderse ver en cualquier versión de word.",
+        "porque es la base para crear otras plantillas.",
+        "porque los nuevos documentos en blanco se basan en ella.",
+        "todas las respuestas son falsas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-69",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Qué ocurre si borramos la plantilla Normal.dotm?",
+      "options": [
+        "word puede dar problemas en el arranque en algunos casos.",
+        "nada, se crea sola otra vez al crear un nuevo documento.",
+        "se crea un agujero espacio-tiempo",
+        "se pierde la configuración de word y deberíamos llamar a la asistencia técnica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-70",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si queremos poner una Letra Capital en un texto que debemos hacer.",
+      "options": [
+        "insertar - paginas - letra capital",
+        "insertar - símbolos - letra capital",
+        "insertar - texto - letra capital.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-71",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si en Word pulsamos May + Inicio seleccionaremos:",
+      "options": [
+        "desde el principio de la línea hasta el punto de inserción",
+        "desde el principio del documento hasta el punto de inserción",
+        "desde el principio del párrafo hasta el punto de inserción",
+        "desde el principio de la página hasta el punto de inserción."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-72",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para que un párrafo no quede dividido en dos páginas debemos activar la casilla:",
+      "options": [
+        "control de líneas viudas y huérfanas.",
+        "conservar líneas juntas.",
+        "salto de página anterior.",
+        "conservar con el siguiente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-73",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿A qué posición se desplaza el punto de inserción o cursor si en un documento de varias páginas, creado en Word, se pulsa la combinación de teclas CTRL + AvPag",
+      "options": [
+        "al final de la página actual",
+        "al principio de la página actual",
+        "al principio de la página siguiente.",
+        "al final de la página siguiente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-74",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "La opción de elementos rápidos:",
+      "options": [
+        "está disponible en insertar...texto... elementos rápidos.",
+        "está disponible en insertar... vínculos... elementos rápidos.",
+        "inserta cuadro de textos con formato previo.",
+        "crea un vínculo a una página web."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-75",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Word 2013 nos ofrece tres herramientas para cambiar el fondo de página que son:",
+      "options": [
+        "saltos, color de página y bordes de página.",
+        "marca de agua, color de página y bordes de página.",
+        "marca de agua, color de página y márgenes.",
+        "guiones, saltos y color de página."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-76",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "De los siguientes textos ¿Cuál está escrito en Versalitas?",
+      "options": [
+        "microsoft word.",
+        "microsoft word.",
+        "microsoft word.",
+        "microsoft word."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-77",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para definir el texto de nuestro informe en formato columnas, ¿qué pasos realizas?",
+      "options": [
+        "seleccionar “insertar” > elementos rápidos > autotexto.",
+        "seleccionar “disseño de pagina”> columnas > seleccionar el número de columnas.",
+        "seleccionar “diseño”> espaciado entre párrafos > doble.",
+        "seleccionar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-78",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si en un párrafo seleccionamos los términos “Constitución Española” y utilizamos el método Ctrl+S dos veces seguidas, ¿Cuál de los siguientes resultados obtendríamos?",
+      "options": [
+        "constitución española",
+        "constitución española",
+        "constitución española",
+        "constitución española"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-79",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si nos situamos con ratón en el margen de la izquierda a la altura de una línea y hacemos clic, se seleccionará…",
+      "options": [
+        "…ninguna parte del texto",
+        "…la palabra inicial de la oración que está a la altura del puntero del ratón",
+        "…toda la línea que está a la altura del puntero del ratón",
+        "…el párrafo situado a la derecha del puntero del ratón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-80",
+      "superblock": "Tema 24",
+      "subblock": "TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para insertar un borde de página en Word 2013 tenemos que entrar a través de las siguientes opciones:",
+      "options": [
+        "inicio - fondo de pagina - bordes de pagina",
+        "vista - fondo de página - bordes de pagina",
+        "diseño - fondo de página - bordes de pagina",
+        "insertar - fondo de página - bordes de pagina TEST 3 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-81",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "El botón \" Ver en paralelo”:",
+      "options": [
+        "se encuentra en el grupo ventana de la ficha vista.",
+        "solo está activado si hay más de un documento abierto.",
+        "posibilita la comparación de dos documentos activos mostrándolos en la pantalla, en dos ventanas en paralelo.",
+        "todas las respuestas anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-82",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "El margen interno está especialmente pensado para:",
+      "options": [
+        "reservar un espacio para la sangría.",
+        "reservar un espacio para los saltos de página.",
+        "reservar un espacio para la encuadernación.",
+        "reservar un espacio para los encabezados y pie de página"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-83",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Para conseguir de una forma rápida que el texto destaque con efectos especiales utilizaremos la herramienta:",
+      "options": [
+        "elementos rápidos",
+        "imágenes",
+        "complementos",
+        "wordart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-84",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "El botón ordenar A-Z nos permite:",
+      "options": [
+        "ordenar solo en forma descendente",
+        "ordenar solo en forma ascendente",
+        "ordenar en cualquiera de las dos formas, ascendente o descendente.",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-85",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Para qué sirve el botón.....en Word?",
+      "options": [
+        "sirve para cambiar a minúsculas",
+        "sirve para cambiar a mayúsculas",
+        "sirve para cambiar a mayúsculas, minúsculas y poner en mayúsculas cada palabra",
+        "sirve para cambiar la primera letra a mayúsculas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-86",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Para poner un color a toda la hoja se tiene que ir a:",
+      "options": [
+        "disposición – color de pagina",
+        "diseño – fondo de página - color de pagina",
+        "vista – color de pagina",
+        "inicio – color de pagina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-87",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Observe la siguiente imagen de la regla de Word e indique cuál de las siguientes afirmaciones no es correcta",
+      "options": [
+        "hay una sangría de primera línea en 2,5 cm.",
+        "hay una sangría izquierda de 0,5 cm.",
+        "las tabulaciones predeterminadas están colocadas a 1,25 cm.",
+        "hay una sangría francesa de 3 cm."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-88",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "A través de que herramienta de Word puedo crear un gráfico para reflejar una jerarquía en una ilustración piramidal:",
+      "options": [
+        "wordart",
+        "imágenes",
+        "smartart",
+        "grafico lineal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-89",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Si elegimos insertar imágenes en línea, ¿Dónde iremos?",
+      "options": [
+        "iremos al menú insertar, sección organizar, imágenes, imágenes en línea.",
+        "iremos al menú diseño, sección imágenes, imágenes, imágenes en línea.",
+        "iremos al menú inicio, sección párrafo, imágenes, imágenes en línea.",
+        "iremos al menú insertar, sección ilustraciones, imágenes, imágenes en línea."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-90",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Después de crear un gráfico, podemos cambiar su aspecto de forma instantánea, ¿de qué manera?",
+      "options": [
+        "cambiarle el formato del grafico",
+        "aplicarle rápidamente un estilo de diseño predefinido.",
+        "agregarle manualmente los elementos",
+        "cambiarle manualmente los elementos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-91",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Qué función de Word es la óptima para realizar un diagrama de jerarquía para comunicar información visualmente?",
+      "options": [
+        "formas",
+        "grafico",
+        "smartart",
+        "captura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-92",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Dentro de la cinta de opciones Archivo-Abrir en Word, podemos ver los archivos recientes que se almacenan, ¿cuál es número predeterminado de archivos que se visualizan?",
+      "options": [
+        "25",
+        "24",
+        "50",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-93",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "El conjunto de elementos ligeramente tabulados y precedidos por un símbolo, dibujo o número es a efectos de Word 2013:",
+      "options": [
+        "una lista.",
+        "un tema.",
+        "un estilo.",
+        "un formato."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-94",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Cuando estamos en un documento y deseamos cambiar de encabezado (por ej., a partir de la página 5) y queremos que las anteriores paginas mantenga el que tenía, debemos empezar por:",
+      "options": [
+        "nada en especial, si lo ponemos en la 5, los anteriores no se cambian.",
+        "insertar - saltos - saltos de página.",
+        "diseño de pagina - saltos - saltos de sección - pagina siguiente.",
+        "insertar - saltos - saltos de sección - diferente encabezado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-95",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "En Word, para mover directamente el cursor hasta la siguiente palabra",
+      "options": [
+        "solo podemos hacerlo usando el ratón",
+        "podemos utilizar alt + flecha derecha",
+        "podemos utilizar ctrl + flecha derecha",
+        "podemos utilizar fin +flecha derecha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-96",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Para seleccionar un texto en Word por medio del teclado:",
+      "options": [
+        "usaremos la tecla mayúscula y las teclas de dirección del cursor.",
+        "usaremos la tecla ctrl y las teclas de dirección del cursor",
+        "no es posible seleccionar texto con el teclado; solo es seleccionable con el ratón",
+        "usaremos la tecla “alt” y las teclas de dirección del cursor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-97",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Si activamos la casilla de verificación Usar comodines en la Búsqueda avanzada y en Especial uno de los co¬modines posibles es [-], éste sustituye:",
+      "options": [
+        "a cualquier carácter.",
+        "al final de palabra.",
+        "a un intervalo de caracteres.",
+        "a una expresión."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-98",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Dónde se encuentra la opción de Idioma?",
+      "options": [
+        "vista",
+        "revisar",
+        "inicio",
+        "referencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-99",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Se puede meter una firma digital en Word",
+      "options": [
+        "si, desde archivo, inspeccionar documento, agregar firma digital",
+        "si, desde archivo, administrar documento, agregar firma digital",
+        "si, desde archivo, proteger documento, agregar firma digital",
+        "no está permitido."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-100",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿cuál de las siguientes afirmaciones es cierta?",
+      "options": [
+        "el pie de página siempre contiene el número de pagina",
+        "para imprimir un documento podemos pulsar las teclas ctrl+i o bien ir a la pestaña archivo y seleccionar imprimir.",
+        "si tenemos pie de página no podemos tener encabezados",
+        "para ver los encabezados y pies de página en la pantalla de nuestro ordenador tenemos que estar en modo vista diseño de impresión."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-101",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Cuáles son las sangrías especiales?",
+      "options": [
+        "sangría izquierda",
+        "sangría francesa",
+        "sangría derecha",
+        "sangría de primera línea y francesa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-102",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Qué nombre recibe en Word la herramienta utilizada para crear la lista que aparece en la imagen de la derecha?",
+      "options": [
+        "tabla de contenido",
+        "índice",
+        "tabla de ilustraciones",
+        "referencias cruzadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-103",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿En que pestaña de la cinta de opciones de Word se encuentra de forma predeterminada la opción \"Nuevo comentario\"?",
+      "options": [
+        "inicio",
+        "diseño",
+        "revisar",
+        "vista"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-104",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿se puede convertir un documento en plantilla?",
+      "options": [
+        "si, simplemente cambiando su tipo de archivo",
+        "si, utilizando el asistente de transformación a plantillas",
+        "no",
+        "si, simplemente cambiándolo al directorio donde se guardan las plantillas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-105",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Cuál es una opción de alineación para una tabulación en Word?",
+      "options": [
+        "superior",
+        "inferior",
+        "numérica",
+        "decimal TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-106",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "El botón \" Ver en paralelo”:",
+      "options": [
+        "se encuentra en el grupo ventana de la ficha vista.",
+        "solo está activado si hay más de un documento abierto.",
+        "posibilita la comparación de dos documentos activos mostrándolos en la pantalla, en dos ventanas en paralelo.",
+        "todas las respuestas anteriores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-107",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "El margen interno está especialmente pensado para:",
+      "options": [
+        "reservar un espacio para la sangría.",
+        "reservar un espacio para los saltos de página.",
+        "reservar un espacio para la encuadernación.",
+        "reservar un espacio para los encabezados y pie de página"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-108",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para conseguir de una forma rápida que el texto destaque con efectos especiales utilizaremos la herramienta:",
+      "options": [
+        "elementos rápidos",
+        "imágenes",
+        "complementos",
+        "wordart"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-109",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "El botón ordenar A-Z nos permite:",
+      "options": [
+        "ordenar solo en forma descendente",
+        "ordenar solo en forma ascendente",
+        "ordenar en cualquiera de las dos formas, ascendente o descendente.",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-110",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Para qué sirve el botón.....en Word?",
+      "options": [
+        "sirve para cambiar a minúsculas",
+        "sirve para cambiar a mayúsculas",
+        "sirve para cambiar a mayúsculas, minúsculas y poner en mayúsculas cada palabra",
+        "sirve para cambiar la primera letra a mayúsculas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-111",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para poner un color a toda la hoja se tiene que ir a:",
+      "options": [
+        "disposición – color de pagina",
+        "diseño – fondo de página - color de pagina",
+        "vista – color de pagina",
+        "inicio – color de pagina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-112",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Observe la siguiente imagen de la regla de Word e indique cuál de las siguientes afirmaciones no es correcta",
+      "options": [
+        "hay una sangría de primera línea en 2,5 cm.",
+        "hay una sangría izquierda de 0,5 cm.",
+        "las tabulaciones predeterminadas están colocadas a 1,25 cm.",
+        "hay una sangría francesa de 3 cm."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-113",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "A través de que herramienta de Word puedo crear un gráfico para reflejar una jerarquía en una ilustración piramidal:",
+      "options": [
+        "wordart",
+        "imágenes",
+        "smartart",
+        "grafico lineal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-114",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si elegimos insertar imágenes en línea, ¿Dónde iremos?",
+      "options": [
+        "iremos al menú insertar, sección organizar, imágenes, imágenes en línea.",
+        "iremos al menú diseño, sección imágenes, imágenes, imágenes en línea.",
+        "iremos al menú inicio, sección párrafo, imágenes, imágenes en línea.",
+        "iremos al menú insertar, sección ilustraciones, imágenes, imágenes en línea."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-115",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Después de crear un gráfico, podemos cambiar su aspecto de forma instantánea, ¿de qué manera?",
+      "options": [
+        "cambiarle el formato del grafico",
+        "aplicarle rápidamente un estilo de diseño predefinido.",
+        "agregarle manualmente los elementos",
+        "cambiarle manualmente los elementos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-116",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Qué función de Word es la óptima para realizar un diagrama de jerarquía para comunicar información visualmente?",
+      "options": [
+        "formas",
+        "grafico",
+        "smartart",
+        "captura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-117",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Dentro de la cinta de opciones Archivo-Abrir en Word, podemos ver los archivos recientes que se almacenan, ¿cuál es número predeterminado de archivos que se visualizan?",
+      "options": [
+        "25",
+        "24",
+        "50",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-118",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "El conjunto de elementos ligeramente tabulados y precedidos por un símbolo, dibujo o número es a efectos de Word 2013:",
+      "options": [
+        "una lista.",
+        "un tema.",
+        "un estilo.",
+        "un formato."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-119",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Cuando estamos en un documento y deseamos cambiar de encabezado (por ej., a partir de la página 5) y queremos que las anteriores paginas mantenga el que tenía, debemos empezar por:",
+      "options": [
+        "nada en especial, si lo ponemos en la 5, los anteriores no se cambian.",
+        "insertar - saltos - saltos de página.",
+        "diseño de pagina - saltos - saltos de sección - pagina siguiente.",
+        "insertar - saltos - saltos de sección - diferente encabezado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-120",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En Word, para mover directamente el cursor hasta la siguiente palabra",
+      "options": [
+        "solo podemos hacerlo usando el ratón",
+        "podemos utilizar alt + flecha derecha",
+        "podemos utilizar ctrl + flecha derecha",
+        "podemos utilizar fin +flecha derecha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-121",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para seleccionar un texto en Word por medio del teclado:",
+      "options": [
+        "usaremos la tecla mayúscula y las teclas de dirección del cursor.",
+        "usaremos la tecla ctrl y las teclas de dirección del cursor",
+        "no es posible seleccionar texto con el teclado; solo es seleccionable con el ratón",
+        "usaremos la tecla “alt” y las teclas de dirección del cursor."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-122",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si activamos la casilla de verificación Usar comodines en la Búsqueda avanzada y en Especial uno de los co¬modines posibles es [-], éste sustituye:",
+      "options": [
+        "a cualquier carácter.",
+        "al final de palabra.",
+        "a un intervalo de caracteres.",
+        "a una expresión."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-123",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Dónde se encuentra la opción de Idioma?",
+      "options": [
+        "vista",
+        "revisar",
+        "inicio",
+        "referencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-124",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Se puede meter una firma digital en Word",
+      "options": [
+        "si, desde archivo, inspeccionar documento, agregar firma digital",
+        "si, desde archivo, administrar documento, agregar firma digital",
+        "si, desde archivo, proteger documento, agregar firma digital",
+        "no está permitido."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-125",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿cuál de las siguientes afirmaciones es cierta?",
+      "options": [
+        "el pie de página siempre contiene el número de pagina",
+        "para imprimir un documento podemos pulsar las teclas ctrl+i o bien ir a la pestaña archivo y seleccionar imprimir.",
+        "si tenemos pie de página no podemos tener encabezados",
+        "para ver los encabezados y pies de página en la pantalla de nuestro ordenador tenemos que estar en modo vista diseño de impresión."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-126",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Cuáles son las sangrías especiales?",
+      "options": [
+        "sangría izquierda",
+        "sangría francesa",
+        "sangría derecha",
+        "sangría de primera línea y francesa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-127",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Qué nombre recibe en Word la herramienta utilizada para crear la lista que aparece en la imagen de la derecha?",
+      "options": [
+        "tabla de contenido",
+        "índice",
+        "tabla de ilustraciones",
+        "referencias cruzadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-128",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Se puede meter una firma digital en Word",
+      "options": [
+        "si, desde archivo, inspeccionar documento, agregar firma digital",
+        "si, desde archivo, administrar documento, agregar firma digital",
+        "si, desde archivo, proteger documento, agregar firma digital",
+        "no está permitido."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-129",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿se puede convertir un documento en plantilla?",
+      "options": [
+        "si, simplemente cambiando su tipo de archivo",
+        "si, utilizando el asistente de transformación a plantillas",
+        "no",
+        "si, simplemente cambiándolo al directorio donde se guardan las plantillas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-130",
+      "superblock": "Tema 24",
+      "subblock": "TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si elegimos insertar imágenes en línea, ¿Dónde iremos?",
+      "options": [
+        "iremos al menú insertar, sección organizar, imágenes en línea.",
+        "iremos al menú diseño, sección imágenes, imágenes en línea.",
+        "iremos al menú inicio, sección párrafo, imágenes en línea.",
+        "iremos al menú insertar, sección ilustraciones, imágenes en línea. TEST 4 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-131",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Para poder insertar fracciones en un documento de Word se necesita agregar:",
+      "options": [
+        "ecuaciones",
+        "símbolos",
+        "objeto",
+        "no se pueden insertar fracciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-132",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Al pulsar la tecla TAB en la última celda de una tabla en un documento de Word 2013:",
+      "options": [
+        "se sitúa el cursor en la primera celda de la tabla.",
+        "se sale fuera de la tabla.",
+        "se crea una nueva columna.",
+        "se crea una nueva fila."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-133",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "La herramienta «Control de cambios» de Microsoft Word permite resaltar las modificaciones realizadas en un documento:",
+      "options": [
+        "en pantalla y/o en el documento impreso",
+        "sólo en pantalla",
+        "sólo en la versión impresa",
+        "sólo en ciertas vistas del documento en pantalla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-134",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Después de crear un gráfico, podemos cambiar su aspecto de forma instantánea, ¿de qué manera?",
+      "options": [
+        "cambiarle el formato del grafico",
+        "aplicarle rápidamente un estilo de diseño predefinido.",
+        "agregarle manualmente los elementos",
+        "cambiarle manualmente los elementos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-135",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Vamos a compartir un documento de Word, pero antes queremos comprobar que información contiene. ¿Qué opción utilizaremos?",
+      "options": [
+        "inspeccionar documento",
+        "comprobar accesibilidad",
+        "comprobar compatibilidad",
+        "permisos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-136",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "En relación a la posibilidad de introducir comentarios:",
+      "options": [
+        "lo haremos a través de la pestaña revisar...comentarios...nuevo comentario.",
+        "los comentarios se adjuntan al documento, pero no se imprimen en ningún caso.",
+        "debemos seleccionar siempre el texto del cual vamos a crear el documento.",
+        "en la vista del documento esquema o borrador nos aparecerá una sección lateral con el globo del comentario a la derecha del documento."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-137",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Mediante que opción, ¿se puede reiniciar la cuenta en una numeración?:",
+      "options": [
+        "esta opción no existe",
+        "en opción de numeración, seleccionamos establecer valor de numeración",
+        "el ordenador la reinicia automáticamente",
+        "dentro de un mismo documento, la numeración es siempre secuencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-138",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Para crear un hipervínculo a un anexo dentro de un mismo documento de Word los pasos a seguir serian:",
+      "options": [
+        "insertar - vínculos - hipervínculo - lugar de este documento",
+        "insertar - vínculos - hipervínculo - crear nuevo documento",
+        "pulsar alt + ctrl + k - lugar de este documento",
+        "a y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-139",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Qué combinación de teclas activa la herramienta que permite llevar un seguimiento de las modificaciones, insertos y eliminaciones de un texto?:",
+      "options": [
+        "ctrl + may + k.",
+        "ctrl + may + e.",
+        "ctrl + may + f.",
+        "la herramienta descrita es \"control de cambios\", y no tiene acceso mediante combinación de teclas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-140",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "¿Dónde se encuentra la opción de contar palabras?",
+      "options": [
+        "vista",
+        "revisar",
+        "inicio",
+        "referencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-141",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Si estoy interesado en imprimir de un documento de Microsoft Word, las páginas 1,3, de la 5 a la 12, y la 14, debo seleccionar en las opciones de impresión, dentro de la vista backstage / Configuración / Impresión personalizada:",
+      "options": [
+        "1,3,5 a 12 y 14",
+        "1 3 5 6 7 8 9 10-11-12-14",
+        "1,3,5-12,14",
+        "1-14-2,-4.-13"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-142",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Después de imprimir el documento te das cuenta que la letra es muy pequeña y quieres ampliarla en todo el informe para que se visualice mejor impresa, ¿qué harías?",
+      "options": [
+        "seleccionar todo el texto y utilizar la herramienta zoom para ampliar el texto",
+        "seleccionar todo el texto y poner un tamaño de fuente mayor:",
+        "seleccionar todo el texto y clicar en",
+        "seleccionamos el texto y clicar en"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-143",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "En la ventana Opciones de Word aparecen agrupadas las opciones por categorías. ¿En cuál de las siguientes categorías encontramos las \"Opciones de impresión\"?",
+      "options": [
+        "general.",
+        "mostrar.",
+        "revisión.",
+        "idioma."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-144",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "De los siguientes elementos ¿cuáles no pertenecen al Grupo Organizar de la pestaña Diseño de página?",
+      "options": [
+        "posición, ajustar texto, traer adelante.",
+        "ajustar texto, panel de selección, alinear.",
+        "columnas, saltos, números de línea.",
+        "posición, alinear, girar."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-145",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Dentro de un esquema numerado, el número máximo de niveles que nos ofrece Word, es:",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-146",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Si abrimos un documento de Word y en la hoja en blanco se nos presenta la regla siguiente:",
+      "options": [
+        "sabemos que escribiremos nuestros párrafos a partir del centímetro 2 y que al tabular saltaremos directamente al centímetro 3'75 con una alineación centrada.",
+        "si no usamos la tecla de tabulación, nuestros párrafos irán escritos desde el centímetro 1 hasta el 6, con una sangría francesa de 1 centímetro.",
+        "usando la tecla de tabulación, tendremos 3 saltos: en 1'25 con alineación izquierda, en 3'75 con alineación centrada y en 5'25 con alineación derecha.",
+        "las respuestas b y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-147",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Mientras escribimos un texto en nuestro Word 2013 nos damos cuenta de que, tal y como muestra la imagen, hemos escrito mal el término “Constitución”, partiendo del lugar donde se encuentra el punto de inserción, ¿Qué método emplearemos para eliminar el termino mal escrito?",
+      "options": [
+        "ctrl + alt + supr",
+        "ctrl + retroceso",
+        "ctrl + alt + retroceso",
+        "ctrl + supr"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-148",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "La opción de dejar a varios objetos como si fuera solo uno, se realiza mediante la opción de:",
+      "options": [
+        "juntar",
+        "agrupar",
+        "ensamblar",
+        "ninguna de las anteriores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-149",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "En la primera página de un documento deWord, se ha insertado una nota al final de la página desde la pestaña “Referencias” de la “cinta de opciones”. ¿Cuál es el icono que sirve para “Insertar nota al pie”?",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-150",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Una referencia cruzada permite vincular a otras partes del mismo documento. Para crear una referencia cruzada a una tabla de Word:",
+      "options": [
+        "no existen referencias cruzadas en word.",
+        "en primer lugar, hay que crear el elemento al que se está haciendo la referencia cruzada.",
+        "se inserta la referencia cruzada únicamente desde la pestaña “revisar” de la “cinta de opciones”.",
+        "en un primer paso se crea la referencia cruzada y en un segundo paso se crea la tabla a la que se hace referencia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-151",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "A través de la combinación de teclas Alt+ Ctrl+ C , Word 2013 inserta el carácter especial de:",
+      "options": [
+        "copyright.",
+        "registrado.",
+        "espacio de no separación.",
+        "marca registrada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-152",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "13 se conoce como:",
+      "options": [
+        "formato.",
+        "tipografía.",
+        "estilo.",
+        "tema."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-153",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Por defecto ¿se puede escribir en una autoforma?",
+      "options": [
+        "no, en ninguna",
+        "solo las que tienen forma de poliedro",
+        "solo en un cuadro de texto",
+        "ninguna de las anteriores respuestas es correcta."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-154",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Si queremos modificar la carpeta donde se guardan por defecto los documentos de Word:",
+      "options": [
+        "modificamos la opción guardar como…",
+        "no se puede hacer",
+        "modificamos la ruta de la opción “ubicación de archivo predeterminada” de guardar de opciones de word.",
+        "debemos hablar con el administrador del sistema."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-155",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) (1)",
+      "question": "Dentro de un esquema con viñetas, las viñetas son:",
+      "options": [
+        "todas deben ser iguales",
+        "pueden ser diferentes",
+        "al menos del mismo tamaño",
+        "al menos del mismo color TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-156",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para poder insertar fracciones en un documento de Word se necesita agregar:",
+      "options": [
+        "ecuaciones",
+        "símbolos",
+        "objeto",
+        "no se pueden insertar fracciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-157",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Al pulsar la tecla TAB en la última celda de una tabla en un documento de Word 2013:",
+      "options": [
+        "se sitúa el cursor en la primera celda de la tabla.",
+        "se sale fuera de la tabla.",
+        "se crea una nueva columna.",
+        "se crea una nueva fila."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-158",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "La herramienta «Control de cambios» de Microsoft Word permite resaltar las modificaciones realizadas en un documento:",
+      "options": [
+        "en pantalla y/o en el documento impreso",
+        "sólo en pantalla",
+        "sólo en la versión impresa",
+        "sólo en ciertas vistas del documento en pantalla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-159",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Después de crear un gráfico, podemos cambiar su aspecto de forma instantánea, ¿de qué manera?",
+      "options": [
+        "cambiarle el formato del grafico",
+        "aplicarle rápidamente un estilo de diseño predefinido.",
+        "agregarle manualmente los elementos",
+        "cambiarle manualmente los elementos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-160",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Vamos a compartir un documento de Word, pero antes queremos comprobar que información contiene. ¿Qué opción utilizaremos?",
+      "options": [
+        "inspeccionar documento",
+        "comprobar accesibilidad",
+        "comprobar compatibilidad",
+        "permisos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-161",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En relación a la posibilidad de introducir comentarios:",
+      "options": [
+        "lo haremos a través de la pestaña revisar...comentarios...nuevo comentario.",
+        "los comentarios se adjuntan al documento, pero no se imprimen en ningún caso.",
+        "debemos seleccionar siempre el texto del cual vamos a crear el documento.",
+        "en la vista del documento esquema o borrador nos aparecerá una sección lateral con el globo del comentario a la derecha del documento."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-162",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Mediante que opción, ¿se puede reiniciar la cuenta en una numeración?:",
+      "options": [
+        "esta opción no existe",
+        "en opción de numeración, seleccionamos establecer valor de numeración",
+        "el ordenador la reinicia automáticamente",
+        "dentro de un mismo documento, la numeración es siempre secuencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-163",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Para crear un hipervínculo a un anexo dentro de un mismo documento de Word los pasos a seguir serian:",
+      "options": [
+        "insertar - vínculos - hipervínculo - lugar de este documento",
+        "insertar - vínculos - hipervínculo - crear nuevo documento",
+        "pulsar alt + ctrl + k - lugar de este documento",
+        "a y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-164",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Qué combinación de teclas activa la herramienta que permite llevar un seguimiento de las modificaciones, insertos y eliminaciones de un texto?:",
+      "options": [
+        "ctrl + may + k.",
+        "ctrl + may + e.",
+        "ctrl + may + f.",
+        "la herramienta descrita es \"control de cambios\", y no tiene acceso mediante combinación de teclas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-165",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "¿Dónde se encuentra la opción de contar palabras?",
+      "options": [
+        "vista",
+        "revisar",
+        "inicio",
+        "referencias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-166",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si estoy interesado en imprimir de un documento de Microsoft Word, las páginas 1,3, de la 5 a la 12, y la 14, debo seleccionar en las opciones de impresión, dentro de la vista backstage / Configuración / Impresión personalizada:",
+      "options": [
+        "1,3,5 a 12 y 14",
+        "1 3 5 6 7 8 9 10-11-12-14",
+        "1,3,5-12,14",
+        "1-14-2,-4.-13"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-167",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Después de imprimir el documento te das cuenta que la letra es muy pequeña y quieres ampliarla en todo el informe para que se visualice mejor impresa, ¿qué harías?",
+      "options": [
+        "seleccionar todo el texto y utilizar la herramienta zoom para ampliar el texto",
+        "seleccionar todo el texto y poner un tamaño de fuente mayor:",
+        "seleccionar todo el texto y clicar en",
+        "seleccionamos el texto y clicar en"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-168",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En la ventana Opciones de Word aparecen agrupadas las opciones por categorías. ¿En cuál de las siguientes categorías encontramos las \"Opciones de impresión\"?",
+      "options": [
+        "general.",
+        "mostrar.",
+        "revisión.",
+        "idioma."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-169",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "De los siguientes elementos ¿cuáles no pertenecen al Grupo Organizar de la pestaña Diseño de página?",
+      "options": [
+        "posición, ajustar texto, traer adelante.",
+        "ajustar texto, panel de selección, alinear.",
+        "columnas, saltos, números de línea.",
+        "posición, alinear, girar."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-170",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Dentro de un esquema numerado, el número máximo de niveles que nos ofrece Word, es:",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-171",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si abrimos un documento de Word y en la hoja en blanco se nos presenta la regla siguiente:",
+      "options": [
+        "sabemos que escribiremos nuestros párrafos a partir del centímetro 2 y que al tabular saltaremos directamente al centímetro 3'75 con una alineación centrada.",
+        "si no usamos la tecla de tabulación, nuestros párrafos irán escritos desde el centímetro 1 hasta el 6, con una sangría francesa de 1 centímetro.",
+        "usando la tecla de tabulación, tendremos 3 saltos: en 1'25 con alineación izquierda, en 3'75 con alineación centrada y en 5'25 con alineación derecha.",
+        "las respuestas b y c son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-172",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Mientras escribimos un texto en nuestro Word 2013 nos damos cuenta de que, tal y como muestra la imagen, hemos escrito mal el término “Constitución”, partiendo del lugar donde se encuentra el punto de inserción, ¿Qué método emplearemos para eliminar el termino mal escrito?",
+      "options": [
+        "ctrl + alt + supr",
+        "ctrl + retroceso",
+        "ctrl + alt + retroceso",
+        "ctrl + supr"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-173",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "La opción de dejar a varios objetos como si fuera solo uno, se realiza mediante la opción de:",
+      "options": [
+        "juntar",
+        "agrupar",
+        "ensamblar",
+        "ninguna de las anteriores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-174",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "En la primera página de un documento deWord, se ha insertado una nota al final de la página desde la pestaña “Referencias” de la “cinta de opciones”. ¿Cuál es el icono que sirve para “Insertar nota al pie”?",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-175",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Una referencia cruzada permite vincular a otras partes del mismo documento. Para crear una referencia cruzada a una tabla de Word:",
+      "options": [
+        "no existen referencias cruzadas en word.",
+        "en primer lugar, hay que crear el elemento al que se está haciendo la referencia cruzada.",
+        "se inserta la referencia cruzada únicamente desde la pestaña “revisar” de la “cinta de opciones”.",
+        "en un primer paso se crea la referencia cruzada y en un segundo paso se crea la tabla a la que se hace referencia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-176",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "A través de la combinación de teclas Alt+ Ctrl+ C , Word 2013 inserta el carácter especial de:",
+      "options": [
+        "copyright.",
+        "registrado.",
+        "espacio de no separación.",
+        "marca registrada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-177",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "13 se conoce como:",
+      "options": [
+        "formato.",
+        "tipografía.",
+        "estilo.",
+        "tema."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-178",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Por defecto ¿se puede escribir en una autoforma?",
+      "options": [
+        "no, en ninguna",
+        "solo las que tienen forma de poliedro",
+        "solo en un cuadro de texto",
+        "ninguna de las anteriores respuestas es correcta."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-179",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Si queremos modificar la carpeta donde se guardan por defecto los documentos de Word:",
+      "options": [
+        "modificamos la opción guardar como…",
+        "no se puede hacer",
+        "modificamos la ruta de la opción “ubicación de archivo predeterminada” de guardar de opciones de word.",
+        "debemos hablar con el administrador del sistema."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-180",
+      "superblock": "Tema 24",
+      "subblock": "TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO)",
+      "question": "Dentro de un esquema con viñetas, las viñetas son:",
+      "options": [
+        "todas deben ser iguales",
+        "pueden ser diferentes",
+        "al menos del mismo tamaño",
+        "al menos del mismo color TEST 5 I (2024) BVI T2 Tema 24 Word (LLEVA ANEXO) SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-181",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "La opción de Word 2013 que nos permite navegar por el documento por encabezado, página o mediante la búsqueda de texto u objetos y que al activarla nos muestra una especie de índice en la parte izquierda de la página es:",
+      "options": [
+        "mapa del documento.",
+        "panel de navegación.",
+        "tabla de contenido.",
+        "referencia cruzada."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-182",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Para que Word 2013 no nos corrija mientras escribi¬mos debemos ir a:",
+      "options": [
+        "pulsar f7.",
+        "pulsar alt+clic.",
+        "archivo...opciones...revisión...desactivar revisar ortografía mientras escribe.",
+        "archivo...opciones...revisión... activar ocultar erro¬res de ortografía y gramática."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-183",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "En Word 2013:",
+      "options": [
+        "es posible convertir texto en tablas.",
+        "es posible convertir tablas en texto.",
+        "es posible insertar tablas rápidas.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-184",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Si seleccionamos una fila de una tabla de Word y le damos a la tecla suprimir, ¿Qué ocurre?",
+      "options": [
+        "se suprime toda la fila",
+        "solo se suprime el contenido de esa fila",
+        "se selecciona toda la tabla",
+        "ninguna de las anteriores."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-185",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "La opción de dejar a varios objetos como si fuera solo uno, se realiza mediante la opción de:",
+      "options": [
+        "juntar",
+        "agrupar",
+        "ensamblar",
+        "ninguna de las anteriores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-186",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿En qué consiste la opción de combinar celdas?",
+      "options": [
+        "varias celdas convertirlas en una",
+        "para insertar celdas a la derecha",
+        "divide la celda actual en varias celdas",
+        "ninguna de las anteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-187",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Podemos cambiar la dirección del texto en una celda dentro de una tabla?",
+      "options": [
+        "solo si se trata del encabezado",
+        "si, podemos cambiarlo para leer de izquierda a derecha o de derecha a izquierda",
+        "si, podemos cambiarlo en tres direcciones: de izquierda a derecha, de arriba abajo y de abajo a arriba.",
+        "no"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-188",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Las referencias cruzadas en Word:",
+      "options": [
+        "se aplican a textos",
+        "se aplican a tablas",
+        "se aplican a ilustraciones",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-189",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "La herramienta de Word más parecida a una referencia cruzada es:",
+      "options": [
+        "un hipervínculo.",
+        "un campo.",
+        "un comentario.",
+        "una tabla dinámica."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-190",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Un enlace hiperenlace o hipervínculo puede estar en….",
+      "options": [
+        "una imagen",
+        "un texto",
+        "una imagen y un texto",
+        "ninguna de la anteriores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-191",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Que hay que configurar antes de crear una tabla de contenido en Word:",
+      "options": [
+        "los títulos que se desea incluir en la tabla de contenidos",
+        "seleccionar la dirección del remitente",
+        "no se pueden generar tablas de contenidos en word",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-192",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Pasos para insertar una tabla de contenido",
+      "options": [
+        "ficha referencias-marcar entrada-grupo tabla de contenido-tabla de contenido",
+        "ficha referencias-grupo tabla de contenido-comando tabla de contenido",
+        "ficha referencias-grupo tabla de contenido-comando tabla de contenido-insertar titulo",
+        "ficha referencias-grupo tabla de contenido-insertar titulo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-193",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Como insertar una referencia cruzada de titulo",
+      "options": [
+        "pestaña diseño de página – referencia cruzada - se abre cuadro dialogo de referencia cruzada y ahí modificar tanto “tipo” como “referencia a”",
+        "pestaña insertar- hipervínculo - se abre cuadro diálogo de referencia cruzada y ahí modificar tanto “tipo” como “referencia a”",
+        "pestaña insertar- referencia cruzada - se abre cuadro diálogo de referencia cruzada y ahí modificar tanto “tipo” como “referencia a”",
+        "pestaña insertar - marcador - se abre cuadro diálogo de referencia cruzada y ahí modificar tanto “tipo” como “referencia a”"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-194",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿De cuántos modelos de tablas automáticas dispone Word 2013?",
+      "options": [
+        "dos.",
+        "tres.",
+        "cuatro.",
+        "ilimitadas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-195",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Con cuál de las siguientes alternativas iremos a la opción Ir?",
+      "options": [
+        "pulsando f5.",
+        "haciendo clic en página en la barra de estado.",
+        "inicio...edición...buscar...ir a.",
+        "todas las respuestas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-196",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "En la primera página del documento Anexo Word, se ha insertado una nota al pie de la página desde la pestaña “Referencias” de la “cinta de opciones”. ¿Cuál es el icono que sirve para “Insertar nota al pie”?",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-197",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Trabajando en un documento de Word, se ha creado una tabla de contenido desde el menú “Tabla de contenido” de la pestaña “Referencias” en la “cinta de opciones”. Posteriormente se ha agregado un nuevo apartado al documento respetando el estilo de los encabezados. ¿Qué hay que hacer para que este nuevo apartado aparezca en la tabla de contenido que ya tenemos creada?",
+      "options": [
+        "no es posible agregar un nuevo apartado una vez que se ha creado una tabla de contenido.",
+        "al respetarse el estilo de los encabezados no hay que hacer nada, el nuevo apartado aparece automáticamente en la tabla de contenido.",
+        "al respetarse el estilo de los encabezados hay que “actualizar texto” desde la pestaña “referencias” de la “cinta de opciones”.",
+        "se debe “actualizar tabla” desde la pestaña “referencias” de la “cinta de opciones”."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-198",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Si queremos modificar la carpeta donde se guardan por defecto los documentos de Word:",
+      "options": [
+        "modificamos la opción guardar como…",
+        "no se puede hacer",
+        "modificamos la ruta de la opción “ubicación de archivo predeterminada” de guardar de opciones de word.",
+        "debemos hablar con el administrador del sistema."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-199",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Un manual dispone de un listado final de los principales términos utilizados. ¿Qué utilidad de Word sirve para hacerlo?",
+      "options": [
+        "una tabla de contenidos",
+        "una tabla de imágenes",
+        "un índice",
+        "una tabla de gráficos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-200",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Qué opciones son posibles gracias a las tablas de ilustraciones?",
+      "options": [
+        "numerar y etiquetar todos los objetos del documento, como imágenes o gráficos, etc. para luego disponer de un “índice” de este tipo de material.",
+        "generar automáticamente títulos para determinados tipos de archivos",
+        "aplicar estilos personalizados a las ilustraciones",
+        "todas las respuestas son ciertas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-201",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "La utilidad de combinar correspondencia de Word permite:",
+      "options": [
+        "generar documentación genérica como un mailing",
+        "una combinación personalizada",
+        "generar cartas modelo, etiquetas postales, sobres, donde exista una parte que no cambia y otra variable",
+        "todas las opciones anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-202",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Entendemos por \"Documento Principal\" a la hora de \"Combinar Correspondencia\":",
+      "options": [
+        "el documento resultado una vez realizada la combinación",
+        "el documento que contiene los datos variables de la combinación",
+        "el documento que actúa como plantilla en la que se insertan los datos variables de la combinación",
+        "todas son ciertas, ya que todos son documentos principales en una combinación de correspondencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-203",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Qué grupo de la pestaña Correspondencia contiene los comandos, Sobres y Etiquetas?",
+      "options": [
+        "vista previa de resultados.",
+        "iniciar combinación de correspondencia.",
+        "escribir e insertar campos.",
+        "crear."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-204",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿Cuál es el primer paso para Combinar corresponden¬cia?",
+      "options": [
+        "seleccionar sobres y etiquetas.",
+        "seleccionar los destinatarios.",
+        "escribir la carta.",
+        "seleccionar el tipo de documento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-205",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Vamos a enviar una carta a varios clientes, para ello usaremos combinar correspondencia para lo que….",
+      "options": [
+        "se modifican los datos de una carta previamente creada y luego se envía por correo.",
+        "se deben combinar varias tablas de excel",
+        "es necesario crear una base de datos completa en access.",
+        "es necesario crear o abrir una lista de destinatarios."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-206",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "Word a la hora de combinar correspondencia y tomar los datos de una tabla de una Base de Datos, puede:",
+      "options": [
+        "ordenar los registros a combinar",
+        "filtrar los registros a combinar",
+        "seleccionar determinados registros para combinar",
+        "todas son ciertas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-207",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "¿podemos visualizar los registros que se van a utilizar en la combinación de correspondencia?",
+      "options": [
+        "no",
+        "sí, pero no desde word, sino abriéndolo con el programa correspondiente.",
+        "si, podemos visualizarlos y modificarlos",
+        "si, podemos visualizarlos, pero no modificarlos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-208",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "En la combinación de correspondencia al marcador que se inserta en el documento principal y que indica donde se puede insertar la información específica del origen de datos se le denomina:",
+      "options": [
+        "campo principal",
+        "campo secundario",
+        "campo de combinación",
+        "campo de datos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-209",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "A la hora de combinar correspondencia, puedo elegir:",
+      "options": [
+        "combinar el documento en un documento nuevo",
+        "enviar el documento combinado directamente a la impresora",
+        "enviar el documento combinado directamente por e-mail",
+        "todas son ciertas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-210",
+      "superblock": "Tema 24",
+      "subblock": "TEST 6 I (2024) BVI T2 Tema 24 Word",
+      "question": "En la cinta de opciones de Word, pestaña Correspondencia, grupo \"Iniciar combinación de correspondencia\", ¿qué opción NO aparece al hacer clic en \"Seleccionar destinatarios\"?",
+      "options": [
+        "escribir una nueva lista.",
+        "conectar con access.",
+        "usar una lista existente.",
+        "elegir de los contactos de outlook. TEST 6 I (2024) BVI T2 Tema 24 Word SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-211",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Para ver un campo en un documento de Word como se muestra en la imagen:",
+      "options": [
+        "se ha activado el código de campo tras haber pulsado la tecla ctrl+f9",
+        "se ha activado el código de campo tras haber pulsado la tecla f9",
+        "se ha activado el código de campo tras haber pulsado la tecla may+f9",
+        "se ha activado el código de campo tras haber pulsado la tecla alt+f9"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-212",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Una macro sirve para",
+      "options": [
+        "crear un recuadro de párrafo o de pagina",
+        "ejecutar varias instrucciones en lote, en orden aleatorio",
+        "programar mensaje y avisos de usuario",
+        "ejecutar varias instrucciones en lote, en un orden determinado, como si se tratara de una sola."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-213",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Como insertar un calendario en Word",
+      "options": [
+        "insertar – tabla - tabla rápida – calendario",
+        "diseño – tabla – tabla rápida - calendario",
+        "referencia – tabla – tabla rápida – calendario",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-214",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "En la primera página de nuestro documento nos aparece el término “concurso” y se desea cambiar la palabra por otra que tenga el mismo significado. Si seleccionamos esa palabra, ¿cuál de los siguientes iconos abre un listado de palabras sinónimas de la que tenemos seleccionada?",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-215",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "¿Para qué sirve la opción Asignar campos, en la combinación de correspondencia?",
+      "options": [
+        "etiquetar los campos combinados en el documento",
+        "incorporará campos combinados en el documento",
+        "establecer la correspondencia entre los campos estándar y los que incorporamos",
+        "todas las respuestas son ciertas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-216",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "¿Qué función tiene una marca de índice?",
+      "options": [
+        "marcar la palabra que queremos incluir en el índice",
+        "marcar el número de página que queremos incluir en el índice",
+        "marca el texto del propio índice con un formato resaltado",
+        "insertar un símbolo de marca registrada en el pie de página del índice"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-217",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "De manera predeterminada, ¿qué carácter usa Word para separar la viñeta del resto de caracteres de la primera línea del párrafo?",
+      "options": [
+        "un espacio.",
+        "un espacio de no separación.",
+        "un guion de no separación no imprimible.",
+        "un tabulador."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-218",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "El modelo o patrón para crear nuevos documentos en Word 2013 es:",
+      "options": [
+        "una tabla de contenidos.",
+        "una plantilla.",
+        "un estilo.",
+        "una macro."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-219",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "13?",
+      "options": [
+        "4.",
+        "5.",
+        "7.",
+        "9."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-220",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "La dirección del texto que aparece en las celdas de la tabla por defecto será:",
+      "options": [
+        "horizontal hacia la derecha.",
+        "horizontal hacia la izquierda.",
+        "vertical hacia arriba.",
+        "vertical hacia abajo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-221",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "La distancia entre los bordes de una celda y su contenido es:",
+      "options": [
+        "sangría.",
+        "margen.",
+        "tabulación.",
+        "espacio entre celdas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-222",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Si queremos ver el aspecto que tendrá un documento combinado, haremos clic en el botón:",
+      "options": [
+        "guiones.",
+        "tabla de autoridades.",
+        "vista previa de resultados.",
+        "panel de navegación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-223",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "¿En un documento de Word 2013 es posible tener una palabra a la que se le hayan aplicado simultáneamente los formatos Negrita, Cursiva y Subrayado?",
+      "options": [
+        "sí, es posible aplicar los tres formatos simultáneamente.",
+        "no, en ningún caso.",
+        "será posible aplicar simultáneamente los formatos de negrita y subrayado.",
+        "será posible aplicar simultáneamente los formatos de cursiva y subrayado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-224",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Podemos aplicar sangrías a un párrafo:",
+      "options": [
+        "desde el cuadro de diálogo párrafo.",
+        "desde la regla.",
+        "desde la cinta de opciones.",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-225",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Si en un documento de 35 páginas estamos en la página 1 y deseamos desplazarnos a la 23, ¿cuál sería la forma más rápida para ello?",
+      "options": [
+        "desplazarse con la rueda del ratón",
+        "ir al final del documento y retroceder",
+        "usar el comando ir a….",
+        "desplazarse de página en pagina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-226",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "El Panel de selección es una herramienta de Word 2013 que se activa a través de:",
+      "options": [
+        "inicio... edición... seleccionar.",
+        "inicio... edición...buscar.",
+        "vista... ventana...organizar todo.",
+        "vista...mostrar...panel de selección."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-227",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Para cambiar una palabra por otra con el mismo significado utilizaremos:",
+      "options": [
+        "ortografía.",
+        "referencia.",
+        "sinónimos.",
+        "reemplazar."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-228",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "La aplicación de distintos formatos sobre cada uno de los estilos y elementos que componen el documento, a efectos de Word 2013 se conoce como:",
+      "options": [
+        "formato.",
+        "tipografía.",
+        "estilo.",
+        "tema."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-229",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Señale la respuesta correcta:",
+      "options": [
+        "las portadas se insertarán en el lugar del documento donde tengamos situado el cursor.",
+        "las portadas siempre se insertan al principio de un documento, independientemente de la parte del documento en la que esté situado el cursor.",
+        "es posible insertar dos portadas en un mismo documento.",
+        "la opción portada se encuentra en la pestaña insertar grupo ilustraciones."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-230",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Fijándonos en la imagen nos aparece el menú Campo, donde hemos seleccionado como Nombre de campo “Date” (Fecha de hoy) para que se inserte en nuestro documento. Qué pasos hemos seguido para llegar a el:",
+      "options": [
+        "insertar-vínculos-elementos rápidos-campo",
+        "insertar-vínculos-elementos rápidos-autotexto",
+        "insertar-texto-elementos rápidos-campo",
+        "insertar-texto-elementos rápidos-autotexto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-231",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Para introducir un carácter especial en el texto, como los de Copyright o Registrado, en la pestaña Insertar, ¿cuál de las siguientes herramientas se emplea en Word?",
+      "options": [
+        "marcador.",
+        "wordart.",
+        "elementos rápidos.",
+        "símbolo."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-232",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "¿En cuál de las siguientes pestañas de la cinta de opciones de Word encontramos la opción “Administrar fuentes” para poder crear citas y bibliografía?",
+      "options": [
+        "correspondencia.",
+        "disposición.",
+        "referencias.",
+        "vista"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-233",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "En el último párrafo de la segunda página del documento Anexo Word, se desea que aparezca la fecha actualizada cada vez que alguien abra el documento. ¿Cuál es la forma correcta de hacerlo?",
+      "options": [
+        "hacer clic en la pestaña “insertar” de la “cinta de opciones”. hacer clic en “fecha y hora” y en cuadro de diálogo emergente elegir el formato deseado. Activar la opción “Actualizar automáticamente” y “Aceptar”.",
+        "hacer clic en la pestaña “referencias” de la “cinta de opciones”. hacer clic en “fecha y hora” y en cuadro de diálogo emergente elegir el formato deseado. Activar la opción “Actualizar automáticamente” y “Aceptar”.",
+        "hacer clic en la pestaña “desarrollador” de la “cinta de opciones”. hacer clic en “complemento” > “Fecha y hora” y en cuadro de diálogo emergente elegir el formato deseado. Dejar la opción por defecto “Actualizar automáticamente” y “Aceptar”.",
+        "hacer clic en la pestaña “inicio” de la “cinta de opciones”. hacer clic en “complemento” > “fecha y hora” y en cuadro de diálogo emergente elegir el formato deseado. Dejar la opción por defecto “Actualizar automáticamente” y “Aceptar”.."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-234",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "Si queremos añadir a nuestro documento de Word, una marca de agua de texto que pasos debemos de seguir:",
+      "options": [
+        "insertar/fondo de página/marca de agua/marcas de agua personalizadas/marca de agua de texto/Seleccionar o escribir el texto que queremos que aparezca en el documento/Aplicar",
+        "diseño/fondo de texto/marca de agua/marcas de agua personalizadas/marca de agua de texto/Seleccionar o escribir el texto que queremos que aparezca en el documento/Aplicar",
+        "diseño/fondo de página/marca de agua/marcas de agua personalizadas/marca de agua de texto/Seleccionar o escribir el texto que queremos que aparezca en el documento/Aplicar",
+        "insertar/fondo de página/marca de agua/marcas de agua personalizadas/marca de agua de imagen/Seleccionar la imagen/Aplicar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-235",
+      "superblock": "Tema 24",
+      "subblock": "TEST 7 I (2024) BVI T2",
+      "question": "¿Que representa la marca de formato que aparece en la primera línea del párrafo?",
+      "options": [
+        "representa un salto de línea manual. se realiza con la combinación de teclas alt+intro y lo que logramos es cambiar de línea, pero no de párrafo.",
+        "representa un salto de línea manual. se realiza con la combinación de teclas ctrl+intro y lo que logramos es cambiar de línea, pero no de párrafo.",
+        "representa un salto de línea manual. se realiza con la combinación de teclas mayus+intro y lo que logramos es cambiar de línea, pero no de párrafo.",
+        "ninguna es correcta TEST 7 I (2024) BVI T2 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-236",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "De manera predeterminada Excel 2013",
+      "options": [
+        "muestra 3 hoja de calculo",
+        "muestra 1 hojas de calculo",
+        "no muestra ninguna hoja de forma predeterminada, hay que crearla.",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-237",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "En Microsoft Excel, ¿cuál es la celda activa?",
+      "options": [
+        "la celda a1",
+        "la última celda que se ha rellenado",
+        "la celda donde está posicionado el cursor",
+        "la celda que contiene el número más alto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-238",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "En Excel 2013 cuando creamos un Libro nuevo se le asigna el nombre provisional de:",
+      "options": [
+        "documento1.",
+        "libro1.",
+        "excel1.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-239",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Para poder editar una fórmula que ya ingresé, puedo:",
+      "options": [
+        "seleccionarla y pulsar f2",
+        "hacer doble clic en ella",
+        "editarla en la barra de formulas",
+        "todas son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-240",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Si en Excel activamos la opción de Reducir hasta ajustar del Formato de celdas:",
+      "options": [
+        "las celdas seleccionadas se unirán en una sola.",
+        "el contenido de la celda se tendrá que visualizar exclusivamente en ésta, para ello incrementará la altura de la fila.",
+        "el tamaño de la fuente de la celda se reducirá hasta que su contenido pueda mostrarse en la celda.",
+        "permite cambiar el ángulo del contenido de las celdas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-241",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Para ingresar al cuadro Formato de Celdas a través del teclado utilizaremos:",
+      "options": [
+        "ctrl+ inicio.",
+        "alt+f11.",
+        "ctrl+ 1.",
+        "alt+f8."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-242",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Si en la esquina superior derecha de una celda aparece un triangulito rojo ¿qué nos quiere decir?",
+      "options": [
+        "que el ancho de la columna no es suficiente.",
+        "que existe un comentario.",
+        "que el dato introducido en esa celda no es válido.",
+        "que existe un error ortográfico o gramatical."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-243",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Si mientras estamos modificando el contenido de una celda pulsamos la tecla Esc:",
+      "options": [
+        "se borra todo el contenido de la celda.",
+        "aparece el mismo valor que antes de modificarlo.",
+        "se abre un cuadro de diálogo de formato de celdas.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-244",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Cuando necesitemos añadir una fila nueva al final de una tabla para continuar introduciendo datos:",
+      "options": [
+        "tendremos que pulsar la tecla alt desde la primera celda.",
+        "tendremos que pulsar la tecla ctrl desde la última celda.",
+        "tendremos que pulsar la tecla tab desde la última celda.",
+        "tendremos que pulsar la tecla tab desde la primera celda."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-245",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Una hoja de cálculo está formada por:",
+      "options": [
+        "255 filas.",
+        "255 columnas.",
+        "16.384 filas y 1.048.576 columnas.",
+        "16.384 columnas y 1.048.576 filas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-246",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "¿Qué ocurre si introducimos texto que no cabe en una celda?",
+      "options": [
+        "aparece el mensaje de error ######.",
+        "se ajusta el tamaño de la celda automáticamente.",
+        "si las celdas de la derecha están vacías, las invade.",
+        "si las celdas de la derecha no están vacías, las sobrescribe."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-247",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Al hacer clic sobre la letra identificativa de una columna:",
+      "options": [
+        "se seleccionan todas las celdas que contengan datos de esa columna.",
+        "se seleccionan todas las celdas de esa columna.",
+        "se selecciona únicamente la letra identificativa de la columna.",
+        "todas las respuestas anteriores son incorrectas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-248",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Podemos seleccionar varias celdas continuas en una hoja de cálculo además de arrastrando con el puntero del ratón:",
+      "options": [
+        "con la combinación de teclas ctrl+ mayús.",
+        "con la combinación de teclas ctrl+ alt.",
+        "presionando la tecla ctrl y usando las flechas del teclado.",
+        "presionando la tecla mayús y usando las flechas del teclado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-249",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Para cerrar Excel 2013 utilizaremos una de las siguientes opciones:",
+      "options": [
+        "pulsar la combinación de teclas alt+f4.",
+        "hacer clic sobre el menú archivo y elegir la opción cerrar.",
+        "hacer clic en el botón cerrar x situado en la parte superior derecha de la ventana de excel 2013.",
+        "todas las opciones anteriores son válidas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-250",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Los distintos tipos de datos que podemos introducir en una Hoja de cálculo son:",
+      "options": [
+        "texto y fórmulas.",
+        "valores constantes y texto.",
+        "valores constantes y fórmulas.",
+        "fórmulas y gráficos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-251",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "¿De qué tres botones dispone la barra de estado de Excel 2013 para cambiar rápidamente de vista o de forma en que se visualiza un Libro?",
+      "options": [
+        "normal, diseño de página y pantalla completa.",
+        "general, diseño de página y vista personalizada.",
+        "general, vista previa de salto de página y pantalla completa.",
+        "normal, diseño de página y vista previa de salto de página."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-252",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "13 es la:",
+      "options": [
+        "general.",
+        "centrada.",
+        "izquierda.",
+        "derecha."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-253",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "En muchas ocasiones, en Microsoft Excel se hace necesario trabajar con rangos. ¿Qué es lo que se conoce como rango?",
+      "options": [
+        "la diferencia entre los valores máximo y mínimo de una fila o columna",
+        "un conjunto de celdas seleccionadas",
+        "las celdas cuyos valores cumplen una condición determinada",
+        "un conjunto de celdas seleccionadas siempre adyacentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-254",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "¿Cuál es la extensión de un libro de trabajo de Excel?",
+      "options": [
+        ".xltx",
+        ".xltm",
+        ".xlsm",
+        ".xlsx"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-255",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "De forma predeterminada, Excel alinea los datos numéricos:",
+      "options": [
+        "a la izquierda",
+        "a la derecha",
+        "centrados",
+        "justificados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-256",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "En el formato de celda de tipo texto:",
+      "options": [
+        "los datos se muestran con un indicador de texto",
+        "no podemos incluir caracteres numéricos",
+        "los datos de la celda se muestran exactamente como se introdujeron",
+        "podemos introducir solo funciones lógicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-257",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Las constantes de Excel pueden ser valores:",
+      "options": [
+        "numéricos y de tipo texto",
+        "horas y fechas",
+        "ambas son correctas",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-258",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Con “D2:F5”, nos estamos refiriendo a:",
+      "options": [
+        "a las casillas d2 y f5",
+        "el rango que empieza en d2 y acaba en f5",
+        "la división entre el contenido de la celda d2 y el de la f5",
+        "todas son correctas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-259",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "Desde que pestaña podemos activar Mostrar las líneas de cuadricula de una hoja de Excel",
+      "options": [
+        "revisar",
+        "inicio",
+        "insertar",
+        "vista"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-260",
+      "superblock": "Tema 24",
+      "subblock": "TEST 8 I (2024) BVI T2",
+      "question": "La Barra que se encuentra sobre el área de trabajo recibe el nombre de:",
+      "options": [
+        "barra de fórmulas.",
+        "barra de menús.",
+        "barra de título.",
+        "cinta de opciones. TEST 8 I (2024) BVI T2 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-261",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "El Zoom en la barra de estado permite acercar o alejar la vista del Libro entre:",
+      "options": [
+        "10% y 100%.",
+        "10% y 400%.",
+        "10% y 10%.",
+        "10% y 50%."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-262",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En Microsoft Excel, si ha seleccionado con el ratón la columna C y la columna E, y a continuación, con el botón derecho del ratón sobre el nombre de las columnas, selecciona en el menú «Ocultar\", ¿qué ocurrirá?",
+      "options": [
+        "no existe la opción de «ocultar»",
+        "se ocultan las columnas c, d y e",
+        "se ocultan las columnas c y e",
+        "ninguna de las restantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-263",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En Microsoft Excel, para modificar parcialmente el contenido de una celda activa y situar el punto de inserción al final de dicha celda, sin borrar el contenido previo ni utilizar el ratón, ¿qué tecla o combinación de teclas se deben utilizar?",
+      "options": [
+        "f2",
+        "intro",
+        "f5",
+        "ctrl + r"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-264",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "El botón Color de relleno de la pestaña Inicio... Fuente:",
+      "options": [
+        "cambia el formato del rango seleccionado.",
+        "colorea los bordes de las celdas seleccionadas.",
+        "colorea el fondo de las celdas seleccionadas.",
+        "cambia el color del texto."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-265",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Cuál es el procedimiento para insertar una nueva hoja en un libro de Excel?",
+      "options": [
+        "menú insertar > hoja > insertar",
+        "menú inicio > celdas > insertar > insertar hoja",
+        "menú diseño de página > nueva hoja",
+        "menú datos > insertar hoja"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-266",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En la aplicación Microsoft Excel se puede insertar saltos de línea de forma manual en sitios determinados del texto de una celda. ¿Con qué combinación de teclas es posible?",
+      "options": [
+        "alt + intro",
+        "ctrl + alt",
+        "alt + tab",
+        "ctrl + intro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-267",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Si nos aparece el mensaje de error ###### en una celda, esto quiere decir:",
+      "options": [
+        "que excel no reconoce el texto de la fórmula.",
+        "que un valor no está disponible para una función o fórmula.",
+        "que el ancho de una columna no es suficiente o cuando se utiliza una fecha o una hora negativa.",
+        "que una referencia de celda no es válida."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-268",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "De las siguientes referencias ¿cuál es una referencia absoluta en una hoja de cálculo de Microsoft Excel?",
+      "options": [
+        "$b1",
+        "$b$1",
+        "b$1",
+        "#b#1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-269",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "El botón que está enmarcado en rojo sirve para:",
+      "options": [
+        "agregar de una sola vez tres ceros cuando se trabaja con números grandes",
+        "dividir un numero por mil para transformarlo en decimal",
+        "agregar un punto cada tres dígitos de un número y dos decimales",
+        "redondear un número dejando 3 decimales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-270",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Para cambiar el nombre de la hoja 1 que aparece en la imagen, se tiene que:",
+      "options": [
+        "pulsar la pestaña “hoja1” una vez con el botón izquierdo del mouse y escribir el nuevo nombre.",
+        "hay que ir a la pestaña archivo > opciones > pestaña > cambiar nombre",
+        "pulsar el botón “+” que está al lado derecho de la pestaña “hoja2” y escribir el nuevo nombre.",
+        "hacer doble clic en la pestaña “hoja1” y escribir el nuevo nombre."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-271",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Para ingresar un dato y que la celda activa permanezca en el mismo lugar puedo:",
+      "options": [
+        "pulsar la tecla mayúsculas y enter",
+        "pulsar la tecla mayúsculas y tabulacion",
+        "pulsar la tecla enter seguida de la tabulación",
+        "pulsar la tecla control seguida de la tecla enter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-272",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Los dos iconos que están seleccionados en la imagen de color verde corresponden, de arriba abajo a:",
+      "options": [
+        "margen izquierdo y margen superior",
+        "margen superior y margen izquierdo",
+        "alineación centrada verticalmente, alineación centrada horizontalmente",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-273",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Si hacemos doble clic sobre la parte derecha del identificativo de la columna E:",
+      "options": [
+        "autoajustaremos la anchura de la columna e.",
+        "autoajustaremos la anchura de la columna f.",
+        "son correctas a) y b).",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-274",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Cuál de las siguientes afirmaciones es correcta?:",
+      "options": [
+        "el nombre de las hojas del libro de trabajo se puede modificar únicamente desde el menú.",
+        "el nombre de las hojas debe ser como máximo de 31 caracteres.",
+        "no puede haber dos hojas de un mismo libro de trabajo con el mismo nombre.",
+        "son correctas b) y c)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-275",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En Excel, ¿Cuál de las siguientes expresiones hacen referencia a la celda A4 de la hoja2, si nos encontramos en la Hoja1?",
+      "options": [
+        "hoja2:a4",
+        "hoja2!a4",
+        "hoja2#a4",
+        "hoja2?a4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-276",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Si un archivo de Excel, sale en dos páginas y lo queremos imprimir todo en un folio, la opción más óptima para operar es:",
+      "options": [
+        "inicio > modificar > pagina",
+        "datos > configurar pagina > pagina",
+        "diseño de pagina > configurar página > pagina",
+        "formato->formato condicional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-277",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Escribir cuál de las siguientes referencias no es válida:",
+      "options": [
+        "$a$1",
+        "a1",
+        "$a1",
+        "a$$1"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-278",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Pueden rellenarse automáticamente varias celdas contiguas?",
+      "options": [
+        "con datos numéricos si, pero no con otro tipo de datos",
+        "no, siempre tendré que hacerlo manualmente",
+        "si, cuando me aparezca un cursor en forma de 4 flechas solo tendré que arrastrar y rellenar.",
+        "si, cuando me aparezca un cursor en forma de cruz negra fina solo tendré que arrastrar y rellenar."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-279",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Qué significa visualizar como resultado de una función matemática el término #VALOR¡?:",
+      "options": [
+        "alguno de los operandos o argumentos no son correctos.",
+        "no se han seleccionado argumentos para la función.",
+        "resultado con un número de dígitos demasiado grande.",
+        "ninguna es correcta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-280",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Trabajando en Microsoft Excel, queremos establecer una contraseña de lectura al fichero con el que estamos trabajando, para impedir que sea abierto por otra persona, ¿cómo debemos proceder?",
+      "options": [
+        "para poner contraseña a un fichero necesitamos utilizar una función del sistema operativo Windows y no hacerlo desde Excel",
+        "utilizaremos inicio > celdas > formato > proteger hoja",
+        "utilizaremos inicio > celdas > formato > proteger libro",
+        "seleccione archivo > información > proteger libro >cifrar con contraseña"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-281",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En Excel, queremos convertir rápidamente un rango de celda en una tabla con su propio estilo, ¿Qué opción utilizaremos?",
+      "options": [
+        "dar formato como tabla",
+        "combinar y centrar",
+        "ajustar texto",
+        "disposición de pagina"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-282",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Qué combinación de teclas tendré que pulsar para utilizar el formato de celda porcentaje?",
+      "options": [
+        "ctrl + may + 1",
+        "ctrl + may + 4",
+        "ctrl + may + 5",
+        "ctrl + may + 6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-283",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "En Excel, si una celda tiene el siguiente tipo de formato personalizado: #.##0,0 y el valor que introduzco es 123456,98 cuál de las siguientes visualizaciones es la correcta?",
+      "options": [
+        "123.456,98",
+        "123456,9",
+        "123.457,0",
+        "123.457"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-284",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "Cuál es el icono que tenemos que utilizar si queremos Aplicar el formato en varios lugares de nuestra hoja de cálculo:",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t24-285",
+      "superblock": "Tema 24",
+      "subblock": "TEST 9 I (2024) BVI T2",
+      "question": "¿Cómo se llama la herramienta en Excel que permite crear, editar, eliminar y buscar todos los nombres con los que hayamos personalizado las celdas y los rangos?:",
+      "options": [
+        "personalizador de nombres.",
+        "administrador de nombres.",
+        "editor de referencias.",
+        "gestor de referencias. TEST 9 I (2024) BVI T2 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

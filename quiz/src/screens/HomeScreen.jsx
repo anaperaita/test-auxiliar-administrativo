@@ -28,8 +28,8 @@ export default function HomeScreen() {
       <div className="content">
         {/* Header */}
         <div className="header-container">
-          <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Visual Quiz Logo" className="app-logo" />
-          <h1 className="title">Visual Quiz</h1>
+          <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Test Auxiliar Administrativo Logo" className="app-logo" />
+          <h1 className="title">Test Auxiliar Administrativo</h1>
         </div>
 
         {/* Dashboard Layout */}

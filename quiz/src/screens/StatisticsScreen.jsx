@@ -13,27 +13,57 @@ export default function StatisticsScreen() {
 
   const globalStats = getGlobalStats();
 
-  // Calcular estadísticas por bloque
-  const blockStats = {};
-  questions.forEach(q => {
-    if (!blockStats[q.block]) {
-      blockStats[q.block] = {
-        total: 0,
-        answered: 0,
-        correct: 0,
-        incorrect: 0,
-      };
-    }
+  // Import statsService to calculate block stats with new structure
+  const statsService = { calculateBlockStats: (questions, stats) => {
+    const blockStats = {};
 
-    blockStats[q.block].total += 1;
+    questions.forEach(q => {
+      const superblock = q.superblock || q.block;
+      const subblock = q.subblock || null;
 
-    const questionStats = stats[q.id];
-    if (questionStats) {
-      blockStats[q.block].answered += 1;
-      blockStats[q.block].correct += questionStats.correct;
-      blockStats[q.block].incorrect += questionStats.incorrect;
-    }
-  });
+      if (!blockStats[superblock]) {
+        blockStats[superblock] = {
+          total: 0,
+          answered: 0,
+          correct: 0,
+          incorrect: 0,
+          subblocks: {},
+        };
+      }
+
+      blockStats[superblock].total += 1;
+
+      const questionStats = stats[q.id];
+      if (questionStats) {
+        blockStats[superblock].answered += 1;
+        blockStats[superblock].correct += questionStats.correct;
+        blockStats[superblock].incorrect += questionStats.incorrect;
+      }
+
+      if (subblock) {
+        if (!blockStats[superblock].subblocks[subblock]) {
+          blockStats[superblock].subblocks[subblock] = {
+            total: 0,
+            answered: 0,
+            correct: 0,
+            incorrect: 0,
+          };
+        }
+
+        blockStats[superblock].subblocks[subblock].total += 1;
+
+        if (questionStats) {
+          blockStats[superblock].subblocks[subblock].answered += 1;
+          blockStats[superblock].subblocks[subblock].correct += questionStats.correct;
+          blockStats[superblock].subblocks[subblock].incorrect += questionStats.incorrect;
+        }
+      }
+    });
+
+    return blockStats;
+  }};
+
+  const blockStats = statsService.calculateBlockStats(questions, stats);
 
   const handleReset = () => {
     showWarning(
@@ -115,31 +145,63 @@ export default function StatisticsScreen() {
           <div className="stats-right-panel">
             <h2 className="panel-title">Bloques</h2>
             <div className="blocks-grid">
-              {Object.entries(blockStats).map(([block, blockData]) => {
-                const totalAttempts = blockData.correct + blockData.incorrect;
-                const accuracy = calculateAccuracyString(blockData.correct, blockData.incorrect, 1);
+              {Object.entries(blockStats).map(([superblock, superblockData]) => {
+                const totalAttempts = superblockData.correct + superblockData.incorrect;
+                const accuracy = calculateAccuracyString(superblockData.correct, superblockData.incorrect, 1);
+                const hasSubblocks = Object.keys(superblockData.subblocks || {}).length > 0;
 
                 return (
-                  <div
-                    key={block}
-                    className="block-card clickable"
-                    onClick={() => navigate(`/review/block/${encodeURIComponent(block)}`)}
-                  >
-                    <h3 className="block-card-name">📘 {block}</h3>
-                    <div className="block-card-progress">
-                      <div className="progress-bar-large">
-                        <div
-                          className="progress-fill-large"
-                          style={{ width: accuracy }}
-                        ></div>
+                  <div key={superblock} className="block-card-container">
+                    <div
+                      className="block-card clickable"
+                      onClick={() => navigate(`/review/block/${encodeURIComponent(superblock)}`)}
+                    >
+                      <h3 className="block-card-name">📘 {superblock}</h3>
+                      <div className="block-card-progress">
+                        <div className="progress-bar-large">
+                          <div
+                            className="progress-fill-large"
+                            style={{ width: accuracy }}
+                          ></div>
+                        </div>
+                        <p className="block-percentage">{accuracy}</p>
                       </div>
-                      <p className="block-percentage">{accuracy}</p>
+                      <div className="block-card-stats">
+                        <span>{superblockData.answered}/{superblockData.total} respondidas</span>
+                        <span>•</span>
+                        <span>{totalAttempts} intentos</span>
+                      </div>
                     </div>
-                    <div className="block-card-stats">
-                      <span>{blockData.answered}/{blockData.total} respondidas</span>
-                      <span>•</span>
-                      <span>{totalAttempts} intentos</span>
-                    </div>
+
+                    {/* Subblocks */}
+                    {hasSubblocks && (
+                      <div className="subblocks-container">
+                        {Object.entries(superblockData.subblocks).map(([subblock, subblockData]) => {
+                          const subTotalAttempts = subblockData.correct + subblockData.incorrect;
+                          const subAccuracy = calculateAccuracyString(subblockData.correct, subblockData.incorrect, 1);
+
+                          return (
+                            <div
+                              key={subblock}
+                              className="subblock-card clickable"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                navigate(`/review/block/${encodeURIComponent(subblock)}`);
+                              }}
+                            >
+                              <h4 className="subblock-card-name">└─ {subblock}</h4>
+                              <div className="subblock-card-stats">
+                                <span>{subblockData.answered}/{subblockData.total}</span>
+                                <span>•</span>
+                                <span>{subAccuracy}</span>
+                                <span>•</span>
+                                <span>{subTotalAttempts} intentos</span>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
                   </div>
                 );
               })}

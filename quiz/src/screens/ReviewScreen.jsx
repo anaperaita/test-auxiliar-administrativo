@@ -160,7 +160,12 @@ export default function ReviewScreen() {
 
         {/* Block Tag */}
         <div className="block-tag-review">
-          <span className="block-text">{currentQuestion.block}</span>
+          <span className="block-text">
+            {currentQuestion.superblock || currentQuestion.block}
+            {currentQuestion.subblock && (
+              <> &gt; {currentQuestion.subblock}</>
+            )}
+          </span>
         </div>
 
         {/* Question Stats */}

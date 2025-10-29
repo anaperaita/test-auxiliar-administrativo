@@ -71,31 +71,58 @@ export const calculateGlobalStats = (questions, stats) => {
 };
 
 /**
- * Calculate statistics grouped by block
+ * Calculate statistics grouped by superblock and subblock
  * @param {Array} questions - All questions
  * @param {Object} stats - Statistics object
- * @returns {Object} Statistics grouped by block name
+ * @returns {Object} Statistics grouped by superblock, then subblock
  */
 export const calculateBlockStats = (questions, stats) => {
   const blockStats = {};
 
   questions.forEach(q => {
-    if (!blockStats[q.block]) {
-      blockStats[q.block] = {
+    // Use superblock and subblock structure, fallback to old block for backward compatibility
+    const superblock = q.superblock || q.block;
+    const subblock = q.subblock || null;
+
+    // Initialize superblock if it doesn't exist
+    if (!blockStats[superblock]) {
+      blockStats[superblock] = {
         total: 0,
         answered: 0,
         correct: 0,
         incorrect: 0,
+        subblocks: {},
       };
     }
 
-    blockStats[q.block].total += 1;
+    // Add to superblock totals
+    blockStats[superblock].total += 1;
 
     const questionStats = stats[q.id];
     if (questionStats) {
-      blockStats[q.block].answered += 1;
-      blockStats[q.block].correct += questionStats.correct;
-      blockStats[q.block].incorrect += questionStats.incorrect;
+      blockStats[superblock].answered += 1;
+      blockStats[superblock].correct += questionStats.correct;
+      blockStats[superblock].incorrect += questionStats.incorrect;
+    }
+
+    // If subblock exists, track it separately
+    if (subblock) {
+      if (!blockStats[superblock].subblocks[subblock]) {
+        blockStats[superblock].subblocks[subblock] = {
+          total: 0,
+          answered: 0,
+          correct: 0,
+          incorrect: 0,
+        };
+      }
+
+      blockStats[superblock].subblocks[subblock].total += 1;
+
+      if (questionStats) {
+        blockStats[superblock].subblocks[subblock].answered += 1;
+        blockStats[superblock].subblocks[subblock].correct += questionStats.correct;
+        blockStats[superblock].subblocks[subblock].incorrect += questionStats.incorrect;
+      }
     }
   });
 

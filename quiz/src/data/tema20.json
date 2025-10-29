@@ -1,0 +1,707 @@
+{
+  "module": "Tema 20",
+  "title": "Tema 20",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "t20-1",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "La comparecencia del interesado ante las Administraciones Públicas:",
+      "options": [
+        "sólo podrá exigirse cuando sea exigida por una norma con rango de ley",
+        "los ciudadanos tienen derecho a que la comparecencia ante un órgano o unidad de la administración de la comunidad les resulte lo menos gravosa posible",
+        "sólo puede ser exigida cuando sea estrictamente indispensable",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-2",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Según el concepto de la proactividad de la Administración, ésta se anticipará a las necesidades de los ciudadanos y les facilitará la iniciación de procedimientos tendentes al reconocimiento de derechos y prestaciones reconocidos legalmente…",
+      "options": [
+        "cuando sea posible",
+        "en todos los procedimientos tramitados por la administración",
+        "siempre y en todo caso",
+        "siempre que sea posible y la ley no impide inicio de oficio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-3",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "El objetivo fundamental de la nueva normativa en materia de funcionamiento electrónico de la Administración (R.D.203/2021), es:",
+      "options": [
+        "fomentar la digitalización en el funcionamiento de las administraciones públicas",
+        "el propósito de logara un expediente administrativo electrónico",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-4",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Las tradicionales oficinas de registro pasan a denominarse actualmente:",
+      "options": [
+        "oficinas de asistencia en materia de información",
+        "oficinas de asistencia en materia de registros",
+        "oficinas auxiliares en materia de registros",
+        "oficinas auxiliares en materia de información y registro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-5",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "A tenor de la nueva normativa la documentación que se presenta por registro en las oficinas correspondientes de la Administración de CyL….",
+      "options": [
+        "debe digitalizarse",
+        "puede digitalizarse",
+        "suele digitalizarse",
+        "es opcional digitalizar según expediente administrativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-6",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "El Reglamento de actuación y funcionamiento del sector público por medios electrónicos, con carácter básico en buena parte de sus preceptos, fue aprobado mediante:",
+      "options": [
+        "r.d, 203/2020 de 30 de marzo",
+        "r.d. 13/2021 de 20 de mayo",
+        "r.d.203/2021 de 30 de marzo",
+        "ley 2/2010 de 15 de abril"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-7",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "En Castilla y León se ha actualizado la normativa que regula las oficinas de asistencia en materia de registros de la Administración de Castilla y León con la aprobación del Decreto:",
+      "options": [
+        "203/2020 de 30 de marzo",
+        "13/2021 de 13 de mayo",
+        "13/2021 de 20 de mayo",
+        "203/2020 de 20 de mayo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-8",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Son aspectos de la atención presencial a la ciudadanía desde la normativa del nuevo Decreto de Castilla y León en la materia:",
+      "options": [
+        "la consecución de la mejora continua de los servicios de atención presencial",
+        "previsiones específicas en materia de protección de datos de carácter personal",
+        "el fomento de la transparencia y de la participación",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-9",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Habrán de ser canales de asistencia para el acceso a los servicios electrónicos de las Administraciones Públicas según las nuevas normas que regulan esta materia:",
+      "options": [
+        "presencial a través de las oficinas de asistencia que se determinen",
+        "correo electrónico",
+        "telefónico",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-10",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Los servicios digitales que se pretenden en el expediente administrativo con la nueva norma recogen:",
+      "options": [
+        "el registro del expediente administrativo",
+        "la tramitación del expediente administrativo",
+        "el archivo del expediente administrativo",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-11",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "El nuevo decreto de la Comunidad de CyL que recoge las oficinas de asistencia en materia de registros de la Administración de CyL tiene por objeto regular:",
+      "options": [
+        "la organización y funcionamiento homogéneos de la asistencia presencial a la ciudadanía en la admón de cyl",
+        "el sistema de registro único",
+        "a y b son respuestas correctas",
+        "todas son falsas. recoge y regula la organización de la asistencia electrónica de los ciudadanos con la administración de cyl en los procedimientos exclusivamente señalados en dicha norma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-12",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Existirán en las dependencias administrativas pertenecientes a las delegaciones territoriales que, por razones de servicio y eficacia administrativa, se ubican en localidades distintas a la capital de la provincia",
+      "options": [
+        "oficinas generales",
+        "oficinas departamentales",
+        "puntos",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-13",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Además de las oficinas en materia de registros anunciadas por el Decreto 13/2021 se prevé la posibilidad de la existencia de otras unidades y órganos que presten asimismo servicio de asistencia en materia de registros. De esas unidades se determina:",
+      "options": [
+        "podrán ser autorizadas por la junta de castilla y león",
+        "se tendrá en cuenta para ello factores humanos y/o demográficos de volumen registral",
+        "podrán ser unidades y órganos centrales o periféricos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-14",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Las oficina de asistencia en materia de registros que existen en cada delegación territorial, de las 9 que existen en la comunidad autónoma de CyL, estarán adscritas orgánicamente….",
+      "options": [
+        "a la respectiva delegación",
+        "a la consejería en materia de atención a la ciudadanía",
+        "a la consejería de economía",
+        "a la secretaría general de la consejería de hacienda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-15",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Los puntos, conocidos como unidades de asistencia en materia de registros y ubicados en localidades concretas de la comunidad autónoma que no capitales de provincia, están presentes en:",
+      "options": [
+        "aranda de duero (bu)",
+        "béjar (sa)",
+        "cantalejo (sg)",
+        "la bañeza (le)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-16",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Las oficinas de asistencia en materia de registros, según la nueva normativa de CyL, tienen naturaleza de…",
+      "options": [
+        "unidad orgánica",
+        "órgano administrativo",
+        "órgano unipersonal",
+        "órgano colegiado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-17",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "A las oficinas de asistencia en materia de registros que tienen su ubicación en cada delegación territorial de la Junta de Castilla y León se les denomina:",
+      "options": [
+        "oficinas territoriales",
+        "oficinas generales",
+        "oficinas departamentales",
+        "puntos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-18",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Los horarios de apertura al público de todas las oficinas de asistencia en materia de registros se determinan en el Decreto que las regula, por razones de:",
+      "options": [
+        "eficacia y eficiencia administrativa",
+        "eficacia, homogeneidad y asistencia al ciudadano",
+        "homogeneidad y claridad para el ciudadano",
+        "buen gobierno y transparencia administrativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-19",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "Es función de las oficinas de asistencia en materia de registros de la Administración de Castilla y León",
+      "options": [
+        "información administrativa de carácter general y en su caso particular",
+        "expedición de recibos que acrediten la fecha y hora de presentación de documentos a registro",
+        "suministro, en su caso, del código de identificación del órgano advo al que se dirigen la documentación presentada a registro",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-20",
+      "superblock": "Tema 20",
+      "subblock": "TEMA  20. Test 1",
+      "question": "En relación a los poderes de representación, les corresponde a las unidades de asistencia en materia de registros a través de la comparecencia personal en las oficinas habilitadas…",
+      "options": [
+        "su inscripción",
+        "su revocación",
+        "su aceptación",
+        "todas las anteriores TEMA 20. Test 1 SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-21",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Las oficinas de asistencia en materia de registros tendrán, entre otras funciones, la de la exposición pública en el tablón de anuncios de cuantos actos y resoluciones sean remitidos por los órganos de gestión, y a estos efectos…",
+      "options": [
+        "habrán de diligenciar el tiempo de exposición, en su caso, a solicitud del órgano remitente",
+        "habrán de enviar a los interesados dicho anuncio en modo escrito y notificado al correo-e que éstos determinen",
+        "habrán de certificar las fechas de publicación mediante anuncio electrónico en la web de la junta de cyl",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-22",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Dispondrán los espacios y medios humanos y materiales necesarios para el desarrollo de las funciones establecidas en la legislación básicas estatal y en el decreto 13/2021 de las oficinas de asistencia en materia de registros…",
+      "options": [
+        "los delegados territoriales y los directores generales de carácter administrativo en cada consejería",
+        "las consejerías y organismos de los que dependen orgánicamente dichas oficinas",
+        "las secretarías generales de cada consejería, independientemente de la dependencia orgánica de aquéllas",
+        "la dirección general de asistencia al ciudadano, o de la consejería que en cada momento dependa ésta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-23",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Es un ejemplo de proactividad de la Administración de CyL en el ámbito del servicio que ofrece el 012",
+      "options": [
+        "el envío de alertas sms de convocatorias de ayudas, y procesos selectivos publicados en bocyl",
+        "información administrativa al ciudadano sobre asuntos relacionados con sus derechos.",
+        "asistir a los ciudadanos en el ejercicio del derecho de petición",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-24",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En las oficinas de asistencia en materia de registros una función es la asistencia en el uso de medios electrónicos en relación con trámites del ámbito de actuación de las respectivas oficinas para los que se confiera habilitación, especialmente en referencia a identificación o firma electrónica. ¿A qué ciudadanos se refiere esta función?",
+      "options": [
+        "a las personas interesadas no obligadas a relación electrónica con la administración, que así lo soliciten",
+        "a las personas interesadas obligadas a relación electrónica con la administración, que así lo soliciten",
+        "a las personas físicas y jurídicas obligadas a relación electrónica con la administración, que así lo soliciten",
+        "exclusivamente a personas jurídicas no obligadas a relación electrónica con la admón aunque no soliciten"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-25",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En relación a la sede electrónica de la Administración de Castilla y León, señale la respuesta correcta:",
+      "options": [
+        "estará disponible en la dirección electrónica https.//www.tramitcastillayleon.jcyl.es",
+        "su finalidad será facilitar a los ciudadanos el acceso a la información, a los servicios y a los procedimientos electrónicos",
+        "a y b son correctas",
+        "todas las respuestas son falsas. la sede electrónica no está dispuesta todavía en la administración de cyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-26",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "El registro electrónico único que existirá en la Administración de Castilla y León está integrado en el sistema de registro único y su funcionamiento será responsabilidad de:",
+      "options": [
+        "consejería de presidencia y con la presidencia de la junta de cl",
+        "consejería competente en materia de atención a la ciudadanía",
+        "consejería competente para la dirección y ejecución de las actuaciones en materia de admón electrónica",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-27",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Forma parte obligatoriamente del contenido que ha de tener la sede electrónica de la Administración de Castilla y León…",
+      "options": [
+        "servicio de verificación de sellos electrónicos que sean admitidos en la administraciones públicas",
+        "medios disponibles para la resolución de quejas y sugerencias",
+        "buzón electrónica del ciudadano, a tenor de lo establecido en el decreto 13/2021 arts. 28 y 29",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-28",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Los sistemas de información que soporten la sede electrónica de la Administración de CyL, siguiendo las previsiones establecidas en los Esquemas nacionales de seguridad e interoperabilidad, deberán garantizar de las informaciones que manejen, su…",
+      "options": [
+        "confidencialidad",
+        "disponibilidad",
+        "integridad",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-29",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En el ámbito de aplicación de la sede electrónica están incluidas…",
+      "options": [
+        "todas las unidades administrativas, organismos y entes públicos de la admón general de la comunidad de cyl",
+        "todas las unidades administrativas, organismos y entes públicos de la admón institucional de cyl",
+        "todas las unidades administrativas, organismos y entes públicos de las administraciones públicas de cyl y que se ubiquen territorialmente en el ámbito geográfico de la comunidad de CyL",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-30",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "El registro electrónico de la Administración de Castilla y León se regirá por:",
+      "options": [
+        "la fecha y hora oficial de la sede electrónica de la administración general del estado",
+        "la fecha y hora oficial de la sede electrónica habilitada al efecto para todas las administraciones públicas",
+        "la fecha y hora oficial de la sede electrónica de la administración de la comunidad de castilla y león",
+        "la fecha y hora oficiales que determina el gobierno de la nación, en colaboración con la junta de cyl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-31",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "La información administrativa de carácter general que se ofrece al ciudadano…",
+      "options": [
+        "tendrá carácter exclusivamente orientativo",
+        "no generará derechos ni expectativas de derecho",
+        "no podrá lesionar derechos de los solicitantes",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-32",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "La información administrativa de carácter particular en la Comunidad de CyL, actualmente….",
+      "options": [
+        "es la que concierne al estado o contenido de los procedimientos en tramitación o finalizados",
+        "es la que identifica autoridades y personal al servicio de la administración bajo cuya responsabilidad se tramitan los procedimientos",
+        "será facilitada a las personas no obligadas a relación electrónica con la administración, con las limitaciones establecidas en las normas",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-33",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "El objeto del registro de funcionarios habilitados en la administración de CyL será:",
+      "options": [
+        "ofrecer al ciudadano el servicio de registro en toda documentación que presente para cualquier administración",
+        "ofrecer la posibilidad de que el órgano o autoridad de gestión pueda comprobar la validez de la intervención electrónica del funcionario público que ha emitido dichos registros",
+        "ofrecer a la administración una respuesta jurídica a la resolución de cualquier asuntos previamente registrado y de expedientes administrativos no resueltos en plazo legalmente previsto",
+        "ofrecer a ciudadanos y administración un cauce de resolución al servir de base en la fecha de inicio del expediente administrativo de que se trate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-34",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Todo el personal que presta servicios en las oficinas autonómicas de asistencia en materia de registros está habilitado para…",
+      "options": [
+        "identificación electrónica de las personas interesadas en aquellos trámites y procedimientos que se determinen",
+        "firma electrónica de las personas interesadas en aquellos trámites y procedimientos que se determinen",
+        "expedición de copias electrónicas auténticas de cualquier documento que presenten las personas interesadas a registro para su incorporación a un expediente administrativo",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-35",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En relación al sistema de registro único la nueva normativa desde 2021, establece:",
+      "options": [
+        "la función de registro se llevará por medios electrónicos",
+        "existirá un libro de entrada y salida (mismo libro con ambos conceptos) de documentos",
+        "los registros cerrarán cada semana debiendo quedar ordenados cronológicamente según el orden de presentación o salida de los documentos",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-36",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "No serán objeto de registro:",
+      "options": [
+        "documentación principal que se acompaña al documento que es objeto de registro",
+        "aquéllos documentos que carezcan parcialmente de los requisitos mínimos legalmente exigidos",
+        "las escritos o comunicaciones oficiales que se transmiten entre órganos y unidades administrativas a las que preste su servicio un mismo registro",
+        "todas las anteriores son correctas, pues no serán objeto de registro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-37",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Serán de uso obligatorio para los ciudadanos y usuarios, en los términos establecidos por la Ley 39/2015 y a tenor de la aplicación del decreto 13/2021 de la Administración de Castilla y León:",
+      "options": [
+        "los modelos específicos de solicitudes que se incorporen en la sede electrónica asociados a procedimientos administrativos concretos",
+        "los modelos habituales de solicitudes que se incorporen en la sede electrónica asociados a procedimientos administrativos concretos",
+        "los modelos específicos de solicitudes que se incorporen en el portal electrónico asociados a procedimientos administrativos concretos",
+        "los modelos específicos de solicitudes que se incorporen en el registro o unidad asistencial de registro, y sean asociados a procedimientos administrativos concretos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-38",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En la información administrativa particular se da conocimiento al interesado del contenido de los procedimientos…",
+      "options": [
+        "en trámite",
+        "finalizados",
+        "a y b son correctas",
+        "d, todas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-39",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "La notificación inicialmente electrónica, se podrá practicar en soporte no electrónico…",
+      "options": [
+        "cuando la administración entienda que es mejor para el particular y más seguro éste medio",
+        "cuando interesado o su representante comparezcan de forma espontánea en la oficina y solicite la notificación personal en ése momento",
+        "cuando la administración ofrezca esta posibilidad y el particular, de modo expreso, acepte la misma aun quedando pendiente la misma notificación en el sistema electrónico",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-40",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En la administración de Castilla y León, con el nuevo decreto 14/2021 están habilitados todo el personal funcionario que presta servicios en las oficinas de asistencia en materia de registros para…",
+      "options": [
+        "identificación y firma electrónica de las personas interesadas en los trámites y procedimientos que se determinen",
+        "expedición de copias electrónicas auténticas de cualquier documento que presenten las personas interesadas a registro para su incorporación a un expediente administrativo",
+        "a y b son correctas",
+        "a y b son correctas, y además serán competentes para la resolución de la inadmisión en las solicitudes de reutilización sobre los documentos administrativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-41",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En relación a la función de registro que se realiza en la Administración de Castilla y León, es correcto:",
+      "options": [
+        "existirá un libro de entrada y un libro de salida de documentos",
+        "el registro cierra diariamente y los asientos quedarán ordenados cronológicamente según orden de presentación",
+        "la función de registro se llevará por medios informáticos",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-42",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Cuando un ciudadano obligado a tramitación electrónica presente documentos presencialmente, la normativa establece…",
+      "options": [
+        "que no serán admitidos dichos documentos presentados presencialmente",
+        "que se rechazan sin motivación alguna los documentos presentados presencialmente",
+        "que se penaliza con un requerimiento de subsanación al interesado y con la consideración como fecha de presentación de la solicitud de iniciación en la fecha en que realiza la subsanación",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-43",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Las copias realizadas en cualquier soporte por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido se denominan legalmente:",
+      "options": [
+        "copias compulsadas",
+        "copias simples",
+        "copias auténticas",
+        "copias certificadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-44",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "La regla general de la digitalización de los documentos que se presentan en registro administrativo no se seguirá en casos (señale la respuesta correcta)",
+      "options": [
+        "en supuestos en que la norma reguladora del correspondiente procedimiento determine la custodia necesaria pro la administración de los documentos presentados",
+        "cuando resulte obligatoria la presentación de objetos o documentos en soporte específico que no sean susceptibles de digitalización",
+        "a y b son correctas",
+        "todas las respuestas son falsas; la nueva normativa exige en todos los casos digitalizar toda la actividad registral de los ciudadanos ante la administración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-45",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Las copias auténticas tendrán validez:",
+      "options": [
+        "igual validez que los documentos originales",
+        "igual validez que la copia simple del interesado",
+        "exclusivamente en la misma admón que la digitalizó",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-46",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Las copias en soporte papel de documentos electrónicos requerirán que en las mismas:",
+      "options": [
+        "figure la condición de copia",
+        "contendrá un código generado electrónicamente u otro sistema de verificación que permita contrastar la autenticidad de la copia mediante el acceso al archivo electrónico del órgano público emisor",
+        "a y b son correctas",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-47",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Los interesados podrán solicitar la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas...",
+      "options": [
+        "en cualquier momento",
+        "la solicitud se dirige al órgano resolutorio de dicho procedimiento",
+        "a y b son correctas",
+        "todas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-48",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "Las solicitudes de los interesados de expedición de copias auténticas de documentos públicos habrán de ser expedidas e el plazo, desde la recepción de la solicitud en registro electrónico, de:",
+      "options": [
+        "15 días",
+        "10 días",
+        "20 días",
+        "60 días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-49",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "En la administración de Castilla y León los documentos presentados por los interesados en papel en las oficinas de asistencia en materia de registros…",
+      "options": [
+        "habrán de ser digitalizados y devueltos inmediatamente tras su digitalización",
+        "habrán de ser digitalizados y devueltos en papel en plazo máximo de 10 días",
+        "habrán de ser digitalizados y devueltos al interesado que los podrá reutilizar en todo caso ante otra admón",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t20-50",
+      "superblock": "Tema 20",
+      "subblock": "TEMA 20. Test 2",
+      "question": "El conjunto de órganos, unidades y aplicaciones que registran cuantos documentos se reciban o remitan en la Admón General de CyL y en los organismos autónomos, entidades de derecho público y entidades públicas de derecho privado cuando ejerzan potestades administrativas, que formen o puedan formar parte del sector público autonómico para su debida constancia se denomina en la normativa autonómica:",
+      "options": [
+        "sistema de registro administrativo",
+        "sistema de registro único",
+        "entidad de registro auxiliares",
+        "sistema de asistencia y reutilización de la información TEMA 20. Test 2 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}
