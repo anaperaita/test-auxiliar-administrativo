@@ -146,27 +146,38 @@
   width: 100%;
   padding: 16px;
   margin-bottom: 8px;
-  background-color: #f8f9fa;
+  background-color: #fafafa;
   border: 2px solid transparent;
   border-radius: 12px;
   cursor: pointer;
   transition: all 0.2s ease;
   font-size: 15px;
-  font-weight: 500;
-  color: #2d3748;
+  font-weight: 600;
+  color: #d1d5db;
   text-align: left;
 }
 
 .hamburger-module-item:hover {
-  background-color: #e9ecef;
+  background-color: #f3f4f6;
+  border-color: #d1d5db;
   transform: translateX(4px);
 }
 
 .hamburger-module-item.active {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  color: #ffffff;
+  font-weight: 600;
   border-color: #667eea;
   box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.hamburger-module-item.active .module-name {
+  color: #ffffff;
+}
+
+.hamburger-module-item.active .module-check {
+  color: #ffffff;
 }
 
 .hamburger-module-item:active {
@@ -181,6 +192,7 @@
 .module-name {
   flex: 1;
   line-height: 1.4;
+  color: inherit;
 }
 
 .module-check {
