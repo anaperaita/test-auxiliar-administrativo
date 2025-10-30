@@ -135,6 +135,11 @@
   gap: 16px;
 }
 
+.block-card-container {
+  display: flex;
+  flex-direction: column;
+}
+
 .block-card {
   background: var(--glass-bg);
   backdrop-filter: blur(10px);
@@ -146,14 +151,22 @@
   transition: all var(--transition-base);
 }
 
-.block-card.clickable {
+.block-card-header {
+  margin-bottom: 12px;
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-base);
+}
+
+.block-card-header.clickable {
   cursor: pointer;
 }
 
-.block-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-2xl);
-  border-color: rgba(37, 99, 235, 0.2);
+.block-card-header.clickable:hover {
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.block-card-header-content {
+  /* Content wrapper - no special styling needed */
 }
 
 .block-card-name {
@@ -202,6 +215,91 @@
   align-items: center;
   gap: 8px;
   font-size: 14px;
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+.expand-indicator {
+  font-size: 14px;
+  color: var(--color-primary);
+  transition: transform var(--transition-base);
+  display: inline-block;
+}
+
+.block-review-button {
+  width: 100%;
+  background: var(--gradient-primary);
+  border: none;
+  border-radius: var(--radius-lg);
+  padding: 12px 16px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  box-shadow: var(--shadow-md);
+  margin-top: 8px;
+}
+
+.block-review-button:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.block-review-button:active {
+  transform: translateY(0);
+}
+
+.subblocks-container {
+  margin-top: 12px;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  animation: slideDown 0.3s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.subblock-card {
+  background: rgba(249, 250, 251, 0.6);
+  border: 1px solid var(--color-gray-200);
+  border-radius: var(--radius-lg);
+  padding: 12px 16px;
+  transition: all var(--transition-base);
+  cursor: pointer;
+}
+
+.subblock-card:hover {
+  background: rgba(255, 255, 255, 0.9);
+  border-color: var(--color-primary-light);
+  transform: translateX(4px);
+  box-shadow: var(--shadow-md);
+}
+
+.subblock-card-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0 0 8px 0;
+  display: flex;
+  align-items: center;
+}
+
+.subblock-card-stats {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
   color: var(--color-text-secondary);
   font-weight: 500;
 }

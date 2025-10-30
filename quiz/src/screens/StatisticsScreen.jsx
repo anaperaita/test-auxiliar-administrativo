@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useQuiz } from '../hooks/useQuiz';
 import { useToast } from '../hooks/useToast';
@@ -10,8 +10,17 @@ export default function StatisticsScreen() {
   const navigate = useNavigate();
   const { questions, stats, resetStats, getGlobalStats } = useQuiz();
   const { toast, showWarning, hideToast } = useToast();
+  const [expandedBlocks, setExpandedBlocks] = useState({});
 
   const globalStats = getGlobalStats();
+
+  // Toggle expand/collapse for a superblock
+  const toggleBlock = (superblock) => {
+    setExpandedBlocks(prev => ({
+      ...prev,
+      [superblock]: !prev[superblock]
+    }));
+  };
 
   // Import statsService to calculate block stats with new structure
   const statsService = { calculateBlockStats: (questions, stats) => {
@@ -150,31 +159,53 @@ export default function StatisticsScreen() {
                 const accuracy = calculateAccuracyString(superblockData.correct, superblockData.incorrect, 1);
                 const hasSubblocks = Object.keys(superblockData.subblocks || {}).length > 0;
 
+                const isExpanded = expandedBlocks[superblock];
+
                 return (
                   <div key={superblock} className="block-card-container">
-                    <div
-                      className="block-card clickable"
-                      onClick={() => navigate(`/review/block/${encodeURIComponent(superblock)}`)}
-                    >
-                      <h3 className="block-card-name">📘 {superblock}</h3>
-                      <div className="block-card-progress">
-                        <div className="progress-bar-large">
-                          <div
-                            className="progress-fill-large"
-                            style={{ width: accuracy }}
-                          ></div>
+                    <div className="block-card">
+                      {/* Clickable header to expand/collapse */}
+                      <div
+                        className="block-card-header clickable"
+                        onClick={() => hasSubblocks && toggleBlock(superblock)}
+                      >
+                        <div className="block-card-header-content">
+                          <h3 className="block-card-name">
+                            📘 {superblock}
+                            {hasSubblocks && (
+                              <span className="expand-indicator">
+                                {isExpanded ? ' ▼' : ' ▶'}
+                              </span>
+                            )}
+                          </h3>
+                          <div className="block-card-progress">
+                            <div className="progress-bar-large">
+                              <div
+                                className="progress-fill-large"
+                                style={{ width: accuracy }}
+                              ></div>
+                            </div>
+                            <p className="block-percentage">{accuracy}</p>
+                          </div>
+                          <div className="block-card-stats">
+                            <span>{superblockData.answered}/{superblockData.total} respondidas</span>
+                            <span>•</span>
+                            <span>{totalAttempts} intentos</span>
+                          </div>
                         </div>
-                        <p className="block-percentage">{accuracy}</p>
                       </div>
-                      <div className="block-card-stats">
-                        <span>{superblockData.answered}/{superblockData.total} respondidas</span>
-                        <span>•</span>
-                        <span>{totalAttempts} intentos</span>
-                      </div>
+
+                      {/* Action button */}
+                      <button
+                        className="block-review-button"
+                        onClick={() => navigate(`/review/block/${encodeURIComponent(superblock)}`)}
+                      >
+                        Repasar →
+                      </button>
                     </div>
 
                     {/* Subblocks */}
-                    {hasSubblocks && (
+                    {hasSubblocks && isExpanded && (
                       <div className="subblocks-container">
                         {Object.entries(superblockData.subblocks).map(([subblock, subblockData]) => {
                           const subTotalAttempts = subblockData.correct + subblockData.incorrect;
@@ -184,10 +215,7 @@ export default function StatisticsScreen() {
                             <div
                               key={subblock}
                               className="subblock-card clickable"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                navigate(`/review/block/${encodeURIComponent(subblock)}`);
-                              }}
+                              onClick={() => navigate(`/review/block/${encodeURIComponent(subblock)}`)}
                             >
                               <h4 className="subblock-card-name">└─ {subblock}</h4>
                               <div className="subblock-card-stats">
