@@ -246,3 +246,37 @@
 .hamburger-modules::-webkit-scrollbar-thumb:hover {
   background: #a0aec0;
 }
+
+/* Module Loading Indicator */
+.module-loading-indicator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-top: 2px solid #e9ecef;
+  font-size: 14px;
+  color: #667eea;
+  font-weight: 500;
+}
+
+.spinner-small {
+  width: 20px;
+  height: 20px;
+  border: 3px solid #e9ecef;
+  border-top-color: #667eea;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Disabled state for module items during loading */
+.hamburger-module-item:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none !important;
+}

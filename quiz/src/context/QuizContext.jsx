@@ -8,71 +8,90 @@ import * as statsService from '../services/statsService';
 export const QuizContext = createContext();
 
 /**
- * Dynamically load all modules based on modules.config.json
- * Uses Vite's glob import for efficient module loading
- * Returns an array of module objects
+ * Get lazy module loaders
+ * Uses Vite's glob import for lazy loading - only loads modules when needed
+ * Returns a function map for dynamic imports
  */
-const loadModules = () => {
-  try {
-    // Vite's glob import - eagerly imports all JSON files in /data directory
-    const moduleFiles = import.meta.glob('../data/*.json', { eager: true });
-
-    // Map config modules to their loaded data
-    const modules = modulesConfig.modules.map((moduleInfo) => {
-      const modulePath = `../data/${moduleInfo.file}`;
-      const moduleData = moduleFiles[modulePath];
-
-      if (!moduleData) {
-        console.warn(`Module file not found: ${moduleInfo.file}`);
-        return null;
-      }
-
-      return {
-        id: moduleInfo.id,
-        name: moduleInfo.name,
-        data: moduleData.default,
-      };
-    }).filter(Boolean); // Remove any null entries
-
-    return modules;
-  } catch (error) {
-    console.error('Error loading modules:', error);
-    return [];
-  }
+const getModuleLoaders = () => {
+  // Vite's glob import - lazy loading (no eager flag)
+  return import.meta.glob('../data/*.json');
 };
 
 export const QuizProvider = ({ children }) => {
   const [availableModules, setAvailableModules] = useState([]);
   const [selectedModule, setSelectedModule] = useState(null);
+  const [loadedModules, setLoadedModules] = useState({}); // Cache for loaded module data
   const [questions, setQuestions] = useState([]);
   const [stats, setStats] = useState({});
   const [bookmarks, setBookmarks] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(true); // Initial app loading
+  const [moduleLoading, setModuleLoading] = useState(false); // Module data loading
 
-  // Cargar módulos dinámicamente al iniciar
+  // Load available modules metadata on startup
   useEffect(() => {
-    const modules = loadModules();
-    setAvailableModules(modules);
+    // Just set available modules from config (no data loading yet)
+    setAvailableModules(modulesConfig.modules);
 
-    // Set default module to first available module
-    if (modules.length > 0) {
-      const defaultModuleId = modules[0].id;
-      setSelectedModule(defaultModuleId);
-      setQuestions(modules[0].data.questions);
+    // Set default module to first available
+    if (modulesConfig.modules.length > 0) {
+      setSelectedModule(modulesConfig.modules[0].id);
     }
 
     loadData();
   }, []);
 
-  // Actualizar preguntas cuando cambia el módulo
+  // Load module data when selectedModule changes
   useEffect(() => {
-    if (selectedModule && availableModules.length > 0) {
-      const module = availableModules.find(m => m.id === selectedModule);
-      if (module) {
-        setQuestions(module.data.questions);
+    const loadModuleData = async () => {
+      if (!selectedModule) return;
+
+      // Check if module is already loaded in cache
+      if (loadedModules[selectedModule]) {
+        setQuestions(loadedModules[selectedModule].questions);
+        return;
       }
-    }
-  }, [selectedModule, availableModules]);
+
+      // Load module data dynamically
+      setModuleLoading(true);
+      try {
+        const moduleLoaders = getModuleLoaders();
+        const moduleInfo = availableModules.find(m => m.id === selectedModule);
+
+        if (!moduleInfo) {
+          console.error(`Module not found: ${selectedModule}`);
+          setModuleLoading(false);
+          return;
+        }
+
+        const modulePath = `../data/${moduleInfo.file}`;
+        const loader = moduleLoaders[modulePath];
+
+        if (!loader) {
+          console.error(`Module file not found: ${moduleInfo.file}`);
+          setModuleLoading(false);
+          return;
+        }
+
+        // Dynamically import the module
+        const moduleData = await loader();
+        const questions = moduleData.default.questions;
+
+        // Cache the loaded module
+        setLoadedModules(prev => ({
+          ...prev,
+          [selectedModule]: { questions }
+        }));
+
+        setQuestions(questions);
+      } catch (error) {
+        console.error(`Error loading module ${selectedModule}:`, error);
+      } finally {
+        setModuleLoading(false);
+      }
+    };
+
+    loadModuleData();
+  }, [selectedModule, availableModules, loadedModules]);
 
   const loadData = () => {
     try {
@@ -172,6 +191,7 @@ export const QuizProvider = ({ children }) => {
     stats,
     bookmarks,
     loading,
+    moduleLoading, // New: indicates when module data is being loaded
     selectedModule,
     setSelectedModule,
     availableModules,

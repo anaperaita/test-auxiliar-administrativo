@@ -1,0 +1,3101 @@
+{
+  "module": "Tema 2",
+  "title": "Tema 2",
+  "totalQuestions": 221,
+  "questions": [
+    {
+      "id": "t2-1",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "El Jefe de Estado es:",
+      "options": [
+        "el rey",
+        "el presidente del gobierno",
+        "el presidente del congreso",
+        "el defensor del pueblo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-2",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Extinguidas todas las líneas llamadas en Derecho, proveerá a la sucesión en la Corona en la forma que más convenga a los intereses de España:",
+      "options": [
+        "el congreso de los diputados",
+        "el senado",
+        "las cortes generales",
+        "el presidente del gobierno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-3",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán:",
+      "options": [
+        "mediante decreto-ley",
+        "por ley orgánica",
+        "por el presidente del gobierno",
+        "mediante referéndum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-4",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Para ejercer la Regencia es preciso:",
+      "options": [
+        "ser español de nacimiento y mayor de 21 años",
+        "ser español y mayor de edad",
+        "ser español de nacimiento y mayor de edad",
+        "ser español y mayor de 21 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-5",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "El mando supremo de las Fuerzas Armadas corresponde a:",
+      "options": [
+        "el presidente del gobierno",
+        "el rey",
+        "el defensor del pueblo",
+        "el presidente del congreso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-6",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Los actos del Rey serán refrendados por:",
+      "options": [
+        "el presidente del gobierno",
+        "los ministros competentes",
+        "el príncipe heredero",
+        "el presidente del gobierno y, en su caso, por los ministros competentes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-7",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Señala la correcta:",
+      "options": [
+        "el rey nombra y releva libremente a los miembros militares de su casa",
+        "el rey nombra y releva mediante refrendo a los miembros civiles de su casa",
+        "el rey nombra y releva libremente a los miembros civiles y militares de su casa",
+        "el rey nombra y releva mediante refrendo a los miembros civiles y militares de su casa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-8",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Al Rey corresponde:",
+      "options": [
+        "previa comunicación a las cortes generales, declarar la guerra y hacer la paz",
+        "previa autorización de las cortes generales, declarar la guerra y hacer la paz",
+        "previa comunicación al presidente del gobierno, declarar la guerra y hacer la paz",
+        "previa autorización del congreso, declarar la guerra y hacer la paz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-9",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de:",
+      "options": [
+        "una persona de entre las mismas cortes",
+        "una o tres personas",
+        "una, dos o tres personas",
+        "una, tres o cinco personas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-10",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Preferentemente será tutor del Rey menor:",
+      "options": [
+        "la persona que en su testamento hubiese nombrado el rey difunto",
+        "el padre o la madre, mientras permanezcan viudos",
+        "aquél que sea nombrado por las cortes generales",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-11",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre:",
+      "options": [
+        "la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de menos edad a la de más",
+        "la línea posterior a las anteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos",
+        "la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos",
+        "la línea posterior a las anteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de menos edad a la de más"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-12",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición de:",
+      "options": [
+        "el rey, quedarán excluidas en la sucesión a la corona",
+        "las cortes generales, quedarán excluidas en la sucesión a la corona por sí y sus descendientes",
+        "el rey y de las cortes generales, quedarán excluidas en la sucesión a la corona",
+        "el rey y de las cortes generales, quedarán excluidas en la sucesión a la corona por sí y sus descendientes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-13",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "La Reina consorte o el consorte de la Reina:",
+      "options": [
+        "asumirán las funciones constitucionales que le correspondan al jefe del estado cuando este se encuentre incapacitado",
+        "no podrán asumir funciones constitucionales, salvo lo dispuesto para la tutela",
+        "no podrán asumir funciones constitucionales, salvo lo dispuesto para la regencia",
+        "no podrán asumir funciones constitucionales, salvo lo dispuesto para la tutela y la regencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-14",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Señala la correcta:",
+      "options": [
+        "podrán acumularse los cargos de regente y de tutor en la misma persona siempre que sea familiar del Rey",
+        "en ningún caso podrán acumularse los cargos de regente y de tutor en la misma persona",
+        "no podrán acumularse los cargos de regente y de tutor sino en el padre, madre o descendientes directos del Rey",
+        "no podrán acumularse los cargos de regente y de tutor sino en el padre, madre o ascendientes directos del Rey"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-15",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 1",
+      "question": "Al Rey corresponde:",
+      "options": [
+        "proponer el candidato a presidente del gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución",
+        "nombrar y separar a los miembros del gobierno libremente",
+        "ser informado de los asuntos de estado y presidir, a estos efectos, las sesiones del consejo de Ministros, cuando se declare el estado de alarma, estado o sitio",
+        "ejercer el derecho de gracia con arreglo a la ley para autorizar indultos generales TEMA 2. Test 1 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-16",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Una de las afirmaciones que se efectúan en relación a la Corona es correcta; señálela:",
+      "options": [
+        "la corona de españa es el fundamento de la constitución española",
+        "la constitución fija el orden de sucesión a la corona",
+        "la constitución es la única vía de solución establecida para cualquier duda legal con la Corona",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-17",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "El Rey, según la constitución:",
+      "options": [
+        "ostenta la jefatura del estado",
+        "es el representante del gobierno en el estado",
+        "tiene la potestad legislativa y sanciona leyes",
+        "a y c son respuestas correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-18",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Una de las atribuciones del Rey está reflejada correctamente en las siguientes respuestas:",
+      "options": [
+        "al rey corresponde la facultad de nombramiento del presidente de gobierno, bajo su responsabilidad",
+        "las elecciones y referéndums, en su caso, son convocados por el rey bajo su propio criterio",
+        "al rey corresponde el mando supremo de las reales academias",
+        "es función del rey expedir los decretos acordados en consejo de ministros."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-19",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "La Monarquía parlamentaria se caracteriza por el hecho de que el Rey:",
+      "options": [
+        "comparte con el parlamento funciones legislativas.",
+        "ostenta la presidencia del parlamento.",
+        "debe gozar de la confianza del parlamento.",
+        "carece de funciones ejecutivas y legislativas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-20",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Una de las funciones recogidas a continuación es competencia del Rey, según la Constitución:",
+      "options": [
+        "sancionar y promulgar las leyes",
+        "ejercer la potestad reglamentaria",
+        "elegir y nombrar el presidente de gobierno",
+        "nombrar y cesar a los diputados y senadores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-21",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Según la vigente Constitución:",
+      "options": [
+        "la libertad de sindicación se recoge en el artículo 28",
+        "el derecho al trabajo es un derecho fundamental, y además un deber de todos los españoles",
+        "el derecho a la propiedad privada prevalece sobre el interés general y social",
+        "las tres respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-22",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Entre las funciones que en la Constitución se atribuyen al Rey se encuentra la de:",
+      "options": [
+        "nombra al presidente del gobierno, sin más trámites, una vez conocidos los resultados de las elecciones generales.",
+        "nombrar y separar a los miembros del gobierno, a propuesta de su presidente.",
+        "ejercer el derecho de gracia y conceder indultos generales.",
+        "corresponde al rey sancionar y promulgar los decretos acordados en consejo de ministros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-23",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Corresponde al Rey, en relación a las Leyes:",
+      "options": [
+        "sancionarlas",
+        "promulgarlas",
+        "ratificarlas",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-24",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "De las siguientes afirmaciones hay una que no es correcta respecto a la persona del Rey.",
+      "options": [
+        "es el símbolo de la unidad del estado.",
+        "es responsable de todos sus actos.",
+        "es el jefe del estado.",
+        "es inviolable."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-25",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "El Rey debe sancionar las leyes en el plazo máximo de:",
+      "options": [
+        "diez días.",
+        "quince días.",
+        "veinte días.",
+        "treinta días."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-26",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Garantizar la soberanía e independencia de España es competencia según la C.E.:",
+      "options": [
+        "gobierno",
+        "fuerzas y cuerpos seguridad",
+        "rey",
+        "fuerzas armadas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-27",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Respecto a la ideología, religión o creencias, y según la Constitución Española...",
+      "options": [
+        "nadie podrá ser obligado a declarar sobre la misma",
+        "sólo mediante orden judicial se podrá obligar a la declaración de la misma",
+        "sólo mediante resolución judicial motivada se podrá obligar a declarar la misma",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-28",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Dentro del respeto a los principios constitucionales, se reconoce la libertad de creación de centro docente a:",
+      "options": [
+        "personas físicas",
+        "personas jurídicas",
+        "personas físicas y jurídicas",
+        "grupos individuales, o colectivos jurídicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-29",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Las dudas en torno a la corona habrán de resolverse, tal y como establece la Constitución, mediante ...",
+      "options": [
+        "ley de las cortes generales",
+        "ley orgánica de las cortes generales",
+        "decreto ley del gobierno",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-30",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "La libertad de expresión, producción y creación literaria, la libertad de cátedra, y la libertad de comunicar o recibir libremente información veraz tienen su límite, especialmente:",
+      "options": [
+        "en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia",
+        "en el derecho a la participación de todos los ciudadanos en medios de comunicación",
+        "en el derecho de integridad física y moral",
+        "no está limitado en modo alguno la libertad de expresión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-31",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "El Rey tiene, entre otras funciones (señale la respuesta incorrecta):",
+      "options": [
+        "distribuir libremente la cantidad global que recibe para el sostenimiento de su familia y Casa Real de los presupuestos generales del Estado.",
+        "declarar la guerra a otros países, ni aun con autorización de las cortes generales.",
+        "conceder indultos generales.",
+        "presidir las sesiones del consejo de ministros, cuando lo estime oportuno el gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-32",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Por medio de refrendo, de los actos del Rey se responsabiliza:",
+      "options": [
+        "las cortes generales.",
+        "el gobierno.",
+        "el gobierno o las cortes generales.",
+        "las personas que lo otorgan."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-33",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Los actos del Rey deben ser refrendados por:",
+      "options": [
+        "presidente del gobierno.",
+        "los ministros.",
+        "pte del congreso de los diputados.",
+        "todas las respuestas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-34",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "Los actos del Rey sin refrendo:",
+      "options": [
+        "carecen siempre de validez, sin excepción alguna.",
+        "carecen de validez, excepto los actos de nombramiento de los miembros de su casa real.",
+        "carecen de validez, excepto los actos relativos al nombramiento y cese de los miembros civiles y militares de su Casa Real, y los referidos a concesión de honores con arreglo a las leyes.",
+        "trasladan la responsabilidad a las personas que constitucionalmente debía prestar el refrendo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-35",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 10",
+      "question": "La propuesta y nombramiento del Presidente del Gobierno, ¿quién deberá refrendarla?.",
+      "options": [
+        "el anterior presidente gobierno.",
+        "el ministro más antiguo",
+        "el presidente del congreso.",
+        "todas son falsas TEMA 2. Test 10 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-36",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "La Regencia:",
+      "options": [
+        "se ejercerá por mandato institucional y siempre en nombre del rey.",
+        "se ejercerá por mandato constitucional y siempre en nombre del rey.",
+        "se ejercerá por mandado constitucional y siempre en nombre del regente.",
+        "se ejercerá por mandado institucional y, según proceda, en nombre del rey o del propio Regente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-37",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "Puede producirse, en determinados casos, la acumulación del cargo de Tutor con el de:",
+      "options": [
+        "príncipe heredero.",
+        "consorte de la reina.",
+        "jefe de la casa real.",
+        "regente."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-38",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "¿Quién no refrenda los actos del Rey?",
+      "options": [
+        "los secretarios de estado.",
+        "los ministros.",
+        "el presidente del gobierno.",
+        "el presidente del congreso."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-39",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "¿Quién refrenda al Rey en la propuesta de nombramiento de candidato a la Presidencia del Gobierno?",
+      "options": [
+        "el presidente del gobierno saliente.",
+        "este acto se realiza sin refrendo.",
+        "el presidente del congreso de los diputados.",
+        "el jefe de la casa real."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-40",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "¿Qué artículo abre el Título de la Constitución dedicado a la regulación de la Corona?",
+      "options": [
+        "el artículo 56.",
+        "el artículo 54.",
+        "el artículo 55.",
+        "el artículo 57."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-41",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "El consentimiento del Estado para obligarse internacionalmente por medio de tratados corresponde:",
+      "options": [
+        "al congreso de los diputados.",
+        "el presidente del gobierno.",
+        "a los cortes generales.",
+        "al jefe del estado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-42",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "La Corona de España es hereditaria en los sucesores del legítimo heredero de la dinastía histórica en España, que es:",
+      "options": [
+        "don alfonso xiii.",
+        "don juan de borbón, conde de barcelona.",
+        "don juan carlos i de borbón.",
+        "don felipe vi de borbón."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-43",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "Para la sucesión al trono de España, dentro de la misma línea se preferirá:",
+      "options": [
+        "el grado más próximo al más remoto.",
+        "el grado más remoto al más próximo.",
+        "el varón a la mujer.",
+        "el orden natural a la primogenitura."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-44",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "Si no hubiere ninguna persona a quien corresponda la Regencia:",
+      "options": [
+        "la asumirá la mesa de las cortes generales.",
+        "se estará a la última voluntad del rey fallecido.",
+        "esta será nombrada por el gobierno de la nación, y se compondrá de un máximo de cinco personas.",
+        "esta será nombrada por las cortes generales, y se compondrá de uno, tres o cinco miembros."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-45",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "¿A cuál de los siguientes cargos no nombra el Rey?",
+      "options": [
+        "al fiscal general del estado.",
+        "al presidente del tribunal supremo.",
+        "a los vocales de los tribunales consuetudinarios.",
+        "a los vocales del consejo general del poder judicial."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-46",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "En cuanto a los empleos civiles y militares, el Rey, según la Constitución, los:",
+      "options": [
+        "refrenda.",
+        "confiere.",
+        "expide.",
+        "sanciona."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-47",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "Para que el Rey pueda declarar la guerra ha de estar autorizado por:",
+      "options": [
+        "congreso.",
+        "gobierno.",
+        "fuerzas armadas.",
+        "cortes generales."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-48",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "En el supuesto de minoría de edad del Rey entrará a ejercer la Regencia en defecto del padre o madre:",
+      "options": [
+        "el representante legal elegido por las cortes.",
+        "el pariente mayor de edad más próximo a suceder la corona.",
+        "el príncipe heredero.",
+        "el regente y tutor, en todo caso."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-49",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "Si se agotan todas las líneas llamadas a la sucesión en la Corona de España:",
+      "options": [
+        "se proclama la república.",
+        "se establece una dictadura.",
+        "se nombran regentes en tanto se resuelve la cuestión sucesoria.",
+        "las cortes proveerán."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-50",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 2",
+      "question": "El refrendo de los actos del Rey está íntimamente relacionado con:",
+      "options": [
+        "su inhabilitación.",
+        "su irresponsabilidad política.",
+        "sus poderes discrecionales.",
+        "la regencia. TEMA 2. Test 2 SOLUCIONES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-51",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El Gobierno responde solidariamente en su gestión política ante:",
+      "options": [
+        "el congreso de los diputados",
+        "los tribunales",
+        "el senado",
+        "las cortes generales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-52",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán:",
+      "options": [
+        "un tiempo mínimo semanal",
+        "un tiempo mínimo diario",
+        "un tiempo máximo semanal",
+        "un tiempo máximo diario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-53",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Señala la respuesta incorrecta:",
+      "options": [
+        "los miembros del gobierno tienen acceso a las sesiones de las cámaras y a sus comisiones y la facultad de hacerse oír en ellas, y podrán solicitar que informen ante las mismas funcionarios de sus Departamentos",
+        "las cámaras y sus comisiones podrán recabar, a través de los secretarios de aquéllas, la información y ayuda que precisen del Gobierno y de sus Departamentos y de cualesquiera autoridades del Estado y de las Comunidades Autónomas",
+        "toda interpelación podrá dar lugar a una moción en la que la cámara manifieste su posición",
+        "todas son incorrectas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-54",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Puede/n reclamar la presencia de los miembros del Gobierno:",
+      "options": [
+        "el congreso",
+        "el senado",
+        "el congreso y el senado",
+        "el congreso, el senado y sus comisiones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-55",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El Presidente del Gobierno:",
+      "options": [
+        "previa deliberación del consejo de ministros, puede plantear ante las cortes generales la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+        "previa comunicación al consejo de ministros, puede plantear ante el congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+        "previa comunicación al consejo de ministros, puede plantear ante las cortes generales la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+        "previa deliberación del consejo de ministros, puede plantear ante el congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-56",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La confianza al Presidente del Gobierno se entenderá otorgada cuando vote a favor de la misma:",
+      "options": [
+        "la mayoría simple de los miembros del gobierno",
+        "la mayoría absoluta de los miembros del congreso",
+        "la mayoría simple de los miembros del congreso",
+        "la mayoría absoluta de los miembros del gobierno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-57",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Mediante la moción de censura:",
+      "options": [
+        "el congreso de los diputados puede exigir la responsabilidad política del gobierno",
+        "el presidente del gobierno puede exigir la responsabilidad política del congreso",
+        "el gobierno puede exigir la responsabilidad política del presidente del gobierno",
+        "el gobierno puede exigir la responsabilidad política del congreso de los diputados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-58",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La adopción de la moción de censura será por:",
+      "options": [
+        "mayoría simple",
+        "mayoría absoluta",
+        "unanimidad",
+        "mayoría de tres cuartos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-59",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La moción de censura habrá de incluir un candidato a la Presidencia del Gobierno y deberá ser propuesta por:",
+      "options": [
+        "la mayoría simple de los diputados",
+        "la mayoría absoluta de los diputados",
+        "la décima parte de los diputados",
+        "la quinta parte de los diputados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-60",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La moción de censura no podrá ser votada hasta que transcurran:",
+      "options": [
+        "2 días desde su presentación",
+        "5 días desde su presentación",
+        "7 días desde su presentación",
+        "10 días desde su presentación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-61",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Podrán presentarse mociones alternativas:",
+      "options": [
+        "en los 2 primeros días",
+        "en los 5 primeros días",
+        "en los 7 primeros días",
+        "en los 10 primeros días"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-62",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Si la moción de censura no fuere aprobada por el Congreso, sus signatarios:",
+      "options": [
+        "no podrán presentar otra durante la misma legislatura",
+        "solo podrán presentar otra más durante la misma legislatura",
+        "no podrán presentar otra durante el mismo período de sesiones",
+        "solo podrán presentar otra más durante el mismo período de sesiones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-63",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución de:",
+      "options": [
+        "el congreso",
+        "el senado",
+        "las cortes generales",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-64",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La propuesta de disolución de las Cámaras no podrá presentarse:",
+      "options": [
+        "cuando esté en trámite una moción de censura",
+        "cuando esté reunida la diputación permanente",
+        "en el primer período de sesiones",
+        "sin el visto bueno del rey"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-65",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Salvo lo dispuesto en el artículo 99, apartado 5, no procederá nueva disolución de las Cámaras antes de que:",
+      "options": [
+        "finalice el primer período de sesiones",
+        "transcurra un año desde la anterior",
+        "se celebre el primer pleno",
+        "transcurra el primer año de cada legislatura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-66",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El estado de alarma será declarado por:",
+      "options": [
+        "el gobierno mediante decreto acordado en consejo de ministros, previa autorización del Congreso de los Diputados",
+        "el gobierno mediante decreto acordado en consejo de ministros, dando cuenta al Congreso de los Diputados",
+        "la mayoría absoluta del congreso de los diputados, a propuesta exclusiva del gobierno",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-67",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El estado de alarma será declarado por:",
+      "options": [
+        "un plazo mínimo de 15 días",
+        "un plazo máximo de 10 días",
+        "un plazo máximo de 15 días",
+        "un plazo mínimo de 10 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-68",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El estado de excepción será declarado por:",
+      "options": [
+        "el gobierno mediante decreto acordado en consejo de ministros, previa autorización del Congreso de los Diputados",
+        "el gobierno mediante decreto acordado en consejo de ministros, dando cuenta al Congreso de los Diputados",
+        "la mayoría absoluta del congreso de los diputados, a propuesta exclusiva del gobierno",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-69",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de:",
+      "options": [
+        "30 días, no prorrogables",
+        "20 días, prorrogables por otro plazo igual",
+        "20 días, no prorrogables",
+        "30 días, prorrogables por otro plazo igual"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-70",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El estado de sitio será declarado por:",
+      "options": [
+        "el gobierno mediante decreto acordado en consejo de ministros, previa autorización del Congreso de los Diputados",
+        "el gobierno mediante decreto acordado en consejo de ministros, dando cuenta al Congreso de los Diputados",
+        "la mayoría absoluta del congreso de los diputados, a propuesta exclusiva del gobierno",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-71",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Respecto al estado de sitio:",
+      "options": [
+        "su ámbito territorial será siempre nacional y su duración de un máximo de 30 días",
+        "el gobierno determinará su ámbito territorial, duración y condiciones",
+        "su ámbito territorial será nacional o local y su duración de un mínimo de 30 días",
+        "el congreso determinará su ámbito territorial, duración y condiciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-72",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "Mientras esté declarado el estado de alarma, excepción o sitio:",
+      "options": [
+        "no podrá procederse a la disolución del congreso",
+        "no podrá procederse a la disolución del senado",
+        "no podrá procederse a la disolución del congreso o del senado",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-73",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3 (II)",
+      "question": "El Título V se llama:",
+      "options": [
+        "del poder judicial",
+        "del gobierno y de la administración",
+        "de las relaciones entre el gobierno y las cortes generales",
+        "de la organización territorial del estado TEMA 2. Test 3 (II) SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-74",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "¿Puede presidir el Rey el Consejo de Ministros?",
+      "options": [
+        "sí, cuando lo estime oportuno sin más requisitos.",
+        "sí, previa petición del presidente del gobierno.",
+        "no, en ningún caso.",
+        "sólo en casos excepcionales en el caso de declaración del estado de excepción."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-75",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "Es función del Rey:",
+      "options": [
+        "todas las otras respuestas son funciones del rey.",
+        "sancionar y promulgar leyes.",
+        "convocar el consejo de ministros.",
+        "elegir al fiscal general del estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-76",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones:",
+      "options": [
+        "el príncipe heredero prestará juramento al ser proclamado como rey ante las cortes Generales.",
+        "el regente o los regentes añadirán al juramento que debe prestar el rey, el de fidelidad al Rey.",
+        "no deberán prestar juramento alguno.",
+        "prestarán el mismo juramento que el rey al ser proclamado ante las cortes generales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-77",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "De los actos del Rey:",
+      "options": [
+        "será responsable el propio rey.",
+        "será responsable la persona que los refrende.",
+        "será responsable siempre el presidente del gobierno.",
+        "no será nadie responsable."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-78",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "Si se extinguen todas las líneas llamadas a la sucesión a la Corona:",
+      "options": [
+        "todas las otras respuestas son correctas.",
+        "actuarán los nombrados por el rey difunto.",
+        "ejercerán sus funciones los regentes.",
+        "las cortes deberán proveer lo más conveniente a los intereses de españa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-79",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "Según la Constitución, las abdicaciones y renuncias a la Corona, ¿cómo se resolverán?",
+      "options": [
+        "mediante una ley orgánica.",
+        "mediante una ley ordinaria, si plantean dudas de hecho o derecho.",
+        "por las cortes generales en sesión conjunta de ambas cámaras.",
+        "mediante el mecanismo previsto en la constitución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-80",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "¿Cuál de los siguientes cargos no es nombrado por el Rey?",
+      "options": [
+        "defensor del pueblo.",
+        "presidente del gobierno.",
+        "miembros del tribunal constitucional.",
+        "ministro de justicia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-81",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "¿Ante quien se proclama al Rey?",
+      "options": [
+        "ante el senado.",
+        "ante las cortes generales.",
+        "ante el congreso de los diputados.",
+        "ante el gobierno."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-82",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "¿Quién ostenta la más alta representación del estado español?",
+      "options": [
+        "el ministro de asuntos exteriores.",
+        "el rey.",
+        "los embajadores españoles en los distintos estados.",
+        "el presidente del gobierno, como jefe máximo de la diplomacia española."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-83",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "El Rey, según la Constitución, es el Jefe del/de la:",
+      "options": [
+        "gobierno.",
+        "estado.",
+        "administración.",
+        "nación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-84",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "¿Qué efecto tiene el refrendo?",
+      "options": [
+        "traslada la responsabilidad del acto del rey al gobierno.",
+        "implanta la responsabilidad en el rey.",
+        "traslada la responsabilidad a las cortes generales.",
+        "confiere validez al acto refrendado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-85",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "La sucesión al Trono seguirá el orden:",
+      "options": [
+        "de preferencia por las líneas posteriores.",
+        "preferencia por el grado más remoto.",
+        "regular de primogenitura y representación.",
+        "preferencia por la mujer sobre el varón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-86",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "Será tutor del Rey menor:",
+      "options": [
+        "si no hubiere disposición testamentaria, el tutor será el padre o la madre, aunque contraigan segundas nupcias.",
+        "en su defecto, será nombrado por las cortes generales, pudiendo acumularse sin excepción tal cargo con el de Regente.",
+        "en cualquier caso, la persona que en su testamento hubiere nombrado el rey difunto.",
+        "la acumulación de los cargos o títulos de tutor del rey menor de edad y de regente sólo podrán coincidir en el padre, la madre o ascendientes directos del Rey."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-87",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "El Rey recibe una cantidad global de los Presupuestos del Estado:",
+      "options": [
+        "para la satisfacción de los gastos inherentes a sus labores representativas del estado en el extranjero.",
+        "la cual es distribuida por él libremente conforme a las partidas o conceptos de gastos determinados legalmente.",
+        "la cual es distribuida por él, con la supervisión anual del tribunal de cuentas.",
+        "para el sostenimiento de su familia y casa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-88",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "Podrán ser tutores del Rey:",
+      "options": [
+        "el padre, madre o abuelos maternos.",
+        "el padre o la madre, mientras permanezcan viudos.",
+        "cualquiera que sea mayor de edad y español.",
+        "el padre, aunque más adelante contraiga matrimonio."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-89",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 3",
+      "question": "El Rey asume la más alta representación del Estado en las relaciones internacionales, pero la Constitución matiza será especialmente con:",
+      "options": [
+        "con los países iberoamericanos.",
+        "con los países integrantes de la unión europea.",
+        "con los países de su entorno cultural y geográfico.",
+        "con los países de su comunidad histórica. TEMA 2. Test 3 SOLUCIONES"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-90",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Corresponde aprobar los Presupuestos del Estado a:",
+      "options": [
+        "el rey",
+        "las cortes generales",
+        "el congreso de los diputados",
+        "el presidente del gobierno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-91",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Señala la correcta:",
+      "options": [
+        "nadie podrá ser miembro de las dos cámaras simultáneamente",
+        "es compatible el acta de una asamblea de comunidad autónoma con la de diputado al Congreso",
+        "los miembros de las cortes generales estarán ligados por mandato imperativo",
+        "las reuniones de parlamentarios que se celebren sin convocatoria reglamentaria vincularán a las Cámaras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-92",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "La Constitución Española indica en su artículo 68 que el Congreso se compone de:",
+      "options": [
+        "350 diputados",
+        "300 diputados",
+        "un mínimo de 200 y un máximo de 300 diputados",
+        "un mínimo de 300 y un máximo de 400 diputados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-93",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por:",
+      "options": [
+        "un diputado",
+        "dos diputados",
+        "tres diputados",
+        "cuatro diputados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-94",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Señala la correcta:",
+      "options": [
+        "la circunscripción electoral es la comarca",
+        "los diputados son elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que se establezca reglamentariamente",
+        "la ley distribuirá el número total de diputados, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a su superficie",
+        "la elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-95",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "El mandato de los Diputados termina:",
+      "options": [
+        "cuatro años después de su elección o el día de la celebración de las elecciones",
+        "cuatro años después de su nombramiento o el día de la disolución de la cámara",
+        "cuatro años después de su elección o el día de la disolución de la cámara",
+        "cuatro años después de su nombramiento o el día de la celebración de las elecciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-96",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las elecciones:",
+      "options": [
+        "tendrán lugar entre los 25 días y 50 días desde la terminación del mandato",
+        "tendrán lugar entre los 30 días y 60 días desde la terminación del mandato",
+        "tendrán lugar entre los 30 días y 90 días desde la terminación del mandato",
+        "tendrán lugar entre los 20 días y 40 días desde la terminación del mandato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-97",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "El Congreso electo deberá ser convocado dentro de:",
+      "options": [
+        "los 10 días siguientes a la celebración de las elecciones",
+        "los 20 días siguientes a la celebración de las elecciones",
+        "los 25 días siguientes a la celebración de las elecciones",
+        "los 30 días siguientes a la celebración de las elecciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-98",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Señala la respuesta correcta:",
+      "options": [
+        "el congreso es la cámara de representación territorial",
+        "en cada provincia se elegirán dos senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas",
+        "las poblaciones de ceuta y melilla elegirán cada una de ellas un senador",
+        "a tenerife le corresponde elegir tres senadores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-99",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las Comunidades Autónomas designarán además:",
+      "options": [
+        "un senador y otro más por cada medio millón de habitantes de su respectivo territorio",
+        "dos senadores y otro más por cada millón de habitantes de su respectivo territorio",
+        "un senador y otro más por cada millón de habitantes de su respectivo territorio",
+        "dos senador y otro más por cada medio millón de habitantes de su respectivo territorio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-100",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Los Diputados y Senadores gozarán de inviolabilidad por:",
+      "options": [
+        "las opiniones manifestadas en el ejercicio de sus funciones",
+        "sus actos en el ejercicio de sus funciones",
+        "las opiniones manifestadas y sus actos en el ejercicio de sus funciones",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-101",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Los Diputados y Senadores:",
+      "options": [
+        "no podrán ser inculpados ni procesados sin la previa comunicación a la cámara respectiva",
+        "no podrán ser inculpados ni procesados sin la previa autorización de la cámara respectiva",
+        "podrán ser inculpados y procesados cuando corresponda sin autorización de la cámara respectiva",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-102",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Señala la correcta:",
+      "options": [
+        "las cortes generales podrán delegar en el gobierno la potestad de dictar normas con rango no de ley sobre determinadas materias",
+        "la delegación legislativa deberá otorgarse mediante una ley ordinaria cuando su objeto sea la formación de textos articulados",
+        "la delegación legislativa deberá otorgarse por una ley de bases cuando se trate de refundir varios textos legales en uno solo",
+        "la delegación legislativa habrá de otorgarse al gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-103",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las leyes de bases:",
+      "options": [
+        "podrán autorizar la modificación de la propia ley de bases",
+        "podrán facultar para dictar normas con carácter retroactivo",
+        "podrán ser delegadas en las comisiones legislativas permanentes",
+        "delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-104",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Podrá nombrar Comisiones de investigación sobre cualquier asunto de interés público:",
+      "options": [
+        "el congreso",
+        "el senado",
+        "ambas cámaras conjuntamente",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-105",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Señala la correcta:",
+      "options": [
+        "cuando un proyecto de ley o una enmienda fuere contrario a una delegación legislativa en vigor, el Congreso está facultado para oponerse a su tramitación",
+        "cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "cuando un proyecto de ley o una enmienda fuere contrario a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación",
+        "cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Congreso está facultado para oponerse a su tramitación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-106",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+      "options": [
+        "leyes de bases",
+        "leyes marco",
+        "decretos legislativos",
+        "decretos-leyes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-107",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Los Decretos-leyes no podrán afectar a:",
+      "options": [
+        "el ordenamiento de las instituciones básicas del estado y el régimen de las comunidades Autónomas",
+        "el derecho electoral general",
+        "los derechos, deberes y libertades de los ciudadanos regulados en el título i",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-108",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de:",
+      "options": [
+        "los 10 días siguientes a su promulgación",
+        "los 15 días siguientes a su promulgación",
+        "los 20 días siguientes a su promulgación",
+        "los 30 días siguientes a su promulgación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-109",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 4",
+      "question": "Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones:",
+      "options": [
+        "el primero, de septiembre a diciembre, y el segundo, de febrero a junio",
+        "el primero, de febrero a junio, y el segundo, de septiembre a diciembre",
+        "el primero, de octubre a diciembre, y el segundo, de enero a junio",
+        "el primero, de enero a junio, y el segundo, de octubre a diciembre TEMA 2. Test 4 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-110",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Señala la correcta:",
+      "options": [
+        "las cámaras funcionarán en pleno y por comisiones",
+        "las cámaras podrán delegar en las comisiones legislativas permanentes la aprobación de proyectos o proposiciones de ley",
+        "el pleno podrá, no obstante, recabar en cualquier momento el debate y votación de cualquier proyecto o proposición de ley que haya sido objeto de esta delegación.",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-111",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "El Congreso y el Senado, y, en su caso, ambas Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto de interés público. Sus conclusiones:",
+      "options": [
+        "serán vinculantes para los tribunales, y afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas",
+        "serán vinculantes para los tribunales, pero no afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para su conocimiento",
+        "no serán vinculantes para los tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas",
+        "no serán vinculantes para los tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para su conocimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-112",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Será obligatorio comparecer a requerimiento de las Cámaras:",
+      "options": [
+        "la ley regulará las sanciones que puedan imponerse por incumplimiento de esta obligación",
+        "el presidente de cada cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación",
+        "el reglamento de cada cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación",
+        "mediante real decreto se establecerán las sanciones que puedan imponerse por incumplimiento de esta obligación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-113",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición de (señala la incorrecta):",
+      "options": [
+        "el gobierno",
+        "la diputación permanente",
+        "la mayoría absoluta de los miembros de cualquiera de las cámaras",
+        "el rey"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-114",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "En las causas contra Diputados y Senadores será competente:",
+      "options": [
+        "la audiencia nacional",
+        "el tribunal superior de justicia",
+        "la sala de lo penal del tribunal supremo",
+        "el tribunal constitucional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-115",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Los Reglamentos de cada cámara y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá:",
+      "options": [
+        "mayoría simple",
+        "mayoría absoluta",
+        "el voto favorable de dos terceras partes",
+        "el voto favorable de tres quintas partes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-116",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Las Cámaras:",
+      "options": [
+        "pueden recibir peticiones colectivas, por escrito o mediante la presentación directa por manifestaciones ciudadanas",
+        "pueden recibir peticiones colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas",
+        "pueden recibir peticiones individuales y colectivas, por escrito o mediante la presentación directa por manifestaciones ciudadanas",
+        "pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-117",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Señala la correcta:",
+      "options": [
+        "en cada cámara habrá una diputación permanente",
+        "en el congreso de los diputados habrá una diputación permanente",
+        "en las cortes generales habrá una diputación permanente conjunta para las dos cámaras",
+        "en cada cámara habrá opcionalmente una diputación permanente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-118",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "La Diputación Permanente estará compuesta por:",
+      "options": [
+        "21 miembros",
+        "un mínimo de 21 miembros",
+        "un máximo de 21 miembros",
+        "ninguna es correcta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-119",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Los miembros de la Diputación Permanente:",
+      "options": [
+        "representarán a los grupos parlamentarios, en proporción a su importancia numérica",
+        "presentarán sus trabajos a la mesa de la cámara",
+        "forman parte de las comisiones legislativas permanentes",
+        "deberán reunirse trimestralmente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-120",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Para adoptar acuerdos las Cámaras deben estar reunidas reglamentariamente y con asistencia de:",
+      "options": [
+        "la mayoría de sus miembros",
+        "dos terceras partes de sus miembros",
+        "tres quintas partes de sus miembros",
+        "la totalidad de sus miembros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-121",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Para que los acuerdos de las Cámaras sean válidos, sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas y las que para elección de personas establezcan los Reglamentos de las Cámaras, deberán ser aprobados por:",
+      "options": [
+        "dos terceras partes de los miembros presentes",
+        "dos terceras partes de los miembros de cada cámara",
+        "la mayoría de los miembros presentes",
+        "la mayoría de los miembros de cada cámara"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-122",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Las sesiones plenarias de las Cámaras serán:",
+      "options": [
+        "privadas, salvo acuerdo en contrario de cada cámara, adoptado por mayoría simple o con arreglo al Reglamento",
+        "públicas, salvo acuerdo en contrario de cada cámara, adoptado por mayoría absoluta o con arreglo al Reglamento",
+        "privadas, salvo acuerdo en contrario de cada cámara, adoptado por mayoría absoluta o con arreglo al Reglamento",
+        "públicas, salvo acuerdo en contrario de cada cámara, adoptado por mayoría simple o con arreglo al Reglamento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-123",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Son leyes orgánicas las relativas a (señala la incorrecta):",
+      "options": [
+        "el desarrollo de los derechos fundamentales y de las libertades públicas",
+        "las que aprueben los estatutos de autonomía",
+        "las que aprueben el régimen electoral general",
+        "las que refundan varios textos legales en uno solo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-124",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "La aprobación, modificación o derogación de las leyes orgánicas exigirá, en una votación final sobre el conjunto del proyecto:",
+      "options": [
+        "mayoría absoluta del congreso",
+        "mayoría absoluta de cada cámara",
+        "mayoría simple del senado y mayoría absoluta del congreso",
+        "dos terceras partes de cada cámara"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-125",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "La delegación legislativa:",
+      "options": [
+        "no podrá entenderse concedida de modo implícito o por tiempo indeterminado",
+        "podrá entenderse concedida de modo implícito, pero no por tiempo indeterminado",
+        "no podrá entenderse concedida de modo implícito, pero sí por tiempo indeterminado",
+        "podrá entenderse concedida de modo implícito o por tiempo indeterminado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-126",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
+      "options": [
+        "leyes de bases",
+        "leyes marco",
+        "decretos legislativos",
+        "decretos-leyes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-127",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "La iniciativa legislativa corresponde a (señala la incorrecta):",
+      "options": [
+        "el presidente del gobierno",
+        "el congreso",
+        "el consejo de ministros",
+        "el senado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-128",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Las Asambleas de las Comunidades Autónomas podrán:",
+      "options": [
+        "solicitar del gobierno la adopción de un proyecto de ley o remitir a la mesa del congreso una proposición de ley",
+        "solicitar del gobierno la adopción de una proposición de ley o remitir a la mesa del Congreso un proyecto de ley",
+        "solicitar del congreso la adopción de una proposición de ley o remitir a la mesa del Congreso un proyecto de ley",
+        "solicitar del congreso la adopción de un proyecto de ley o remitir a la mesa del congreso una proposición de ley"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-129",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 5",
+      "question": "Para la iniciativa popular se exigirá:",
+      "options": [
+        "no menos de 100.000 firmas acreditadas",
+        "no menos de 250.000 firmas acreditadas",
+        "no menos de 500.000 firmas acreditadas",
+        "no menos de 1.000.000 firmas acreditadas TEMA 2. Test 5 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-130",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El Senado puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al proyecto de ley:",
+      "options": [
+        "en el plazo de un mes a partir del día de la recepción del texto",
+        "en el plazo de dos meses a partir del día de la recepción del texto",
+        "en el plazo de 20 días a partir del día de la recepción del texto",
+        "en el plazo de 10 días a partir del día de la recepción del texto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-131",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El veto del Senado al texto del proyecto de ley, deberá ser aprobado por:",
+      "options": [
+        "mayoría simple",
+        "dos terceras partes",
+        "mayoría absoluta",
+        "tres quintas partes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-132",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara:",
+      "options": [
+        "un miembro de la asamblea encargados de su defensa",
+        "dos miembros de la asamblea encargados de su defensa",
+        "un máximo de tres miembros de la asamblea encargados de su defensa",
+        "un máximo de cinco miembros de la asamblea encargados de su defensa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-133",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto de ley en los proyectos declarados urgentes se reducirá a:",
+      "options": [
+        "20 días naturales",
+        "10 días hábiles",
+        "20 días hábiles",
+        "10 días hábiles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-134",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "Los proyectos de ley podrán ser declarados urgentes por:",
+      "options": [
+        "el gobierno",
+        "el congreso",
+        "el senado",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-135",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El Rey sancionará las leyes aprobadas por las Cortes Generales en el plazo de:",
+      "options": [
+        "10 días",
+        "15 días",
+        "20 días",
+        "30 días"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-136",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "Corresponde promulgar y ordenar la inmediata publicación de las leyes aprobadas por las Cortes Generales a:",
+      "options": [
+        "el gobierno",
+        "el consejo de ministros",
+        "el rey",
+        "el presidente del gobierno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-137",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El referéndum será convocado por:",
+      "options": [
+        "el presidente del gobierno, mediante propuesta del rey, previamente autorizada por el Congreso de los Diputados",
+        "el rey, mediante propuesta del presidente del gobierno, previamente autorizada por el Congreso de los Diputados",
+        "el rey, mediante propuesta del congreso de los diputados, previamente autorizada por el Presidente del Gobierno",
+        "el presidente del gobierno, mediante propuesta del congreso de los diputados, previamente autorizada por el Rey"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-138",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "No es correcto:",
+      "options": [
+        "las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos.",
+        "una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución",
+        "mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución",
+        "corresponde únicamente al gobierno la garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos internacionales o supranacionales titulares de la cesión."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-139",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "Respecto a los tratados internacionales:",
+      "options": [
+        "la celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución no exigirá la previa revisión constitucional",
+        "el gobierno o cualquiera de las cámaras puede requerir al tribunal constitucional para que declare si existe o no contradicción entre el Tratado y la Constitución",
+        "los tratados internacionales válidamente celebrados pasarán a formar parte del ordenamiento interno inmediatamente",
+        "sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-140",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales, en los siguientes casos:",
+      "options": [
+        "tratados de carácter político",
+        "tratados o convenios de carácter militar",
+        "tratados o convenios que afecten a la integridad territorial del estado o a los derechos y deberes fundamentales establecidos en el Título I",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-141",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 6",
+      "question": "El Título III:",
+      "options": [
+        "tiene 1 capítulo",
+        "tiene 2 capítulos",
+        "tiene 3 capítulos",
+        "tiene 4 capítulos TEMA 2. Test 6 SOLUCIONES"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-142",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "La justicia emana del:",
+      "options": [
+        "rey",
+        "poder judicial",
+        "gobierno",
+        "pueblo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-143",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "La justicia se administra en nombre del:",
+      "options": [
+        "rey",
+        "poder judicial",
+        "gobierno",
+        "pueblo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-144",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los Jueces y Magistrados integrantes del poder judicial son:",
+      "options": [
+        "independientes, imparciales, inimputables y sometidos únicamente al imperio de la ley",
+        "específicos, inamovibles, irresponsables y sometidos únicamente al imperio de la ley",
+        "independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+        "independientes, inseparables, irresponsables y sometidos únicamente al imperio de la ley"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-145",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Salvo por alguna de las causas y con las garantías previstas en la ley, los Jueces y Magistrados no podrán ser:",
+      "options": [
+        "separados",
+        "suspendidos",
+        "trasladados o jubilados",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-146",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "La base de la organización y funcionamiento de los Tribunales es el principio de:",
+      "options": [
+        "unidad jurisdiccional",
+        "seguridad jurídica",
+        "legalidad",
+        "imparcialidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-147",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Se prohíben los Tribunales:",
+      "options": [
+        "consuetudinarios",
+        "civiles",
+        "militares",
+        "de excepción"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-148",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "La justicia será gratuita:",
+      "options": [
+        "en todos los casos",
+        "respecto de quienes acrediten insuficiencia de recursos para litigar",
+        "cuando así lo disponga la ley",
+        "b y c son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-149",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Señala la correcta:",
+      "options": [
+        "las actuaciones judiciales serán privadas, con las excepciones que prevean las leyes de procedimiento",
+        "el procedimiento será predominantemente oral, sobre todo en materia laboral",
+        "las sentencias serán siempre motivadas y se pronunciarán en audiencia pública",
+        "todas son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-150",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Darán derecho a una indemnización a cargo del Estado, conforme a la ley:",
+      "options": [
+        "los daños causados por error judicial",
+        "los daños que sean consecuencia del funcionamiento anormal de la administración de Justicia",
+        "los daños que sean consecuencia del funcionamiento normal de la administración de Justicia",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-151",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El órgano de gobierno del poder judicial es:",
+      "options": [
+        "el consejo de estado",
+        "el consejo de ministros",
+        "el consejo general del poder judicial",
+        "el ministerio fiscal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-152",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El Consejo General del Poder Judicial estará integrado por:",
+      "options": [
+        "el presidente del tribunal supremo, que lo presidirá, y por 12 miembros nombrados por el Rey",
+        "el presidente del tribunal superior de justicia, que lo presidirá, y por 20 miembros nombrados por el Rey",
+        "el presidente del tribunal supremo, que lo presidirá, y por 20 miembros nombrados por el Rey",
+        "el presidente del tribunal superior de justicia, que lo presidirá, y por 12 miembros nombrados por el Rey"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-153",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los miembros del Consejo General del Poder Judicial lo serán por un período de:",
+      "options": [
+        "3 años",
+        "4 años",
+        "5 años",
+        "10 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-154",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Serán miembros del Consejo General del Poder Judicial:",
+      "options": [
+        "12 entre jueces y magistrados de todas las categorías judiciales y 8 entre abogados y otros juristas",
+        "8 entre jueces y magistrados de todas las categorías judiciales y 12 entre abogados y otros juristas",
+        "15 entre jueces y magistrados de todas las categorías judiciales y 5 entre abogados y otros juristas",
+        "5 entre jueces y magistrados de todas las categorías judiciales y 15 entre abogados y otros juristas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-155",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los miembros del Consejo General del Poder Judicial elegidos por el Congreso de los Diputados, y por el Senado lo serán por:",
+      "options": [
+        "mayoría simple",
+        "mayoría absoluta",
+        "mayoría de dos tercios de sus miembros",
+        "mayoría de tres quintos de sus miembros"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-156",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los miembros del Consejo General del Poder Judicial elegidos entre abogados y otros juristas serán de reconocida competencia y:",
+      "options": [
+        "con más de 5 años de ejercicio en su profesión",
+        "con más de 7 años de ejercicio en su profesión",
+        "con más de 10 años de ejercicio en su profesión",
+        "con más de 15 años de ejercicio en su profesión"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-157",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales:",
+      "options": [
+        "el tribunal superior de justicia",
+        "el consejo general del poder judicial",
+        "el tribunal supremo",
+        "la audiencia nacional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-158",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El Presidente del Tribunal Supremo será nombrado:",
+      "options": [
+        "a propuesta del gobierno, oído el consejo general del poder judicial",
+        "entre sus miembros por el rey, a propuesta del mismo tribunal en pleno",
+        "por el rey, a propuesta del consejo general del poder judicial, en la forma que determine la ley",
+        "por el rey, a propuesta del gobierno, oído el ministerio fiscal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-159",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social:",
+      "options": [
+        "el consejo de estado",
+        "el ministerio fiscal",
+        "el fiscal general del estado",
+        "el consejo general del poder judicial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-160",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de:",
+      "options": [
+        "unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad y parcialidad",
+        "unidad de actuación e independencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad",
+        "unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad",
+        "unidad de actuación e independencia jerárquica y con sujeción, en todo caso, a los de legalidad y parcialidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-161",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El Fiscal General del Estado será nombrado:",
+      "options": [
+        "a propuesta del gobierno, oído el tribunal supremo",
+        "por un periodo de 5 años",
+        "por el rey, a propuesta del consejo general del poder judicial, en la forma que determine la ley",
+        "por el rey, a propuesta del gobierno, oído el consejo general del poder judicial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-162",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los ciudadanos podrán participar en la Administración de Justicia mediante:",
+      "options": [
+        "la acción popular",
+        "la institución del jurado",
+        "los tribunales consuetudinarios y tradicionales",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-163",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Según la Constitución el Jurado popular se limita a los procesos:",
+      "options": [
+        "laborales",
+        "civiles",
+        "penales",
+        "civiles y penales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-164",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "La policía judicial en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente depende de (señala la incorrecta):",
+      "options": [
+        "los jueces",
+        "los tribunales",
+        "el consejo general del poder judicial",
+        "el ministerio fiscal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-165",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo:",
+      "options": [
+        "únicamente podrán desempeñar los cargos públicos establecidos en la ley de incompatibilidades, y no podrán pertenecer a partidos políticos o sindicatos",
+        "no podrán desempeñar otros cargos públicos, pero podrán pertenecer a partidos políticos, sindicatos o asociaciones",
+        "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos",
+        "no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos, sindicatos o asociaciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-166",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 7",
+      "question": "El Título VI se llama:",
+      "options": [
+        "del poder judicial",
+        "de las relaciones entre el gobierno y las cortes generales",
+        "economía y hacienda",
+        "de la organización territorial del estado TEMA 2. Test 7 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-167",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Según el artículo 68.5 de la Constitución Española, la ley reconocerá:",
+      "options": [
+        "el ejercicio del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.",
+        "el derecho del rey a ser informado de los asuntos de estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.",
+        "el derecho a la inviolabilidad de los diputados y senadores por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "la competencia del rey para convocar a referéndum en los casos previstos en la Constitución."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-168",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Las facultades de policía en el interior de la cámara del Senado?",
+      "options": [
+        "el presidente del senado.",
+        "el presidente del congreso de los diputados.",
+        "el presidente de la comisión disciplinaria del senado.",
+        "el ministro de defensa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-169",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "En cada Cámara, y compuesto por un mínimo de veintiún miembros, que representen a los grupos parlamentarios, en proporción a su importancia numérica, existirá un órgano que se denomina:",
+      "options": [
+        "una comisión legislativa permanente.",
+        "una diputación permanente.",
+        "una comisión mixta congreso-senado.",
+        "un consejo asesor."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-170",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Las Cámaras podrán delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley. Queda exceptuado de lo dispuesto anteriormente:",
+      "options": [
+        "la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases, las leyes tributarias y los Presupuestos Generales del Estado.",
+        "la reforma constitucional, las cuestiones internacionales, las leyes orgánicas, las leyes tributarias y los Presupuestos Generales del Estado.",
+        "las cuestiones internacionales consideradas excepcionales, los temas tributarios y toda materia que sea susceptible de recurso de inconstitucionalidad",
+        "la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-171",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "A quién le corresponde presidir una sesión conjunta de ambas cámaras legislativas?",
+      "options": [
+        "el presidente del congreso de los diputados.",
+        "el jefe del estado.",
+        "el presidente del senado.",
+        "el presidente del gobierno."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-172",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Habrá diputación permanente, según el título III de la Constitución Española:",
+      "options": [
+        "dos, una en cada cámara.",
+        "una, solo en el congreso.",
+        "tres, una por cada cámara y una conjunta.",
+        "una conjunta de las cortes generales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-173",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Las reuniones o sesiones de Congreso y Senado:",
+      "options": [
+        "pueden ser ordinarias, extraordinarias o en sesión conjunta",
+        "pueden ser únicamente de forma ordinaria anualmente y en dos periodos: septiembre- diciembre y febrero-junio",
+        "pueden ser ordinarias o extraordinarias",
+        "ninguna respuesta es correcta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-174",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Resultará elegido presidente del Senado el que obtenga:",
+      "options": [
+        "la mayoría absoluta de los miembros de la cámara.",
+        "más votos en una nueva votación, entre los que hayan obtenido las dos mayores votaciones en la anterior, y cuando en la primera, no lograra a la mayoría absoluta.",
+        "la mayoría cualificada de los miembros de la cámara.",
+        "las opciones a) y b) son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-175",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Los presupuestos del Congreso y el Senado serán aprobados en su caso por:",
+      "options": [
+        "el ministerio de justicia",
+        "las cámaras autónomamente",
+        "el consejo general del poder judicial",
+        "el presidente de cada una de las cámaras"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-176",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "De acuerdo con la Constitución española, en relación a las Comisiones de investigación (señale la respuesta falsa)",
+      "options": [
+        "sus conclusiones no afectarán a las resoluciones judiciales.",
+        "podrán tratar sobre cualquier asunto de interés público.",
+        "el resultado de la investigación llevado a cabo por éstas, puede ser comunicado al Ministerio Fiscal para el ejercicio de las acciones oportunas.",
+        "sus conclusiones podrán ser vinculantes para los tribunales."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-177",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Una de las opciones que se presenta es correcta:",
+      "options": [
+        "los parlamentarios pueden ser, simultáneamente, miembros de las dos cámaras.",
+        "los diputados pueden ser, simultáneamente, miembros de una asamablea de una Comunidad Autonóma.",
+        "los senadores pueden ser, simultáneamente, miembros de una asamblea de una Comunidad Autónoma.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-178",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "La moción de censura debe respaldarse por, al menos:",
+      "options": [
+        "la décima parte de los miembros de ambas cámaras.",
+        "la quinta parte de los miembros del congreso.",
+        "la décima parte de los miembros del congreso.",
+        "la quinta parte de los miembros de ambas cámaras."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-179",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "¿Cuál es el plazo que tiene el Gobierno para manifestar expresamente su disconformidad a la tramitación de una ley?",
+      "options": [
+        "10 días.",
+        "15 días.",
+        "30 días.",
+        "20 días."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-180",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Según la Constitución, las cámaras no habrán de estar reunidas, según el calendario de sesiones que se disponen para las mismas:",
+      "options": [
+        "en julio y en agosto.",
+        "en enero, en julio y en agosto.",
+        "en agosto.",
+        "en febrero y en agosto."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-181",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Señale cuál de las siguientes funciones no corresponde específicamente al Congreso de los Diputados:",
+      "options": [
+        "autorizar al gobierno para la declaración del estado de excepción.",
+        "autorizar al gobierno para la declaración del estado de alarma.",
+        "autorizar al gobierno para la prórroga del estado de alarma.",
+        "autorizar al gobierno para la prórroga del estado de excepción."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-182",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Según el artículo 78 de la Constitución Española, la Diputación Permanente de cada cámara la compone un mínimo de:",
+      "options": [
+        "23 miembros.",
+        "27 miembros.",
+        "21 miembros.",
+        "25 miembros."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-183",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Señale la respuesta correcta de acuerdo con la CE:",
+      "options": [
+        "la cuestión de confianza planteada por el presidente del gobierno ante las cortes Generales se entenderá otorgada cuando vote a favor de la misma la mayoría simple de cada Cámara.",
+        "el congreso de los diputados puede exigir la responsabilidad política del gobierno mediante la adopción por mayoría absoluta de la moción de censura.",
+        "el congreso de los diputados puede exigir la responsabilidad política del gobierno mediante la adopción por mayoría simple de la moción de censura.",
+        "la cuestión de confianza planteada por el presidente del gobierno ante el congreso de los Diputados se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta del Congreso."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-184",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "¿Cuál es el mínimo de firmas acreditadas que se exigirá en una iniciativa popular para presentar proposiciones de ley?",
+      "options": [
+        "400.000.",
+        "240.000.",
+        "500.000.",
+        "600.000."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-185",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Según el artículo 68.6 de la Constitución Española, las elecciones tendrán lugar:",
+      "options": [
+        "entre los 20 dias y 60 días desde la terminación del mandato. el congreso electo deberá ser convocado dentro de los 15 días siguientes a la celebración de las elecciones",
+        "entre los 30 días y 60 días desde la terminación del mandato. el congreso electo deberá ser convocado dentro de los 25 días siguientes a la celebración de las elecciones",
+        "entre los 15 días y 40 días desde la terminación del mandato. el congreso electo deberá ser convocado dentro de los 25 días siguientes a la celebración de las elecciones",
+        "entre los 30 días y 70 días desde la terminación del mandato. el congreso electo deberá ser convocado dentro de los 20 días siguientes a la celebración de las elecciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-186",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Los proyectos de ley declarados urgentes por el Gobierno o por el Congreso podrán ser vetados o enmendados por el Senado, según lo que se establece en la CE, en el plazo de:",
+      "options": [
+        "veinte días naturales.",
+        "quince días hábiles.",
+        "veinte días hábiles.",
+        "dos meses."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-187",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Como dispone el artículo 67 de la Constitución:",
+      "options": [
+        "los miembros de las cortes generales están ligados por mandato imperativo.",
+        "las reuniones de parlamentarios pueden celebrarse sin convocatoria reglamentaria pero no vinculan a las Cámaras.",
+        "nadie puede acumular el acta de senador con el acta de miembro de una asamblea de Comunidad Autónoma.",
+        "el congreso se compone de un mínimo de 250 y un máximo de 300 diputados."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-188",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Una vez que el Senado recibe el texto aprobado por el Congreso de un proyecto de ley orgánica, dispone de un plazo para vetar el mismo de:",
+      "options": [
+        "un mes en todo caso",
+        "un mes como norma general",
+        "dos meses en todo caso",
+        "dos meses como norma general"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-189",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "¿Cuál es el número mínimo de miembros que componen la Diputación Permanente de cada Cámara de las Cortes Generales?",
+      "options": [
+        "21 miembros.",
+        "25 miembros.",
+        "35 miembros.",
+        "31 miembros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-190",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Los miembros de las Diputaciones permanentes representan a:",
+      "options": [
+        "los diputados y senadores, según el caso",
+        "los partidos políticos con representación parlamentaria",
+        "los ciudadanos",
+        "los grupos parlamentarios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-191",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Según el artículo 70 de la Constitución española, son incompatibles con las funciones de parlamentario las siguientes actividades:",
+      "options": [
+        "magistrados, jueces y fiscales en activo.",
+        "militares profesionales y miembros de las fuerzas y cuerpos de seguridad y policía en activo.",
+        "miembros de las juntas electorales.",
+        "todas las respuestas anteriores son correctas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-192",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "De acuerdo con el artículo 96 de la CE, los tratados internacionales, válidamente celebrados, formarán parte de nuestro ordenamiento:",
+      "options": [
+        "cuando sean firmados por el ministro de asuntos exteriores.",
+        "cuando sean ratificados por el gobierno español.",
+        "cuando sean publicados en el boletín oficial del estado.",
+        "cuando sean autorizados por las cortes generales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-193",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "¿Qué número de Diputados es necesario para constituirse en Grupo Parlamentario, con carácter general?",
+      "options": [
+        "no inferior a 8.",
+        "no inferior a 10.",
+        "no inferior a 15.",
+        "no inferior a 5."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-194",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Como señala la LOREG, Ceuta y Melilla estarán representadas en el Congreso de los Diputados, cada una de ellas, por:",
+      "options": [
+        "un diputado.",
+        "tres diputados.",
+        "cuatro diputados.",
+        "dos diputados."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-195",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "De acuerdo con la Constitución Española, ¿quién elige a los Presidentes de las Cámaras?",
+      "options": [
+        "exclusivamente, el congreso de los diputados.",
+        "el gobierno.",
+        "las propias cámaras.",
+        "el rey."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-196",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Señale cual de los siguientes sujetos podrá ser elegido como Diputado o Senador:",
+      "options": [
+        "miembros del tribunal constitucional.",
+        "defensor del pueblo.",
+        "miembros del gobierno.",
+        "ninguna de las respuestas anteriores es correcta."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-197",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Son leyes orgánicas las relativas:",
+      "options": [
+        "desarrollo de los derechos y libertades",
+        "las relativas a las libertades públicas",
+        "los proyectos de estatutos de autonomía",
+        "todas las anteriores son correctas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-198",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "La delegación legislativa habrá de otorgarse, en su caso:",
+      "options": [
+        "mediante una ley ordinaria cuando su objeto sea la formación de textos articulados",
+        "mediante una ley de bases cuando se trate de refundir varios textos en uno solo",
+        "se otorga al gobierno de forma expresa, para materia concreta y con fijación del plazo para su ejercicio",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-199",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Se denominan decretos legislativos:",
+      "options": [
+        "las disposiciones del gobierno que contengan legislación delegada",
+        "las disposiciones de las cortes que delegan",
+        "las disposiciones administrativas del consejo de ministros",
+        "las leyes que delegan las cortes en gobierno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-200",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "Cuando un proyecto de ley ordinaria y orgánica sea aprobado por el Congreso de Diputados, el presidente dará cuenta inmediata del mismo al presidente del Senado, que lo someterá a deliberación de éste. El Senado, en caso de que el texto sea un proyecto declarado urgente por el Gobierno, o por el Congreso de Diputados, tendrá un plazo para su aprobación de:",
+      "options": [
+        "2 meses",
+        "30 días",
+        "20 días naturales",
+        "15 días naturales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-201",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 8",
+      "question": "El referéndum, como modo de consulta a los ciudadanos en decisiones políticas de especial trascendencia, podrá ser convocado....",
+      "options": [
+        "por el rey, mediante propuesta del presidente de gobierno, previa autorización del Congreso de Diputados",
+        "por el rey, mediante propuesta del consejo de ministros, y previa autorización del Congreso de Diputados",
+        "por el rey, mediante propuesta del presidente del gobierno, y previa autorización de las Cortes Generales",
+        "por el rey, mediante propuesta del consejo de ministros, y previa autorización de las Cortes Generales TEMA 2. Test 8 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-202",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "La justicia emana, según el artículo 117 de la Constitución Española:",
+      "options": [
+        "del pueblo español",
+        "de los jueces y magistrados",
+        "de la constitución",
+        "d)todas son correctas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-203",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El órgano de gobierno del Poder Judicial se establece en nuestro texto constitucional:",
+      "options": [
+        "consejo general del poder judicial",
+        "consejo de estado",
+        "consejo de ministros",
+        "consejo supremo judicial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-204",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Cuando referimos que las sentencias y demás resoluciones firmes de los Jueces y Tribunales habrán de ser cumplidas de modo obligatorio, hacemos referencia al principio de:",
+      "options": [
+        "unidad jurisdiccional",
+        "inviolabilidad",
+        "inmunidad",
+        "imperatividad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-205",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El órgano judicial superior en todos los órganos salvo en materia de garantías constitucionales es:",
+      "options": [
+        "tribunal superior de justicia",
+        "tribunal de cuentas del reino",
+        "tribunal supremo",
+        "consejo general del poder judicial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-206",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El Consejo General del Poder Judicial está compuesto por un total de .... Vocales",
+      "options": [
+        "21",
+        "20",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-207",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Los jueces y magistrados componen el poder judicial. Gozan, para el ejercicio de sus funciones, de los derechos de...",
+      "options": [
+        "inamovilidad",
+        "responsabilidad",
+        "independencia",
+        "todas son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-208",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El Fiscal General del Estado es nombrado, a tenor de lo que establece la Constitución, por:",
+      "options": [
+        "el rey, a propuesta del consejo general del poder judicial, oído el gobierno",
+        "el rey, a propuesta del gobierno, oído el consejo general del poder judicial",
+        "el consejo general del poder judicial, a propuesta del rey, oído el gobierno",
+        "el rey, a propuesta del tribunal supremo, y oído el gobierno de la nación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-209",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El presidente del Tribunal Supremo ostenta, además, la presidencia de:",
+      "options": [
+        "sala civil de la audiencia nacional",
+        "consejo general del poder judicial",
+        "sala de gobierno de la audiencia nacional",
+        "tribunal constitucional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-210",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Las sentencias del Poder Judicial, según la Constitución....",
+      "options": [
+        "serán siempre motivadas",
+        "serán siempre pronunciadas en audiencia pública",
+        "a y b son correctas",
+        "todas las respuestas son falsas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-211",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "La constitución, funcionamiento y gobierno de los juzgados y tribunales ....",
+      "options": [
+        "serán regulados por la constitución española y las cortes generales",
+        "serán regulados por ley orgánica del poder judicial",
+        "serán establecidos en las leyes de las comunidades autónomas cuando ejerzan esta competencia",
+        "todas las respuestas anteriores son falsas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-212",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a:",
+      "options": [
+        "juzgados y tribunales, determinados por las leyes",
+        "juzgados y magistrados que determina el gobierno",
+        "tribunales ordinarios y extraordiinarios que se determinan en la constitución y las leyes",
+        "juzgados y audiencias establecidos en la ley orgánica del poder judicial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-213",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El principio que sirve de base a la organización y funcionamiento de los tribunales, y así lo recoge la constitución como tal...",
+      "options": [
+        "imperatividad",
+        "unidad jurisdiccional",
+        "independencia judicial",
+        "exclusividad judicial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-214",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "La justicia, según el artículo 119 de la Constitución:",
+      "options": [
+        "será gratuita cuando así lo disponga la ley",
+        "será gratuita en todo caso respecto de quienes acrediten insuficiencia de medios para litigar",
+        "será siempre, y en todo caso, gratuita",
+        "a y b son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-215",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Una de estas afirmaciones es correcta, respecto de jueces y magistrados:",
+      "options": [
+        "no podrán ser separados, sino por las causas y con las garantías que establece la ley",
+        "no podrán ser suspendidos de su cargo sino por las causas y con las garantías que establece la ley",
+        "no podrán ser trasladados ni jubilados sino por alguna de las causas y con las garantías previstas en la ley",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-216",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "El presidente del Tribunal Supremo es nombrado ....",
+      "options": [
+        "por el rey, a propuesta del gobierno, oído el consejo general del poder judicial",
+        "por el gobierno, a propuesta del consejo general del poder judicial",
+        "por el rey, a propuesta del consejo general del poder judicial, en la forma que la ley determine",
+        "por el rey, a propuesta de los miembros de dicho alto tribunal, reunidos en pleno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-217",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Los ciudadanos, en relación a la justicia, y según la Constitución....",
+      "options": [
+        "podrán ejercer la acción popular",
+        "podrán participar en la administración de justicia mediante la institución del jurado",
+        "podrán participar en la administración de justicia, a través de tribunales consuetudinarios y tradicionales",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-218",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Los Jueces, Magistrados y Fiscales, mientras se hallen en activo....",
+      "options": [
+        "no podrán desempeñar otros cargos públicos",
+        "no podrán pertenecer a partidos políticos",
+        "no podrán pertenecer a sindicatos",
+        "todas las respuestas anteriores son correctas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-219",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Los miembros del Consejo General del Poder Judicial son nombrados para un período de:",
+      "options": [
+        "9 años, renovables por terceras partes",
+        "4 años",
+        "6 años",
+        "5 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-220",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "La elección de los miembros del Consejo General del Poder Judicial en el Congreso de los Diputados exigirá una mayoría de:",
+      "options": [
+        "absoluta",
+        "3/5",
+        "simple",
+        "2/3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consulta el material de estudio para más detalles."
+    },
+    {
+      "id": "t2-221",
+      "superblock": "Tema 2",
+      "subblock": "TEMA 2. Test 9",
+      "question": "Los principios de actuación del Ministerio Fiscal son, según el artículo 124 de la Constitución:",
+      "options": [
+        "unidad de actuación y dependencia jerárquica",
+        "unidad de actuación e independencia jerárquica",
+        "división de actuación y dependencia jerárquica",
+        "división de actuación e independencia jerárquica TEMA 2. Test 9 SOLUCIONES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consulta el material de estudio para más detalles."
+    }
+  ]
+}

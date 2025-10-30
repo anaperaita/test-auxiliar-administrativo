@@ -11,7 +11,7 @@ import './HamburgerMenu.css';
 export default function HamburgerMenu() {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
-  const { availableModules, selectedModule, setSelectedModule } = useQuiz();
+  const { availableModules, selectedModule, setSelectedModule, moduleLoading } = useQuiz();
 
   // Close menu when clicking outside
   useEffect(() => {
@@ -90,6 +90,7 @@ export default function HamburgerMenu() {
                 selectedModule === module.id ? 'active' : ''
               }`}
               onClick={() => handleModuleSelect(module.id)}
+              disabled={moduleLoading}
             >
               <span className="module-icon">📚</span>
               <span className="module-name">{module.name}</span>
@@ -99,6 +100,12 @@ export default function HamburgerMenu() {
             </button>
           ))}
         </div>
+        {moduleLoading && (
+          <div className="module-loading-indicator">
+            <div className="spinner-small"></div>
+            <span>Cargando módulo...</span>
+          </div>
+        )}
       </div>
     </div>
   );
