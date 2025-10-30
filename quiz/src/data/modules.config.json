@@ -1,9 +1,129 @@
 {
   "modules": [
     {
+      "id": "tema1",
+      "name": "Tema 1",
+      "file": "tema1.json"
+    },
+    {
+      "id": "tema2",
+      "name": "Tema 2",
+      "file": "tema2.json"
+    },
+    {
       "id": "tema3",
       "name": "Tema 3",
       "file": "tema3.json"
+    },
+    {
+      "id": "tema4",
+      "name": "Tema 4",
+      "file": "tema4.json"
+    },
+    {
+      "id": "tema5",
+      "name": "Tema 5",
+      "file": "tema5.json"
+    },
+    {
+      "id": "tema6",
+      "name": "Tema 6",
+      "file": "tema6.json"
+    },
+    {
+      "id": "tema7",
+      "name": "Tema 7",
+      "file": "tema7.json"
+    },
+    {
+      "id": "tema8",
+      "name": "Tema 8",
+      "file": "tema8.json"
+    },
+    {
+      "id": "tema9",
+      "name": "Tema 9",
+      "file": "tema9.json"
+    },
+    {
+      "id": "tema10",
+      "name": "Tema 10",
+      "file": "tema10.json"
+    },
+    {
+      "id": "tema11",
+      "name": "Tema 11",
+      "file": "tema11.json"
+    },
+    {
+      "id": "tema12",
+      "name": "Tema 12",
+      "file": "tema12.json"
+    },
+    {
+      "id": "tema13",
+      "name": "Tema 13",
+      "file": "tema13.json"
+    },
+    {
+      "id": "tema14",
+      "name": "Tema 14",
+      "file": "tema14.json"
+    },
+    {
+      "id": "tema15",
+      "name": "Tema 15",
+      "file": "tema15.json"
+    },
+    {
+      "id": "tema16",
+      "name": "Tema 16",
+      "file": "tema16.json"
+    },
+    {
+      "id": "tema17",
+      "name": "Tema 17",
+      "file": "tema17.json"
+    },
+    {
+      "id": "tema18",
+      "name": "Tema 18",
+      "file": "tema18.json"
+    },
+    {
+      "id": "tema19",
+      "name": "Tema 19",
+      "file": "tema19.json"
+    },
+    {
+      "id": "tema20",
+      "name": "Tema 20",
+      "file": "tema20.json"
+    },
+    {
+      "id": "tema21",
+      "name": "Tema 21",
+      "file": "tema21.json"
+    },
+    {
+      "id": "tema23",
+      "name": "Tema 23",
+      "file": "tema23.json"
+    },
+    {
+      "id": "tema24",
+      "name": "Tema 24",
+      "file": "tema24.json"
+    },
+    {
+      "id": "tema25",
+      "name": "Tema 25",
+      "file": "tema25.json"
+    },
+    {
+      "id": "tema26",
+      "name": "Tema 26",
+      "file": "tema26.json"
     }
   ]
 }
